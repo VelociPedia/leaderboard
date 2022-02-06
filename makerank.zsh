@@ -6,10 +6,17 @@
 # init script
 BASEDIR=$(dirname "$0")
 cd $BASEDIR
-mkdir -p "leaderboards/collection"
 
-leaderboards_dir="leaderboards/data"
+# DO NOT PUT FINAL "/" FOR FOLDERS         
+leaderboards_dir="data/leaderboards"
+leaderboards_md="md/leaderboards"
+pilots_dir="data/pilots"
+pilots_md="md/pilots"
 collections_dir="collections"
+
+mkdir -p "$pilots_dir"
+mkdir -p "$pilots_md"
+mkdir -p "$leaderboards_md"
 
 collection="$1"
 collection=$(sed -E 's@collections/@@' <<< $collection)
@@ -74,7 +81,7 @@ while read pilot ; do
     ((i++))
     
     pilot_data=$(while IFS=, read -r track_name scenery_name ; do
-        grep "^$track_name,$scenery_name" < "pilots/data/$pilot.csv"
+        grep "^$track_name,$scenery_name" < "$pilots_dir/$pilot.csv"
         done <<< $cleancollection)
     
     pilot_data=$(grep -v "NO_DATA$" <<< $pilot_data)
@@ -113,9 +120,9 @@ while IFS="," read -r pilot n sum ; do
 done <<< $list
 
 
-  outputfile="leaderboards/collection/$collection.md"
+  outputfile="$leaderboards_md/$collection.md"
   echo -e "### $collection RANKING" > "$outputfile"
-  echo -e "*$(wc -l <<< $cleancollection) tracks included from [$collections_dir/$collection.csv]($collections_dir/$collection.csv)*" >> "$outputfile"
+  echo -e "*$(wc -l <<< $cleancollection) tracks included from [$collections_dir/$collection.csv]($collections_dir/$(sed "s/ /%20/g" <<< $collection).csv)*" >> "$outputfile"
   echo -e "|RANK|PILOT|COMPLETED|TIME|DELTA|" >> "$outputfile"
   echo -e "|:---:|:---|:---:|:---|---:|" >> "$outputfile"
   echo "$newlist" | sed '/^[[:space:]]*$/d' >> "$outputfile"

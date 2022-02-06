@@ -6,14 +6,18 @@
 # init script
 BASEDIR=$(dirname "$0")
 cd $BASEDIR
-mkdir -p pilots/data
-
 
 pilot="$2"
 pilot=$(sed 's/[[:space:]]//g' <<< $pilot)
 
-leaderboards_dir="leaderboards/data"
+# DO NOT PUT FINAL "/" FOR FOLDERS
+leaderboards_dir="data/leaderboards"
+pilots_dir="data/pilots"
+pilots_md="md/pilots"
 collections_dir="collections"
+
+mkdir -p "$pilots_dir"
+mkdir -p "$pilots_md"
 
 collection="$1"
 collection=$(sed -E 's@collections/@@' <<< $collection)
@@ -88,41 +92,41 @@ while read pilot ; do
     y=0 ; z=0
     while IFS=, read -r track_name scenery_name ; do
         pilot_data=$(grep -e ",${pilot}," "$leaderboards_dir/$track_name - $scenery_name.csv")
-        touch "pilots/data/${pilot}.csv"
+        touch "$pilots_dir/${pilot}.csv"
         if [ ! -z "$pilot_data" ] ; then
             pilot_rank=$(grep -n ",${pilot}," "$leaderboards_dir/$track_name - $scenery_name.csv" | cut -d: -f1)
             #echo -e "+ RANK $pilot_rank\t$track_name ($scenery_name)"
-            d=$(sed "/^$track_name,$scenery_name,/d" < "pilots/data/${pilot}.csv")  # ---
-            echo -e "$d" > "pilots/data/${pilot}.csv"                               # Delete the previous record
-            echo -e "$track_name,$scenery_name,$pilot_rank,$pilot_data" >> "pilots/data/${pilot}.csv"
+            d=$(sed "/^$track_name,$scenery_name,/d" < "$pilots_dir/${pilot}.csv")  # ---
+            echo -e "$d" > "$pilots_dir/${pilot}.csv"                               # Delete the previous record
+            echo -e "$track_name,$scenery_name,$pilot_rank,$pilot_data" >> "$pilots_dir/${pilot}.csv"
             ((y++))
         else
             #echo -e "- NO DATA\t$track_name ($scenery_name)"
-            d=$(sed "/^$track_name,$scenery_name,/d" < "pilots/data/${pilot}.csv")  # ---
-            echo -e "$d" > "pilots/data/${pilot}.csv"                               # Delete the previous record
+            d=$(sed "/^$track_name,$scenery_name,/d" < "$pilots_dir/${pilot}.csv")  # ---
+            echo -e "$d" > "$pilots_dir/${pilot}.csv"                               # Delete the previous record
             #here it would be awesome to move it to some "archive.file", those are the end of leaderboard that is being kicking out if the data existed before
             #same for the other one, to keep record of past PB
-            echo -e "$track_name,$scenery_name,999,999.999,$pilot,NO_DATA" >> "pilots/data/${pilot}.csv"
+            echo -e "$track_name,$scenery_name,999,999.999,$pilot,NO_DATA" >> "$pilots_dir/${pilot}.csv"
             ((z++))
         fi
         done <<< $cleancollection
-    newpilotdata=$(sort -u < "pilots/data/${pilot}.csv")
+    newpilotdata=$(sort -u < "$pilots_dir/${pilot}.csv")
     echo -e "\t  --> $y tracks with data"
     echo -e "\t  --> $z tracks without data"
-    echo -e "$newpilotdata" > "pilots/data/${pilot}.csv"
+    echo -e "$newpilotdata" > "$pilots_dir/${pilot}.csv"
     
     
     if [ "$makecollectionpilots" = "1" ]   ; then
         echo -e "\t  --> Building CheatSheet for pilot"
-        mkdir -p "pilots/collection/"
+        mkdir -p "$pilots_md/"
         pilot_data=""
             while IFS=, read -r track_name scenery_name ; do
-                next_pilot_data=$(grep "$track_name,$scenery_name" "pilots/data/$pilot.csv")
+                next_pilot_data=$(grep "$track_name,$scenery_name" "$pilots_dir/$pilot.csv")
                 pilot_data=$(echo "$pilot_data\n$next_pilot_data")
                 done <<< $cleancollection
 
         pilot_data=$(sed '/^[[:space:]]*$/d' <<< $pilot_data)
-        outputfile="pilots/collection/$pilot-$collection.md"
+        outputfile="$pilots_md/$pilot-$collection.md"
         ntrack=$(sed '/NO_DATA$/d' <<< $pilot_data | wc -l)
         besttracks=$(($ntrack/6))
         worsetracks=$(($ntrack/4))
@@ -161,7 +165,7 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
         
-        a=$(grep "NO_DATA$" "pilots/data/$pilot.csv")
+        a=$(grep "NO_DATA$" "$pilots_dir/$pilot.csv")
         n=$(wc -l <<< $a)
         echo -e "---\n### $n tracks without data (200+ or not in leaderboard)" >> "$outputfile"
         echo -e "|TRACK|SCENE|" >> "$outputfile"
@@ -171,4 +175,3 @@ while read pilot ; do
             done <<< $a
         fi
     done <<< $pilots
-#pitot_pos pilot_time pilot_name pilot_country pilot_quad pilot_date
