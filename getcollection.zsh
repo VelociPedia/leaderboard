@@ -129,7 +129,7 @@ while read pilot ; do
         oldesttracks=$(($ntrack/6))
         
         a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -n --key="3" | head -n $besttracks)
-        echo -e "### Best $besttracks $1 TRACKS ranks" > "$outputfile"
+        echo -e "### Best $besttracks $collection TRACKS ranks" > "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
         while IFS=, read -r track scene rank time name country quad date ; do
@@ -137,7 +137,7 @@ while read pilot ; do
             done <<< $a
 
         a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -rn --key="3" | head -n $worsetracks)
-        echo -e "---\n### Worse $worsetracks $1 TRACKS ranks" >> "$outputfile"
+        echo -e "---\n### Worse $worsetracks $collection TRACKS ranks" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
         while IFS=, read -r track scene rank time name country quad date ; do
