@@ -29,4 +29,10 @@ What is usefull to know :
 
 ### Disclaimer
 
+I am not affilated to Velocidrone in any way, nor have I any right on its products.
+
+Data processed here are public, and its access serves an original processing.
+
+People are free to fork, use and modify the content of this repository, at the condition they are respectful of the licence.
+
 I *will not* distribute the script to gather data to prevent abuse to the velocidrone.com domain. That is why I totally consider that in my requests, and don't even trying to hide myself of that, and I am respecting a consequent delay between each request.
