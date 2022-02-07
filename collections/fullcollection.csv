@@ -1,3 +1,6 @@
+# [pilotleaderboard=0]
+# [seriesleaderboard=0]
+
 2019 Mission Foods Australian Drone Nationals,Empty Scene Day
 2019 Texas Champs,Empty Scene Day
 2020 Canadian MultiGP Series,Football Stadium
@@ -26,7 +29,7 @@ AZ - COVID 19 - Track 1,House
 AZ  - COVID 19 - TRACK 2,Sports Hall
 AZ - COVID 19 - TRACK 3,Sports Hall
 AZ - COVID 19 - TRACK 4,Sports Hall
-AZ - COVID 19 - TRACK 5 ,Sports Hall
+AZ - COVID 19 - TRACK 5,Sports Hall
 AZ - COVID 19 - TRACK 6,Sports Hall
 AZ - COVID 19 - TRACK 7,Sports Hall
 AZ - COVID 19 - TRACK 8,Sports Hall
@@ -66,9 +69,9 @@ Boners Atom 2,Empty Scene Night
 Boners Atom 3,Empty Scene Night
 Boners Atom,Empty Scene Night
 Boners Bando MGP 2,Dynamic Weather
-Boners Bando MGP ,Dynamic Weather
+Boners Bando MGP,Dynamic Weather
 Boners Bando Towers,Empty Scene Day
-Boners Bonsai FPV 4 Freestyle ,Dynamic Weather
+Boners Bonsai FPV 4 Freestyle,Dynamic Weather
 Boners Freestyle Bando,Empty Scene Day
 Boners Island 2,Dynamic Weather
 Boners Island 3,Dynamic Weather
@@ -189,7 +192,7 @@ Fast Worker,MiniWarehouse
 FireDrill,Large Carpark
 Fireflies_of_Deadwood,Dynamic Weather
 FMR Devils Ridge Back Flip,Empty Scene Day
-FMR DIATONE ROMA Sept Race 3 ,Football Stadium
+FMR DIATONE ROMA Sept Race 3,Football Stadium
 FMR Sky High,Empty Scene Day
 FPV Dutchman Confusion,Countryside
 FPV Dutchman Insanity,Football Stadium
@@ -298,7 +301,7 @@ level 09 above and below right and left turns dive gate and split S,Empty Scene 
 level 10 above and below right and left turns flags divegate and split S,Empty Scene Day
 level 11 ladders divegates and split S,Empty Scene Day
 level 12 ladders and corkscrews,Empty Scene Day
-level 13 ladders divegates and flags ,Empty Scene Day
+level 13 ladders divegates and flags,Empty Scene Day
 level 14 ladders divegates split S flags and corkscrews,Empty Scene Day
 level 15 Lets race,Empty Scene Day
 LibraryCircuit,Library
@@ -354,7 +357,7 @@ NBD Micro Series Race 7,Basketball Stadium
 NBD MICRO SERIES RACE 8,Bando
 NDB Micro Series Race 1,Bando
 NeoFPV 1,Large Carpark
-NeoFPV 2 ,Large Carpark
+NeoFPV 2,Large Carpark
 NeoFPV 3,Large Carpark
 NeoFPV 4,Large Carpark
 NeoFPV_Race_Series_1,Empty Scene Day
@@ -362,7 +365,7 @@ Neon Cage,Empty Scene Night
 Newbeedrone Championships,Industrial Wasteland
 NewBeeDrone Micro Series Race 1,Sports Hall
 Newbeedrone Micro Series Race 3,NEC Birmingham
-Newbeedrone Micro Series Race 4 ,Dynamic Weather
+Newbeedrone Micro Series Race 4,Dynamic Weather
 NewBeeDrone Whoop Series - Champions Track,Sports Hall
 NewBeeDrone Whoop Series Season 2 Tryouts,Bando
 NewBeeDrone Whoop Series- Track 4,Sports Hall
@@ -509,7 +512,7 @@ Ripping around the rocks,Dynamic Weather
 Ripping Full Throttle,Empty Scene Day
 RiverSlalom,River2
 Rock around the rocks,Empty Scene Day
-Rocky Maze ,Dynamic Weather
+Rocky Maze,Dynamic Weather
 RollerCoasterRace1,Empty Scene Day
 RotorCross13,Football Stadium
 Roundhouse,House
@@ -596,7 +599,7 @@ TBS EU Spec Series 4 Race 3,IndoorGoKart
 TBS EU Spec Series 4 Race 4,Empty Scene Day
 TBS EU Spec Series 4 Race 5,Dynamic Weather
 TBS EU Spec Series 4 Race 7,Football Stadium
-TBS EU Spec Series 5 FINAL ,Dynamic Weather
+TBS EU Spec Series 5 FINAL,Dynamic Weather
 TBS EU Spec Series 5 Losers Final,Dynamic Weather
 TBS EU Spec Series 5 Race 3,Dynamic Weather
 TBS EU Spec Series 5 Race 4,Football Stadium
@@ -611,7 +614,7 @@ TBS EU Spec Series 6 Race 4,NEC Birmingham
 TBS EU Spec Series 6 Race 5,Dynamic Weather
 TBS EU Spec Series 6 Race 6,Empty Scene Day
 TBS EU Spec Series 6 Race 7,Empty Scene Day
-TBS EU Spec Series 7 Final ,Empty Scene Day
+TBS EU Spec Series 7 Final,Empty Scene Day
 TBS EU Spec Series 7 Race 1,Football Stadium
 TBS EU Spec Series 7 Race 2,Empty Scene Day
 TBS EU Spec Series 7 Race 3,Empty Scene Day
@@ -628,7 +631,7 @@ TBS EU Spec Series 8 Race 4,Empty Scene Day
 TBS EU Spec Series 8 Race 5,Future Hangar Empty
 TBS EU Spec Series 8 Race 6,Football Stadium
 TBS EU Spec Series 8 Race 7,Empty Scene Day
-TBS EU Spec Series 9 Final ,Dynamic Weather
+TBS EU Spec Series 9 Final,Dynamic Weather
 TBS EU Spec Series 9 Losers Final,Dynamic Weather
 TBS EU Spec Series 9 Race 1,Football Stadium
 TBS EU Spec Series 9 Race 2,Dynamic Weather
@@ -701,13 +704,13 @@ TDL Races - Antalya Kent Square,Empty Scene Day
 TDL Races - Gamex 2019,NEC Birmingham
 TDL Races - Intercity Istanbul Park,Dynamic Weather
 TDM Water World,PolyWorld
- TDRF MRO race Nederweert 2021,Empty Scene Day
+TDRF MRO race Nederweert 2021,Empty Scene Day
 TeamBaylands Ostrich Air Champ 2018,Empty Scene Day
 Temple Ride,Dynamic Weather
 Texas Champs 2019 Qualifier,Empty Scene Day
 The Brainshock,Dynamic Weather
 The Bridge CTF,Empty PolyWorld
-THE CAPSULE ,Empty PolyWorld
+THE CAPSULE,Empty PolyWorld
 The Dojo,Empty PolyWorld
 the office track 1,Office Complex
 The Squat,Empty Scene Night
@@ -764,7 +767,7 @@ VOC S1 CHAMPIONSHIP FINAL,Football Stadium
 VOCS1 R10  Ruinous,Dynamic Weather
 VOC S1 race1,Dynamic Weather
 VOC S1 Race 1,Industrial Wasteland
-VOC S1 Rock Garden Remix ,Dynamic Weather
+VOC S1 Rock Garden Remix,Dynamic Weather
 VOC S1 Spring Race,Dynamic Weather
 VOC S2 Race 1,Empty Scene Day
 VOC S2 Remastered Race 3,Future Hangar Empty
