@@ -83,10 +83,10 @@
 |RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|
-|TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 4 Race 2|Empty Scene Day|
 |TBS EU Spec Series 4 Race 4|Empty Scene Day|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
+|TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 5 Race 4|Football Stadium|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
 |TBS EU Spec Series 5 Race 7|IndoorGoKart|

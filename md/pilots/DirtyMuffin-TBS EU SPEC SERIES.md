@@ -49,12 +49,6 @@
 ### 13 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|TBS EU Spec Series 10 Race 2|Empty Scene Day|
-|TBS EU Spec Series 10 Race 3|Night Factory 2|
-|TBS EU Spec Series 10 Race 4|Dynamic Weather|
-|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
-|TBS EU Spec Series 10 Race 6|Large Carpark|
-|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 6 Race 2|Empty Scene Day|
 |TBS EU Spec Series 6 Race 5|Dynamic Weather|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|
@@ -62,3 +56,9 @@
 |TBS EU Spec Series 9 Race 4|Football Stadium|
 |TBS EU Spec Series 9 Race 5|Empty Scene Day|
 |TBS EU Spec Series 9 Race 6|Empty Scene Day|
+|TBS EU Spec Series 10 Race 2|Empty Scene Day|
+|TBS EU Spec Series 10 Race 3|Night Factory 2|
+|TBS EU Spec Series 10 Race 4|Dynamic Weather|
+|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
+|TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|

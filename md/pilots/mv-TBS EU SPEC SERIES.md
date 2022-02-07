@@ -105,5 +105,5 @@
 ### 2 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
+|TBS EU Spec Series 10 Race 6|Large Carpark|

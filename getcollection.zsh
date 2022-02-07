@@ -110,7 +110,7 @@ while read pilot ; do
             ((z++))
         fi
         done <<< $cleancollection
-    newpilotdata=$(sort -u < "$pilots_dir/${pilot}.csv")
+    newpilotdata=$(sort -u < "$pilots_dir/${pilot}.csv" | sed '/^[[:space:]]*$/d')
     echo -e "\t  --> $y tracks with data"
     echo -e "\t  --> $z tracks without data"
     echo -e "$newpilotdata" > "$pilots_dir/${pilot}.csv"
@@ -165,7 +165,7 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
         
-        a=$(grep "NO_DATA$" "$pilots_dir/$pilot.csv")
+        a=$(grep "NO_DATA$" <<< $pilot_data)
         n=$(wc -l <<< $a)
         echo -e "---\n### $n tracks without data (200+ or not in leaderboard)" >> "$outputfile"
         echo -e "|TRACK|SCENE|" >> "$outputfile"

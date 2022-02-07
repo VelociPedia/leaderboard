@@ -78,7 +78,7 @@
 |75|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
 |154|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
 ---
-### 18 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -93,9 +93,8 @@
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
+|TBS EU Spec Series 5 Race 7|IndoorGoKart|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 10 Race 2|Empty Scene Day|
 |TBS EU Spec Series 10 Race 3|Night Factory 2|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
-|TBS EU Spec Series 5 FINAL |Dynamic Weather|
-|TBS EU Spec Series 5 FINAL|Dynamic Weather|
-|TBS EU Spec Series 5 Race 7|IndoorGoKart|

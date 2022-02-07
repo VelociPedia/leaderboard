@@ -60,6 +60,6 @@
 ### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 5 Race 6|Dynamic Weather|
+|TBS EU Spec Series 10 Race 7|Football Stadium|

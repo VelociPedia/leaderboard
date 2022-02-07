@@ -113,6 +113,6 @@
 |RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|
+|TBS EU Spec Series 4 FINAL|Dynamic Weather|
 |TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
-|TBS EU Spec Series 4 FINAL|Dynamic Weather|

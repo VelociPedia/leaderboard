@@ -50,33 +50,31 @@
 |24|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
 |45|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/07/15|
 ---
-### 27 tracks without data (200+ or not in leaderboard)
+### 25 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
+|TBS EU Spec Series 4 Race 3|IndoorGoKart|
+|TBS EU Spec Series 5 Race 3|Dynamic Weather|
+|TBS EU Spec Series 5 Race 6|Dynamic Weather|
+|TBS EU Spec Series 5 Losers Final|Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
+|TBS EU Spec Series 6 Race 1|Future Hangar Empty|
+|TBS EU Spec Series 6 Race 4|NEC Birmingham|
+|TBS EU Spec Series 7 Race 3|Empty Scene Day|
+|TBS EU Spec Series 7 Race 5|IndoorGoKart|
+|TBS EU Spec Series 7 Race 6|Future Hangar Empty|
+|TBS EU Spec Series 8 Race 2|Empty Scene Night|
+|TBS EU Spec Series 8 Race 3|Football Stadium|
+|TBS EU Spec Series 8 Race 5|Future Hangar Empty|
+|TBS EU Spec Series 8 Final|Dynamic Weather|
+|TBS EU Spec Series 9 Race 1|Football Stadium|
+|TBS EU Spec Series 9 Race 2|Dynamic Weather|
+|TBS EU Spec Series 9 Race 3|Empty Scene Day|
+|TBS EU Spec Series 9 Race 7|NEC Birmingham|
+|TBS EU Spec Series 9 Final|Dynamic Weather|
 |TBS EU Spec Series 10 Race 1|Football Stadium|
 |TBS EU Spec Series 10 Race 2|Empty Scene Day|
 |TBS EU Spec Series 10 Race 3|Night Factory 2|
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
-|TBS EU Spec Series 4 Race 3|IndoorGoKart|
-|TBS EU Spec Series 5 FINAL |Dynamic Weather|
-|TBS EU Spec Series 5 FINAL|Dynamic Weather|
-|TBS EU Spec Series 5 Losers Final|Dynamic Weather|
-|TBS EU Spec Series 5 Race 3|Dynamic Weather|
-|TBS EU Spec Series 5 Race 6|Dynamic Weather|
-|TBS EU Spec Series 6 Race 1|Future Hangar Empty|
-|TBS EU Spec Series 6 Race 4|NEC Birmingham|
-|TBS EU Spec Series 7 Race 3|Empty Scene Day|
-|TBS EU Spec Series 7 Race 5|IndoorGoKart|
-|TBS EU Spec Series 7 Race 6|Future Hangar Empty|
-|TBS EU Spec Series 8 Final|Dynamic Weather|
-|TBS EU Spec Series 8 Race 2|Empty Scene Night|
-|TBS EU Spec Series 8 Race 3|Football Stadium|
-|TBS EU Spec Series 8 Race 5|Future Hangar Empty|
-|TBS EU Spec Series 9 Final |Dynamic Weather|
-|TBS EU Spec Series 9 Final|Dynamic Weather|
-|TBS EU Spec Series 9 Race 1|Football Stadium|
-|TBS EU Spec Series 9 Race 2|Dynamic Weather|
-|TBS EU Spec Series 9 Race 3|Empty Scene Day|
-|TBS EU Spec Series 9 Race 7|NEC Birmingham|

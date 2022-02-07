@@ -107,15 +107,14 @@
 |105|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |65|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/03|
 ---
-### 9 tracks without data (200+ or not in leaderboard)
+### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|
 |RCTech_de EU Spec Series 3 Final|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|
-|TBS EU Spec Series 10 Race 6|Large Carpark|
-|TBS EU Spec Series 10 Race 7|Football Stadium|
-|TBS EU Spec Series 5 FINAL |Dynamic Weather|
 |TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|
+|TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|

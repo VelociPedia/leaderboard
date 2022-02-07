@@ -52,8 +52,6 @@
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
-|TBS EU Spec Series 10 Race 3|Night Factory 2|
-|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
 |TBS EU Spec Series 6 Race 1|Future Hangar Empty|
@@ -69,3 +67,5 @@
 |TBS EU Spec Series 8 Race 5|Future Hangar Empty|
 |TBS EU Spec Series 8 Race 7|Empty Scene Day|
 |TBS EU Spec Series 9 Race 7|NEC Birmingham|
+|TBS EU Spec Series 10 Race 3|Night Factory 2|
+|TBS EU Spec Series 10 Race 7|Football Stadium|

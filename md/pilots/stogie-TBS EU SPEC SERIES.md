@@ -36,7 +36,7 @@
 |199|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2020/08/09|
 |165|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/31|
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 30 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -48,25 +48,24 @@
 |RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|
-|TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 4 Race 2|Empty Scene Day|
 |TBS EU Spec Series 4 Race 4|Empty Scene Day|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
+|TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 5 Race 7|IndoorGoKart|
-|TBS EU Spec Series 6 Final|Empty Scene Day|
-|TBS EU Spec Series 6 Losers Final|Football Stadium|
 |TBS EU Spec Series 6 Race 1|Future Hangar Empty|
 |TBS EU Spec Series 6 Race 2|Empty Scene Day|
 |TBS EU Spec Series 6 Race 5|Dynamic Weather|
 |TBS EU Spec Series 6 Race 6|Empty Scene Day|
 |TBS EU Spec Series 6 Race 7|Empty Scene Day|
-|TBS EU Spec Series 7 Final |Empty Scene Day|
-|TBS EU Spec Series 7 Final|Empty Scene Day|
+|TBS EU Spec Series 6 Losers Final|Football Stadium|
+|TBS EU Spec Series 6 Final|Empty Scene Day|
 |TBS EU Spec Series 7 Race 1|Football Stadium|
 |TBS EU Spec Series 7 Race 2|Empty Scene Day|
 |TBS EU Spec Series 7 Race 3|Empty Scene Day|
 |TBS EU Spec Series 7 Race 4|Empty Scene Day|
 |TBS EU Spec Series 7 Race 6|Future Hangar Empty|
+|TBS EU Spec Series 7 Final|Empty Scene Day|
 |TBS EU Spec Series 8 Race 1|Dynamic Weather|
 |TBS EU Spec Series 8 Race 3|Football Stadium|
 |TBS EU Spec Series 9 Race 3|Empty Scene Day|

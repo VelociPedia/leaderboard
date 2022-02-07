@@ -112,6 +112,6 @@
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|
 |TBS EU Spec Season 5 Race 1|Football Stadium|
-|TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 7 Race 2|Empty Scene Day|
 |TBS EU Spec Series 8 Race 5|Future Hangar Empty|
+|TBS EU Spec Series 10 Race 4|Dynamic Weather|
