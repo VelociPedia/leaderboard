@@ -9,11 +9,13 @@ leaderboards_dir="data/leaderboards"
 leaderboards_md="md/leaderboards"
 pilots_dir="data/pilots"
 pilots_md="md/pilots"
+ranking_dir="data/ranking"
 collections_dir="collections"
 
 mkdir -p "$pilots_dir"
 mkdir -p "$pilots_md"
 mkdir -p "$leaderboards_md"
+mkdir -p "$ranking_dir"
 
 collection="$1"
 collection=$(sed -E 's@collections/@@' <<< $collection)
@@ -106,8 +108,10 @@ while IFS="," read -r pilot n sum ; do
     delta=$(($(($sum))-$(($summaxrank))))
     delta=$(printf "%.3f\n" $delta)
     newlist=$(echo -e "$newlist\n|$i|$pilot|$n tracks|$sum s|+$delta|")
+    datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
   else
     newlist=$(echo -e "$newlist\n|$i|$pilot|$n tracks|$sum s||")
+    datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
     summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f3)
   fi
   
@@ -123,3 +127,7 @@ done <<< $list
   echo -e "|RANK|PILOT|COMPLETED|TIME|DELTA|" >> "$outputfile"
   echo -e "|:---:|:---|:---:|:---|---:|" >> "$outputfile"
   echo "$newlist" | sed '/^[[:space:]]*$/d' >> "$outputfile"
+  
+  
+  dataoutputfile="$ranking_dir/$collection.csv"
+  echo "$datanewlist" | sed '/^[[:space:]]*$/d' > "$dataoutputfile"
