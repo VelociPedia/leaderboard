@@ -1,8 +1,5 @@
 #!/bin/zsh
 
-# USAGE : getpilots.zsh [collection] [pilot1 (pilot2 pilots 3 ...)]
-# Name "collection" without root directory name nor .csv extension.
-
 # init script
 BASEDIR=$(dirname "$0")
 cd $BASEDIR
@@ -122,7 +119,7 @@ done <<< $list
 
   outputfile="$leaderboards_md/$collection.md"
   echo -e "### $collection RANKING" > "$outputfile"
-  echo -e "*$(wc -l <<< $cleancollection) tracks included from [$collections_dir/$collection.csv]($collections_dir/$(sed "s/ /%20/g" <<< $collection).csv)*" >> "$outputfile"
+  echo -e "*$(wc -l <<< $cleancollection) tracks included from [$collections_dir/$collection.csv](/$collections_dir/$(sed "s/ /%20/g" <<< $collection).csv)*" >> "$outputfile"
   echo -e "|RANK|PILOT|COMPLETED|TIME|DELTA|" >> "$outputfile"
   echo -e "|:---:|:---|:---:|:---|---:|" >> "$outputfile"
   echo "$newlist" | sed '/^[[:space:]]*$/d' >> "$outputfile"
