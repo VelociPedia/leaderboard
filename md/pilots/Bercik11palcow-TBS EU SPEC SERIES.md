@@ -11,7 +11,7 @@
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|159|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/19|
+|159|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/19|
 |159|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/14|
 |127|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2022/01/01|
 |118|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/04|
@@ -32,13 +32,13 @@
 |159|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/14|
 |101|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/09/25|
 |123|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/10/13|
-|159|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/19|
+|159|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/19|
 |97|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/23|
 |89|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/15|
 |181|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/11/07|
 |130|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/30|
 |153|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/23|
-|122|TBS EU Spec Series 7 Final |Empty Scene Day|TBSSpec|2021/03/10|
+|122|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
 |137|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/24|
 |170|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/08|
 |135|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
@@ -54,10 +54,10 @@
 |133|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |161|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |159|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/14|
-|159|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/19|
+|159|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/19|
 |97|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/23|
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -72,6 +72,7 @@
 |TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 5 Race 4|Football Stadium|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
@@ -85,6 +86,7 @@
 |TBS EU Spec Series 8 Race 6|Football Stadium|
 |TBS EU Spec Series 8 Race 7|Empty Scene Day|
 |TBS EU Spec Series 9 Final |Dynamic Weather|
+|TBS EU Spec Series 9 Final|Dynamic Weather|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|
 |TBS EU Spec Series 9 Race 3|Empty Scene Day|
 |TBS EU Spec Series 9 Race 4|Football Stadium|

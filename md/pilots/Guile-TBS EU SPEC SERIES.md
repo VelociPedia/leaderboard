@@ -45,7 +45,7 @@
 |129|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/05/28|
 |79|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 |99|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|53|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/10|
+|53|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |42|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/03|
 |67|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |59|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/07/30|
@@ -59,7 +59,7 @@
 |32|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |50|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |93|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
-|78|TBS EU Spec Series 7 Final |Empty Scene Day|TBSSpec|2021/03/04|
+|78|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |94|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |87|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |87|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
@@ -91,7 +91,7 @@
 |56|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
 |83|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/07/05|
 ---
-### 18 tracks without data (200+ or not in leaderboard)
+### 20 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|
@@ -104,9 +104,11 @@
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|
 |TBS EU Spec Series 8 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 9 Final |Dynamic Weather|
+|TBS EU Spec Series 9 Final|Dynamic Weather|
 |TBS EU Spec Series 9 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 9 Race 1|Football Stadium|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|

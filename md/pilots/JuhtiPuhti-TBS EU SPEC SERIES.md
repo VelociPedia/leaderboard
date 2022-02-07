@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |17|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 |18|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/04|
-|22|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/10|
+|22|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |23|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |23|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |25|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
@@ -33,7 +33,7 @@
 |28|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/04|
 |29|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/05|
 |33|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|22|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/10|
+|22|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |25|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
 |23|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |58|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/27|
@@ -54,7 +54,7 @@
 |26|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |41|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/11/11|
 |56|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
-|47|TBS EU Spec Series 9 Final |Dynamic Weather|TBSSpec|2021/11/11|
+|47|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
 |52|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/12|
 |48|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
 |36|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
@@ -73,7 +73,7 @@
 |28|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/04|
 |29|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/05|
 ---
-### 29 tracks without data (200+ or not in leaderboard)
+### 31 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -92,11 +92,13 @@
 |TBS EU Spec Series 10 Race 3|Night Factory 2|
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 FINAL|Dynamic Weather|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|
 |TBS EU Spec Series 6 Race 5|Dynamic Weather|
 |TBS EU Spec Series 7 Final |Empty Scene Day|
+|TBS EU Spec Series 7 Final|Empty Scene Day|
 |TBS EU Spec Series 7 Race 1|Football Stadium|
 |TBS EU Spec Series 7 Race 2|Empty Scene Day|
 |TBS EU Spec Series 7 Race 7|Empty Scene Day|

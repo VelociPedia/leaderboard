@@ -6,10 +6,10 @@
 |40|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |50|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/12|
 |52|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
+|52|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |53|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |55|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
 |56|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/03|
-|58|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/05/09|
 ---
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,7 +28,7 @@
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |116|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 ---
-### 54 tracks where TBS SPEC quad was used
+### 55 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |112|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
@@ -42,6 +42,7 @@
 |40|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |40|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |36|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
+|52|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |136|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
 |144|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |68|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
@@ -60,7 +61,7 @@
 |50|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/12|
 |83|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
-|106|TBS EU Spec Series 7 Final |Empty Scene Day|TBSSpec|2021/03/04|
+|106|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |172|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |182|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/25|
 |141|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/25|
@@ -76,7 +77,7 @@
 |69|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/20|
 |87|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
 |91|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
-|109|TBS EU Spec Series 9 Final |Dynamic Weather|TBSSpec|2021/11/11|
+|109|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
 |62|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/04|
 |116|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |107|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
@@ -99,7 +100,7 @@
 |81|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 |136|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
 ---
-### 13 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -113,5 +114,6 @@
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|
 |TBS EU Spec Series 8 Losers Final|Dynamic Weather|

@@ -33,7 +33,7 @@
 |131|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/16|
 |112|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/16|
 |89|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/11/17|
-|108|TBS EU Spec Series 7 Final |Empty Scene Day|TBSSpec|2021/11/17|
+|108|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/11/17|
 |111|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/11/20|
 |50|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/11/20|
 |63|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/11/21|
@@ -57,7 +57,7 @@
 |85|TBS EU Spec Series 5 Race 5|NEC Birmingham|CarbiXZero|2020/08/08|
 |141|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/08/18|
 ---
-### 30 tracks without data (200+ or not in leaderboard)
+### 32 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|
@@ -73,10 +73,12 @@
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 4 Race 4|Empty Scene Day|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 5 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 5 Race 7|IndoorGoKart|
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|

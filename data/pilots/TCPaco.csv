@@ -19,6 +19,7 @@ TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,46,68.107,TCPaco,Canada,TwigXL3,2022/01/10
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,128,92.413,TCPaco,Canada,DJI,2022/01/23
 TBS EU Spec Series 10 Race 6,Large Carpark,11,33.270,TCPaco,Canada,TBSSpec,2022/01/28
+TBS EU Spec Series 10 Race 7,Football Stadium,62,86.274,TCPaco,Canada,TBSSpec,2022/02/06
 TBS EU Spec Series 4 FINAL,Dynamic Weather,49,85.897,TCPaco,Canada,TBSSpec,2020/06/27
 TBS EU Spec Series 4 Race 2,Empty Scene Day,67,68.168,TCPaco,Canada,TBSSpec,2020/05/24
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,TCPaco,NO_DATA
@@ -26,6 +27,7 @@ TBS EU Spec Series 4 Race 4,Empty Scene Day,42,80.889,TCPaco,Canada,TBSSpec,2020
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,74,75.635,TCPaco,Canada,TBSSpec,2020/06/23
 TBS EU Spec Series 5 FINAL ,Dynamic Weather,999,999.999,TCPaco,NO_DATA
+TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,111,94.634,TCPaco,Canada,SingularitumV5,2020/09/09
 TBS EU Spec Series 5 Race 3,Dynamic Weather,58,76.094,TCPaco,Canada,TBSSpec,2020/08/05
 TBS EU Spec Series 5 Race 4,Football Stadium,77,86.958,TCPaco,Canada,TBSSpec,2020/08/03
@@ -41,6 +43,7 @@ TBS EU Spec Series 6 Race 5,Dynamic Weather,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 7 Final ,Empty Scene Day,999,999.999,TCPaco,NO_DATA
+TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 7 Race 1,Football Stadium,41,68.764,TCPaco,Canada,TBSSpec,2021/01/07
 TBS EU Spec Series 7 Race 2,Empty Scene Day,102,75.825,TCPaco,Canada,TBSSpec,2021/01/24
 TBS EU Spec Series 7 Race 3,Empty Scene Day,103,78.316,TCPaco,Canada,TBSSpec,2021/01/25
@@ -58,6 +61,7 @@ TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,52,65.673,TCPaco,Canada,TBSSpec,2021/06/04
 TBS EU Spec Series 8 Race 7,Empty Scene Day,49,73.781,TCPaco,Canada,TBSSpec,2021/09/09
 TBS EU Spec Series 9 Final ,Dynamic Weather,49,64.415,TCPaco,Canada,TBSSpec,2021/11/25
+TBS EU Spec Series 9 Final,Dynamic Weather,49,64.415,TCPaco,Canada,TBSSpec,2021/11/25
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,10,57.683,TCPaco,Canada,Chief,2021/11/10
 TBS EU Spec Series 9 Race 1,Football Stadium,38,57.246,TCPaco,Canada,TBSSpec,2021/09/09
 TBS EU Spec Series 9 Race 2,Dynamic Weather,54,58.017,TCPaco,Canada,TBSSpec,2021/09/26
@@ -66,3 +70,20 @@ TBS EU Spec Series 9 Race 4,Football Stadium,183,103.807,TCPaco,Canada,TBSSpec,2
 TBS EU Spec Series 9 Race 5,Empty Scene Day,61,68.182,TCPaco,Canada,TBSSpec,2021/10/09
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,TCPaco,NO_DATA
 TBS EU Spec Series 9 Race 7,NEC Birmingham,151,101.356,TCPaco,Canada,DJI,2021/11/10
+Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,6,24.588,TCPaco,Canada,Chief,2022/01/04
+Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,13,29.239,TCPaco,Canada,Chief,2022/01/02
+Train Insane - Dive - MaiOnHigh,Empty Scene Day,5,25.557,TCPaco,Canada,Chief,2022/01/02
+Train insane - High jumps - MaiOnHigh,Empty Scene Day,4,24.593,TCPaco,Canada,Chief,2022/01/04
+Train Insane - Ladder - MaiOnHigh,Empty Scene Day,5,31.837,TCPaco,Canada,Chief,2022/01/02
+Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,6,24.773,TCPaco,Canada,Chief,2022/01/02
+Train Insane - powerloops - MaiOnHigh,Empty Scene Day,5,28.015,TCPaco,Canada,Chief,2022/01/02
+Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,5,53.959,TCPaco,Canada,Chief,2022/01/04
+Train Insane Race Track - MaiOnHigh,Empty Scene Day,26,68.914,TCPaco,Canada,Chief,2022/01/04
+Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,6,35.276,TCPaco,Canada,Chief,2022/01/02
+Train insane - sharp turns - MaiOnHigh,Empty Scene Day,3,49.789,TCPaco,Canada,Chief,2022/01/04
+Train Insane - slalom - MaiOnHigh,Empty Scene Day,12,13.363,TCPaco,Canada,Chief,2022/01/02
+Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,3,52.770,TCPaco,Canada,Chief,2022/01/04
+Train insane - Split-S - MaiOnHigh,Empty Scene Day,4,16.238,TCPaco,Canada,Chief,2022/01/04
+Train Insane- Test1 - MaiOnHigh,Empty Scene Day,999,999.999,TCPaco,NO_DATA
+Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,10,39.415,TCPaco,Canada,Chief,2022/01/02
+Train insane - wide slalom - MaiOnHigh,Empty Scene Day,3,18.618,TCPaco,Canada,Chief,2022/01/04

@@ -1,6 +1,7 @@
-### Best 6 TBS EU SPEC SERIES TRACKS ranks
+### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|36|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/04|
 |43|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/23|
 |45|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 |49|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/28|
@@ -22,7 +23,7 @@
 |160|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/07/08|
 |160|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 ---
-### 38 tracks where TBS SPEC quad was used
+### 39 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |86|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/02/20|
@@ -37,6 +38,7 @@
 |75|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/26|
 |43|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/23|
 |147|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/02/04|
+|36|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/04|
 |66|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/02/20|
 |180|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/08/26|
 |168|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/15|
@@ -64,7 +66,7 @@
 |49|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/28|
 |45|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
-### Oldest 6 personal best
+### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |180|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/12|
@@ -73,8 +75,9 @@
 |160|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |119|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
 |100|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|
+|86|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
 ---
-### 26 tracks without data (200+ or not in leaderboard)
+### 28 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -91,6 +94,7 @@
 |TBS EU Spec Series 4 Race 5|Dynamic Weather|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 5 Race 3|Dynamic Weather|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
 |TBS EU Spec Series 5 Race 6|Dynamic Weather|
@@ -103,3 +107,4 @@
 |TBS EU Spec Series 6 Race 7|Empty Scene Day|
 |TBS EU Spec Series 7 Race 3|Empty Scene Day|
 |TBS EU Spec Series 9 Final |Dynamic Weather|
+|TBS EU Spec Series 9 Final|Dynamic Weather|

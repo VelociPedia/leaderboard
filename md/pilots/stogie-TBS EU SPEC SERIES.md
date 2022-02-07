@@ -18,7 +18,7 @@
 |174|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/09|
 |162|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/06/11|
 |161|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/14|
-|145|TBS EU Spec Series 5 FINAL |Dynamic Weather|Five33Switchback|2020/09/15|
+|145|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2020/09/15|
 |140|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2021/08/30|
 ---
 ### 1 tracks where TBS SPEC quad was used
@@ -36,7 +36,7 @@
 |199|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2020/08/09|
 |165|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/31|
 ---
-### 30 tracks without data (200+ or not in leaderboard)
+### 31 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -61,6 +61,7 @@
 |TBS EU Spec Series 6 Race 6|Empty Scene Day|
 |TBS EU Spec Series 6 Race 7|Empty Scene Day|
 |TBS EU Spec Series 7 Final |Empty Scene Day|
+|TBS EU Spec Series 7 Final|Empty Scene Day|
 |TBS EU Spec Series 7 Race 1|Football Stadium|
 |TBS EU Spec Series 7 Race 2|Empty Scene Day|
 |TBS EU Spec Series 7 Race 3|Empty Scene Day|

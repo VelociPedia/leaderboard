@@ -19,6 +19,7 @@ TBS EU Spec Series 10 Race 3,Night Factory 2,179,134.842,NotSure,UnitedKingdom,T
 TBS EU Spec Series 10 Race 4,Dynamic Weather,74,73.137,NotSure,UnitedKingdom,TBSSpec,2022/01/10
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,93,78.027,NotSure,UnitedKingdom,TBSSpec,2022/01/30
 TBS EU Spec Series 10 Race 6,Large Carpark,50,48.139,NotSure,UnitedKingdom,TBSSpec,2022/01/31
+TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,197,113.702,NotSure,UnitedKingdom,TBSSpec,2021/12/13
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,NotSure,NO_DATA
@@ -26,6 +27,7 @@ TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,190,119.231,NotSure,UnitedKingdom,Five33Switchback,2021/10/11
 TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 5 FINAL ,Dynamic Weather,166,110.827,NotSure,UnitedKingdom,TBSSpec,2022/01/08
+TBS EU Spec Series 5 FINAL,Dynamic Weather,166,110.827,NotSure,UnitedKingdom,TBSSpec,2022/01/08
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,136,99.249,NotSure,UnitedKingdom,Five33Switchback,2021/08/31
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,178,108.577,NotSure,UnitedKingdom,TBSSpec,2022/01/14
@@ -41,6 +43,7 @@ TBS EU Spec Series 6 Race 5,Dynamic Weather,160,111.367,NotSure,UnitedKingdom,TB
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,186,67.901,NotSure,UnitedKingdom,TBSSpec,2021/11/28
 TBS EU Spec Series 7 Final ,Empty Scene Day,999,999.999,NotSure,NO_DATA
+TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,NotSure,NO_DATA
@@ -58,6 +61,7 @@ TBS EU Spec Series 8 Race 5,Future Hangar Empty,104,70.003,NotSure,UnitedKingdom
 TBS EU Spec Series 8 Race 6,Football Stadium,199,90.913,NotSure,UnitedKingdom,TBSSpec,2021/06/13
 TBS EU Spec Series 8 Race 7,Empty Scene Day,182,97.217,NotSure,UnitedKingdom,TBSSpec,2022/01/10
 TBS EU Spec Series 9 Final ,Dynamic Weather,124,76.765,NotSure,UnitedKingdom,TBSSpec,2021/12/30
+TBS EU Spec Series 9 Final,Dynamic Weather,124,76.765,NotSure,UnitedKingdom,TBSSpec,2021/12/30
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,169,86.280,NotSure,UnitedKingdom,TBSSpec,2021/11/11
 TBS EU Spec Series 9 Race 1,Football Stadium,153,75.480,NotSure,UnitedKingdom,TBSSpec,2021/11/11
 TBS EU Spec Series 9 Race 2,Dynamic Weather,177,80.896,NotSure,UnitedKingdom,Five33Switchback,2021/09/19
@@ -66,3 +70,20 @@ TBS EU Spec Series 9 Race 4,Football Stadium,197,107.485,NotSure,UnitedKingdom,T
 TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 9 Race 6,Empty Scene Day,110,87.395,NotSure,UnitedKingdom,TBSSpec,2021/10/30
 TBS EU Spec Series 9 Race 7,NEC Birmingham,125,92.396,NotSure,UnitedKingdom,TBSSpec,2021/11/03
+Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,10,27.375,NotSure,UnitedKingdom,TBSSpec,2022/01/10
+Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,33,34.076,NotSure,UnitedKingdom,TBSSpec,2022/01/02
+Train Insane - Dive - MaiOnHigh,Empty Scene Day,16,30.244,NotSure,UnitedKingdom,TBSSpec,2022/01/02
+Train insane - High jumps - MaiOnHigh,Empty Scene Day,10,27.605,NotSure,UnitedKingdom,TBSSpec,2022/01/10
+Train Insane - Ladder - MaiOnHigh,Empty Scene Day,26,42.240,NotSure,UnitedKingdom,TBSSpec,2022/01/02
+Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,23,28.219,NotSure,UnitedKingdom,TBSSpec,2022/01/02
+Train Insane - powerloops - MaiOnHigh,Empty Scene Day,16,35.839,NotSure,UnitedKingdom,TBSSpec,2022/01/08
+Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,13,62.257,NotSure,UnitedKingdom,TBSSpec,2022/01/10
+Train Insane Race Track - MaiOnHigh,Empty Scene Day,46,78.357,NotSure,UnitedKingdom,TBSSpec,2022/01/08
+Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,13,40.889,NotSure,UnitedKingdom,TBSSpec,2022/01/02
+Train insane - sharp turns - MaiOnHigh,Empty Scene Day,33,61.340,NotSure,UnitedKingdom,TBSSpec,2022/01/11
+Train Insane - slalom - MaiOnHigh,Empty Scene Day,24,16.472,NotSure,UnitedKingdom,TBSSpec,2022/01/08
+Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,13,63.469,NotSure,UnitedKingdom,TBSSpec,2022/01/10
+Train insane - Split-S - MaiOnHigh,Empty Scene Day,23,21.168,NotSure,UnitedKingdom,TBSSpec,2022/01/10
+Train Insane- Test1 - MaiOnHigh,Empty Scene Day,999,999.999,NotSure,NO_DATA
+Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,24,47.579,NotSure,UnitedKingdom,TBSSpec,2022/01/04
+Train insane - wide slalom - MaiOnHigh,Empty Scene Day,999,999.999,NotSure,NO_DATA

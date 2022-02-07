@@ -37,7 +37,7 @@
 |56|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/17|
 |39|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/24|
 |88|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
-|53|TBS EU Spec Series 7 Final |Empty Scene Day|TBSSpec|2021/03/10|
+|53|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
 |68|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/27|
 |77|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/03|
 |71|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/06|
@@ -57,7 +57,7 @@
 |43|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/28|
 |34|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2020/08/04|
 ---
-### 21 tracks without data (200+ or not in leaderboard)
+### 22 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|
@@ -75,6 +75,7 @@
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 4 Race 2|Empty Scene Day|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 8 Race 3|Football Stadium|
 |TBS EU Spec Series 8 Race 7|Empty Scene Day|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|

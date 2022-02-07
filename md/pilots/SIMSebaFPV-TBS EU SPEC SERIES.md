@@ -1,7 +1,7 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|TBS EU Spec Series 9 Final |Dynamic Weather|Mode2Ghost|2021/11/13|
+|1|TBS EU Spec Series 9 Final|Dynamic Weather|Mode2Ghost|2021/11/13|
 |2|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |2|TBS EU Spec Series 9 Race 6|Empty Scene Day|Mode2Ghost|2021/10/24|
 |6|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
@@ -34,7 +34,7 @@
 |2|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |36|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |148|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
-|29|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2020/09/10|
+|29|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |21|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |16|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/07/30|
 |10|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
@@ -64,7 +64,7 @@
 |36|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |148|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|
@@ -78,6 +78,7 @@
 |TBS EU Spec Series 10 Race 1|Football Stadium|
 |TBS EU Spec Series 10 Race 2|Empty Scene Day|
 |TBS EU Spec Series 10 Race 3|Night Factory 2|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 FINAL|Dynamic Weather|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 4 Race 7|Football Stadium|
@@ -89,6 +90,7 @@
 |TBS EU Spec Series 6 Race 6|Empty Scene Day|
 |TBS EU Spec Series 6 Race 7|Empty Scene Day|
 |TBS EU Spec Series 7 Final |Empty Scene Day|
+|TBS EU Spec Series 7 Final|Empty Scene Day|
 |TBS EU Spec Series 7 Race 4|Empty Scene Day|
 |TBS EU Spec Series 7 Race 5|IndoorGoKart|
 |TBS EU Spec Series 7 Race 6|Future Hangar Empty|

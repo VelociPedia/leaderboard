@@ -8,7 +8,7 @@
 |5|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/07/14|
 |5|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/06/19|
 ---
-### Worse 9 TBS EU SPEC SERIES TRACKS ranks
+### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |89|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
@@ -20,8 +20,9 @@
 |45|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/09/09|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
 |41|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|37|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
 ---
-### 13 tracks where TBS SPEC quad was used
+### 14 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |26|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/19|
@@ -29,6 +30,7 @@
 |27|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2022/01/19|
 |89|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |7|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
+|9|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |51|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/20|
 |67|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/30|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
@@ -48,7 +50,7 @@
 |15|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/04/04|
 |5|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/04/08|
 ---
-### 28 tracks without data (200+ or not in leaderboard)
+### 29 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -79,3 +81,4 @@
 |TBS EU Spec Series 8 Final|Dynamic Weather|
 |TBS EU Spec Series 8 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 9 Final |Dynamic Weather|
+|TBS EU Spec Series 9 Final|Dynamic Weather|

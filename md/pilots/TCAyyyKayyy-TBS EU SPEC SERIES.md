@@ -42,7 +42,7 @@
 |35|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|CarbiXZero|2020/06/06|
 |33|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
 ---
-### 21 tracks without data (200+ or not in leaderboard)
+### 23 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|
@@ -56,7 +56,9 @@
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 5 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 5 Race 7|IndoorGoKart|
 |TBS EU Spec Series 6 Final|Empty Scene Day|

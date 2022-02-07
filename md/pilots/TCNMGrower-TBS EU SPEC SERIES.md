@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |17|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/05/02|
 |19|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Chief|2022/01/21|
-|20|TBS EU Spec Series 7 Final |Empty Scene Day|Solleva|2021/09/15|
+|20|TBS EU Spec Series 7 Final|Empty Scene Day|Solleva|2021/09/15|
 |26|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/27|
 |29|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/01/30|
 |36|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2020/07/08|
@@ -15,7 +15,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |165|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/25|
-|127|TBS EU Spec Series 5 FINAL |Dynamic Weather|Solleva|2021/01/04|
+|127|TBS EU Spec Series 5 FINAL|Dynamic Weather|Solleva|2021/01/04|
 |91|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/01/11|
 |76|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/07/10|
 |156|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/22|
@@ -79,7 +79,7 @@
 |40|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/08/25|
 |47|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/29|
 |78|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
-|70|TBS EU Spec Series 9 Final |Dynamic Weather|TBSSpec|2021/11/22|
+|70|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/22|
 |55|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/13|
 |53|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/15|
 |38|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
@@ -97,13 +97,14 @@
 |141|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/17|
 |47|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 ---
-### 10 tracks without data (200+ or not in leaderboard)
+### 11 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 1|Football Stadium|
 |RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 8 Race 7|Empty Scene Day|
 |TBS EU Spec Series 9 Race 1|Football Stadium|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|

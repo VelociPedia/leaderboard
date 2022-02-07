@@ -38,7 +38,7 @@
 |93|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/30|
 |50|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/31|
 |197|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/12/13|
-|166|TBS EU Spec Series 5 FINAL |Dynamic Weather|TBSSpec|2022/01/08|
+|166|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/01/08|
 |178|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2022/01/14|
 |194|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/07/28|
 |97|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2022/01/19|
@@ -48,7 +48,7 @@
 |145|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2022/01/03|
 |199|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/13|
 |182|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2022/01/10|
-|124|TBS EU Spec Series 9 Final |Dynamic Weather|TBSSpec|2021/12/30|
+|124|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/12/30|
 |169|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/11|
 |153|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/11/11|
 |197|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/12/10|
@@ -65,7 +65,7 @@
 |146|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/08/07|
 |170|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/08/07|
 ---
-### 30 tracks without data (200+ or not in leaderboard)
+### 32 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -75,6 +75,7 @@
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
 |TBS EU Spec Season 5 Race 1|Football Stadium|
 |TBS EU Spec Series 10 Race 2|Empty Scene Day|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 2|Empty Scene Day|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 4 Race 4|Empty Scene Day|
@@ -88,6 +89,7 @@
 |TBS EU Spec Series 6 Race 4|NEC Birmingham|
 |TBS EU Spec Series 6 Race 6|Empty Scene Day|
 |TBS EU Spec Series 7 Final |Empty Scene Day|
+|TBS EU Spec Series 7 Final|Empty Scene Day|
 |TBS EU Spec Series 7 Race 1|Football Stadium|
 |TBS EU Spec Series 7 Race 2|Empty Scene Day|
 |TBS EU Spec Series 7 Race 3|Empty Scene Day|

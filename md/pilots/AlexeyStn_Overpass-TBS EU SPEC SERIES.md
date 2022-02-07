@@ -21,7 +21,7 @@
 |90|TBS EU Spec Series 9 Race 4|Football Stadium|CarbiXZero|2021/10/21|
 |89|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
 |79|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/06/29|
-|74|TBS EU Spec Series 7 Final |Empty Scene Day|CarbiXZero|2021/07/20|
+|74|TBS EU Spec Series 7 Final|Empty Scene Day|CarbiXZero|2021/07/20|
 ---
 ### 12 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -50,7 +50,7 @@
 |24|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
 |45|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/07/15|
 ---
-### 24 tracks without data (200+ or not in leaderboard)
+### 27 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |TBS EU Spec Series 10 Race 1|Football Stadium|
@@ -58,8 +58,10 @@
 |TBS EU Spec Series 10 Race 3|Night Factory 2|
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
+|TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 5 FINAL |Dynamic Weather|
+|TBS EU Spec Series 5 FINAL|Dynamic Weather|
 |TBS EU Spec Series 5 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 5 Race 3|Dynamic Weather|
 |TBS EU Spec Series 5 Race 6|Dynamic Weather|
@@ -73,6 +75,7 @@
 |TBS EU Spec Series 8 Race 3|Football Stadium|
 |TBS EU Spec Series 8 Race 5|Future Hangar Empty|
 |TBS EU Spec Series 9 Final |Dynamic Weather|
+|TBS EU Spec Series 9 Final|Dynamic Weather|
 |TBS EU Spec Series 9 Race 1|Football Stadium|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|
 |TBS EU Spec Series 9 Race 3|Empty Scene Day|
