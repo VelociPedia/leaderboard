@@ -1,5 +1,5 @@
 ### RCTech.de EU SPEC SERIES 02 RANKING
-*7 tracks included from [collections/RCTech.de EU SPEC SERIES 02.csv](collections/RCTech.de%20EU%20SPEC%20SERIES%2002.csv)*
+*7 tracks included from [collections/RCTech.de EU SPEC SERIES 02.csv](/collections/RCTech.de%20EU%20SPEC%20SERIES%2002.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|DirtyMuffin|7 tracks|397.786 s||

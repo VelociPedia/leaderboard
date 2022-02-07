@@ -1,5 +1,5 @@
 ### RCTech.de EU SPEC SERIES 03 RANKING
-*6 tracks included from [collections/RCTech.de EU SPEC SERIES 03.csv](collections/RCTech.de%20EU%20SPEC%20SERIES%2003.csv)*
+*6 tracks included from [collections/RCTech.de EU SPEC SERIES 03.csv](/collections/RCTech.de%20EU%20SPEC%20SERIES%2003.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|RustyDollar|6 tracks|365.24 s||

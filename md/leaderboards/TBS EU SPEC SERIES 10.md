@@ -1,5 +1,5 @@
 ### TBS EU SPEC SERIES 10 RANKING
-*6 tracks included from [collections/TBS EU SPEC SERIES 10.csv](collections/TBS%20EU%20SPEC%20SERIES%2010.csv)*
+*6 tracks included from [collections/TBS EU SPEC SERIES 10.csv](/collections/TBS%20EU%20SPEC%20SERIES%2010.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|FPVFPVINEEDTOGETFASTER|6 tracks|328.601 s||

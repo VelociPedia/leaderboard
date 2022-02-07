@@ -1,5 +1,5 @@
 ### TBS EU SPEC SERIES 09 RANKING
-*9 tracks included from [collections/TBS EU SPEC SERIES 09.csv](collections/TBS%20EU%20SPEC%20SERIES%2009.csv)*
+*9 tracks included from [collections/TBS EU SPEC SERIES 09.csv](/collections/TBS%20EU%20SPEC%20SERIES%2009.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|TCEuLeR|9 tracks|505.332 s||

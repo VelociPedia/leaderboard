@@ -1,5 +1,5 @@
 ### TBS EU SPEC SERIES 06 RANKING
-*8 tracks included from [collections/TBS EU SPEC SERIES 06.csv](collections/TBS%20EU%20SPEC%20SERIES%2006.csv)*
+*8 tracks included from [collections/TBS EU SPEC SERIES 06.csv](/collections/TBS%20EU%20SPEC%20SERIES%2006.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|Lacasito|8 tracks|521.743 s||

@@ -1,5 +1,5 @@
 ### TBS EU SPEC SERIES 05 RANKING
-*8 tracks included from [collections/TBS EU SPEC SERIES 05.csv](collections/TBS%20EU%20SPEC%20SERIES%2005.csv)*
+*8 tracks included from [collections/TBS EU SPEC SERIES 05.csv](/collections/TBS%20EU%20SPEC%20SERIES%2005.csv)*
 |RANK|PILOT|COMPLETED|TIME|DELTA|
 |:---:|:---|:---:|:---|---:|
 |1|DirtyMuffin|8 tracks|509.348 s||
