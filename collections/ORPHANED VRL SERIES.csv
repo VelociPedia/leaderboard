@@ -1,0 +1,38 @@
+# [pilotleaderboard=0]
+# [seriesleaderboard=0]
+
+# Season 3 championship ? The only one without it
+VRL Team Championships,Empty Scene Day
+
+
+# Where are 6 8 10 11 12 18 ?
+SFPV VRL 1,Industrial Wasteland
+SFPV VRL 2,Countryside
+SFPV  VRL 3,Empty Scene Day
+SFPV VRL 4,Coastal
+SFPV VRL 5,Football Stadium
+SFPV VRL 7,Football Stadium
+VRL9 Relay Track,Countryside
+SFPV VRL13,Empty Scene Day
+SFPV VRL14,Football Stadium
+SFPV VRL15,Karting Track
+SFPV VRL 16,Football Stadium
+VRL17,Empty Scene Day
+SFPV VRL 19,Empty Scene Day
+SFPV VRL 20,Empty Scene Day
+SFPV VRL 21,Karting Track
+SFPV VRL22,Empty Scene Day
+VRL23,Football Stadium
+SFPV VRL 24,Empty Scene Day
+SFPV VRL 25,Coastal
+SFPV VRL26,Countryside
+
+# VRL that are missing ?
+VRL-Arena-Run,Basketball Stadium
+VRL-Bando-Jungle,Bando
+VRL Concrete Cluster Fun,Bando
+VRL-Freestyle-Coast,Coastal
+VRL-Freestyle-Country,Countryside
+VRL International Raceway,IndoorGoKart
+VRL Phoenix 2049,Bando
+The VRL Railroad,Bando
