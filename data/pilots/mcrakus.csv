@@ -24,7 +24,7 @@ DEP Open Series 5 Race 6,Football Stadium,76,80.545,mcrakus,Poland,TBSSpec,2021/
 DEP Open Series 5 Race 7,Football Stadium,80,114.365,mcrakus,Poland,TBSSpec,2021/12/22
 DEP Spec Series 1 Race 5,Football Stadium,83,100.851,mcrakus,Poland,Ossa,2020/11/09
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,129,81.351,mcrakus,Poland,TBSSpec,2021/03/08
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,107,85.261,mcrakus,Poland,TBSSpec,2020/04/06
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,108,85.261,mcrakus,Poland,TBSSpec,2020/04/06
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,mcrakus,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,mcrakus,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,128,86.690,mcrakus,Poland,TBSSpec,2020/04/11
@@ -41,20 +41,20 @@ TBS EU Spec Series 10 Race 1,Football Stadium,66,66.256,mcrakus,Poland,Ossa,2021
 TBS EU Spec Series 10 Race 2,Empty Scene Day,74,71.890,mcrakus,Poland,TBSSpec,2021/12/09
 TBS EU Spec Series 10 Race 3,Night Factory 2,51,73.301,mcrakus,Poland,TBSSpec,2021/12/17
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,mcrakus,NO_DATA
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,172,118.239,mcrakus,Poland,TBSSpec,2022/01/21
-TBS EU Spec Series 10 Race 6,Large Carpark,170,143.654,mcrakus,Poland,TBSSpec,2022/02/02
-TBS EU Spec Series 10 Race 7,Football Stadium,42,76.654,mcrakus,Poland,TBSSpec,2022/02/05
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,174,118.239,mcrakus,Poland,TBSSpec,2022/01/21
+TBS EU Spec Series 10 Race 6,Large Carpark,196,143.654,mcrakus,Poland,TBSSpec,2022/02/02
+TBS EU Spec Series 10 Race 7,Football Stadium,47,75.454,mcrakus,Poland,TBSSpec,2022/02/08
 TBS EU Spec Series 4 FINAL,Dynamic Weather,106,97.331,mcrakus,Poland,TBSSpec,2020/06/29
 TBS EU Spec Series 4 Race 2,Empty Scene Day,167,78.685,mcrakus,Poland,TBSSpec,2020/05/14
-TBS EU Spec Series 4 Race 3,IndoorGoKart,106,128.489,mcrakus,Poland,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 3,IndoorGoKart,107,128.489,mcrakus,Poland,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,114,93.335,mcrakus,Poland,TBSSpec,2020/11/29
 TBS EU Spec Series 4 Race 5,Dynamic Weather,140,108.153,mcrakus,Poland,Five33Switchback,2020/09/06
-TBS EU Spec Series 4 Race 7,Football Stadium,147,84.560,mcrakus,Poland,TBSSpec,2020/06/25
-TBS EU Spec Series 5 FINAL,Dynamic Weather,150,106.659,mcrakus,Poland,TBSSpec,2020/09/10
+TBS EU Spec Series 4 Race 7,Football Stadium,148,84.560,mcrakus,Poland,TBSSpec,2020/06/25
+TBS EU Spec Series 5 FINAL,Dynamic Weather,152,106.659,mcrakus,Poland,TBSSpec,2020/09/10
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,81,88.005,mcrakus,Poland,TBSSpec,2020/09/04
 TBS EU Spec Series 5 Race 3,Dynamic Weather,178,105.080,mcrakus,Poland,TBSSpec,2020/08/10
 TBS EU Spec Series 5 Race 4,Football Stadium,149,102.155,mcrakus,Poland,TBSSpec,2020/08/06
-TBS EU Spec Series 5 Race 5,NEC Birmingham,132,91.231,mcrakus,Poland,TBSSpec,2020/08/08
+TBS EU Spec Series 5 Race 5,NEC Birmingham,133,91.231,mcrakus,Poland,TBSSpec,2020/08/08
 TBS EU Spec Series 5 Race 6,Dynamic Weather,98,79.020,mcrakus,Poland,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,110,89.345,mcrakus,Poland,TBSSpec,2020/08/27
 TBS EU Spec Series 6 Final,Empty Scene Day,71,86.996,mcrakus,Poland,TBSSpec,2020/12/05
@@ -72,7 +72,7 @@ TBS EU Spec Series 7 Race 3,Empty Scene Day,149,83.700,mcrakus,Poland,TBSSpec,20
 TBS EU Spec Series 7 Race 4,Empty Scene Day,138,79.309,mcrakus,Poland,TBSSpec,2021/01/31
 TBS EU Spec Series 7 Race 5,IndoorGoKart,146,84.960,mcrakus,Poland,TBSSpec,2021/02/05
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,96,78.401,mcrakus,Poland,TBSSpec,2021/02/15
-TBS EU Spec Series 7 Race 7,Empty Scene Day,117,90.330,mcrakus,Poland,TBSSpec,2021/02/18
+TBS EU Spec Series 7 Race 7,Empty Scene Day,118,90.330,mcrakus,Poland,TBSSpec,2021/02/18
 TBS EU Spec Series 8 Final,Dynamic Weather,99,96.387,mcrakus,Poland,TBSSpec,2021/07/08
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,112,72.916,mcrakus,Poland,TBSSpec,2021/06/24
 TBS EU Spec Series 8 Race 1,Dynamic Weather,97,84.220,mcrakus,Poland,TBSSpec,2021/03/21
@@ -80,14 +80,14 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,78,83.627,mcrakus,Poland,TBSSpec,2
 TBS EU Spec Series 8 Race 3,Football Stadium,99,68.210,mcrakus,Poland,TBSSpec,2021/04/27
 TBS EU Spec Series 8 Race 4,Empty Scene Day,99,84.379,mcrakus,Poland,TBSSpec,2021/05/07
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,mcrakus,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,135,79.053,mcrakus,Poland,TBSSpec,2021/06/04
-TBS EU Spec Series 8 Race 7,Empty Scene Day,104,82.395,mcrakus,Poland,TBSSpec,2021/06/17
+TBS EU Spec Series 8 Race 6,Football Stadium,137,79.053,mcrakus,Poland,TBSSpec,2021/06/04
+TBS EU Spec Series 8 Race 7,Empty Scene Day,105,82.395,mcrakus,Poland,TBSSpec,2021/06/17
 TBS EU Spec Series 9 Final,Dynamic Weather,89,69.505,mcrakus,Poland,TBSSpec,2021/11/12
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,91,71.808,mcrakus,Poland,TBSSpec,2021/11/04
 TBS EU Spec Series 9 Race 1,Football Stadium,124,70.305,mcrakus,Poland,TBSSpec,2021/09/15
 TBS EU Spec Series 9 Race 2,Dynamic Weather,105,64.626,mcrakus,Poland,TBSSpec,2021/09/18
-TBS EU Spec Series 9 Race 3,Empty Scene Day,113,72.695,mcrakus,Poland,TBSSpec,2021/09/24
+TBS EU Spec Series 9 Race 3,Empty Scene Day,114,72.695,mcrakus,Poland,TBSSpec,2021/09/24
 TBS EU Spec Series 9 Race 4,Football Stadium,100,79.232,mcrakus,Poland,TBSSpec,2021/10/17
 TBS EU Spec Series 9 Race 5,Empty Scene Day,120,77.717,mcrakus,Poland,TBSSpec,2021/10/08
-TBS EU Spec Series 9 Race 6,Empty Scene Day,87,80.525,mcrakus,Poland,TBSSpec,2021/10/23
+TBS EU Spec Series 9 Race 6,Empty Scene Day,88,80.525,mcrakus,Poland,TBSSpec,2021/10/23
 TBS EU Spec Series 9 Race 7,NEC Birmingham,80,77.449,mcrakus,Poland,TBSSpec,2021/11/01

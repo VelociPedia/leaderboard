@@ -8,7 +8,7 @@
 |67|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/14|
 |68|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
 |78|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/10/24|
-|81|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/04|
+|82|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/04|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -19,11 +19,11 @@
 |147|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/08/18|
 |191|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/18|
 |183|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
-|177|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
+|178|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
 |166|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
 |154|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/01|
 |150|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2021/08/16|
-|146|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/07/29|
+|147|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/07/29|
 |142|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
@@ -38,7 +38,7 @@
 |183|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |160|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/08/12|
 |151|TBS EU Spec Series 4 Race 5|Dynamic Weather|SingularitumV5|2020/08/13|
-|139|TBS EU Spec Series 5 Race 5|NEC Birmingham|SingularitumV5|2020/08/13|
+|140|TBS EU Spec Series 5 Race 5|NEC Birmingham|SingularitumV5|2020/08/13|
 |60|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |68|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
 |166|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|

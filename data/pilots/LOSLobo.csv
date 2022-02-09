@@ -24,7 +24,7 @@ DEP Open Series 5 Race 6,Football Stadium,50,73.014,LOSLobo,Hungary,TBSSpec,2021
 DEP Open Series 5 Race 7,Football Stadium,60,106.287,LOSLobo,Hungary,TBSSpec,2021/12/26
 DEP Spec Series 1 Race 5,Football Stadium,73,99.804,LOSLobo,Hungary,TBSSpec,2022/01/16
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,114,79.472,LOSLobo,Hungary,TBSSpec,2021/03/31
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,110,85.822,LOSLobo,Hungary,TBSSpec,2021/04/19
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,111,85.822,LOSLobo,Hungary,TBSSpec,2021/04/19
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,92,64.024,LOSLobo,Hungary,TBSSpec,2021/11/01
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,72,74.501,LOSLobo,Hungary,TBSSpec,2021/05/05
@@ -36,11 +36,11 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,LOSLobo,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,132,68.024,LOSLobo,Hungary,TBSSpec,2021/05/19
-TBS EU Spec Series 10 Race 1,Football Stadium,80,69.012,LOSLobo,Hungary,TBSSpec,2022/01/24
+TBS EU Spec Season 5 Race 1,Football Stadium,106,65.249,LOSLobo,Hungary,TBSSpec,2022/02/08
+TBS EU Spec Series 10 Race 1,Football Stadium,81,69.012,LOSLobo,Hungary,TBSSpec,2022/01/24
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,LOSLobo,NO_DATA
-TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,LOSLobo,NO_DATA
+TBS EU Spec Series 10 Race 4,Dynamic Weather,108,79.733,LOSLobo,Hungary,TBSSpec,2022/02/08
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,LOSLobo,NO_DATA
@@ -49,8 +49,8 @@ TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,78,115.933,LOSLobo,Hungary,TBSSpec,2021/04/23
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,83,95.570,LOSLobo,Hungary,TBSSpec,2022/02/03
-TBS EU Spec Series 4 Race 7,Football Stadium,156,85.532,LOSLobo,Hungary,TBSSpec,2021/01/25
-TBS EU Spec Series 5 FINAL,Dynamic Weather,153,106.986,LOSLobo,Hungary,TBSSpec,2020/11/13
+TBS EU Spec Series 4 Race 7,Football Stadium,157,85.532,LOSLobo,Hungary,TBSSpec,2021/01/25
+TBS EU Spec Series 5 FINAL,Dynamic Weather,155,106.986,LOSLobo,Hungary,TBSSpec,2020/11/13
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,121,96.156,LOSLobo,Hungary,TBSSpec,2020/12/27
 TBS EU Spec Series 5 Race 3,Dynamic Weather,95,85.753,LOSLobo,Hungary,TBSSpec,2021/08/16
 TBS EU Spec Series 5 Race 4,Football Stadium,79,87.333,LOSLobo,Hungary,TBSSpec,2022/01/14
@@ -72,7 +72,7 @@ TBS EU Spec Series 7 Race 3,Empty Scene Day,66,74.152,LOSLobo,Hungary,TBSSpec,20
 TBS EU Spec Series 7 Race 4,Empty Scene Day,145,80.272,LOSLobo,Hungary,TBSSpec,2021/04/22
 TBS EU Spec Series 7 Race 5,IndoorGoKart,114,80.306,LOSLobo,Hungary,TBSSpec,2021/02/08
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,121,83.387,LOSLobo,Hungary,TBSSpec,2021/02/17
-TBS EU Spec Series 7 Race 7,Empty Scene Day,145,97.125,LOSLobo,Hungary,TBSSpec,2021/02/19
+TBS EU Spec Series 7 Race 7,Empty Scene Day,146,97.125,LOSLobo,Hungary,TBSSpec,2021/02/19
 TBS EU Spec Series 8 Final,Dynamic Weather,104,98.050,LOSLobo,Hungary,TBSSpec,2021/07/03
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,136,78.474,LOSLobo,Hungary,TBSSpec,2021/06/25
 TBS EU Spec Series 8 Race 1,Dynamic Weather,118,89.160,LOSLobo,Hungary,TBSSpec,2021/04/05
@@ -80,8 +80,8 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,125,99.828,LOSLobo,Hungary,TBSSpec
 TBS EU Spec Series 8 Race 3,Football Stadium,113,69.836,LOSLobo,Hungary,TBSSpec,2021/04/22
 TBS EU Spec Series 8 Race 4,Empty Scene Day,85,82.353,LOSLobo,Hungary,TBSSpec,2021/05/22
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,LOSLobo,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,82,70.968,LOSLobo,Hungary,TBSSpec,2022/01/16
-TBS EU Spec Series 8 Race 7,Empty Scene Day,84,79.435,LOSLobo,Hungary,TBSSpec,2021/08/16
+TBS EU Spec Series 8 Race 6,Football Stadium,84,70.968,LOSLobo,Hungary,TBSSpec,2022/01/16
+TBS EU Spec Series 8 Race 7,Empty Scene Day,86,79.435,LOSLobo,Hungary,TBSSpec,2021/08/16
 TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,LOSLobo,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,191,85.315,LOSLobo,Hungary,TBSSpec,2021/09/12

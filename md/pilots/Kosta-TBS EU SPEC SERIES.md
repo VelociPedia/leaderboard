@@ -46,10 +46,10 @@
 |8|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/11/25|
 |11|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/27|
 |5|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|4|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|7|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |32|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/06/25|
 |21|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/28|
-|15|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/03/04|
+|16|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/03/04|
 |10|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/03/02|
 |4|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/11/29|
 |18|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/12/01|
@@ -62,7 +62,7 @@
 |35|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/29|
 |38|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |13|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/03/02|
-|12|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/03/03|
+|13|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/03/03|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

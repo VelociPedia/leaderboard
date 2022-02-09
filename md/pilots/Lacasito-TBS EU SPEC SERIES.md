@@ -18,10 +18,10 @@
 |51|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
 |49|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
 |46|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
+|46|TBS EU Spec Series 8 Race 7|Empty Scene Day|Mode2Ghost|2021/07/01|
 |45|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |44|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
-|43|TBS EU Spec Series 8 Race 7|Empty Scene Day|Mode2Ghost|2021/07/01|
-|41|TBS EU Spec Series 4 FINAL|Dynamic Weather|Mode2Ghost|2020/09/18|
+|42|TBS EU Spec Series 4 FINAL|Dynamic Weather|Mode2Ghost|2020/09/18|
 |40|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |34|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |31|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|

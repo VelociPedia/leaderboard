@@ -11,13 +11,13 @@
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|194|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
+|195|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
 |185|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/07/23|
 |174|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
 |165|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
 |163|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
 |156|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/07/13|
-|153|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/01/12|
+|154|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/01/12|
 |191|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
 |174|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 ---
@@ -34,7 +34,7 @@
 |93|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/07/01|
 |174|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 |163|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
-|194|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
+|195|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
 ---
 ### 31 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

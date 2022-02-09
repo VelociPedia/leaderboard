@@ -16,7 +16,7 @@
 |80|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
 |78|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
 |67|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/04/16|
-|59|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/07/09|
+|60|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/07/09|
 |56|TBS EU Spec Series 9 Race 1|Football Stadium|Ossa|2021/09/10|
 |44|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/02/03|
 |41|TBS EU Spec Series 5 Race 3|Dynamic Weather|CarbiXZero|2020/07/28|
@@ -29,7 +29,7 @@
 |:---:|:---|:---|:---:|:---:|
 |78|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
 |30|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/14|
-|29|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
+|30|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

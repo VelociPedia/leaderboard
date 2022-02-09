@@ -15,7 +15,7 @@
 |148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 |105|TBS EU Spec Series 6 Race 2|Empty Scene Day|Ossa|2021/02/28|
 |98|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
-|95|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/03|
+|97|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/03|
 |88|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/03/05|
 |85|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
 |84|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|

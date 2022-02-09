@@ -15,8 +15,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |22|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
-|20|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
-|18|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
+|21|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
+|19|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |18|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |17|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
 |17|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
@@ -31,7 +31,7 @@
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
+|21|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

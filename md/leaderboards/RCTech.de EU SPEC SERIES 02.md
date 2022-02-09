@@ -4,7 +4,7 @@
 |:---:|:---|:---:|:---|---:|
 |1|DirtyMuffin|7 tracks|397.786 s||
 |2|mv|7 tracks|413.495 s|+15.709|
-|3|vexsk|7 tracks|419.815 s|+22.029|
+|3|vexsk|7 tracks|419.131 s|+21.345|
 |4|Kosta|7 tracks|440.745 s|+42.959|
 |5|BrieflyFlying|7 tracks|443.088 s|+45.302|
 |6|DracFPV|7 tracks|452.083 s|+54.297|
@@ -22,7 +22,7 @@
 |18|wuzzle|7 tracks|555.039 s|+157.253|
 |19|MoScArDiNoInFaMe|7 tracks|557.305 s|+159.519|
 |20|Nofarkinidea|7 tracks|585.27 s|+187.484|
-|21|Bree|7 tracks|630.71 s|+232.924|
+|21|Bree|7 tracks|604.044 s|+206.258|
 |22|boAzoz|6 tracks|387.455 s||
 |23|knighthawk|6 tracks|392.199 s|+4.744|
 |24|PreacheRONE|6 tracks|404.391 s|+16.936|

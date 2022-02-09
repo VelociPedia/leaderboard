@@ -12,7 +12,7 @@
 |8|RCSwix|9 tracks|553.704 s|+48.372|
 |9|SIMRaiToR|9 tracks|554.678 s|+49.346|
 |10|slick_fpv|9 tracks|563.922 s|+58.590|
-|11|IonFPV|9 tracks|574.652 s|+69.320|
+|11|IonFPV|9 tracks|573.61 s|+68.278|
 |12|RipDaLip|9 tracks|577.912 s|+72.580|
 |13|Barnyard|9 tracks|586.861 s|+81.529|
 |14|HQBatuFPV|9 tracks|597.227 s|+91.895|
@@ -43,7 +43,7 @@
 |39|fape|9 tracks|746.754 s|+241.422|
 |40|talkrz|9 tracks|752.928 s|+247.596|
 |41|rafifly|9 tracks|753.584 s|+248.252|
-|42|Bree|9 tracks|785.352 s|+280.020|
+|42|Bree|9 tracks|754.259 s|+248.927|
 |43|00Hyper|8 tracks|459.266 s||
 |44|Lacasito|8 tracks|465.598 s|+6.332|
 |45|thehenker|8 tracks|474.249 s|+14.983|
@@ -78,7 +78,7 @@
 |74|iamwud|7 tracks|424.556 s|+23.991|
 |75|TCGundren_Fpv|7 tracks|425.338 s|+24.773|
 |76|HQJBox|7 tracks|437.023 s|+36.458|
-|77|TBSJ0SE|7 tracks|450.508 s|+49.943|
+|77|TheGuineaPigMaster|7 tracks|450.508 s|+49.943|
 |78|NelisFPV|7 tracks|453.079 s|+52.514|
 |79|HQlephro|7 tracks|468.506 s|+67.941|
 |80|skAt|7 tracks|473.475 s|+72.910|
@@ -112,7 +112,7 @@
 |108|Bubbows|6 tracks|471.92 s|+165.965|
 |109|DrChabFPVQE|6 tracks|481.76 s|+175.805|
 |110|SilverFoxUK|6 tracks|531.986 s|+226.031|
-|111|RoflcopterStL|6 tracks|557.351 s|+251.396|
+|111|RoflcopterStL|6 tracks|538.603 s|+232.648|
 |112|Lucky22|6 tracks|557.934 s|+251.979|
 |113|REZolution|6 tracks|597.824 s|+291.869|
 |114|Kosta|5 tracks|257.684 s||

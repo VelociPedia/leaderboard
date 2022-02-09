@@ -13,17 +13,17 @@
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|196|TBS EU Spec Series 5 Race 5|NEC Birmingham|CarbiXZero|2022/01/04|
+|197|TBS EU Spec Series 5 Race 5|NEC Birmingham|CarbiXZero|2022/01/04|
 |192|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/08/28|
 |178|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/08/13|
 |174|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
-|160|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
+|161|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
+|156|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2022/01/08|
 |155|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/06|
-|154|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2022/01/08|
 |113|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/08/28|
 |104|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/08/28|
+|175|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
 |175|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/28|
-|173|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
 |169|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
 ---
 ### 23 tracks where TBS SPEC quad was used
@@ -44,7 +44,7 @@
 |132|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/11|
 |109|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/10/08|
 |143|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/10/08|
-|153|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/10/08|
+|154|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/10/08|
 |91|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/10/08|
 |96|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/10/08|
 |117|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/10/08|
@@ -57,9 +57,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |155|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/06|
-|130|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/06/01|
-|173|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
-|109|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/07/12|
+|131|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/06/01|
+|175|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
+|110|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/07/12|
 |169|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
 |107|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/07/21|
 |101|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/07/28|

@@ -55,7 +55,7 @@
 |51|SzeryfxD|8 tracks|683.523 s|+180.175|
 |52|DAFFPV|8 tracks|686.494 s|+183.146|
 |53|wapfpv|8 tracks|690.692 s|+187.344|
-|54|Bree|8 tracks|706.566 s|+203.218|
+|54|Bree|8 tracks|699.748 s|+196.400|
 |55|Lacasito|7 tracks|446.915 s||
 |56|TBSgeek_fpv|7 tracks|458.348 s|+11.433|
 |57|karrson㋡|7 tracks|474.692 s|+27.777|
@@ -74,7 +74,7 @@
 |70|BlueWolfTFS|7 tracks|540.851 s|+93.936|
 |71|Bashikami|7 tracks|546.528 s|+99.613|
 |72|PTEREK|7 tracks|550.315 s|+103.400|
-|73|TBSJ0SE|7 tracks|553.674 s|+106.759|
+|73|TheGuineaPigMaster|7 tracks|553.674 s|+106.759|
 |74|Wesselfpv|7 tracks|571.465 s|+124.550|
 |75|TCDarksilver|7 tracks|574.673 s|+127.758|
 |76|mcrakus|7 tracks|578.282 s|+131.367|
