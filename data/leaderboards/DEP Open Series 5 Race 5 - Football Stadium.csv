@@ -3,7 +3,7 @@
 65.138,Kosta,Germany,Five33Switchback,2021/12/03
 66.549,TBSgeek_fpv,Italy,Ossa,2021/12/15
 68.502,TBSskAve,Germany,Five33Switchback,2021/12/15
-68.927,SIMQDRK,UnitedStates,Five33Switchback,2021/12/05
+68.927,DRONESITTERONLINEPIDTUNER,UnitedStates,Five33Switchback,2021/12/05
 69.232,BEARRACER,France,CarbiXZero,2021/12/08
 69.954,MARAHUTE,Italy,Chief,2021/12/08
 70.396,OliHawk,France,Yakuza,2021/12/06
@@ -15,6 +15,7 @@
 72.797,ChrisM,Denmark,CarbiXZero,2021/12/03
 75.617,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2021/12/02
 75.672,Gafannen,Slovakia,Five33Switchback,2022/01/14
+76.771,chogeRINTGF,Spain,Five33Switchback,2022/02/09
 76.957,GPW,France,AstroXSL5,2021/12/03
 77.171,ALPIFPV,UnitedStates,Five33Switchback,2021/12/07
 77.515,HQzephatalien,Australia,Five33Switchback,2021/12/13
@@ -27,7 +28,6 @@
 80.523,THESPIDERMAN,Germany,Five33Switchback,2021/12/14
 80.675,Tyg3r,UnitedStates,Five33Switchback,2021/12/06
 80.739,abcd1234,Japan,Five33Switchback,2021/12/05
-80.758,chogeRINTGF,Spain,Five33Switchback,2022/01/14
 81.424,TCDarksilver,Canada,Five33Switchback,2021/12/15
 81.943,Finzfpv,Unknown,Ossa,2021/12/10
 83.535,Barnyard,UnitedStates,Five33Switchback,2022/01/18
@@ -69,6 +69,7 @@
 97.779,BSV,RussianFederation,Five33Switchback,2021/12/11
 97.890,GoldenFpv,Israel,BMSJS-1,2021/12/08
 98.575,flightning,UnitedStates,Ossa,2022/01/18
+99.181,wsfpv,UnitedKingdom,Five33Switchback,2022/02/10
 99.620,SashPRO,Ukraine,Five33Switchback,2021/12/14
 99.650,ibor24,Switzerland,TBSSpec,2021/12/03
 99.850,cras,Finland,PandaCavity,2021/12/05
@@ -120,7 +121,7 @@
 123.294,BlueWolfTFS,Poland,Yakuza,2021/12/15
 124.423,2_hottie,UnitedStates,BMSJS-1,2021/12/14
 124.694,DragonFlyte,UnitedStates,TBSSpec,2021/12/11
-125.158,HQlephro,Germany,Ossa,2022/01/08
+125.158,HQlephroslowmode,Germany,Ossa,2022/01/08
 125.213,FPVNate,UnitedStates,Five33Switchback,2021/12/05
 125.267,Chichay,RussianFederation,Five33Switchback,2021/12/07
 125.433,FRNK1R4,Germany,Five33Switchback,2022/01/06
@@ -197,4 +198,3 @@
 191.804,PhilippeAlmeras,Canada,Five33Switchback,2021/12/14
 192.034,Leonardo_A,Unknown,TBSSpec,2021/12/16
 193.845,LOLTOP1&lt;,RussianFederation,TwigXL3,2021/12/17
-197.802,kasapon,Japan,SkyXKiller,2021/12/04
