@@ -2,6 +2,12 @@
 
 all: tbs dep vrl multigp quadrivals rookies maionhigh boners
 
+clean:
+	rm data/pilots/*
+	rm data/ranking/*
+	rm md/leaderboards/*
+	rm md/pilots/*
+	
 tbs:
 	./getcollection.zsh "TBS EU SPEC SERIES.csv"
 	./makerank.zsh "TBS EU SPEC SERIES.csv"
