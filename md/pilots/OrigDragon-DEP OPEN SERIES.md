@@ -9,7 +9,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |152|DEP Spec Series 1 Race 5|Football Stadium|CarbiXZero|2020/10/17|
-|92|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/17|
+|93|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/17|
 |79|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/11|
 |137|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/07|
 ---
@@ -25,12 +25,12 @@
 |96|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/03/01|
 |104|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/08|
 |79|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/11|
-|77|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/04/18|
-|74|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/18|
-|92|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/17|
-|74|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/18|
+|78|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/04/18|
+|75|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/18|
+|93|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/17|
+|75|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/18|
 |59|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/04/27|
-|86|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/16|
+|87|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/16|
 |83|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/16|
 |81|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/06/05|
 ---

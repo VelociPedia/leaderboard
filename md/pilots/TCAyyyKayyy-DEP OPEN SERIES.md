@@ -10,8 +10,8 @@
 |:---:|:---|:---|:---:|:---:|
 |177|DEP Open Series 5 Race 3|Football Stadium|Ossa|2021/11/18|
 |70|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/15|
-|46|DEP Open Series 4 Race 1|Football Stadium|Ossa|2021/04/01|
-|31|DEP Open Series 4 Race 3|Football Stadium|Ossa|2021/04/16|
+|47|DEP Open Series 4 Race 1|Football Stadium|Ossa|2021/04/01|
+|32|DEP Open Series 4 Race 3|Football Stadium|Ossa|2021/04/16|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

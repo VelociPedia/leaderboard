@@ -8,17 +8,17 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |145|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/01/10|
-|96|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/07|
+|97|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/07|
 |82|DEP Open Series 3 Race 6|Football Stadium|CarbiXZero|2021/03/10|
 ---
 ### 7 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |179|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/06|
-|81|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/17|
-|90|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
-|96|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/07|
-|115|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/21|
+|82|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/17|
+|91|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
+|97|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/07|
+|116|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/21|
 |76|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/04/21|
 |145|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/01/10|
 ---

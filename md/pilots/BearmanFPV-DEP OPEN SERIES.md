@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |31|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/29|
-|42|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/29|
+|43|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/29|
 |53|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/07|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
@@ -10,7 +10,7 @@
 |:---:|:---|:---|:---:|:---:|
 |187|DEP Open Series 5 Race 3|Football Stadium|Five33Switchback|2021/11/17|
 |122|DEP Open Series 3 Race 3|Karting Track|Ossa|2021/03/03|
-|108|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
+|109|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
 |74|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/10|
 ---
 ### 10 tracks where TBS SPEC quad was used
@@ -19,9 +19,9 @@
 |58|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
 |86|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
 |74|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/10|
-|91|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
-|108|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
-|42|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/29|
+|92|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
+|109|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
+|43|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/29|
 |56|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/09/13|
 |54|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/11/03|
 |53|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/07|

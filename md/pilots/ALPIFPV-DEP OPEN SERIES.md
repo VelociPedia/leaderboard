@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |12|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/10/07|
 |17|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2021/11/21|
-|17|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/09/24|
+|18|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/09/24|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

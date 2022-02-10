@@ -8,9 +8,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |19|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/27|
+|13|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/04/17|
+|12|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/30|
 |12|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/06|
-|12|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/04/17|
-|12|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2021/05/26|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -21,7 +21,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |19|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/27|
-|11|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/30|
+|12|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/30|
 ---
 ### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

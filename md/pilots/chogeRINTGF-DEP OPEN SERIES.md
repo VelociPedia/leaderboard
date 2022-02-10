@@ -1,15 +1,15 @@
 ### Best 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|30|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2022/01/14|
+|18|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2022/02/09|
 |32|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2022/01/06|
 |33|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2022/01/14|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|111|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/12/23|
-|77|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2022/01/13|
+|112|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/12/23|
+|78|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2022/01/13|
 |63|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/12/23|
 |117|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2022/01/28|
 |112|DEP Open Series 4 Race 5|Football Stadium|Five33Switchback|2021/11/19|

@@ -19,7 +19,7 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|88|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/02/10|
+|89|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/02/10|
 |113|DEP Open Series 3 Race 4|Football Stadium|CarbiXZero|2021/02/24|
 ---
 ### 10 tracks without data (200+ or not in leaderboard)

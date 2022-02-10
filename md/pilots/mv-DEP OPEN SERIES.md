@@ -22,8 +22,8 @@
 |32|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
 |35|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/08/09|
 |31|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/09/15|
-|26|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/10/18|
-|14|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/10/19|
+|27|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/10/18|
+|15|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/10/19|
 |34|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/10/27|
 |62|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
 ---
@@ -33,7 +33,7 @@
 |32|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
 |35|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/08/09|
 |31|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/09/15|
-|26|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/10/18|
+|27|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/10/18|
 ---
 ### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
