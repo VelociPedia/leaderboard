@@ -1,13 +1,13 @@
 # [pilotleaderboard=0]
 # [seriesleaderboard=1]
 
-# TBS EU Spec Series 4 - Track 1 & 6 are missing from leaderboard, but there are two track that might be them
+# TBS EU Spec Series 4 - Track 6 is missing from leaderboard
 
 EU Spec Season 4 Race 1,Football Stadium
 TBS EU Spec Series 4 Race 2,Empty Scene Day
 TBS EU Spec Series 4 Race 3,IndoorGoKart
 TBS EU Spec Series 4 Race 4,Empty Scene Day
 TBS EU Spec Series 4 Race 5,Dynamic Weather
-EU Spec - Doom Dive Dome,Empty Scene Day
+# S4R6 was on Night Factory 1 Scene. It isnt there anymore.
 TBS EU Spec Series 4 Race 7,Football Stadium
 TBS EU Spec Series 4 FINAL,Dynamic Weather
