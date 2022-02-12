@@ -15,6 +15,8 @@ tbs:
 	./makerank.zsh "RCTech.de EU SPEC SERIES 02.csv"
 	./getcollection.zsh "RCTech.de EU SPEC SERIES 03.csv"
 	./makerank.zsh "RCTech.de EU SPEC SERIES 03.csv"
+	./getcollection.zsh "TBS EU SPEC SERIES 04.csv"
+	./makerank.zsh "TBS EU SPEC SERIES 04.csv"
 	./getcollection.zsh "TBS EU SPEC SERIES 05.csv"
 	./makerank.zsh "TBS EU SPEC SERIES 05.csv"
 	./getcollection.zsh "TBS EU SPEC SERIES 06.csv"
