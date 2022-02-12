@@ -12,16 +12,16 @@
 |88|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/04/17|
 |117|DEP Open Pop-Up 2|Dynamic Weather|BMSJS-1|2021/07/06|
 ---
-### 1 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-||||||
----
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |88|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/04/17|
 |108|DEP Open Series 4 Race 3|Football Stadium|BMSJS-1|2021/04/17|
+---
+### 1 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+||||||
 ---
 ### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

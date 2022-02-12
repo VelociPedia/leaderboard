@@ -21,11 +21,6 @@
 |84|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|
 |83|TBS EU Spec Series 6 Race 4|NEC Birmingham|Ossa|2021/02/28|
 ---
-### 1 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-|148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
----
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
@@ -36,7 +31,12 @@
 |73|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
 |41|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|
 ---
-### 32 tracks without data (200+ or not in leaderboard)
+### 1 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+|148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
+---
+### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -52,6 +52,7 @@
 |RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|
 |RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|
+|EU Spec Season 4 Race 1|Football Stadium|
 |TBS EU Spec Series 4 Race 2|Empty Scene Day|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
 |TBS EU Spec Series 4 Race 4|Empty Scene Day|

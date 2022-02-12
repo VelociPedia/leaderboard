@@ -23,6 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,85,105.774,MX_BIGRAMON,Germany,TBSSpec
 DEP Open Series 5 Race 6,Football Stadium,69,78.074,MX_BIGRAMON,Germany,Mode2Ghost,2021/12/22
 DEP Open Series 5 Race 7,Football Stadium,46,97.868,MX_BIGRAMON,Germany,Mode2Ghost,2021/12/22
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,MX_BIGRAMON,NO_DATA
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,MX_BIGRAMON,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,49,70.371,MX_BIGRAMON,Germany,TBSSpec,2021/03/24
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,MX_BIGRAMON,NO_DATA
@@ -36,14 +37,14 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DAT
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,80,84.171,MX_BIGRAMON,Germany,TBSSpec,2020/04/09
-TBS EU Spec Season 5 Race 1,Football Stadium,145,68.730,MX_BIGRAMON,Germany,TBSSpec,2022/02/02
-TBS EU Spec Series 10 Race 1,Football Stadium,39,61.261,MX_BIGRAMON,Germany,TBSSpec,2021/12/02
+TBS EU Spec Season 5 Race 1,Football Stadium,147,68.730,MX_BIGRAMON,Germany,TBSSpec,2022/02/02
+TBS EU Spec Series 10 Race 1,Football Stadium,40,61.261,MX_BIGRAMON,Germany,TBSSpec,2021/12/02
 TBS EU Spec Series 10 Race 2,Empty Scene Day,46,65.728,MX_BIGRAMON,Germany,TBSSpec,2021/12/09
 TBS EU Spec Series 10 Race 3,Night Factory 2,90,84.205,MX_BIGRAMON,Germany,TBSSpec,2021/12/22
 TBS EU Spec Series 10 Race 4,Dynamic Weather,27,64.020,MX_BIGRAMON,Germany,TBSSpec,2022/01/07
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,34,58.017,MX_BIGRAMON,Germany,TBSSpec,2022/01/20
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,35,58.017,MX_BIGRAMON,Germany,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,19,34.712,MX_BIGRAMON,Germany,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,20,69.439,MX_BIGRAMON,Germany,TBSSpec,2022/02/03
+TBS EU Spec Series 10 Race 7,Football Stadium,22,69.439,MX_BIGRAMON,Germany,TBSSpec,2022/02/03
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,MX_BIGRAMON,NO_DATA
@@ -53,13 +54,13 @@ TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,MX_BIGRAMON,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,131,97.748,MX_BIGRAMON,Germany,TBSSpec,2020/07/30
+TBS EU Spec Series 5 Race 4,Football Stadium,132,97.748,MX_BIGRAMON,Germany,TBSSpec,2020/07/30
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,MX_BIGRAMON,NO_DATA
-TBS EU Spec Series 6 Losers Final,Football Stadium,52,73.106,MX_BIGRAMON,Germany,TBSSpec,2021/04/08
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,91,76.167,MX_BIGRAMON,Germany,TBSSpec,2020/09/24
+TBS EU Spec Series 6 Losers Final,Football Stadium,53,73.106,MX_BIGRAMON,Germany,TBSSpec,2021/04/08
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,92,76.167,MX_BIGRAMON,Germany,TBSSpec,2020/09/24
 TBS EU Spec Series 6 Race 2,Empty Scene Day,158,80.604,MX_BIGRAMON,Germany,TBSSpec,2020/10/01
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,MX_BIGRAMON,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,98,94.690,MX_BIGRAMON,Germany,TBSSpec,2020/11/05

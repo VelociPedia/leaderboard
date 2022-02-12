@@ -11,16 +11,16 @@
 |72|DEP Open Series 2 Race 7|Football Stadium|CarbiXZero|2021/03/28|
 |141|DEP Open Series 4 Race 7|Football Stadium|CarbiXZero|2021/05/28|
 ---
-### 1 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-||||||
----
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |89|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/02/10|
 |113|DEP Open Series 3 Race 4|Football Stadium|CarbiXZero|2021/02/24|
+---
+### 1 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+||||||
 ---
 ### 10 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

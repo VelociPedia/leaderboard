@@ -11,13 +11,13 @@
 |142|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/10/20|
 |136|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/04/23|
 ---
-### 2 tracks where TBS SPEC quad was used
+### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |123|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/15|
 |136|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/04/23|
 ---
-### Oldest 2 personal best
+### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |123|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/15|

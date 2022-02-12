@@ -23,6 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,31,81.424,TCDarksilver,Canada,Five33Sw
 DEP Open Series 5 Race 6,Football Stadium,48,72.840,TCDarksilver,Canada,Five33Switchback,2021/12/26
 DEP Open Series 5 Race 7,Football Stadium,47,98.301,TCDarksilver,Canada,Five33Switchback,2021/12/31
 DEP Spec Series 1 Race 5,Football Stadium,70,99.136,TCDarksilver,Canada,TBSSpec,2021/05/11
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,TCDarksilver,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,150,84.235,TCDarksilver,Canada,Five33Switchback,2021/01/16
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,136,91.943,TCDarksilver,Canada,Five33Switchback,2020/07/06
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,TCDarksilver,NO_DATA
@@ -43,23 +44,23 @@ TBS EU Spec Series 10 Race 3,Night Factory 2,82,82.268,TCDarksilver,Canada,Five3
 TBS EU Spec Series 10 Race 4,Dynamic Weather,58,70.293,TCDarksilver,Canada,Five33Switchback,2022/01/13
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,59,66.575,TCDarksilver,Canada,Five33Switchback,2022/01/22
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,TCDarksilver,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,37,73.089,TCDarksilver,Canada,TBSSpec,2022/02/07
+TBS EU Spec Series 10 Race 7,Football Stadium,41,73.089,TCDarksilver,Canada,TBSSpec,2022/02/07
 TBS EU Spec Series 4 FINAL,Dynamic Weather,91,92.971,TCDarksilver,Canada,TBSSpec,2021/04/24
 TBS EU Spec Series 4 Race 2,Empty Scene Day,114,73.817,TCDarksilver,Canada,TBSSpec,2021/04/23
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,TCDarksilver,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,200,109.502,TCDarksilver,Canada,TBSSpec,2020/09/11
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,TCDarksilver,NO_DATA
-TBS EU Spec Series 4 Race 7,Football Stadium,105,80.119,TCDarksilver,Canada,TBSSpec,2022/02/09
-TBS EU Spec Series 5 FINAL,Dynamic Weather,120,100.171,TCDarksilver,Canada,TBSSpec,2020/09/12
+TBS EU Spec Series 4 Race 7,Football Stadium,68,74.379,TCDarksilver,Canada,TBSSpec,2022/02/09
+TBS EU Spec Series 5 FINAL,Dynamic Weather,121,100.171,TCDarksilver,Canada,TBSSpec,2020/09/12
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,100,91.650,TCDarksilver,Canada,TBSSpec,2020/09/13
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,TCDarksilver,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,145,101.429,TCDarksilver,Canada,TBSSpec,2020/08/05
+TBS EU Spec Series 5 Race 4,Football Stadium,54,82.660,TCDarksilver,Canada,TBSSpec,2022/02/09
 TBS EU Spec Series 5 Race 5,NEC Birmingham,110,87.359,TCDarksilver,Canada,TBSSpec,2020/08/10
 TBS EU Spec Series 5 Race 6,Dynamic Weather,133,85.261,TCDarksilver,Canada,TBSSpec,2021/06/27
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,TCDarksilver,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,130,94.935,TCDarksilver,Canada,TBSSpec,2020/12/04
-TBS EU Spec Series 6 Losers Final,Football Stadium,82,78.068,TCDarksilver,Canada,Five33Switchback,2020/11/29
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,89,76.099,TCDarksilver,Canada,Ossa,2020/09/29
+TBS EU Spec Series 6 Final,Empty Scene Day,132,94.935,TCDarksilver,Canada,TBSSpec,2020/12/04
+TBS EU Spec Series 6 Losers Final,Football Stadium,40,71.540,TCDarksilver,Canada,TBSSpec,2022/02/10
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,90,76.099,TCDarksilver,Canada,Ossa,2020/09/29
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,TCDarksilver,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,90,84.798,TCDarksilver,Canada,TBSSpec,2020/11/02
 TBS EU Spec Series 6 Race 5,Dynamic Weather,154,109.840,TCDarksilver,Canada,Five33Switchback,2020/11/07
@@ -75,7 +76,7 @@ TBS EU Spec Series 7 Race 6,Future Hangar Empty,97,78.440,TCDarksilver,Canada,Fi
 TBS EU Spec Series 7 Race 7,Empty Scene Day,94,84.311,TCDarksilver,Canada,TBSSpec,2021/03/17
 TBS EU Spec Series 8 Final,Dynamic Weather,65,85.765,TCDarksilver,Canada,TBSSpec,2021/07/09
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,79,66.346,TCDarksilver,Canada,TBSSpec,2021/07/01
-TBS EU Spec Series 8 Race 1,Dynamic Weather,93,83.895,TCDarksilver,Canada,TBSSpec,2021/03/20
+TBS EU Spec Series 8 Race 1,Dynamic Weather,98,83.895,TCDarksilver,Canada,TBSSpec,2021/03/20
 TBS EU Spec Series 8 Race 2,Empty Scene Night,71,81.713,TCDarksilver,Canada,TBSSpec,2021/03/30
 TBS EU Spec Series 8 Race 3,Football Stadium,66,63.431,TCDarksilver,Canada,TBSSpec,2021/08/15
 TBS EU Spec Series 8 Race 4,Empty Scene Day,108,86.261,TCDarksilver,Canada,TBSSpec,2021/05/17
@@ -85,9 +86,9 @@ TBS EU Spec Series 8 Race 7,Empty Scene Day,76,78.330,TCDarksilver,Canada,TBSSpe
 TBS EU Spec Series 9 Final,Dynamic Weather,63,65.312,TCDarksilver,Canada,Five33Switchback,2021/11/13
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,37,64.696,TCDarksilver,Canada,Five33Switchback,2021/11/13
 TBS EU Spec Series 9 Race 1,Football Stadium,88,64.888,TCDarksilver,Canada,TBSSpec,2021/09/16
-TBS EU Spec Series 9 Race 2,Dynamic Weather,88,62.223,TCDarksilver,Canada,TBSSpec,2021/09/21
+TBS EU Spec Series 9 Race 2,Dynamic Weather,89,62.223,TCDarksilver,Canada,TBSSpec,2021/09/21
 TBS EU Spec Series 9 Race 3,Empty Scene Day,77,67.453,TCDarksilver,Canada,TBSSpec,2021/09/29
 TBS EU Spec Series 9 Race 4,Football Stadium,999,999.999,TCDarksilver,NO_DATA
-TBS EU Spec Series 9 Race 5,Empty Scene Day,97,74.136,TCDarksilver,Canada,TBSSpec,2021/10/10
-TBS EU Spec Series 9 Race 6,Empty Scene Day,91,81.071,TCDarksilver,Canada,Five33Switchback,2021/10/25
+TBS EU Spec Series 9 Race 5,Empty Scene Day,98,74.136,TCDarksilver,Canada,TBSSpec,2021/10/10
+TBS EU Spec Series 9 Race 6,Empty Scene Day,92,81.071,TCDarksilver,Canada,Five33Switchback,2021/10/25
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,TCDarksilver,NO_DATA

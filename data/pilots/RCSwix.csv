@@ -12,6 +12,7 @@ DEP Open Series 4 Race 4,Football Stadium,21,75.265,RCSwix,RussianFederation,Mod
 DEP Open Series 4 Race 5,Football Stadium,27,60.236,RCSwix,RussianFederation,Mode2Ghost,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,18,61.809,RCSwix,RussianFederation,Mode2Ghost,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,26,62.377,RCSwix,RussianFederation,Mode2Ghost,2021/05/27
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,RCSwix,NO_DATA
@@ -25,12 +26,12 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,78,83.177,RCSwix,RussianFederation,TBSSpec,2020/04/09
-TBS EU Spec Season 5 Race 1,Football Stadium,155,69.188,RCSwix,RussianFederation,TBSSpec,2020/07/09
+TBS EU Spec Season 5 Race 1,Football Stadium,157,69.188,RCSwix,RussianFederation,TBSSpec,2020/07/09
 TBS EU Spec Series 10 Race 1,Football Stadium,12,55.374,RCSwix,RussianFederation,Mode2Ghost,2021/12/16
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,RCSwix,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,RCSwix,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,34,65.110,RCSwix,RussianFederation,TBSSpec,2022/01/20
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,35,58.708,RCSwix,RussianFederation,TBSSpec,2022/01/20
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,37,58.708,RCSwix,RussianFederation,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,17,34.402,RCSwix,RussianFederation,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,RCSwix,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,76,90.188,RCSwix,RussianFederation,TBSSpec,2020/06/25
@@ -38,16 +39,16 @@ TBS EU Spec Series 4 Race 2,Empty Scene Day,136,75.883,RCSwix,RussianFederation,
 TBS EU Spec Series 4 Race 3,IndoorGoKart,42,102.893,RCSwix,RussianFederation,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,84,87.430,RCSwix,RussianFederation,TBSSpec,2020/05/28
 TBS EU Spec Series 4 Race 5,Dynamic Weather,97,97.434,RCSwix,RussianFederation,TBSSpec,2020/06/04
-TBS EU Spec Series 4 Race 7,Football Stadium,138,83.250,RCSwix,RussianFederation,TBSSpec,2020/06/18
+TBS EU Spec Series 4 Race 7,Football Stadium,139,83.250,RCSwix,RussianFederation,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,RCSwix,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,59,83.031,RCSwix,RussianFederation,TBSSpec,2020/09/03
 TBS EU Spec Series 5 Race 3,Dynamic Weather,72,78.260,RCSwix,RussianFederation,TBSSpec,2020/07/23
-TBS EU Spec Series 5 Race 4,Football Stadium,80,87.410,RCSwix,RussianFederation,TBSSpec,2020/07/30
+TBS EU Spec Series 5 Race 4,Football Stadium,81,87.410,RCSwix,RussianFederation,TBSSpec,2020/07/30
 TBS EU Spec Series 5 Race 5,NEC Birmingham,73,77.908,RCSwix,RussianFederation,TBSSpec,2020/08/06
 TBS EU Spec Series 5 Race 6,Dynamic Weather,76,75.382,RCSwix,RussianFederation,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,RCSwix,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,58,85.386,RCSwix,RussianFederation,TBSSpec,2020/12/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,49,72.772,RCSwix,RussianFederation,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Final,Empty Scene Day,60,85.386,RCSwix,RussianFederation,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Losers Final,Football Stadium,50,72.772,RCSwix,RussianFederation,TBSSpec,2020/12/03
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,5,60.570,RCSwix,RussianFederation,Mode2Ghost,2021/02/09
 TBS EU Spec Series 6 Race 2,Empty Scene Day,13,64.701,RCSwix,RussianFederation,Mode2Ghost,2021/02/14
 TBS EU Spec Series 6 Race 4,NEC Birmingham,6,57.514,RCSwix,RussianFederation,Mode2Ghost,2021/02/16
@@ -78,7 +79,7 @@ TBS EU Spec Series 9 Race 2,Dynamic Weather,49,57.086,RCSwix,RussianFederation,T
 TBS EU Spec Series 9 Race 3,Empty Scene Day,45,61.292,RCSwix,RussianFederation,TBSSpec,2021/09/23
 TBS EU Spec Series 9 Race 4,Football Stadium,31,65.798,RCSwix,RussianFederation,TBSSpec,2021/09/30
 TBS EU Spec Series 9 Race 5,Empty Scene Day,51,66.929,RCSwix,RussianFederation,TBSSpec,2021/10/07
-TBS EU Spec Series 9 Race 6,Empty Scene Day,4,58.414,RCSwix,RussianFederation,Mode2Ghost,2021/11/05
+TBS EU Spec Series 9 Race 6,Empty Scene Day,5,58.414,RCSwix,RussianFederation,Mode2Ghost,2021/11/05
 TBS EU Spec Series 9 Race 7,NEC Birmingham,23,62.452,RCSwix,RussianFederation,TBSSpec,2021/10/28
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,1,20.147,RCSwix,RussianFederation,Mode2Ghost,2022/01/09
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,3,25.249,RCSwix,RussianFederation,Mode2Ghost,2022/01/01

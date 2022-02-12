@@ -1,95 +1,96 @@
 ### TBS EU SPEC SERIES RANKING
-*68 tracks included from [collections/TBS EU SPEC SERIES.csv](/collections/TBS%20EU%20SPEC%20SERIES.csv)*
-|RANK|PILOT|COMPLETED|TIME|DELTA|
-|:---:|:---|:---:|:---|---:|
-|1|Bree|68 tracks|5978.204 s||
-|2|mv|66 tracks|4458.005 s||
-|3|Saqoosha|66 tracks|4830.274 s|+372.269|
-|4|Gafannen|65 tracks|4638.272 s||
-|5|Smurf47akaUlrik|65 tracks|4711.049 s|+72.777|
-|6|DAFFPV|64 tracks|5194.381 s||
-|7|AliB㋡|63 tracks|4921.588 s||
-|8|MegaHurts|62 tracks|4521.984 s||
-|9|SmokyFPV|61 tracks|4395.415 s||
-|10|Barnyard|61 tracks|4772.641 s|+377.226|
-|11|BearmanFPV|60 tracks|4652.047 s||
-|12|ETERNAL☆Star23467|57 tracks|3988.021 s||
-|13|KPV|57 tracks|4057.934 s|+69.913|
-|14|TCNMGrower|57 tracks|4357.888 s|+369.867|
-|15|TriBull|57 tracks|4451.797 s|+463.776|
-|16|mcrakus|57 tracks|4896.939 s|+908.918|
-|17|Kosta|56 tracks|3585.326 s||
-|18|TCGundren_Fpv|56 tracks|4068.403 s|+483.077|
-|19|HQBatuFPV|56 tracks|4173.086 s|+587.760|
-|20|DirtyMuffin|55 tracks|3418.446 s||
-|21|M4TTFPV|55 tracks|4335.318 s|+916.872|
-|22|TCDarksilver|55 tracks|4439.983 s|+1021.537|
-|23|FPVFPVINEEDTOGETFASTER|54 tracks|3531.647 s||
-|24|ETERNAL☆BURAK|53 tracks|3663.708 s||
-|25|skAt|52 tracks|3737.579 s||
-|26|loufpv|52 tracks|3763.642 s|+26.063|
-|27|knighthawk|52 tracks|3800.78 s|+63.201|
-|28|SzeryfxD|52 tracks|4366.063 s|+628.484|
-|29|RCSwix|51 tracks|3545.705 s||
-|30|NelisFPV|51 tracks|3841.167 s|+295.462|
-|31|WeeklyPlayer1|51 tracks|3843.302 s|+297.597|
-|32|OrangutanFPV|51 tracks|4341.151 s|+795.446|
-|33|TCEuLeR|50 tracks|3253.152 s||
-|34|KarachoFPV|50 tracks|4120.328 s|+867.176|
-|35|MattiZ|50 tracks|4143.805 s|+890.653|
-|36|Lacasito|49 tracks|3205.756 s||
-|37|Guile|49 tracks|3842.392 s|+636.636|
-|38|frteskesc|49 tracks|4223.723 s|+1017.967|
-|39|HQBurkanBiceps|48 tracks|3145.542 s||
-|40|JWWFPV|48 tracks|4187.35 s|+1041.808|
-|41|RobSi|48 tracks|4236.428 s|+1090.886|
-|42|DracFPV|47 tracks|3253.399 s||
-|43|ALPIFPV|47 tracks|3314.801 s|+61.402|
-|44|DeMoNse3d|47 tracks|3925.447 s|+672.048|
-|45|ibor24|47 tracks|4226.413 s|+973.014|
-|46|TCAyyyKayyy|46 tracks|3040.763 s||
-|47|ETERNAL☆ATAKAN|46 tracks|3069.946 s|+29.183|
-|48|HQlephro|45 tracks|3229.179 s||
-|49|Ninjakat|44 tracks|3465.426 s||
-|50|CALFPV|44 tracks|3537.378 s|+71.952|
-|51|Bubbows|44 tracks|3578.233 s|+112.807|
-|52|LukeS|44 tracks|3840.637 s|+375.211|
-|53|vexsk|43 tracks|3005.4 s||
-|54|AlexeyStn_Overpass|43 tracks|3131.991 s|+126.591|
-|55|Johnn|43 tracks|3510.944 s|+505.544|
-|56|LOSLobo|43 tracks|3601.895 s|+596.495|
-|57|Bashikami|42 tracks|3361.893 s||
-|58|ETERNAL☆GOODVIBES|42 tracks|3630.564 s|+268.671|
-|59|RaceRat|42 tracks|3671.625 s|+309.732|
-|60|WerdnaFPV|41 tracks|2722.303 s||
-|61|Deviled90|41 tracks|3161.549 s|+439.246|
-|62|BatmanFPV|41 tracks|3369.634 s|+647.331|
-|63|Snowyeti|41 tracks|3379.188 s|+656.885|
-|64|antonig|40 tracks|2550.427 s||
-|65|Mazak|40 tracks|2790.681 s|+240.254|
-|66|IonFPV|40 tracks|2850.594 s|+300.167|
-|67|Ryżu|39 tracks|3050.359 s||
-|68|TheGuineaPigMaster|39 tracks|3085.426 s|+35.067|
-|69|ChainsawFPV|39 tracks|3786.281 s|+735.922|
-|70|JuhtiPuhti|38 tracks|2655.177 s||
-|71|thehenker|38 tracks|2725.775 s|+70.598|
-|72|obeny|38 tracks|3099.137 s|+443.960|
-|73|NelsonFpv|38 tracks|3304.51 s|+649.333|
-|74|stogie|38 tracks|3563.603 s|+908.426|
-|75|TCPaco|37 tracks|2763.406 s||
-|76|RIVALSKneeDown|37 tracks|2933.76 s|+170.354|
-|77|BONADI|37 tracks|3061.811 s|+298.405|
-|78|VitalyMi85|37 tracks|3250.501 s|+487.095|
-|79|TFSFlam|37 tracks|3435.124 s|+671.718|
-|80|SIMSebaFPV|36 tracks|2507.179 s||
-|81|slick_fpv|36 tracks|2582.234 s|+75.055|
-|82|MX_BIGRAMON|36 tracks|2664.676 s|+157.497|
-|83|Bercik11palcow|36 tracks|3078.047 s|+570.868|
-|84|JB|36 tracks|3106.841 s|+599.662|
-|85|NotSure|36 tracks|3449.842 s|+942.663|
-|86|Musilex|36 tracks|3456.921 s|+949.742|
-|87|RustyDollar|35 tracks|2364.513 s||
-|88|SwEnglishFPV|35 tracks|2630.751 s|+266.238|
-|89|ReSp4wN|35 tracks|2693.663 s|+329.150|
-|90|BadSpeed|35 tracks|2860.673 s|+496.160|
-|91|JR138|35 tracks|3252.268 s|+887.755|
+*69 tracks included from [collections/TBS EU SPEC SERIES.csv](/collections/TBS%20EU%20SPEC%20SERIES.csv)*
+|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|:---:|:---|:---:|:---:|:---:|---:|
+|1|Bree|145.878|**47 / 69**|6063.148 s||
+|2|mv|111.635|**51 / 67**|4554.821 s||
+|3|Saqoosha|120.852|65 / 67| 4935.425 s|+380.604|
+|4|Gafannen|118.746|**7 / 66**|4724.643 s||
+|5|Smurf47akaUlrik|119.715|34 / 66| 4804.156 s|+79.513|
+|6|DAFFPV|135.286|**16 / 65**|5295.163 s||
+|7|AliB㋡|129.467|**64 / 64**|5020.730 s||
+|8|MegaHurts|119.952|**27 / 63**|4610.001 s||
+|9|SmokyFPV|119.088|**62 / 62**|4480.000 s||
+|10|Barnyard|128.722|15 / 62| 4866.494 s|+386.494|
+|11|BearmanFPV|129.119|**59 / 61**|4758.210 s||
+|12|Kosta|106.115|**32 / 58**|3734.711 s||
+|13|ETERNAL☆Star23467|115.493|57 / 58| 4078.389 s|+343.678|
+|14|KPV|116.537|48 / 58| 4135.116 s|+400.405|
+|15|TCNMGrower|124.027|51 / 58| 4441.377 s|+706.666|
+|16|TriBull|128.901|58 / 58| 4543.186 s|+808.475|
+|17|TCGundren_Fpv|117.556|**51 / 57**|4155.239 s||
+|18|mcrakus|138.026|55 / 57| 4853.925 s|+698.686|
+|19|DirtyMuffin|101.146|**1 / 56**|3492.301 s||
+|20|FPVFPVINEEDTOGETFASTER|111.650|5 / 56| 3680.041 s|+187.740|
+|21|HQBatuFPV|124.558|37 / 56| 4173.086 s|+680.785|
+|22|M4TTFPV|129.592|56 / 56| 4434.311 s|+942.010|
+|23|TCDarksilver|133.210|**33 / 55**|4408.946 s||
+|24|ETERNAL☆BURAK|113.696|**38 / 53**|3663.607 s||
+|25|skAt|123.154|30 / 53| 3820.279 s|+156.672|
+|26|loufpv|119.826|13 / 53| 3856.185 s|+192.578|
+|27|knighthawk|117.649|53 / 53| 3883.378 s|+219.771|
+|28|NelisFPV|124.432|41 / 53| 3999.923 s|+336.316|
+|29|SzeryfxD|143.207|**43 / 52**|4366.063 s||
+|30|TCEuLeR|110.768|**20 / 51**|3353.426 s||
+|31|RCSwix|115.437|36 / 51| 3545.705 s|+192.279|
+|32|WeeklyPlayer1|123.894|43 / 51| 3843.302 s|+489.876|
+|33|KarachoFPV|132.117|5 / 51| 4220.170 s|+866.744|
+|34|MattiZ|139.103|0 / 51| 4249.298 s|+895.872|
+|35|Lacasito|107.722|**9 / 50**|3280.492 s||
+|36|Guile|125.518|50 / 50| 3935.030 s|+654.538|
+|37|OrangutanFPV|137.948|50 / 50| 4230.803 s|+950.311|
+|38|HQBurkanBiceps|110.214|**31 / 49**|3231.590 s||
+|39|frteskesc|145.008|1 / 49| 4223.723 s|+992.133|
+|40|JWWFPV|145.565|23 / 49| 4287.451 s|+1055.861|
+|41|DracFPV|112.300|**41 / 48**|3337.171 s||
+|42|DeMoNse3d|142.010|42 / 48| 4021.476 s|+684.305|
+|43|RobSi|149.254|5 / 48| 4237.496 s|+900.325|
+|44|ibor24|150.618|32 / 48| 4325.362 s|+988.191|
+|45|TCAyyyKayyy|110.168|**3 / 47**|3115.720 s||
+|46|ETERNAL☆ATAKAN|109.034|38 / 47| 3145.911 s|+30.191|
+|47|ALPIFPV|116.878|18 / 47| 3314.801 s|+199.081|
+|48|HQlephroslowmode|119.133|**32 / 45**|3229.179 s||
+|49|CALFPV|128.306|14 / 45| 3631.201 s|+402.022|
+|50|Bubbows|134.028|44 / 45| 3670.780 s|+441.601|
+|51|vexsk|114.475|**19 / 44**|3094.060 s||
+|52|AlexeyStn_Overpass|119.547|12 / 44| 3211.512 s|+117.452|
+|53|Ninjakat|128.020|30 / 44| 3465.426 s|+371.366|
+|54|Snowyeti|141.388|41 / 44| 3647.662 s|+553.602|
+|55|LOSLobo|136.784|44 / 44| 3691.366 s|+597.306|
+|56|LukeS|145.754|15 / 44| 3835.418 s|+741.358|
+|57|Bashikami|133.467|**35 / 43**|3458.240 s||
+|58|Johnn|134.551|21 / 43| 3510.944 s|+52.704|
+|59|ETERNAL☆GOODVIBES|144.555|32 / 43| 3726.573 s|+268.333|
+|60|WerdnaFPV|110.885|**9 / 42**|2805.323 s||
+|61|RaceRat|144.495|42 / 42| 3671.625 s|+866.302|
+|62|Mazak|109.985|**38 / 41**|2873.146 s||
+|63|Deviled90|133.268|25 / 41| 3161.549 s|+288.403|
+|64|BatmanFPV|140.751|41 / 41| 3369.634 s|+496.488|
+|65|antonig|108.897|**14 / 40**|2550.427 s||
+|66|IonFPV|119.642|39 / 40| 2792.137 s|+241.710|
+|67|Ryżu|123.845|28 / 40| 3140.336 s|+589.909|
+|68|obeny|137.155|0 / 40| 3262.794 s|+712.367|
+|69|JuhtiPuhti|114.823|**39 / 39**|2741.943 s||
+|70|TheGuineaPigMaster|129.576|37 / 39| 3085.426 s|+343.483|
+|71|NelsonFpv|143.566|27 / 39| 3403.215 s|+661.272|
+|72|ChainsawFPV|164.969|13 / 39| 3786.281 s|+1044.338|
+|73|thehenker|115.494|**33 / 38**|2725.775 s||
+|74|PacoTeamCanadaFPV|127.065|32 / 38| 2858.780 s|+133.005|
+|75|RIVALSKneeDown|132.913|23 / 38| 3023.711 s|+297.936|
+|76|TFSFlam|148.444|36 / 38| 3535.593 s|+809.818|
+|77|stogie|157.100|0 / 38| 3563.603 s|+837.828|
+|78|BONADI|140.416|**0 / 37**|3061.811 s||
+|79|Bercik11palcow|136.821|23 / 37| 3180.437 s|+118.626|
+|80|VitalyMi85|151.305|0 / 37| 3250.501 s|+188.690|
+|81|NotSure|163.397|30 / 37| 3538.381 s|+476.570|
+|82|RustyDollar|108.394|**23 / 36**|2444.581 s||
+|83|SIMSebaFPV|114.963|29 / 36| 2507.179 s|+62.598|
+|84|slick_fpv|121.713|1 / 36| 2582.234 s|+137.653|
+|85|MX_BIGRAMON|124.750|35 / 36| 2664.676 s|+220.095|
+|86|SwEnglishFPV|119.716|36 / 36| 2716.243 s|+271.662|
+|87|ReSp4wN|121.977|36 / 36| 2783.883 s|+339.302|
+|88|JB|140.430|0 / 36| 3106.841 s|+662.260|
+|89|JR138|150.505|9 / 36| 3344.303 s|+899.722|
+|90|Musilex|160.630|0 / 36| 3456.921 s|+1012.340|
+|91|FpvBerci|127.634|**3 / 35**|2835.862 s||
+|92|BadSpeed|131.300|26 / 35| 2860.673 s|+24.811|

@@ -14,6 +14,13 @@
 |170|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/05/23|
 |169|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/06/15|
 ---
+### Oldest 3 personal best
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+|146|DEP Open Series 4 Race 4|Football Stadium|Five33Switchback|2021/05/08|
+|198|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/05/20|
+|170|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/05/23|
+---
 ### 10 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
@@ -27,13 +34,6 @@
 |116|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/22|
 |99|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/25|
 |86|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
----
-### Oldest 3 personal best
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-|146|DEP Open Series 4 Race 4|Football Stadium|Five33Switchback|2021/05/08|
-|198|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/05/20|
-|170|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/05/23|
 ---
 ### 5 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

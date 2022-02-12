@@ -24,13 +24,6 @@
 |39|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |35|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|CarbiXZero|2020/06/06|
 ---
-### 3 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-|78|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
-|30|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/14|
-|30|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
----
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
@@ -41,6 +34,13 @@
 |39|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |35|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|CarbiXZero|2020/06/06|
 |33|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
+---
+### 3 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+|78|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
+|30|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/14|
+|30|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
 ---
 ### 22 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

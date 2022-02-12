@@ -12,16 +12,16 @@
 |5|DEP Spec Series 1 Race 5|Football Stadium|SingularitumV5|2020/10/08|
 |5|DEP Open Series 3 Race 6|Football Stadium|SingularitumV5|2021/03/17|
 ---
-### 1 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-||||||
----
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |5|DEP Spec Series 1 Race 5|Football Stadium|SingularitumV5|2020/10/08|
 |7|DEP Open Series 3 Race 4|Football Stadium|SingularitumV5|2021/02/24|
+---
+### 1 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+||||||
 ---
 ### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

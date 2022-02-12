@@ -2,17 +2,17 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |2|TBS EU Spec Series 9 Race 5|Empty Scene Day|CarbiXZero|2021/10/09|
-|2|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |3|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/11/11|
 |3|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |3|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/06/29|
+|3|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |5|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/15|
 |5|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/11|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|185|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
+|186|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
 |118|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/08|
 |89|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
 |43|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/15|
@@ -24,6 +24,17 @@
 |26|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
 |25|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
+### Oldest 7 personal best
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+|7|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/04/07|
+|9|EU Spec Season 4 Race 1|Football Stadium|SingularitumV5|2020/05/06|
+|43|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/15|
+|12|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
+|89|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
+|26|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
+|186|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
+---
 ### 38 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
@@ -31,7 +42,7 @@
 |22|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/03|
 |11|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |3|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
-|2|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|3|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |12|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |13|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/04/05|
 |3|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/06/29|
@@ -50,7 +61,7 @@
 |8|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/22|
 |13|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
 |27|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
-|19|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
+|22|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |7|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/04/22|
 |13|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |18|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/07|
@@ -65,17 +76,6 @@
 |10|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |9|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/04|
 |6|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
----
-### Oldest 7 personal best
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-|7|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/04/07|
-|43|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/15|
-|12|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
-|89|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
-|26|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
-|185|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
-|9|TBS EU Spec Series 5 Race 4|Football Stadium|SingularitumV5|2020/08/02|
 ---
 ### 22 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

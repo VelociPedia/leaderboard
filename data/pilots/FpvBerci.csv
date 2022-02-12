@@ -5,6 +5,7 @@ DEP Open Series 3 Race 4,Football Stadium,143,78.355,FpvBerci,Hungary,TBSSpec,20
 DEP Open Series 3 Race 5,Football Stadium,66,81.934,FpvBerci,Hungary,Five33Switchback,2021/03/13
 DEP Open Series 3 Race 6,Football Stadium,88,109.664,FpvBerci,Hungary,Five33Switchback,2021/03/16
 DEP Open Series 3 Race 7,Football Stadium,70,92.203,FpvBerci,Hungary,TBSSpec,2021/05/13
+EU Spec Season 4 Race 1,Football Stadium,100,92.768,FpvBerci,Hungary,Five33Switchback,2021/01/11
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,73,74.122,FpvBerci,Hungary,Five33Switchback,2020/12/27
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,66,74.766,FpvBerci,Hungary,SlamNasty,2020/10/09
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,77,62.945,FpvBerci,Hungary,SlamNasty,2020/10/17
@@ -18,29 +19,30 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,37,71.099,FpvBerci,Hungary,Sla
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,41,81.407,FpvBerci,Hungary,SlamNasty,2020/10/01
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,58,104.530,FpvBerci,Hungary,Five33Switchback,2021/08/16
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,FpvBerci,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,111,65.874,FpvBerci,Hungary,Five33Switchback,2020/11/04
+TBS EU Spec Season 5 Race 1,Football Stadium,112,65.874,FpvBerci,Hungary,Five33Switchback,2020/11/04
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,FpvBerci,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,66,88.249,FpvBerci,Hungary,Five33Switchback,2020/10/24
-TBS EU Spec Series 4 Race 2,Empty Scene Day,130,75.509,FpvBerci,Hungary,SlamNasty,2020/07/31
+TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,FpvBerci,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,67,88.249,FpvBerci,Hungary,Five33Switchback,2020/10/24
+TBS EU Spec Series 4 Race 2,Empty Scene Day,131,75.509,FpvBerci,Hungary,SlamNasty,2020/07/31
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,94,88.699,FpvBerci,Hungary,Five33Switchback,2021/08/17
 TBS EU Spec Series 4 Race 5,Dynamic Weather,74,94.669,FpvBerci,Hungary,Five33Switchback,2020/10/24
-TBS EU Spec Series 4 Race 7,Football Stadium,157,85.584,FpvBerci,Hungary,SlamNasty,2020/09/13
-TBS EU Spec Series 5 FINAL,Dynamic Weather,70,90.191,FpvBerci,Hungary,SlamNasty,2020/10/11
+TBS EU Spec Series 4 Race 7,Football Stadium,159,85.584,FpvBerci,Hungary,SlamNasty,2020/09/13
+TBS EU Spec Series 5 FINAL,Dynamic Weather,71,90.191,FpvBerci,Hungary,SlamNasty,2020/10/11
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,75,86.615,FpvBerci,Hungary,SlamNasty,2020/10/11
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,99,90.401,FpvBerci,Hungary,SlamNasty,2020/10/07
+TBS EU Spec Series 5 Race 4,Football Stadium,100,90.401,FpvBerci,Hungary,SlamNasty,2020/10/07
 TBS EU Spec Series 5 Race 5,NEC Birmingham,120,89.269,FpvBerci,Hungary,SlamNasty,2020/08/11
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,FpvBerci,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,70,86.696,FpvBerci,Hungary,Five33Switchback,2020/12/08
+TBS EU Spec Series 6 Final,Empty Scene Day,72,86.696,FpvBerci,Hungary,Five33Switchback,2020/12/08
 TBS EU Spec Series 6 Losers Final,Football Stadium,145,87.451,FpvBerci,Hungary,TBSSpec,2020/12/08
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,76,74.606,FpvBerci,Hungary,SlamNasty,2020/09/27
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,77,74.606,FpvBerci,Hungary,SlamNasty,2020/09/27
 TBS EU Spec Series 6 Race 2,Empty Scene Day,110,76.607,FpvBerci,Hungary,SlamNasty,2020/10/07
 TBS EU Spec Series 6 Race 4,NEC Birmingham,60,72.429,FpvBerci,Hungary,TBSSpec,2020/11/03
 TBS EU Spec Series 6 Race 5,Dynamic Weather,85,91.255,FpvBerci,Hungary,Five33Switchback,2020/11/16
@@ -56,13 +58,14 @@ TBS EU Spec Series 7 Race 6,Future Hangar Empty,89,77.606,FpvBerci,Hungary,Five3
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
-TBS EU Spec Series 8 Race 1,Dynamic Weather,92,83.883,FpvBerci,Hungary,Five33Switchback,2021/03/22
+TBS EU Spec Series 8 Race 1,Dynamic Weather,97,83.883,FpvBerci,Hungary,Five33Switchback,2021/03/22
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,FpvBerci,NO_DATA
+TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,FpvBerci,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,FpvBerci,NO_DATA

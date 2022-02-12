@@ -23,6 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,42,87.228,CALFPV,Germany,Five33Switchb
 DEP Open Series 5 Race 6,Football Stadium,46,72.461,CALFPV,Germany,Five33Switchback,2021/12/15
 DEP Open Series 5 Race 7,Football Stadium,50,99.138,CALFPV,Germany,Five33Switchback,2021/12/22
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,CALFPV,NO_DATA
+EU Spec Season 4 Race 1,Football Stadium,104,93.823,CALFPV,Germany,Five33Switchback,2020/07/15
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,53,72.314,CALFPV,Germany,Five33Switchback,2020/09/24
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,51,70.969,CALFPV,Germany,Five33Switchback,2020/10/26
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,90,63.893,CALFPV,Germany,Five33Switchback,2020/10/26
@@ -38,28 +39,28 @@ RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,103,114.725,CALFPV,Germany,Car
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,86,63.766,CALFPV,Germany,Five33Switchback,2021/10/20
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,CALFPV,NO_DATA
-TBS EU Spec Series 10 Race 2,Empty Scene Day,136,91.021,CALFPV,Germany,Five33Switchback,2021/12/21
+TBS EU Spec Series 10 Race 2,Empty Scene Day,137,91.021,CALFPV,Germany,Five33Switchback,2021/12/21
 TBS EU Spec Series 10 Race 3,Night Factory 2,65,75.568,CALFPV,Germany,Five33Switchback,2021/12/21
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,CALFPV,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,155,107.926,CALFPV,Germany,Five33Switchback,2020/07/08
+TBS EU Spec Series 4 FINAL,Dynamic Weather,156,107.926,CALFPV,Germany,Five33Switchback,2020/07/08
 TBS EU Spec Series 4 Race 2,Empty Scene Day,143,76.394,CALFPV,Germany,CarbiXZero,2020/05/15
 TBS EU Spec Series 4 Race 3,IndoorGoKart,62,110.718,CALFPV,Germany,Five33Switchback,2020/06/15
 TBS EU Spec Series 4 Race 4,Empty Scene Day,96,89.385,CALFPV,Germany,CarbiXZero,2020/05/29
 TBS EU Spec Series 4 Race 5,Dynamic Weather,73,93.964,CALFPV,Germany,Five33Switchback,2020/06/16
-TBS EU Spec Series 4 Race 7,Football Stadium,93,78.567,CALFPV,Germany,Five33Switchback,2020/07/02
-TBS EU Spec Series 5 FINAL,Dynamic Weather,72,90.512,CALFPV,Germany,TBSSpec,2020/09/17
+TBS EU Spec Series 4 Race 7,Football Stadium,95,78.567,CALFPV,Germany,Five33Switchback,2020/07/02
+TBS EU Spec Series 5 FINAL,Dynamic Weather,73,90.512,CALFPV,Germany,TBSSpec,2020/09/17
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,68,85.178,CALFPV,Germany,TBSSpec,2020/09/15
 TBS EU Spec Series 5 Race 3,Dynamic Weather,77,80.111,CALFPV,Germany,Five33Switchback,2020/08/05
-TBS EU Spec Series 5 Race 4,Football Stadium,89,89.263,CALFPV,Germany,Five33Switchback,2020/08/10
+TBS EU Spec Series 5 Race 4,Football Stadium,90,89.263,CALFPV,Germany,Five33Switchback,2020/08/10
 TBS EU Spec Series 5 Race 5,NEC Birmingham,87,80.901,CALFPV,Germany,TBSSpec,2020/08/17
 TBS EU Spec Series 5 Race 6,Dynamic Weather,45,67.725,CALFPV,Germany,Five33Switchback,2020/10/22
 TBS EU Spec Series 5 Race 7,IndoorGoKart,101,88.330,CALFPV,Germany,TBSSpec,2020/09/08
-TBS EU Spec Series 6 Final,Empty Scene Day,85,88.901,CALFPV,Germany,TBSSpec,2021/09/08
+TBS EU Spec Series 6 Final,Empty Scene Day,87,88.901,CALFPV,Germany,TBSSpec,2021/09/08
 TBS EU Spec Series 6 Losers Final,Football Stadium,84,78.445,CALFPV,Germany,TBSSpec,2021/10/14
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,63,72.643,CALFPV,Germany,Five33Switchback,2020/09/28
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,64,72.643,CALFPV,Germany,Five33Switchback,2020/09/28
 TBS EU Spec Series 6 Race 2,Empty Scene Day,102,76.155,CALFPV,Germany,Five33Switchback,2020/10/12
 TBS EU Spec Series 6 Race 4,NEC Birmingham,70,76.225,CALFPV,Germany,Five33Switchback,2020/11/08
 TBS EU Spec Series 6 Race 5,Dynamic Weather,59,86.895,CALFPV,Germany,Five33Switchback,2020/11/13
@@ -75,7 +76,7 @@ TBS EU Spec Series 7 Race 6,Future Hangar Empty,88,77.527,CALFPV,Germany,Five33S
 TBS EU Spec Series 7 Race 7,Empty Scene Day,75,82.221,CALFPV,Germany,Five33Switchback,2021/02/24
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,CALFPV,NO_DATA
-TBS EU Spec Series 8 Race 1,Dynamic Weather,110,87.119,CALFPV,Germany,TBSSpec,2021/03/24
+TBS EU Spec Series 8 Race 1,Dynamic Weather,114,87.119,CALFPV,Germany,TBSSpec,2021/03/24
 TBS EU Spec Series 8 Race 2,Empty Scene Night,36,74.713,CALFPV,Germany,Five33Switchback,2021/04/07
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,41,75.568,CALFPV,Germany,Five33Switchback,2021/05/19
@@ -88,6 +89,6 @@ TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,75,66.732,CALFPV,Germany,TBSSpec,2021/10/03
 TBS EU Spec Series 9 Race 4,Football Stadium,80,73.849,CALFPV,Germany,TBSSpec,2021/09/30
-TBS EU Spec Series 9 Race 5,Empty Scene Day,96,74.059,CALFPV,Germany,TBSSpec,2021/10/07
+TBS EU Spec Series 9 Race 5,Empty Scene Day,97,74.059,CALFPV,Germany,TBSSpec,2021/10/07
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,CALFPV,NO_DATA
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,CALFPV,NO_DATA

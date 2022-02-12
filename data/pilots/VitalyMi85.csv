@@ -23,6 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,50,93.137,VitalyMi85,RussianFederation
 DEP Open Series 5 Race 6,Football Stadium,117,91.592,VitalyMi85,RussianFederation,Five33Switchback,2021/12/15
 DEP Open Series 5 Race 7,Football Stadium,85,115.200,VitalyMi85,RussianFederation,Five33Switchback,2021/12/25
 DEP Spec Series 1 Race 5,Football Stadium,127,111.434,VitalyMi85,RussianFederation,Five33Switchback,2022/01/18
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,VitalyMi85,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,VitalyMi85,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,VitalyMi85,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,VitalyMi85,NO_DATA
@@ -40,16 +41,16 @@ TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,95,73.122,VitalyMi85,RussianFederation,Five33Switchback,2021/12/13
 TBS EU Spec Series 10 Race 2,Empty Scene Day,110,81.294,VitalyMi85,RussianFederation,Five33Switchback,2021/12/10
 TBS EU Spec Series 10 Race 3,Night Factory 2,107,89.763,VitalyMi85,RussianFederation,Five33Switchback,2021/12/17
-TBS EU Spec Series 10 Race 4,Dynamic Weather,154,93.701,VitalyMi85,RussianFederation,Five33Switchback,2022/01/10
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,94,78.681,VitalyMi85,RussianFederation,Five33Switchback,2022/01/22
-TBS EU Spec Series 10 Race 6,Large Carpark,159,93.752,VitalyMi85,RussianFederation,Five33Switchback,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,119,123.730,VitalyMi85,RussianFederation,Five33Switchback,2022/02/08
+TBS EU Spec Series 10 Race 4,Dynamic Weather,157,93.701,VitalyMi85,RussianFederation,Five33Switchback,2022/01/10
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,96,78.681,VitalyMi85,RussianFederation,Five33Switchback,2022/01/22
+TBS EU Spec Series 10 Race 6,Large Carpark,161,93.752,VitalyMi85,RussianFederation,Five33Switchback,2022/01/27
+TBS EU Spec Series 10 Race 7,Football Stadium,135,123.730,VitalyMi85,RussianFederation,Five33Switchback,2022/02/08
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,192,82.265,VitalyMi85,RussianFederation,Five33Switchback,2021/12/02
 TBS EU Spec Series 4 Race 3,IndoorGoKart,74,114.734,VitalyMi85,RussianFederation,Five33Switchback,2021/10/06
 TBS EU Spec Series 4 Race 4,Empty Scene Day,118,94.513,VitalyMi85,RussianFederation,Five33Switchback,2021/10/06
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,VitalyMi85,NO_DATA
-TBS EU Spec Series 4 Race 7,Football Stadium,156,85.475,VitalyMi85,RussianFederation,Five33Switchback,2021/09/03
+TBS EU Spec Series 4 Race 7,Football Stadium,157,85.475,VitalyMi85,RussianFederation,Five33Switchback,2021/09/03
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,114,95.145,VitalyMi85,RussianFederation,Five33Switchback,2022/01/05
 TBS EU Spec Series 5 Race 3,Dynamic Weather,106,87.266,VitalyMi85,RussianFederation,Five33Switchback,2021/12/11
@@ -57,9 +58,9 @@ TBS EU Spec Series 5 Race 4,Football Stadium,161,105.571,VitalyMi85,RussianFeder
 TBS EU Spec Series 5 Race 5,NEC Birmingham,137,91.625,VitalyMi85,RussianFederation,Five33Switchback,2022/01/04
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,VitalyMi85,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,105,91.634,VitalyMi85,RussianFederation,Five33Switchback,2021/12/13
+TBS EU Spec Series 6 Final,Empty Scene Day,107,91.634,VitalyMi85,RussianFederation,Five33Switchback,2021/12/13
 TBS EU Spec Series 6 Losers Final,Football Stadium,161,91.646,VitalyMi85,RussianFederation,Five33Switchback,2021/12/13
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,120,80.707,VitalyMi85,RussianFederation,Five33Switchback,2022/01/08
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,122,80.707,VitalyMi85,RussianFederation,Five33Switchback,2022/01/08
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,116,90.346,VitalyMi85,RussianFederation,Five33Switchback,2021/09/03
 TBS EU Spec Series 6 Race 5,Dynamic Weather,999,999.999,VitalyMi85,NO_DATA
@@ -85,12 +86,12 @@ TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,168,88.095,VitalyMi85,RussianFederation,Five33Switchback,2021/11/13
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,118,75.265,VitalyMi85,RussianFederation,Five33Switchback,2021/11/05
 TBS EU Spec Series 9 Race 1,Football Stadium,126,70.388,VitalyMi85,RussianFederation,Five33Switchback,2021/09/11
-TBS EU Spec Series 9 Race 2,Dynamic Weather,127,69.595,VitalyMi85,RussianFederation,Five33Switchback,2021/09/18
+TBS EU Spec Series 9 Race 2,Dynamic Weather,128,69.595,VitalyMi85,RussianFederation,Five33Switchback,2021/09/18
 TBS EU Spec Series 9 Race 3,Empty Scene Day,118,73.374,VitalyMi85,RussianFederation,Five33Switchback,2021/10/06
-TBS EU Spec Series 9 Race 4,Football Stadium,115,83.684,VitalyMi85,RussianFederation,Five33Switchback,2021/10/09
-TBS EU Spec Series 9 Race 5,Empty Scene Day,129,79.036,VitalyMi85,RussianFederation,Five33Switchback,2021/10/09
-TBS EU Spec Series 9 Race 6,Empty Scene Day,95,83.722,VitalyMi85,RussianFederation,Five33Switchback,2021/10/27
-TBS EU Spec Series 9 Race 7,NEC Birmingham,103,86.992,VitalyMi85,RussianFederation,Five33Switchback,2021/10/30
+TBS EU Spec Series 9 Race 4,Football Stadium,116,83.684,VitalyMi85,RussianFederation,Five33Switchback,2021/10/09
+TBS EU Spec Series 9 Race 5,Empty Scene Day,130,79.036,VitalyMi85,RussianFederation,Five33Switchback,2021/10/09
+TBS EU Spec Series 9 Race 6,Empty Scene Day,96,83.722,VitalyMi85,RussianFederation,Five33Switchback,2021/10/27
+TBS EU Spec Series 9 Race 7,NEC Birmingham,105,86.992,VitalyMi85,RussianFederation,Five33Switchback,2021/10/30
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,29,36.585,VitalyMi85,RussianFederation,Five33Switchback,2022/01/01
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,108,54.331,VitalyMi85,RussianFederation,Five33Switchback,2022/01/01
 Train Insane - Dive - MaiOnHigh,Empty Scene Day,104,59.951,VitalyMi85,RussianFederation,Five33Switchback,2022/01/01

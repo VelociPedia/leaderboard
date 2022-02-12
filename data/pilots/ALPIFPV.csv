@@ -23,6 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,20,77.171,ALPIFPV,UnitedStates,Five33S
 DEP Open Series 5 Race 6,Football Stadium,28,66.372,ALPIFPV,UnitedStates,Five33Switchback,2021/12/16
 DEP Open Series 5 Race 7,Football Stadium,22,88.534,ALPIFPV,UnitedStates,Five33Switchback,2021/12/25
 DEP Spec Series 1 Race 5,Football Stadium,18,83.292,ALPIFPV,UnitedStates,Five33Switchback,2021/10/03
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,ALPIFPV,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,46,71.424,ALPIFPV,UnitedStates,TBSSpec,2020/07/01
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,ALPIFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,ALPIFPV,NO_DATA
@@ -36,14 +37,14 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,ALPIFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,ALPIFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,ALPIFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,ALPIFPV,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,17,55.361,ALPIFPV,UnitedStates,Five33Switchback,2021/10/15
-TBS EU Spec Series 10 Race 1,Football Stadium,46,62.775,ALPIFPV,UnitedStates,Five33Switchback,2021/12/07
+TBS EU Spec Season 5 Race 1,Football Stadium,18,55.361,ALPIFPV,UnitedStates,Five33Switchback,2021/10/15
+TBS EU Spec Series 10 Race 1,Football Stadium,47,62.775,ALPIFPV,UnitedStates,Five33Switchback,2021/12/07
 TBS EU Spec Series 10 Race 2,Empty Scene Day,14,57.353,ALPIFPV,UnitedStates,Five33Switchback,2021/12/13
 TBS EU Spec Series 10 Race 3,Night Factory 2,10,62.181,ALPIFPV,UnitedStates,Five33Switchback,2021/12/20
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,ALPIFPV,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,8,50.817,ALPIFPV,UnitedStates,Five33Switchback,2022/01/26
-TBS EU Spec Series 10 Race 6,Large Carpark,113,72.196,ALPIFPV,UnitedStates,Five33Switchback,2022/02/02
-TBS EU Spec Series 10 Race 7,Football Stadium,3,63.405,ALPIFPV,UnitedStates,Five33Switchback,2022/02/08
+TBS EU Spec Series 10 Race 6,Large Carpark,115,72.196,ALPIFPV,UnitedStates,Five33Switchback,2022/02/02
+TBS EU Spec Series 10 Race 7,Football Stadium,4,63.405,ALPIFPV,UnitedStates,Five33Switchback,2022/02/08
 TBS EU Spec Series 4 FINAL,Dynamic Weather,56,86.572,ALPIFPV,UnitedStates,TBSSpec,2020/06/26
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,ALPIFPV,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,55,108.292,ALPIFPV,UnitedStates,TBSSpec,2020/05/31
@@ -57,8 +58,8 @@ TBS EU Spec Series 5 Race 4,Football Stadium,34,78.294,ALPIFPV,UnitedStates,Five
 TBS EU Spec Series 5 Race 5,NEC Birmingham,57,74.496,ALPIFPV,UnitedStates,Five33Switchback,2020/08/17
 TBS EU Spec Series 5 Race 6,Dynamic Weather,19,63.634,ALPIFPV,UnitedStates,Five33Switchback,2020/08/31
 TBS EU Spec Series 5 Race 7,IndoorGoKart,22,71.412,ALPIFPV,UnitedStates,Five33Switchback,2020/09/01
-TBS EU Spec Series 6 Final,Empty Scene Day,37,82.055,ALPIFPV,UnitedStates,TBSSpec,2020/12/10
-TBS EU Spec Series 6 Losers Final,Football Stadium,53,73.236,ALPIFPV,UnitedStates,TBSSpec,2020/12/07
+TBS EU Spec Series 6 Final,Empty Scene Day,39,82.055,ALPIFPV,UnitedStates,TBSSpec,2020/12/10
+TBS EU Spec Series 6 Losers Final,Football Stadium,54,73.236,ALPIFPV,UnitedStates,TBSSpec,2020/12/07
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,33,68.806,ALPIFPV,UnitedStates,Five33Switchback,2020/09/29
 TBS EU Spec Series 6 Race 2,Empty Scene Day,58,72.215,ALPIFPV,UnitedStates,Five33Switchback,2020/10/02
 TBS EU Spec Series 6 Race 4,NEC Birmingham,36,66.144,ALPIFPV,UnitedStates,Five33Switchback,2020/11/01
@@ -75,7 +76,7 @@ TBS EU Spec Series 7 Race 6,Future Hangar Empty,42,70.236,ALPIFPV,UnitedStates,T
 TBS EU Spec Series 7 Race 7,Empty Scene Day,48,75.313,ALPIFPV,UnitedStates,TBSSpec,2021/03/02
 TBS EU Spec Series 8 Final,Dynamic Weather,18,71.228,ALPIFPV,UnitedStates,Five33Switchback,2021/07/09
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,25,57.016,ALPIFPV,UnitedStates,Five33Switchback,2021/07/08
-TBS EU Spec Series 8 Race 1,Dynamic Weather,16,70.953,ALPIFPV,UnitedStates,Five33Switchback,2021/06/22
+TBS EU Spec Series 8 Race 1,Dynamic Weather,19,70.953,ALPIFPV,UnitedStates,Five33Switchback,2021/06/22
 TBS EU Spec Series 8 Race 2,Empty Scene Night,30,73.324,ALPIFPV,UnitedStates,Five33Switchback,2021/06/24
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,ALPIFPV,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,67,79.583,ALPIFPV,UnitedStates,TBSSpec,2021/05/08
