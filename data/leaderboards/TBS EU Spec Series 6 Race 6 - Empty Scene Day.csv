@@ -30,7 +30,7 @@
 75.734,AK,UnitedKingdom,TBSSpec,2020/11/19
 75.887,TCSilviofpvbuthighrates,Spain,TBSSpec,2020/11/12
 75.940,CutnLines,Australia,TBSSpec,2021/12/23
-76.054,HQlephro,Germany,TBSSpec,2020/11/12
+76.054,HQlephroslowmode,Germany,TBSSpec,2020/11/12
 76.224,Finzfpv,Unknown,Ossa,2021/10/22
 76.412,FPVFPVINEEDTOGETFASTER,Norway,Five33SwitchbackExp,2021/10/12
 76.559,SwEnglishFPV,Sweden,TBSSpec,2020/11/19
@@ -156,6 +156,7 @@
 91.541,OrigDragon,UnitedStates,CarbiXZero,2020/11/16
 91.710,tisha_BeAir,Belarus,TBSSpec,2020/11/12
 91.754,FALK_FPVTeamFPV24Racing,Germany,BMSJS-1,2020/11/26
+92.279,ANZPO,UnitedStates,TBSSpec,2022/02/11
 92.548,StoneyNapoleon,UnitedKingdom,TBSSpec,2021/05/29
 92.633,Lenalambi,Sweden,TBSSpec,2020/11/12
 92.952,fape,Hungary,TBSSpec,2020/11/16
@@ -197,4 +198,3 @@
 101.617,Difo_96,Italy,Five33Switchback,2020/12/04
 101.682,propcounter,Germany,TBSSpec,2021/08/04
 101.731,Unbizzled,Australia,Five33Switchback,2021/08/14
-101.867,Eolos,Spain,Five33Switchback,2020/11/14

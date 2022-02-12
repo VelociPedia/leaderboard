@@ -3,6 +3,7 @@
 51.754,XBDarKex,France,Five33Switchback,2021/01/06
 52.026,MARV_FPV,Liechtenstein,Five33Switchback,2021/10/06
 52.750,Holdox_FPV,Norway,Five33Switchback,2020/10/12
+52.883,roma_fpv,Spain,Five33Switchback,2022/02/11
 53.307,HQIQ0,Australia,CarbiXZero,2020/07/23
 53.938,BMSweb,Australia,AstroXSL5,2020/07/14
 53.961,mv,Estonia,CarbiXZero,2021/11/18
@@ -35,8 +36,7 @@
 57.828,dinholoyola,Brazil,Mode2Ghost,2020/07/30
 58.063,TDogfpv,UnitedStates,Five33Switchback,2020/10/04
 58.429,Gafannen,Slovakia,Five33Switchback,2021/12/17
-58.734,roma_fpv,Spain,Five33Switchback,2021/03/12
-58.776,HQlephro,Germany,Five33Switchback,2021/02/15
+58.776,HQlephroslowmode,Germany,Five33Switchback,2021/02/15
 59.117,Frengo,Italy,Ossa,2021/04/13
 59.219,Massive,Sweden,Five33Switchback,2022/01/09
 59.284,StefanLjungberg,Sweden,Five33Switchback,2021/03/12
@@ -97,6 +97,7 @@
 64.466,LucasG,UnitedStates,Solleva,2020/07/16
 64.504,VigiFPV,Bulgaria,Mode2Ghost,2021/09/29
 64.625,CharlieMorry,Italy,BMSJS-1,2021/07/26
+64.710,glazite32,Latvia,TBSSpec,2022/02/11
 64.716,pmalaia,Portugal,AttoFPVPhoton,2020/07/13
 64.871,RipDaLip,Germany,Five33Switchback,2021/11/13
 65.049,axefpv,HongKong,TBSSpec,2020/07/17
@@ -117,6 +118,7 @@
 66.480,ReSp4wN,Netherlands,TBSSpec,2020/07/09
 66.489,SmokyFPV,UnitedKingdom,TBSSpec,2020/07/09
 66.639,thehenker,Germany,TBSSpec,2020/07/09
+66.761,Snowyeti,Norway,TBSSpec,2022/02/11
 66.769,zy0nfpv,Brazil,Five33Switchback,2020/08/02
 66.791,ETERNAL☆gMan,UnitedStates,CarbiXZero,2020/07/10
 66.854,Phantom542,France,CarbiXZero,2021/04/23
@@ -162,7 +164,7 @@
 69.520,Thorkors,Slovenia,TBSSpec,2020/07/13
 69.604,DAFFPV,Sweden,Five33Switchback,2021/06/07
 69.611,Vilano,Germany,TBSSpec,2020/07/09
-69.708,TCPaco,Canada,TBSSpec,2020/07/14
+69.708,PacoTeamCanadaFPV,Canada,TBSSpec,2020/07/14
 69.722,orokusaki,Serbia,Five33Switchback,2021/08/24
 69.844,SwEnglishFPV,Sweden,TBSSpec,2020/07/30
 69.880,Cee_FPV,UnitedStates,TBSSpec,2020/10/06
@@ -170,7 +172,6 @@
 69.906,DeMoNse3d,Mexico,TBSSpec,2021/06/17
 69.926,Aleksi15,Finland,TBSSpec,2020/07/13
 69.992,CruzEFPV,Canada,TBSSpec,2020/07/30
-70.011,glazite32,Latvia,TBSSpec,2022/02/08
 70.168,NETCODEFAIL,Belgium,Five33Switchback,2020/08/22
 70.297,ADK,UnitedStates,Ossa,2021/11/02
 70.361,Racer250,Spain,TBSSpec,2020/11/12
@@ -197,4 +198,3 @@
 72.502,Falko_FPV,Germany,Five33Switchback,2020/12/15
 72.650,VIPERX,UnitedStates,Five33Switchback,2021/09/06
 72.672,SashPRO,Ukraine,Five33Switchback,2021/03/10
-72.738,DR1by,Belarus,TBSSpec,2020/11/27

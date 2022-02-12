@@ -31,7 +31,7 @@
 64.496,Gafannen,Slovakia,TBSSpec,2021/10/28
 64.519,NelisFPV,Netherlands,TBSSpec,2021/10/28
 64.524,JuhtiPuhti,Finland,TBSSpec,2021/11/11
-64.600,HQlephro,Germany,TBSSpec,2021/10/28
+64.600,HQlephroslowmode,Germany,TBSSpec,2021/10/28
 65.029,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/28
 65.034,ChettMac,UnitedStates,Ossa,2021/11/01
 65.766,antonig,Bulgaria,TBSSpec,2021/11/19
@@ -86,11 +86,13 @@
 80.903,ale0890,CostaRica,TBSSpec,2021/11/10
 80.974,tillyFPV,UnitedStates,TBSSpec,2021/11/06
 82.333,stogie,UnitedStates,Five33Switchback,2021/11/15
+82.982,cdan,Germany,Mode2Ghost,2022/02/09
 83.037,Musilex,Brazil,Chief,2021/12/16
 83.416,MAT_277FPVQE,Canada,Ossa,2021/10/31
 83.530,WalterInBlack,Sweden,TBSSpec,2021/10/28
 83.597,ThirdEyeFPV,Australia,TBSSpec,2021/11/03
 84.400,KiloFoxtrot,UnitedStates,TBSSpec,2021/11/02
+84.851,chogeRINTGF,Spain,Five33Switchback,2022/02/09
 84.902,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/03
 85.292,ibor24,Switzerland,TBSSpec,2021/10/30
 85.616,Owl77,RussianFederation,TBSSpec,2021/10/28
@@ -149,7 +151,7 @@
 99.471,FPVlC,Unknown,TBSSpec,2021/11/05
 100.057,TITOO,Brazil,Five33Switchback,2021/12/19
 100.621,MatzeLions,Germany,SingularitumV5,2021/10/29
-101.356,TCPaco,Canada,DJI,2021/11/10
+101.356,PacoTeamCanadaFPV,Canada,DJI,2021/11/10
 101.695,DesertRat,UnitedStates,LethalConception,2021/11/10
 101.863,BONADI,Poland,Five33Switchback,2022/01/12
 101.914,Rocket,Canada,Five33Switchback,2021/10/30
@@ -175,12 +177,13 @@
 111.884,SpencerDfpv,UnitedStates,TBSSpec,2021/10/29
 114.066,CosmicFPV,UnitedKingdom,SingularitumV5,2021/10/28
 114.555,thestorm,Belgium,Five33Switchback,2021/10/30
+116.063,RIVALSRollerCoaster,UnitedStates,TBSSpec,2022/02/10
 116.373,REZolution,UnitedStates,TBSSpec,2021/10/31
 117.658,GarFly,UnitedStates,Five33Switchback,2021/12/13
 117.738,Shuttleee,Sweden,TBSSpec,2021/11/12
 117.866,Dragony,Switzerland,TBSOblivion,2021/12/28
 118.681,steinm,Canada,TBSOblivion,2021/11/07
-119.136,DolceGalucci,Denmark,TBSOblivion,2021/11/02
+119.136,Droned_FPV,Denmark,TBSOblivion,2021/11/02
 121.080,whalefpv,China,Five33Switchback,2021/11/08
 121.225,georgemca,UnitedStates,TBSSpec,2021/11/06
 122.649,FeeksFPV,UnitedStates,Solleva,2021/11/02
@@ -195,6 +198,3 @@
 127.913,8M1,UnitedKingdom,SlamNasty,2021/11/07
 128.070,Moto,Australia,Five33Switchback,2021/11/13
 129.983,QTDR,UnitedKingdom,Five33Switchback,2021/11/09
-131.023,SZYSZA,Poland,TBSSpec,2021/10/30
-131.632,CtrlAltFred,SouthAfrica,Five33Switchback,2021/11/14
-132.254,Wizard_,UnitedKingdom,TBSSpec,2021/11/05

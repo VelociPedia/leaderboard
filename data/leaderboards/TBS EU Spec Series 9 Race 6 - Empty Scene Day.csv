@@ -1,8 +1,8 @@
 54.640,TCSilviofpvbuthighrates,Spain,SingularitumV5,2021/11/28
 57.178,SIMSebaFPV,UnitedStates,Mode2Ghost,2021/10/24
 58.005,DracFPV,Spain,Five33Switchback,2021/11/29
+58.239,roma_fpv,Spain,Five33Switchback,2022/02/10
 58.414,RCSwix,RussianFederation,Mode2Ghost,2021/11/05
-58.571,roma_fpv,Spain,Five33Switchback,2021/11/30
 58.865,WerdnaFPV,Singapore,Ossa,2021/10/28
 59.430,TCEuLeR,Germany,Chief,2021/11/03
 59.775,Lacasito,Spain,Mode2Ghost,2021/11/26
@@ -31,7 +31,7 @@
 66.704,NelisFPV,Netherlands,TBSSpec,2021/10/21
 66.940,propcounter,Germany,Five33Switchback,2021/12/01
 67.081,RIVALSMixedSignals,UnitedStates,TBSSpec,2022/01/05
-67.411,HQlephro,Germany,TBSSpec,2021/10/21
+67.411,HQlephroslowmode,Germany,TBSSpec,2021/10/21
 67.555,Saqoosha,Japan,TBSSpec,2021/10/28
 67.595,Fenixfpv,Spain,Five33Switchback,2021/12/01
 67.644,HQBatuFPV,Germany,TBSSpec,2021/10/21
@@ -63,6 +63,7 @@
 73.481,saft57,Sweden,TBSSpec,2021/10/21
 73.550,Heim_FPV,France,Five33Switchback,2022/01/20
 73.706,LukeS,Germany,Five33Switchback,2021/10/29
+73.786,chogeRINTGF,Spain,Five33Switchback,2022/02/09
 74.335,MattiZ,Germany,Five33Switchback,2021/11/04
 74.405,screecherfpv,UnitedStates,Five33Switchback,2021/12/31
 74.722,LRFPV,UnitedStates,TBSSpec,2022/01/05
@@ -130,6 +131,7 @@
 93.686,Gustavo_GZV,Spain,Mode2Ghost,2021/11/29
 93.703,8enjoe,Unknown,Five33Switchback,2021/10/30
 93.973,Bree,France,TBSSpec,2021/12/20
+94.457,xenon_fpv,Belgium,SniperX,2022/02/09
 94.483,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/02
 94.577,RustyRobotBits,UnitedStates,Five33Switchback,2021/10/22
 95.226,Ralph12,Singapore,Five33Switchback,2021/10/31
@@ -141,7 +143,6 @@
 97.055,RobSi,Slovenia,Five33Switchback,2021/10/22
 97.144,fape,Hungary,TBSSpec,2021/11/02
 97.800,Tomeroni,Hungary,TBSSpec,2021/10/28
-97.874,xenon_fpv,Belgium,SniperX,2022/02/08
 98.963,CosmicFPV,UnitedKingdom,SingularitumV5,2021/10/22
 98.990,Reevolution,UnitedKingdom,TBSSpec,2021/10/21
 99.029,SZYSZA,Poland,TBSSpec,2021/10/27
@@ -197,4 +198,3 @@
 125.071,OGdrLove,UnitedStates,TBSSpec,2021/11/26
 126.643,YZK,Spain,Five33Switchback,2021/12/01
 129.372,CtrlAltFred,SouthAfrica,SniperX,2021/12/07
-129.699,LawzFPV,UnitedStates,Five33Switchback,2021/10/28
