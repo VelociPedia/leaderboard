@@ -148,17 +148,17 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
 
-        a=$(grep ",TBSSpec," <<< $pilot_data | sort --field-separator="," --key="1")
-        n=$(wc -l <<< $a)
-        echo -e "---\n### $n tracks where TBS SPEC quad was used" >> "$outputfile"
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," --key="8" | head -n $oldesttracks)
+        echo -e "---\n### Oldest $oldesttracks personal best" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
         while IFS=, read -r track scene rank time name country quad date ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
-            
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," --key="8" | head -n $oldesttracks)
-        echo -e "---\n### Oldest $oldesttracks personal best" >> "$outputfile"
+
+        a=$(grep ",TBSSpec," <<< $pilot_data | sort --field-separator="," --key="1")
+        n=$(wc -l <<< $a)
+        echo -e "---\n### $n tracks where TBS SPEC quad was used" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
         while IFS=, read -r track scene rank time name country quad date ; do
