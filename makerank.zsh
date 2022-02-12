@@ -12,10 +12,12 @@ pilots_md="md/pilots"
 ranking_dir="data/ranking"
 collections_dir="collections"
 
-mkdir -p "$pilots_dir"
-mkdir -p "$pilots_md"
-mkdir -p "$leaderboards_md"
-mkdir -p "$ranking_dir"
+# MD2 AND DATA2 : work from another folder.
+
+#mkdir -p "$pilots_dir"
+#mkdir -p "$pilots_md"
+#mkdir -p "$leaderboards_md"
+#mkdir -p "$ranking_dir"
 
 collection="$1"
 collection=$(sed -E 's@collections/@@' <<< $collection)
@@ -80,13 +82,33 @@ while read pilot ; do
     ((i++))
     
     pilot_data=$(while IFS=, read -r track_name scenery_name ; do
-        grep "^$track_name,$scenery_name" < "$pilots_dir/$pilot.csv"
+        pilotdat=$(grep "^$track_name,$scenery_name" < "$pilots_dir/$pilot.csv")
+        besttime=$(head -n 1 "$leaderboards_dir/$track_name - $scenery_name.csv" | cut -d, -f1)
+        pilottime=$(cut -d, -f4 <<< $pilotdat)
+        
+        # nhead = top 5%
+        nhead=$(wc -l < "$leaderboards_dir/$track_name - $scenery_name.csv")
+        nhead=$(bc <<< "$nhead * 5 / 100 ")
+        bestindex=$(head -n $nhead "$leaderboards_dir/$track_name - $scenery_name.csv" | cut -d, -f1 | sed '/^[[:space:]]*$/d' | sed -z "s/\n/ + /g" | sed "s/ + $//g")
+        bestindex=$(bc <<< "scale=3 ; ( $bestindex ) / $nhead ")
+        
+        pilottopindex=$(bc <<< "scale=3 ; ( $pilottime / $bestindex ) * 100 ")
+        #pilottbestindex=$(bc <<< "scale=3 ; ( $pilottime / $besttime ) * 100 ")
+        
+        echo "$pilotdat,$pilottopindex"
+        
         done <<< $cleancollection)
-    
-    pilot_data=$(grep -v "NO_DATA$" <<< $pilot_data)
+        
+    pilot_data=$(grep -v ",NO_DATA," <<< $pilot_data)
     n=$(echo -e "$pilot_data" | wc -l)
-    sumpilot=$(cut -d , -f4 <<< $pilot_data | numsum)
-    list=$(echo -e "$list\n$pilot,$n,$sumpilot")
+    spec=$(grep ",TBSSpec," <<< $pilot_data | wc -l)
+    sumpilot=$(cut -d , -f4 <<< $pilot_data | sed '/^[[:space:]]*$/d' | sed -z "s/\n/ + /g" | sed "s/ + $//g")
+    sumpilot=$(bc <<< "scale=3 ; $sumpilot")
+    #pilotbestindex=$(cut -d , -f9 <<< $pilot_data | sed '/^[[:space:]]*$/d' | sed -z "s/\n/ + /g" | sed "s/ + $//g")
+    #pilotbestindex=$(bc <<< "scale=3 ; ($pilotbestindex) / $n")
+    pilottopindex=$(cut -d , -f9 <<< $pilot_data | sed '/^[[:space:]]*$/d' | sed -z "s/\n/ + /g" | sed "s/ + $//g")
+    pilottopindex=$(bc <<< "scale=3 ; ($pilottopindex) / $n")
+    list=$(echo -e "$list\n$pilot,$n,$sumpilot,$pilottopindex,$spec")
     
   done <<< $pilots
 
@@ -100,17 +122,16 @@ previoussum=$(($previoussum))
 previousn=$(head -n 1 <<< $list | cut -d , -f3)
 previousn=$(($previoussum))
 
-while IFS="," read -r pilot n sum ; do
+while IFS="," read -r pilot n sum index spec ; do
   
   samerank=$(((($n))-(($previousn))))
   
   if [ "$samerank" = "0" ] ; then
-    delta=$(($(($sum))-$(($summaxrank))))
-    delta=$(printf "%.3f\n" $delta)
-    newlist=$(echo -e "$newlist\n|$i|$pilot|$n tracks|$sum s|+$delta|")
+    delta=$(bc <<< "scale=3 ; $sum - $summaxrank")
+    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n| $sum s|+$delta|")
     datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
   else
-    newlist=$(echo -e "$newlist\n|$i|$pilot|$n tracks|$sum s||")
+    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|**$spec / $n**|$sum s||")
     datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
     summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f3)
   fi
@@ -124,8 +145,8 @@ done <<< $list
   outputfile="$leaderboards_md/$collection.md"
   echo -e "### $collection RANKING" > "$outputfile"
   echo -e "*$(wc -l <<< $cleancollection) tracks included from [$collections_dir/$collection.csv](/$collections_dir/$(sed "s/ /%20/g" <<< $collection).csv)*" >> "$outputfile"
-  echo -e "|RANK|PILOT|COMPLETED|TIME|DELTA|" >> "$outputfile"
-  echo -e "|:---:|:---|:---:|:---|---:|" >> "$outputfile"
+  echo -e "|RANK|PILOT|INDEX|SPEC|TIME|DELTA|" >> "$outputfile"
+  echo -e "|:---:|:---|:---:|:---:|:---:|---:|" >> "$outputfile"
   echo "$newlist" | sed '/^[[:space:]]*$/d' >> "$outputfile"
   
   
