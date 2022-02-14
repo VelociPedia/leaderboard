@@ -112,8 +112,15 @@ while read pilot ; do
     
   done <<< $pilots
 
-  list=$(sort --field-separator="," -k2,2rn -k3,3n <<< $list)
-
+  sortby=$(grep "\[sortby=" "$collections_dir/$collection.csv"| sed -e "s/^\# \[sortby=//g"  -e "s/\]$//g")
+  
+  if [ "$sortby" = "time" ]  ; then nsort=3 ; calcdelta="sum"
+elif [ "$sortby" = "index" ] ; then nsort=4 ; calcdelta="index"
+  else nsort=3 ; calcdelta="sum"
+  fi
+  
+  list=$(sort --field-separator="," -k2,2rn -k${nsort},${nsort}n <<< $list)     # Sort by N Track completed, then by sum_time
+  #list=$(sort --field-separator="," -k2,2rn -k4,4n <<< $list)    # Sort by N Track completed, then by indextime
   
   
 i=1
@@ -124,21 +131,23 @@ previousn=$(($previoussum))
 
 while IFS="," read -r pilot n sum index spec ; do
   
-  samerank=$(((($n))-(($previousn))))
-  
-  if [ "$samerank" = "0" ] ; then
-    delta=$(bc <<< "scale=3 ; $sum - $summaxrank")
+  samerank=$(((($n))-(($previousn))))  
+  if [ "$i" -gt "1" ] ; then
+    if [ "$calcdelta" = "sum" ] ; then calcudelta=$sum
+    elif [ "$calcdelta" = "index" ] ; then calcudelta=$index
+    else calculdelta=$sum ; fi
+    
+    delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
     newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n| $sum s|+$delta|")
     datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
   else
-    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|**$spec / $n**|$sum s||")
+    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s||")
     datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
-    summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f3)
+    summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f${nsort})
   fi
   
   ((i++))
   previousn="$(($n))"
-  previoussum="$(($sum))"
 done <<< $list
 
 
@@ -151,4 +160,4 @@ done <<< $list
   
   
   dataoutputfile="$ranking_dir/$collection.csv"
-  echo "$datanewlist" | sed '/^[[:space:]]*$/d' > "$dataoutputfile"
+  echo "$datanewlist" | sed '/^[[:space:]]*$/d' | sort --field-separator="," -k2,2rn -k3,3n > "$dataoutputfile"
