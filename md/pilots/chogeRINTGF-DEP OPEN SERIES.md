@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |18|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2022/02/09|
 |32|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2022/01/06|
-|33|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2022/01/14|
+|34|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2022/01/14|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

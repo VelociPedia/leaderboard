@@ -8,7 +8,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |134|DEP Open Series 5 Race 3|Football Stadium|Yakuza|2021/11/23|
-|121|DEP Open Series 5 Race 5|Football Stadium|Yakuza|2021/12/15|
+|122|DEP Open Series 5 Race 5|Football Stadium|Yakuza|2021/12/15|
 |130|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/08/19|
 |108|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/24|
 ---

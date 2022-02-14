@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |165|DEP Open Series 4 Race 4|Football Stadium|TBSOblivion|2021/04/25|
 |140|DEP Open Series 4 Race 2|Football Stadium|TBSOblivion|2021/04/20|
-|130|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/20|
+|131|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/20|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

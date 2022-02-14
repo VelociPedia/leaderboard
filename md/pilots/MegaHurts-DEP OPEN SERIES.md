@@ -1,9 +1,9 @@
 ### Best 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|25|DEP Open Series 3 Race 3|Karting Track|Mode2Ghost|2021/08/16|
 |26|DEP Open Series 5 Race 1|Football Stadium|Mode2Ghost|2021/11/01|
 |26|DEP Open Series 4 Race 5|Football Stadium|Mode2Ghost|2021/07/12|
+|27|DEP Open Series 3 Race 2|Football Stadium|Chief|2022/01/18|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

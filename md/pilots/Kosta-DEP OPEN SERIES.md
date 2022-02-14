@@ -10,7 +10,7 @@
 |:---:|:---|:---|:---:|:---:|
 |85|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2021/11/03|
 |23|DEP Open Series 4 Race 5|Football Stadium|Five33Switchback|2021/05/01|
-|20|DEP Open Series 3 Race 6|Football Stadium|Five33Switchback|2021/03/10|
+|21|DEP Open Series 3 Race 6|Football Stadium|Five33Switchback|2021/03/10|
 |16|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/04/26|
 ---
 ### Oldest 3 personal best

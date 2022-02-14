@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |178|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/02|
-|174|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/08|
-|134|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
+|176|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/08|
+|135|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -23,9 +23,9 @@
 |150|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/15|
 |117|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/05/26|
 |175|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/09|
-|134|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
-|108|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/21|
-|174|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/08|
+|135|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
+|111|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/21|
+|176|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/08|
 |118|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/04/14|
 |178|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/02|
 |114|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/10|

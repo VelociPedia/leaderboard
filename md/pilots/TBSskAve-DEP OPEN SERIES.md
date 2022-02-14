@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |31|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/27|
 |23|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/18|
-|20|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/02/26|
+|21|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/02/26|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
