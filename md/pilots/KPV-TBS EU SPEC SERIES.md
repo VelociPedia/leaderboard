@@ -3,8 +3,8 @@
 |:---:|:---|:---|:---:|:---:|
 |4|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/26|
 |9|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
+|11|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/15|
 |11|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/05/11|
-|12|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/15|
 |13|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Ossa|2020/09/27|
 |20|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |21|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/01|

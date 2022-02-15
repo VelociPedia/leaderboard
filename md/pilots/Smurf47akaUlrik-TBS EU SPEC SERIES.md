@@ -56,7 +56,7 @@
 |148|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/02/01|
 |17|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2022/01/24|
 |43|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/06|
-|36|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/28|
+|35|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/28|
 |45|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/20|
 |38|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |30|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|

@@ -14,7 +14,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |199|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/12/21|
-|138|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/11|
+|137|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/11|
 |80|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|CarbiXZero|2020/12/07|
 |59|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/15|
 |50|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
@@ -45,7 +45,7 @@
 |20|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/30|
 |25|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |14|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/15|
-|138|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/11|
+|137|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/11|
 |10|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/21|
 |18|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |59|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/15|

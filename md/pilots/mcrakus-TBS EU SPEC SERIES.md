@@ -5,9 +5,9 @@
 |52|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/08|
 |61|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/22|
 |66|TBS EU Spec Series 10 Race 1|Football Stadium|Ossa|2021/12/05|
+|73|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |73|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/13|
 |73|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/05|
-|74|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |78|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|
 |80|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
 ---
@@ -52,7 +52,7 @@
 |138|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/17|
 |94|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/06|
 |127|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/10|
-|74|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|73|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |51|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/17|
 |180|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/21|
 |52|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/08|

@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |57|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
-|68|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
+|67|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
 |70|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/28|
 |71|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |72|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
@@ -37,7 +37,7 @@
 |:---:|:---|:---|:---:|:---:|
 |133|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/26|
 |84|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
-|68|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
+|67|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
 |71|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |100|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |70|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/28|

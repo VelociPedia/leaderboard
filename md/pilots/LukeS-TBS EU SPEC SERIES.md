@@ -40,7 +40,7 @@
 |:---:|:---|:---|:---:|:---:|
 |194|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/08|
 |86|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/15|
-|148|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/22|
+|147|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/22|
 |72|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
 |94|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/09|
 |110|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/25|

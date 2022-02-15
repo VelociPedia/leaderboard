@@ -9,7 +9,7 @@
 |6|TBS EU Spec Series 9 Race 4|Football Stadium|CarbiXZero|2021/12/04|
 |6|TBS EU Spec Series 8 Race 4|Empty Scene Day|CarbiXZero|2021/12/20|
 |6|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2022/01/08|
-|8|TBS EU Spec Series 10 Race 2|Empty Scene Day|CarbiXZero|2021/12/20|
+|7|TBS EU Spec Series 10 Race 2|Empty Scene Day|CarbiXZero|2021/12/20|
 |9|TBS EU Spec Season 5 Race 1|Football Stadium|CarbiXZero|2021/11/18|
 |9|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2022/01/05|
 ---

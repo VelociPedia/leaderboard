@@ -4,7 +4,7 @@
 |1|TBS EU Spec Series 4 Race 2|Empty Scene Day|Ossa|2021/09/07|
 |3|TBS EU Spec Series 9 Race 7|NEC Birmingham|Ossa|2021/11/11|
 |3|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Ossa|2021/11/11|
-|5|TBS EU Spec Series 10 Race 2|Empty Scene Day|Ossa|2021/12/10|
+|4|TBS EU Spec Series 10 Race 2|Empty Scene Day|Ossa|2021/12/10|
 |5|TBS EU Spec Series 5 Race 5|NEC Birmingham|CarbiXZero|2020/08/19|
 |6|TBS EU Spec Series 4 Race 3|IndoorGoKart|CarbiXZero|2020/05/29|
 |7|TBS EU Spec Series 5 Race 6|Dynamic Weather|CarbiXZero|2020/08/31|

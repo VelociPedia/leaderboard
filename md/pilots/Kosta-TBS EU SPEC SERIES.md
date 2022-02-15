@@ -3,8 +3,8 @@
 |:---:|:---|:---|:---:|:---:|
 |1|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/09/18|
 |1|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/04|
+|1|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/11|
 |2|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/19|
-|2|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/11|
 |2|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/06|
 |2|TBS EU Spec Series 10 Race 3|Night Factory 2|CarbiXZero|2021/12/20|
 |3|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/24|

@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |11|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/08/15|
 |21|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/11/14|
-|23|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
+|22|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
 |27|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/08/11|
 |30|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/26|
 |32|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/10/21|

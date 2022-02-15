@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |62|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/01/06|
 |68|TBS EU Spec Series 10 Race 3|Night Factory 2|CarbiXZero|2021/12/20|
-|70|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/01/09|
+|69|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/01/09|
 |74|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/11/16|
 |87|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2022/01/10|
 |87|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/01/11|

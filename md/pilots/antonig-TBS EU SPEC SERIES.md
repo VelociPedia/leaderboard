@@ -36,7 +36,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |27|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/19|
-|30|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/19|
+|29|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/19|
 |27|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2022/01/19|
 |91|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |7|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|

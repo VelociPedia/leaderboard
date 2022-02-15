@@ -8,7 +8,7 @@
 |12|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/31|
 |12|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/02/01|
 |13|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|SingularitumV5|2022/01/01|
-|17|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/20|
+|16|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/20|
 |17|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/10/27|
 |18|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2022/02/02|
 |20|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/11/27|

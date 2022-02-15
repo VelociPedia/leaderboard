@@ -46,7 +46,7 @@
 |48|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/09/23|
 |41|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/07/22|
 |92|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
-|48|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|47|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |46|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |35|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/10|
 |53|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|

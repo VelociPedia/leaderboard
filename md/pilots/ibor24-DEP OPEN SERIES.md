@@ -17,7 +17,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|189|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/25|
+|188|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/25|
 |137|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2021/05/16|
 |136|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/05/17|
 ---

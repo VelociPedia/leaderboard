@@ -4,7 +4,7 @@
 |63|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/08/21|
 |69|TBS EU Spec Series 10 Race 7|Football Stadium|SniperX|2022/02/09|
 |74|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/08/13|
-|98|TBS EU Spec Series 10 Race 2|Empty Scene Day|SniperX|2021/12/11|
+|97|TBS EU Spec Series 10 Race 2|Empty Scene Day|SniperX|2021/12/11|
 |113|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/15|
 |117|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/08/13|
 ---

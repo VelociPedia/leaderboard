@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |37|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/13|
-|40|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
+|39|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
 |40|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |41|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/07|
 |44|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/12/25|

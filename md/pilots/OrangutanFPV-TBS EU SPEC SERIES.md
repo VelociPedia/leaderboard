@@ -5,8 +5,8 @@
 |49|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |59|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/06/28|
 |63|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/20|
+|68|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/14|
 |69|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/27|
-|69|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/14|
 |71|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/06/27|
 |72|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 ---
@@ -47,7 +47,7 @@
 |88|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |200|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/05/11|
 |156|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/01/10|
-|69|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/14|
+|68|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/14|
 |74|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/23|
 |177|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/10|
 |71|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/06/27|

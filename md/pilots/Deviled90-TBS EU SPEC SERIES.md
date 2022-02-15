@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |17|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/10|
-|21|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/02/03|
+|20|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/02/03|
 |25|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/10/01|
 |28|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |43|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/30|

@@ -39,7 +39,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |34|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
-|32|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|31|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |21|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |43|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
 |23|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/11|

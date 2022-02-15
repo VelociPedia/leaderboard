@@ -5,7 +5,7 @@
 |8|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/26|
 |10|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/20|
 |11|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/10/18|
-|14|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/13|
+|13|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/13|
 |18|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2021/10/15|
 |18|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/09|
 ---

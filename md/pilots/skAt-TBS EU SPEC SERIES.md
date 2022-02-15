@@ -50,7 +50,7 @@
 |29|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/09/16|
 |25|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/10/29|
 |152|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/16|
-|60|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/18|
+|59|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/18|
 |66|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/18|
 |30|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/02/01|
 |49|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/16|

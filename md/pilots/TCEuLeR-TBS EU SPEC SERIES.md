@@ -42,7 +42,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |17|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
-|26|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|25|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |20|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |13|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/20|
 |19|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|

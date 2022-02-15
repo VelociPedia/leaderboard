@@ -46,7 +46,7 @@
 |142|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/10/29|
 |112|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |57|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/27|
-|72|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/26|
+|71|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/26|
 |47|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2022/01/25|
 |67|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/25|
 |41|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/24|
