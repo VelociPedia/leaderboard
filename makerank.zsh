@@ -121,30 +121,44 @@ elif [ "$sortby" = "index" ] ; then nsort=4 ; calcdelta="index"
   
   list=$(sort --field-separator="," -k2,2rn -k${nsort},${nsort}n <<< $list)     # Sort by N Track completed, then by sum_time
   #list=$(sort --field-separator="," -k2,2rn -k4,4n <<< $list)    # Sort by N Track completed, then by indextime
-  
+  summaxrank=$(sort --field-separator="," -k2,2rn -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
   
 i=1
-previoussum=$(head -n 1 <<< $list | cut -d , -f3)
-previoussum=$(($previoussum))
-previousn=$(head -n 1 <<< $list | cut -d , -f3)
-previousn=$(($previoussum))
+n=$(head -n 1 <<< $list | cut -d , -f2)
+n=$(($n))
+previousn=$(($n))
+
+
 
 while IFS="," read -r pilot n sum index spec ; do
   
   samerank=$(((($n))-(($previousn))))  
-  if [ "$i" -gt "1" ] ; then
-    if [ "$calcdelta" = "sum" ] ; then calcudelta=$sum
-    elif [ "$calcdelta" = "index" ] ; then calcudelta=$index
-    else calculdelta=$sum ; fi
+  
+   
     
-    delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
-    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n| $sum s|+$delta|")
-    datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
-  else
-    newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s||")
-    datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
-    summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f${nsort})
+if [ "$sortby" = "index" ] ; then
+      calcudelta=$index
+      delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
+      #sign=$(if [ $delta -ge 0 ] ; then echo + ; else echo - ; fi)
+      if [ $i = 1 ] ; then delta="" ; else delta="+$delta" ; fi
+      newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s|$delta|")
+      datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
+    
+    
+    
+  else # = time or not said
+    if [ "$samerank" -eq 0 ] ; then
+      calcudelta=$sum
+      delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
+      newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s|+$delta|")
+      datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
+    else
+      newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s||")
+      datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
+      summaxrank=$(grep ",$n," <<< $list | head -n 1 | cut -d , -f${nsort})
+    fi    
   fi
+  
   
   ((i++))
   previousn="$(($n))"
