@@ -2,7 +2,7 @@
 *8 tracks included from [collections/TBS EU SPEC SERIES 06.csv](/collections/TBS%20EU%20SPEC%20SERIES%2006.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|Lacasito|103.275|1 / 8|521.743 s|+0|
+|1|Lacasito|103.275|1 / 8|521.743 s||
 |2|Kosta|105.187|6 / 8|530.066 s|+8.323|
 |3|Mazak|109.062|8 / 8|549.144 s|+27.401|
 |4|RCSwix|109.000|4 / 8|550.561 s|+28.818|

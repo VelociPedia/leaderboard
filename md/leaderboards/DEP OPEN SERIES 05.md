@@ -2,7 +2,7 @@
 *7 tracks included from [collections/DEP OPEN SERIES 05.csv](/collections/DEP%20OPEN%20SERIES%2005.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|TCEuLeR|97.485|0 / 7|437.757 s|+0|
+|1|TCEuLeR|97.485|0 / 7|437.757 s||
 |2|geek_fpv|98.957|0 / 7|444.581 s|+6.824|
 |3|MARAHUTE|102.571|0 / 7|460.965 s|+23.208|
 |4|mv|105.514|0 / 7|474.151 s|+36.394|

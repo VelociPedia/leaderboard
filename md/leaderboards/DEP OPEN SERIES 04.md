@@ -2,7 +2,7 @@
 *7 tracks included from [collections/DEP OPEN SERIES 04.csv](/collections/DEP%20OPEN%20SERIES%2004.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|ETERNAL☆BURAK|97.271|0 / 7|424.991 s|+0|
+|1|ETERNAL☆BURAK|97.271|0 / 7|424.991 s||
 |2|CharlieMorry|101.042|0 / 7|442.472 s|+17.481|
 |3|TCEuLeR|102.057|0 / 7|445.841 s|+20.850|
 |4|geek_fpv|102.557|0 / 7|447.750 s|+22.759|

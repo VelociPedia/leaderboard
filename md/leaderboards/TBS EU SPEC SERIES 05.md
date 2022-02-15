@@ -2,7 +2,7 @@
 *8 tracks included from [collections/TBS EU SPEC SERIES 05.csv](/collections/TBS%20EU%20SPEC%20SERIES%2005.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|DirtyMuffin|99.012|0 / 8|509.348 s|+0|
+|1|DirtyMuffin|99.012|0 / 8|509.348 s||
 |2|HQBurkanBiceps|102.125|2 / 8|525.729 s|+16.381|
 |3|BrieflyFlying|108.387|8 / 8|556.615 s|+47.267|
 |4|knighthawk|113.300|8 / 8|582.306 s|+72.958|

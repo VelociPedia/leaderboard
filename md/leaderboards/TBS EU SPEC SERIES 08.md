@@ -2,7 +2,7 @@
 *9 tracks included from [collections/TBS EU SPEC SERIES 08.csv](/collections/TBS%20EU%20SPEC%20SERIES%2008.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|DirtyMuffin|103.222|0 / 9|544.730 s|+0|
+|1|DirtyMuffin|103.222|0 / 9|544.730 s||
 |2|ETERNAL☆BURAK|105.933|8 / 9|558.870 s|+14.140|
 |3|ETERNAL☆ATAKAN|107.388|9 / 9|567.527 s|+22.797|
 |4|RCSwix|111.677|5 / 9|588.750 s|+44.020|

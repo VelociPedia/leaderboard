@@ -2,7 +2,7 @@
 *9 tracks included from [collections/TBS EU SPEC SERIES 09.csv](/collections/TBS%20EU%20SPEC%20SERIES%2009.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|TCEuLeR|103.277|3 / 9|505.332 s|+0|
+|1|TCEuLeR|103.277|3 / 9|505.332 s||
 |2|ETERNAL☆ATAKAN|104.811|8 / 9|512.052 s|+6.720|
 |3|ETERNAL☆BURAK|105.577|8 / 9|516.048 s|+10.716|
 |4|FPVFPVINEEDTOGETFASTER|108.133|0 / 9|528.932 s|+23.600|

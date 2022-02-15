@@ -2,7 +2,7 @@
 *7 tracks included from [collections/TBS EU SPEC SERIES 04.csv](/collections/TBS%20EU%20SPEC%20SERIES%2004.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|DirtyMuffin|100.714|0 / 7|500.713 s|+0|
+|1|DirtyMuffin|100.714|0 / 7|500.713 s||
 |2|HQThunder|104.414|6 / 7|521.033 s|+20.320|
 |3|Kosta|106.628|2 / 7|530.272 s|+29.559|
 |4|RustyDollar|107.600|7 / 7|534.767 s|+34.054|

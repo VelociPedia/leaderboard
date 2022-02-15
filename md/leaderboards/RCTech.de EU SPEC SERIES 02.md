@@ -2,7 +2,7 @@
 *7 tracks included from [collections/RCTech.de EU SPEC SERIES 02.csv](/collections/RCTech.de%20EU%20SPEC%20SERIES%2002.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|DirtyMuffin|100.257|0 / 7|397.786 s|+0|
+|1|DirtyMuffin|100.257|0 / 7|397.786 s||
 |2|mv|104.214|6 / 7|413.495 s|+15.709|
 |3|vexsk|105.542|0 / 7|419.131 s|+21.345|
 |4|Kosta|111.014|6 / 7|440.745 s|+42.959|

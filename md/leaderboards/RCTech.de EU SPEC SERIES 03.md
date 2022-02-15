@@ -2,7 +2,7 @@
 *6 tracks included from [collections/RCTech.de EU SPEC SERIES 03.csv](/collections/RCTech.de%20EU%20SPEC%20SERIES%2003.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|RustyDollar|93.666|0 / 6|365.240 s|+0|
+|1|RustyDollar|93.666|0 / 6|365.240 s||
 |2|DirtyMuffin|99.500|0 / 6|386.969 s|+21.729|
 |3|BrieflyFlying|106.983|5 / 6|413.847 s|+48.607|
 |4|mv|107.000|6 / 6|416.105 s|+50.865|

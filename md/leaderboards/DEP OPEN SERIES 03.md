@@ -2,7 +2,7 @@
 *7 tracks included from [collections/DEP OPEN SERIES 03.csv](/collections/DEP%20OPEN%20SERIES%2003.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|TCEuLeR|100.314|0 / 7|444.420 s|+0|
+|1|TCEuLeR|100.314|0 / 7|444.420 s||
 |2|DirtyMuffin|104.128|0 / 7|460.881 s|+16.461|
 |3|mv|104.985|2 / 7|465.298 s|+20.878|
 |4|Ewen|105.800|0 / 7|469.362 s|+24.942|

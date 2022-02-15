@@ -2,7 +2,7 @@
 *7 tracks included from [collections/TBS EU SPEC SERIES 10.csv](/collections/TBS%20EU%20SPEC%20SERIES%2010.csv)*
 |RANK|PILOT|INDEX|SPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
-|1|Kosta|102.814|4 / 7|377.216 s|+0|
+|1|Kosta|102.814|4 / 7|377.216 s||
 |2|FPVFPVINEEDTOGETFASTER|108.828|2 / 7|396.653 s|+19.437|
 |3|chogeRINTGF|109.928|3 / 7|402.091 s|+24.875|
 |4|IonFPV|109.985|7 / 7|403.884 s|+26.668|
