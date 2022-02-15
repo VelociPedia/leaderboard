@@ -147,7 +147,8 @@ while IFS="," read -r pilot n sum index spec ; do
 if [ "$sortby" = "index" ] ; then
       calcudelta=$index
       delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
-      #sign=$(if [ $delta -ge 0 ] ; then echo + ; else echo - ; fi)
+      if [ $(bc <<< "$delta == 0") -eq 1 ] ; then delta=""
+      else delta=+$delta ; fi
       newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s|$delta|")
       datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
     
@@ -157,7 +158,9 @@ if [ "$sortby" = "index" ] ; then
     if [ "$samerank" -eq 0 ] ; then
       calcudelta=$sum
       delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
-      newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s|+$delta|")
+      if [ $(bc <<< "$delta == 0") -eq 1 ] ; then delta=""
+      else delta=+$delta ; fi
+      newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s|$delta|")
       datanewlist=$(echo -e "$datanewlist\n$pilot,$n,$sum")
     else
       newlist=$(echo -e "$newlist\n|$i|$pilot|$index|$spec / $n|$sum s||")
