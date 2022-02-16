@@ -26,6 +26,7 @@
 78.928,alvaritono55,Spain,TBSSpec,2020/11/11
 78.979,charles55582,UnitedStates,Five33Switchback,2021/11/23
 79.473,SOMi,Hungary,TBSSpec,2020/11/06
+79.504,MegaHurts,UnitedStates,SniperX,2022/02/16
 80.071,nossiFILMS,UnitedStates,Five33Switchback,2020/11/12
 80.341,loufpv,UnitedStates,Five33Switchback,2021/04/29
 80.994,mv,Estonia,CarbiXZero,2021/04/29
@@ -42,10 +43,10 @@
 83.207,Barnyard,UnitedStates,TBSSpec,2021/10/08
 83.328,Toka,Japan,Yakuza,2020/11/18
 83.529,IonFPV,India,TBSSpec,2021/07/07
-83.573,MegaHurts,UnitedStates,TBSSpec,2020/11/10
 83.653,Droidman,Brazil,TBSSpec,2020/11/27
 84.041,Kaiser,Denmark,Five33Switchback,2020/11/06
 84.631,AliB㋡,UnitedKingdom,TBSSpec,2020/11/05
+84.791,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2022/02/16
 85.259,NelisFPV,Netherlands,TBSSpec,2021/02/03
 85.360,M4TTFPV,UnitedKingdom,TBSSpec,2020/11/12
 85.542,K1R,Ukraine,Five33Switchback,2021/04/05
@@ -90,7 +91,7 @@
 92.472,TCNMGrower,UnitedStates,TBSSpec,2021/01/11
 92.868,Deviled90,Italy,TBSSpec,2020/11/12
 93.063,KarachoFPV,Austria,Five33Switchback,2021/04/14
-93.083,TheGuineaPigMaster,UnitedStates,TBSSpec,2020/11/05
+93.083,J0SE,UnitedStates,TBSSpec,2020/11/05
 93.382,DR1by,Belarus,TBSSpec,2020/11/13
 94.368,SpektrumSplatoonKid,UnitedStates,Ossa,2020/11/10
 94.660,saft57,Sweden,TBSSpec,2020/11/05
@@ -115,7 +116,6 @@
 98.717,KOCFPV,Turkey,TBSSpec,2021/01/07
 98.860,Errlax,UnitedStates,TBSSpec,2020/11/05
 98.886,obeny,Poland,Five33Switchback,2021/12/07
-99.572,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2021/10/08
 99.753,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/11/05
 100.331,TrollFPV,Norway,TBSSpec,2020/11/05
 100.501,whalefpv,China,Five33Switchback,2021/09/18
@@ -151,13 +151,14 @@
 109.268,ibor24,Switzerland,TBSSpec,2021/12/06
 109.714,Bree,France,TBSSpec,2021/12/21
 109.734,frteskesc,Germany,Five33Switchback,2020/11/06
-109.840,TCDarksilver,Canada,Five33Switchback,2020/11/07
+109.840,Darksilver,Canada,Five33Switchback,2020/11/07
 109.857,RavKillah,Poland,TBSOblivion,2021/11/01
 110.063,Robertas_V,Unknown,TBSSpec,2020/11/05
 110.190,MioElGato,Unknown,TBSSpec,2020/11/05
 110.255,MattMaxx,UnitedStates,Solleva,2020/11/09
 110.874,fape,Hungary,TBSSpec,2020/11/06
 111.367,NotSure,UnitedKingdom,TBSSpec,2021/10/08
+111.480,Brombeer,Netherlands,SniperX,2022/02/13
 111.916,ImpactFPV,UnitedKingdom,TBSSpec,2020/11/06
 112.106,FalconFPV,Ukraine,Mako,2021/06/14
 112.118,sbrfpv,Brazil,Five33Switchback,2020/11/27
@@ -197,4 +198,3 @@
 126.044,jeanjeanfpv,Unknown,Yakuza,2021/04/29
 126.164,lef,Ukraine,AttoFPVPhoton,2021/08/05
 126.745,DaveoFPV,UnitedStates,TBSSpec,2021/10/08
-126.866,DMiz,UnitedKingdom,TBSSpec,2020/11/12

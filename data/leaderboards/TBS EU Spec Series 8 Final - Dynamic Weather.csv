@@ -62,7 +62,7 @@
 85.111,CravenFPV,UnitedStates,Five33Switchback,2021/11/17
 85.380,Guile,Singapore,TBSSpec,2021/07/01
 85.575,slick_fpv,UnitedStates,Ossa,2021/07/15
-85.765,TCDarksilver,Canada,TBSSpec,2021/07/09
+85.765,Darksilver,Canada,TBSSpec,2021/07/09
 85.901,nossiFILMS,UnitedStates,Ossa,2021/07/07
 86.019,DAFFPV,Sweden,TBSSpec,2021/07/01
 86.191,TITOO,Brazil,Five33Switchback,2021/07/11
@@ -74,9 +74,9 @@
 87.485,MegaHurts,UnitedStates,Five33Switchback,2021/07/02
 88.127,wapfpv,Philippines,Five33Switchback,2021/07/09
 88.310,AliB㋡,UnitedKingdom,TBSSpec,2021/07/01
+88.323,stogie,UnitedStates,Five33Switchback,2022/02/13
 89.396,CNJFPV,UnitedStates,TBSSpec,2021/07/07
 90.005,TCProDangles,UnitedStates,Ossa,2021/07/07
-90.043,stogie,UnitedStates,Five33Switchback,2021/08/28
 90.825,BatmanFPV,UnitedKingdom,TBSSpec,2021/07/12
 91.509,bigspeed,UnitedStates,TBSSpec,2021/07/07
 91.689,Barnyard,UnitedStates,TBSSpec,2021/07/29
@@ -138,6 +138,7 @@
 107.940,flightning,UnitedStates,TBSSpec,2021/07/29
 108.496,EmPiiRe,Germany,TBSSpec,2021/11/15
 108.577,CrashaTon,Netherlands,SniperX,2021/11/16
+108.760,GoldenFpv,Israel,Five33Switchback,2022/02/12
 108.847,thestorm,Belgium,Five33Switchback,2022/01/07
 108.967,KikiriskiHaga,Mexico,Five33Switchback,2021/07/04
 109.423,RabelloFPV,Brazil,CarbiXZero,2021/07/12
@@ -146,6 +147,7 @@
 111.788,Turkey,UnitedStates,TBSSpec,2021/07/13
 112.076,Klatuu,Germany,TBSSpec,2021/07/05
 112.430,BoosiveFPV,UnitedKingdom,Five33Switchback,2021/07/14
+112.996,Rocket,Canada,Five33Switchback,2022/02/15
 114.093,Airftis,UnitedKingdom,Five33Switchback,2021/08/09
 115.624,thiiron,Finland,TBSSpec,2021/10/15
 115.627,NotSure,UnitedKingdom,TBSSpec,2021/07/03
@@ -196,5 +198,3 @@
 141.414,Hacklife,Argentina,Mode2Ghost,2021/11/05
 143.611,REZolution,UnitedStates,Five33Switchback,2021/07/11
 145.115,kreygue,France,LethalConception,2021/07/06
-146.695,ROBO__FPV,Poland,TBSSpec,2021/07/07
-147.327,LukeTa,Brazil,Five33Switchback,2021/07/08

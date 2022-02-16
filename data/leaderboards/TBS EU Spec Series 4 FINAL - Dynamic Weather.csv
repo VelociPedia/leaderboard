@@ -5,6 +5,7 @@
 71.039,heitor,Brazil,CarbiXZero,2020/07/11
 71.624,Holdox_FPV,Norway,Five33Switchback,2021/01/30
 72.877,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2021/12/13
+73.274,OliHawk,France,Yakuza,2022/02/14
 73.996,DirtyMuffin,UnitedStates,Five33Switchback,2020/07/08
 74.729,HOOPES,UnitedStates,Five33Switchback,2020/07/01
 75.526,IonFPV,India,TBSSpec,2022/02/08
@@ -20,7 +21,6 @@
 77.695,Kosta,Germany,SingularitumV5,2020/06/26
 77.873,MARAHUTE,Italy,Five33Switchback,2021/03/16
 77.874,RustyDollar,Latvia,TBSSpec,2020/06/25
-77.934,OliHawk,France,Five33Switchback,2021/01/21
 78.669,XBWILDTYPE,UnitedStates,SingularitumV5,2020/07/03
 79.657,NelisFPV,Netherlands,Five33Switchback,2020/07/04
 80.372,Gafannen,Slovakia,Five33Switchback,2022/01/06
@@ -76,7 +76,7 @@
 90.188,RCSwix,RussianFederation,TBSSpec,2020/06/25
 90.292,MrD_FPV,Germany,Five33Switchback,2020/07/02
 90.360,TCSk_Dare,Canada,Velocity,2020/06/25
-91.127,ETERNAL☆PaulEFPV,UnitedStates,Ossa,2021/04/21
+91.127,PaulEFPV,UnitedStates,Ossa,2021/04/21
 91.143,FewRee,BruneiDarussalam,TBSSpec,2020/07/01
 91.350,Ninjakat,Unknown,TBSOblivion,2020/11/09
 91.494,SOMi,Hungary,TBSSpec,2020/07/03
@@ -88,7 +88,7 @@
 92.301,RipDaLip,Germany,TBSSpec,2021/09/14
 92.667,Saqoosha,Japan,TBSSpec,2020/06/28
 92.780,Bubbows,UnitedKingdom,TBSSpec,2020/07/08
-92.971,TCDarksilver,Canada,TBSSpec,2021/04/24
+92.971,Darksilver,Canada,TBSSpec,2021/04/24
 93.232,baraktal,Israel,TBSSpec,2021/01/21
 93.541,TriBull,UnitedKingdom,TBSSpec,2021/03/18
 94.394,NelsonFpv,Ireland,TBSSpec,2021/07/30
@@ -123,6 +123,7 @@
 101.352,CrowbarFPV,Belgium,TBSSpec,2020/06/29
 101.591,kulka,Lithuania,Five33Switchback,2021/03/21
 101.640,Locke_FPV_,Germany,Five33Switchback,2020/07/01
+101.759,stogie,UnitedStates,Five33Switchback,2022/02/15
 102.106,CravenFPV,UnitedStates,Five33Switchback,2021/06/29
 102.413,Bree,France,TBSSpec,2022/01/06
 102.525,kcken,UnitedKingdom,TBSSpec,2020/11/26
@@ -138,13 +139,12 @@
 104.243,Teammolleman,Sweden,Five33Switchback,2020/07/05
 104.499,GuGa9,Brazil,Five33Switchback,2020/07/08
 104.735,viarma,Belgium,Mode2Ghost,2020/11/10
-104.745,stogie,UnitedStates,Five33Switchback,2021/08/30
 104.832,RIVALSKneeDown,UnitedStates,CarbiXZero,2020/08/18
 105.221,Lo123,Austria,TBSSpec,2022/01/07
 105.399,Rojodiablo,UnitedStates,AstroXSL5,2020/07/03
 105.551,Flynby,UnitedStates,Five33Switchback,2020/06/29
 105.584,wuzzle,Germany,Five33Switchback,2020/09/19
-105.602,TheGuineaPigMaster,UnitedStates,TBSSpec,2020/07/05
+105.602,J0SE,UnitedStates,TBSSpec,2020/07/05
 105.762,KLARFON,Bulgaria,TBSSpec,2021/04/02
 106.155,fabiofpv,Spain,SingularitumV5,2020/08/16
 106.464,Dezz,Ukraine,TBSSpec,2022/02/03
