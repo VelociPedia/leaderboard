@@ -12,29 +12,29 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |169|TBS EU Spec Series 6 Race 7|Empty Scene Day|Ossa|2021/03/09|
-|148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
+|152|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 |105|TBS EU Spec Series 6 Race 2|Empty Scene Day|Ossa|2021/02/28|
 |98|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
-|97|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/03|
+|98|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/03|
 |88|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/03/05|
-|85|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
-|84|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|
+|86|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
+|85|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|
 |83|TBS EU Spec Series 6 Race 4|NEC Birmingham|Ossa|2021/02/28|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
+|152|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 |76|TBS EU Spec Series 7 Race 1|Football Stadium|Ossa|2021/01/15|
-|85|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
+|86|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
 |98|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
 |73|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
-|41|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|
+|42|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|148|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
+|152|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 ---
 ### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
@@ -71,4 +71,4 @@
 |TBS EU Spec Series 10 Race 4|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
-|TBS EU Spec Series 10 Race 7|Football Stadium|
+|TBS EU Spec Series 10 Losers Final|Football Stadium|

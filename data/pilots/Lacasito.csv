@@ -26,7 +26,7 @@ DEP Spec Series 1 Race 5,Football Stadium,17,83.238,Lacasito,Spain,Mode2Ghost,20
 EU Spec Season 4 Race 1,Football Stadium,7,74.736,Lacasito,Spain,Mode2Ghost,2020/11/01
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,13,63.143,Lacasito,Spain,Mode2Ghost,2020/11/16
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,Lacasito,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,12,52.588,Lacasito,Spain,Mode2Ghost,2020/11/14
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,14,52.588,Lacasito,Spain,Mode2Ghost,2020/11/14
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,5,54.453,Lacasito,Spain,Mode2Ghost,2020/06/12
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,Lacasito,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,Lacasito,NO_DATA
@@ -37,9 +37,10 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,Lacasito,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,Lacasito,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,Lacasito,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,44,76.251,Lacasito,Spain,TBSSpec,2020/04/09
-TBS EU Spec Season 5 Race 1,Football Stadium,49,60.321,Lacasito,Spain,Mode2Ghost,2021/03/06
+TBS EU Spec Season 5 Race 1,Football Stadium,50,60.321,Lacasito,Spain,Mode2Ghost,2021/03/06
+TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,4,53.059,Lacasito,Spain,Mode2Ghost,2022/02/03
-TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,Lacasito,NO_DATA
+TBS EU Spec Series 10 Race 2,Empty Scene Day,12,56.206,Lacasito,Spain,Mode2Ghost,2022/02/14
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,Lacasito,NO_DATA
@@ -47,15 +48,15 @@ TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,42,83.632,Lacasito,Spain,Mode2Ghost,2020/09/18
 TBS EU Spec Series 4 Race 2,Empty Scene Day,45,66.332,Lacasito,Spain,TBSSpec,2020/05/14
-TBS EU Spec Series 4 Race 3,IndoorGoKart,31,96.416,Lacasito,Spain,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 3,IndoorGoKart,33,96.416,Lacasito,Spain,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,Lacasito,NO_DATA
-TBS EU Spec Series 4 Race 5,Dynamic Weather,21,83.089,Lacasito,Spain,Mode2Ghost,2020/08/24
-TBS EU Spec Series 4 Race 7,Football Stadium,40,71.754,Lacasito,Spain,TBSSpec,2020/06/18
-TBS EU Spec Series 5 FINAL,Dynamic Weather,6,72.082,Lacasito,Spain,Mode2Ghost,2020/12/17
+TBS EU Spec Series 4 Race 5,Dynamic Weather,22,83.089,Lacasito,Spain,Mode2Ghost,2020/08/24
+TBS EU Spec Series 4 Race 7,Football Stadium,43,71.754,Lacasito,Spain,TBSSpec,2020/06/18
+TBS EU Spec Series 5 FINAL,Dynamic Weather,7,72.082,Lacasito,Spain,Mode2Ghost,2020/12/17
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999,999.999,Lacasito,NO_DATA
-TBS EU Spec Series 5 Race 3,Dynamic Weather,34,72.588,Lacasito,Spain,TBSSpec,2020/07/23
-TBS EU Spec Series 5 Race 4,Football Stadium,22,76.929,Lacasito,Spain,Mode2Ghost,2020/09/02
-TBS EU Spec Series 5 Race 5,NEC Birmingham,91,81.821,Lacasito,Spain,TBSSpec,2020/08/06
+TBS EU Spec Series 5 Race 3,Dynamic Weather,35,72.588,Lacasito,Spain,TBSSpec,2020/07/23
+TBS EU Spec Series 5 Race 4,Football Stadium,23,76.929,Lacasito,Spain,Mode2Ghost,2020/09/02
+TBS EU Spec Series 5 Race 5,NEC Birmingham,95,81.821,Lacasito,Spain,TBSSpec,2020/08/06
 TBS EU Spec Series 5 Race 6,Dynamic Weather,51,69.554,Lacasito,Spain,TBSSpec,2020/08/27
 TBS EU Spec Series 5 Race 7,IndoorGoKart,2,64.123,Lacasito,Spain,Mode2Ghost,2020/12/05
 TBS EU Spec Series 6 Final,Empty Scene Day,6,73.932,Lacasito,Spain,Mode2Ghost,2021/01/03
@@ -66,14 +67,14 @@ TBS EU Spec Series 6 Race 4,NEC Birmingham,7,57.628,Lacasito,Spain,Mode2Ghost,20
 TBS EU Spec Series 6 Race 5,Dynamic Weather,9,72.684,Lacasito,Spain,Mode2Ghost,2020/11/20
 TBS EU Spec Series 6 Race 6,Empty Scene Day,23,74.045,Lacasito,Spain,TBSSpec,2020/11/12
 TBS EU Spec Series 6 Race 7,Empty Scene Day,11,51.462,Lacasito,Spain,Mode2Ghost,2021/01/28
-TBS EU Spec Series 7 Final,Empty Scene Day,23,66.139,Lacasito,Spain,Mode2Ghost,2021/03/16
+TBS EU Spec Series 7 Final,Empty Scene Day,24,66.139,Lacasito,Spain,Mode2Ghost,2021/03/16
 TBS EU Spec Series 7 Race 1,Football Stadium,9,61.473,Lacasito,Spain,Mode2Ghost,2021/01/31
 TBS EU Spec Series 7 Race 2,Empty Scene Day,12,63.386,Lacasito,Spain,Mode2Ghost,2021/02/22
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,8,61.437,Lacasito,Spain,Mode2Ghost,2021/03/03
 TBS EU Spec Series 7 Race 5,IndoorGoKart,8,63.969,Lacasito,Spain,Mode2Ghost,2021/02/17
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,12,63.362,Lacasito,Spain,Mode2Ghost,2021/04/06
-TBS EU Spec Series 7 Race 7,Empty Scene Day,11,67.149,Lacasito,Spain,Mode2Ghost,2021/03/29
+TBS EU Spec Series 7 Race 7,Empty Scene Day,12,67.149,Lacasito,Spain,Mode2Ghost,2021/03/29
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,Lacasito,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,22,55.769,Lacasito,Spain,Mode2Ghost,2021/07/10
 TBS EU Spec Series 8 Race 1,Dynamic Weather,20,71.117,Lacasito,Spain,Mode2Ghost,2021/04/20

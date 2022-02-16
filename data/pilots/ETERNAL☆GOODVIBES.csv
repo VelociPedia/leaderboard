@@ -23,9 +23,9 @@ DEP Open Series 5 Race 5,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DAT
 DEP Open Series 5 Race 6,Football Stadium,83,83.788,ETERNAL☆GOODVIBES,UnitedKingdom,CarbiXZero,2021/12/21
 DEP Open Series 5 Race 7,Football Stadium,84,114.799,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/12/22
 DEP Spec Series 1 Race 5,Football Stadium,100,104.585,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2021/03/02
-EU Spec Season 4 Race 1,Football Stadium,122,96.009,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/05/07
+EU Spec Season 4 Race 1,Football Stadium,124,96.009,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/05/07
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,165,87.950,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/04/09
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,159,98.905,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/04/09
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,160,98.905,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/04/09
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,185,75.923,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/10/08
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
@@ -38,31 +38,32 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBE
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,112,92.194,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/04/09
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 10 Race 1,Football Stadium,57,64.791,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 2,Empty Scene Day,71,71.353,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/26
+TBS EU Spec Series 10 Losers Final,Football Stadium,22,56.469,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/02/14
+TBS EU Spec Series 10 Race 1,Football Stadium,58,64.791,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/27
+TBS EU Spec Series 10 Race 2,Empty Scene Day,73,71.353,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/26
 TBS EU Spec Series 10 Race 3,Night Factory 2,47,72.340,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/25
-TBS EU Spec Series 10 Race 4,Dynamic Weather,67,71.634,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/25
+TBS EU Spec Series 10 Race 4,Dynamic Weather,68,71.634,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/25
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,41,60.852,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/24
 TBS EU Spec Series 10 Race 6,Large Carpark,31,41.169,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/01/28
-TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
+TBS EU Spec Series 10 Race 7,Football Stadium,46,73.355,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2022/02/14
 TBS EU Spec Series 4 FINAL,Dynamic Weather,192,113.229,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/07/02
-TBS EU Spec Series 4 Race 2,Empty Scene Day,147,77.266,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/05/14
-TBS EU Spec Series 4 Race 3,IndoorGoKart,147,143.354,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
+TBS EU Spec Series 4 Race 2,Empty Scene Day,148,77.266,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/05/14
+TBS EU Spec Series 4 Race 3,IndoorGoKart,150,143.354,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 4 Race 5,Dynamic Weather,90,97.031,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/07/10
+TBS EU Spec Series 4 Race 5,Dynamic Weather,91,97.031,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/07/10
 TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 5 FINAL,Dynamic Weather,141,103.772,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,61,83.658,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/08/08
-TBS EU Spec Series 5 Race 3,Dynamic Weather,200,110.345,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/03/04
-TBS EU Spec Series 5 Race 4,Football Stadium,145,100.894,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/07
-TBS EU Spec Series 5 Race 5,NEC Birmingham,97,83.431,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
+TBS EU Spec Series 5 FINAL,Dynamic Weather,142,103.772,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,62,83.658,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/08/08
+TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
+TBS EU Spec Series 5 Race 4,Football Stadium,147,100.894,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/07
+TBS EU Spec Series 5 Race 5,NEC Birmingham,101,83.431,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
 TBS EU Spec Series 5 Race 6,Dynamic Weather,64,72.085,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/08
 TBS EU Spec Series 5 Race 7,IndoorGoKart,136,97.531,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/08
-TBS EU Spec Series 6 Final,Empty Scene Day,168,100.508,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/12/10
+TBS EU Spec Series 6 Final,Empty Scene Day,170,100.508,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/12/10
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,135,83.442,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/10/21
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 6 Race 4,NEC Birmingham,160,103.254,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/11/01
+TBS EU Spec Series 6 Race 4,NEC Birmingham,162,103.254,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/11/01
 TBS EU Spec Series 6 Race 5,Dynamic Weather,119,99.753,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2020/11/05
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,127,63.186,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/10
@@ -72,20 +73,20 @@ TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_D
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,134,86.489,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/02/21
-TBS EU Spec Series 7 Race 7,Empty Scene Day,153,98.460,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/03/03
-TBS EU Spec Series 8 Final,Dynamic Weather,182,131.179,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/07/01
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,135,86.489,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/02/21
+TBS EU Spec Series 7 Race 7,Empty Scene Day,154,98.460,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/03/03
+TBS EU Spec Series 8 Final,Dynamic Weather,184,131.179,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/07/01
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,98,70.509,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/06/25
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,90,66.685,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2021/05/03
 TBS EU Spec Series 8 Race 4,Empty Scene Day,139,92.408,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/05/07
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,166,86.747,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2021/05/26
-TBS EU Spec Series 8 Race 6,Football Stadium,165,83.624,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2021/06/13
+TBS EU Spec Series 8 Race 6,Football Stadium,167,83.624,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2021/06/13
 TBS EU Spec Series 8 Race 7,Empty Scene Day,165,93.469,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2021/06/18
 TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-TBS EU Spec Series 9 Race 1,Football Stadium,122,70.245,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/09/09
+TBS EU Spec Series 9 Race 1,Football Stadium,123,70.245,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/09/09
 TBS EU Spec Series 9 Race 2,Dynamic Weather,101,64.221,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/09/22
 TBS EU Spec Series 9 Race 3,Empty Scene Day,81,68.162,ETERNAL☆GOODVIBES,UnitedKingdom,TBSSpec,2021/09/24
 TBS EU Spec Series 9 Race 4,Football Stadium,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
@@ -93,19 +94,21 @@ TBS EU Spec Series 9 Race 5,Empty Scene Day,84,71.459,ETERNAL☆GOODVIBES,United
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,42,36.325,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
-Train Insane - Dive - MaiOnHigh,Empty Scene Day,36,35.190,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
-Train insane - High jumps - MaiOnHigh,Empty Scene Day,21,32.293,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
-Train Insane - Ladder - MaiOnHigh,Empty Scene Day,44,48.508,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
-Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,49,37.664,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
-Train Insane - powerloops - MaiOnHigh,Empty Scene Day,29,39.743,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
-Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,14,64.360,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/13
-Train Insane Race Track - MaiOnHigh,Empty Scene Day,34,73.705,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
-Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,49,67.385,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,7,24.041,ETERNAL☆GOODVIBES,UnitedKingdom,PantherMM,2022/02/09
+Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,44,36.325,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
+Train Insane - Dive - MaiOnHigh,Empty Scene Day,37,35.190,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
+Train Insane - Dutch 8 - MaiOnHigh,Empty Scene Day,15,54.254,ETERNAL☆GOODVIBES,UnitedKingdom,PantherMM,2022/02/09
+Train insane - High jumps - MaiOnHigh,Empty Scene Day,22,32.293,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train Insane - Ladder - MaiOnHigh,Empty Scene Day,46,48.508,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/05
+Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,52,37.664,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train Insane - powerloops - MaiOnHigh,Empty Scene Day,30,39.743,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,17,64.360,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/13
+Train Insane Race Track - MaiOnHigh,Empty Scene Day,36,73.705,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,55,67.385,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
 Train insane - sharp turns - MaiOnHigh,Empty Scene Day,8,52.181,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/13
-Train Insane - slalom - MaiOnHigh,Empty Scene Day,37,20.321,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train Insane - slalom - MaiOnHigh,Empty Scene Day,38,20.321,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
 Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,999,999.999,ETERNAL☆GOODVIBES,NO_DATA
-Train insane - Split-S - MaiOnHigh,Empty Scene Day,26,21.814,ETERNAL☆GOODVIBES,UnitedKingdom,PantherMM,2022/01/09
-Train Insane- Test1 - MaiOnHigh,Empty Scene Day,42,50.221,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/20
-Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,27,49.920,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
+Train insane - Split-S - MaiOnHigh,Empty Scene Day,28,21.814,ETERNAL☆GOODVIBES,UnitedKingdom,PantherMM,2022/01/09
+Train Insane- Test1 - MaiOnHigh,Empty Scene Day,44,50.221,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/20
+Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,29,49.920,ETERNAL☆GOODVIBES,UnitedKingdom,Solleva,2022/01/07
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,8,20.925,ETERNAL☆GOODVIBES,UnitedKingdom,BMSJS-1,2022/01/13

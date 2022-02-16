@@ -23,7 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,90,107.315,JR138,UnitedStates,TBSSpec,
 DEP Open Series 5 Race 6,Football Stadium,89,85.256,JR138,UnitedStates,TBSSpec,2021/12/20
 DEP Open Series 5 Race 7,Football Stadium,68,108.385,JR138,UnitedStates,TBSSpec,2021/12/31
 DEP Spec Series 1 Race 5,Football Stadium,173,120.779,JR138,UnitedStates,Five33Switchback,2021/01/25
-EU Spec Season 4 Race 1,Football Stadium,91,92.035,JR138,UnitedStates,TBSSpec,2021/12/28
+EU Spec Season 4 Race 1,Football Stadium,93,92.035,JR138,UnitedStates,TBSSpec,2021/12/28
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,175,88.790,JR138,UnitedStates,Five33Switchback,2021/05/23
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,96,81.526,JR138,UnitedStates,Five33Switchback,2021/05/23
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,194,77.169,JR138,UnitedStates,ArchAngelOrange,2020/12/01
@@ -37,32 +37,33 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,JR138,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,JR138,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,190,132.998,JR138,UnitedStates,Five33Switchback,2021/05/23
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,JR138,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,136,68.046,JR138,UnitedStates,TBSSpec,2021/12/20
-TBS EU Spec Series 10 Race 1,Football Stadium,93,72.515,JR138,UnitedStates,TBSSpec,2022/01/03
-TBS EU Spec Series 10 Race 2,Empty Scene Day,116,82.556,JR138,UnitedStates,TBSSpec,2021/12/20
+TBS EU Spec Season 5 Race 1,Football Stadium,137,68.046,JR138,UnitedStates,TBSSpec,2021/12/20
+TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,JR138,NO_DATA
+TBS EU Spec Series 10 Race 1,Football Stadium,94,72.515,JR138,UnitedStates,TBSSpec,2022/01/03
+TBS EU Spec Series 10 Race 2,Empty Scene Day,120,82.556,JR138,UnitedStates,TBSSpec,2021/12/20
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,JR138,NO_DATA
-TBS EU Spec Series 10 Race 4,Dynamic Weather,161,94.349,JR138,UnitedStates,TBSSpec,2022/01/07
+TBS EU Spec Series 10 Race 4,Dynamic Weather,162,94.349,JR138,UnitedStates,TBSSpec,2022/01/07
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,56,49.314,JR138,UnitedStates,Five33Switchback,2022/02/01
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,191,112.719,JR138,UnitedStates,Five33Switchback,2020/07/03
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,JR138,NO_DATA
-TBS EU Spec Series 4 Race 3,IndoorGoKart,105,127.418,JR138,UnitedStates,Five33Switchback,2021/07/23
-TBS EU Spec Series 4 Race 4,Empty Scene Day,185,107.460,JR138,UnitedStates,TBSSpec,2020/06/01
-TBS EU Spec Series 4 Race 5,Dynamic Weather,146,109.759,JR138,UnitedStates,Five33Switchback,2021/03/19
-TBS EU Spec Series 4 Race 7,Football Stadium,189,89.817,JR138,UnitedStates,Five33Switchback,2020/06/28
-TBS EU Spec Series 5 FINAL,Dynamic Weather,189,115.489,JR138,UnitedStates,Five33Switchback,2021/03/19
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,149,102.387,JR138,UnitedStates,ArchAngelOrange,2020/09/05
-TBS EU Spec Series 5 Race 3,Dynamic Weather,159,100.648,JR138,UnitedStates,AcrobotTruX-R197,2020/12/22
-TBS EU Spec Series 5 Race 4,Football Stadium,82,87.530,JR138,UnitedStates,TBSSpec,2021/12/18
-TBS EU Spec Series 5 Race 5,NEC Birmingham,194,107.166,JR138,UnitedStates,Mode2Ghost,2020/08/13
+TBS EU Spec Series 4 Race 3,IndoorGoKart,108,127.418,JR138,UnitedStates,Five33Switchback,2021/07/23
+TBS EU Spec Series 4 Race 4,Empty Scene Day,187,107.460,JR138,UnitedStates,TBSSpec,2020/06/01
+TBS EU Spec Series 4 Race 5,Dynamic Weather,147,109.759,JR138,UnitedStates,Five33Switchback,2021/03/19
+TBS EU Spec Series 4 Race 7,Football Stadium,191,89.817,JR138,UnitedStates,Five33Switchback,2020/06/28
+TBS EU Spec Series 5 FINAL,Dynamic Weather,190,115.489,JR138,UnitedStates,Five33Switchback,2021/03/19
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,150,102.387,JR138,UnitedStates,ArchAngelOrange,2020/09/05
+TBS EU Spec Series 5 Race 3,Dynamic Weather,163,100.648,JR138,UnitedStates,AcrobotTruX-R197,2020/12/22
+TBS EU Spec Series 5 Race 4,Football Stadium,83,87.530,JR138,UnitedStates,TBSSpec,2021/12/18
+TBS EU Spec Series 5 Race 5,NEC Birmingham,198,107.166,JR138,UnitedStates,Mode2Ghost,2020/08/13
 TBS EU Spec Series 5 Race 6,Dynamic Weather,123,83.917,JR138,UnitedStates,Five33Switchback,2021/02/13
-TBS EU Spec Series 5 Race 7,IndoorGoKart,151,101.680,JR138,UnitedStates,Five33Switchback,2021/07/26
+TBS EU Spec Series 5 Race 7,IndoorGoKart,152,101.680,JR138,UnitedStates,Five33Switchback,2021/07/26
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,191,93.762,JR138,UnitedStates,TBSSpec,2020/10/19
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,JR138,NO_DATA
-TBS EU Spec Series 6 Race 4,NEC Birmingham,128,94.053,JR138,UnitedStates,TBSOblivion,2020/11/02
+TBS EU Spec Series 6 Race 4,NEC Birmingham,130,94.053,JR138,UnitedStates,TBSOblivion,2020/11/02
 TBS EU Spec Series 6 Race 5,Dynamic Weather,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,JR138,NO_DATA
@@ -73,13 +74,13 @@ TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,JR138,NO_DATA
-TBS EU Spec Series 7 Race 7,Empty Scene Day,177,102.983,JR138,UnitedStates,Five33Switchback,2021/05/23
+TBS EU Spec Series 7 Race 7,Empty Scene Day,178,102.983,JR138,UnitedStates,Five33Switchback,2021/05/23
 TBS EU Spec Series 8 Final,Dynamic Weather,84,92.089,JR138,UnitedStates,Five33Switchback,2021/07/14
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,78,64.986,JR138,UnitedStates,Five33Switchback,2022/01/19
-TBS EU Spec Series 8 Race 4,Empty Scene Day,181,105.471,JR138,UnitedStates,Five33Switchback,2021/05/15
+TBS EU Spec Series 8 Race 4,Empty Scene Day,182,105.471,JR138,UnitedStates,Five33Switchback,2021/05/15
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,JR138,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,128,87.206,JR138,UnitedStates,Five33Switchback,2021/06/20

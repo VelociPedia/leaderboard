@@ -23,9 +23,9 @@ DEP Open Series 5 Race 5,Football Stadium,74,99.650,ibor24,Switzerland,TBSSpec,2
 DEP Open Series 5 Race 6,Football Stadium,105,87.825,ibor24,Switzerland,TBSSpec,2021/12/16
 DEP Open Series 5 Race 7,Football Stadium,110,130.694,ibor24,Switzerland,TBSSpec,2021/12/23
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,ibor24,NO_DATA
-EU Spec Season 4 Race 1,Football Stadium,148,98.949,ibor24,Switzerland,Five33Switchback,2021/07/15
+EU Spec Season 4 Race 1,Football Stadium,149,98.949,ibor24,Switzerland,Five33Switchback,2021/07/15
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,ibor24,NO_DATA
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,155,98.028,ibor24,Switzerland,Five33Switchback,2020/12/16
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,156,98.028,ibor24,Switzerland,Five33Switchback,2020/12/16
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,133,68.693,ibor24,Switzerland,Five33Switchback,2021/05/16
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,114,93.192,ibor24,Switzerland,Five33Switchback,2021/04/22
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,ibor24,NO_DATA
@@ -38,74 +38,77 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,ibor24,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,ibor24,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,ibor24,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 10 Race 1,Football Stadium,100,74.749,ibor24,Switzerland,TBSSpec,2021/12/03
-TBS EU Spec Series 10 Race 2,Empty Scene Day,85,75.342,ibor24,Switzerland,TBSSpec,2021/12/10
+TBS EU Spec Series 10 Losers Final,Football Stadium,56,64.898,ibor24,Switzerland,TBSSpec,2022/02/11
+TBS EU Spec Series 10 Race 1,Football Stadium,101,74.749,ibor24,Switzerland,TBSSpec,2021/12/03
+TBS EU Spec Series 10 Race 2,Empty Scene Day,87,75.342,ibor24,Switzerland,TBSSpec,2021/12/10
 TBS EU Spec Series 10 Race 3,Night Factory 2,85,82.643,ibor24,Switzerland,TBSSpec,2021/12/17
-TBS EU Spec Series 10 Race 4,Dynamic Weather,128,84.124,ibor24,Switzerland,TBSSpec,2022/01/06
+TBS EU Spec Series 10 Race 4,Dynamic Weather,129,84.124,ibor24,Switzerland,TBSSpec,2022/01/06
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,100,79.737,ibor24,Switzerland,TBSSpec,2022/01/21
 TBS EU Spec Series 10 Race 6,Large Carpark,53,48.552,ibor24,Switzerland,TinyHawk,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,145,134.482,ibor24,Switzerland,TBSSpec,2022/02/03
+TBS EU Spec Series 10 Race 7,Football Stadium,99,89.191,ibor24,Switzerland,TBSSpec,2022/02/13
 TBS EU Spec Series 4 FINAL,Dynamic Weather,158,108.177,ibor24,Switzerland,TBSSpec,2021/12/04
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 4 Race 3,IndoorGoKart,199,160.524,ibor24,Switzerland,TBSSpec,2021/12/04
+TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 4 Race 5,Dynamic Weather,99,97.688,ibor24,Switzerland,Five33Switchback,2021/09/11
+TBS EU Spec Series 4 Race 5,Dynamic Weather,100,97.688,ibor24,Switzerland,Five33Switchback,2021/09/11
 TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 5 FINAL,Dynamic Weather,165,109.379,ibor24,Switzerland,Five33Switchback,2021/09/12
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,138,99.384,ibor24,Switzerland,Five33Switchback,2021/09/12
-TBS EU Spec Series 5 Race 3,Dynamic Weather,138,94.235,ibor24,Switzerland,Five33Switchback,2021/09/12
+TBS EU Spec Series 5 FINAL,Dynamic Weather,166,109.379,ibor24,Switzerland,Five33Switchback,2021/09/12
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,139,99.384,ibor24,Switzerland,Five33Switchback,2021/09/12
+TBS EU Spec Series 5 Race 3,Dynamic Weather,142,94.235,ibor24,Switzerland,Five33Switchback,2021/09/12
 TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,ibor24,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 5 Race 6,Dynamic Weather,142,86.922,ibor24,Switzerland,Five33Switchback,2021/09/12
+TBS EU Spec Series 5 Race 6,Dynamic Weather,143,86.922,ibor24,Switzerland,Five33Switchback,2021/09/12
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,142,96.874,ibor24,Switzerland,TBSSpec,2021/12/05
-TBS EU Spec Series 6 Losers Final,Football Stadium,197,97.460,ibor24,Switzerland,Five33Switchback,2020/12/02
+TBS EU Spec Series 6 Final,Empty Scene Day,143,96.874,ibor24,Switzerland,TBSSpec,2021/12/05
+TBS EU Spec Series 6 Losers Final,Football Stadium,200,97.460,ibor24,Switzerland,Five33Switchback,2020/12/02
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,151,109.268,ibor24,Switzerland,TBSSpec,2021/12/06
 TBS EU Spec Series 6 Race 6,Empty Scene Day,142,89.296,ibor24,Switzerland,TBSSpec,2021/07/19
 TBS EU Spec Series 6 Race 7,Empty Scene Day,151,65.202,ibor24,Switzerland,TBSSpec,2021/10/10
-TBS EU Spec Series 7 Final,Empty Scene Day,178,95.538,ibor24,Switzerland,TBSSpec,2021/10/10
+TBS EU Spec Series 7 Final,Empty Scene Day,179,95.538,ibor24,Switzerland,TBSSpec,2021/10/10
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 7 Race 2,Empty Scene Day,198,92.676,ibor24,Switzerland,Five33Switchback,2021/02/11
+TBS EU Spec Series 7 Race 2,Empty Scene Day,200,92.676,ibor24,Switzerland,Five33Switchback,2021/02/11
 TBS EU Spec Series 7 Race 3,Empty Scene Day,192,90.020,ibor24,Switzerland,TBSSpec,2021/07/19
 TBS EU Spec Series 7 Race 4,Empty Scene Day,195,90.140,ibor24,Switzerland,TBSSpec,2021/07/21
-TBS EU Spec Series 7 Race 5,IndoorGoKart,181,93.069,ibor24,Switzerland,TBSSpec,2021/12/06
+TBS EU Spec Series 7 Race 5,IndoorGoKart,182,93.069,ibor24,Switzerland,TBSSpec,2021/12/06
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,ibor24,NO_DATA
-TBS EU Spec Series 7 Race 7,Empty Scene Day,173,102.514,ibor24,Switzerland,TBSSpec,2021/06/12
-TBS EU Spec Series 8 Final,Dynamic Weather,161,120.433,ibor24,Switzerland,TBSSpec,2021/07/02
+TBS EU Spec Series 7 Race 7,Empty Scene Day,175,102.514,ibor24,Switzerland,TBSSpec,2021/06/12
+TBS EU Spec Series 8 Final,Dynamic Weather,163,120.433,ibor24,Switzerland,TBSSpec,2021/07/02
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,114,73.316,ibor24,Switzerland,TBSSpec,2021/06/30
 TBS EU Spec Series 8 Race 1,Dynamic Weather,135,92.401,ibor24,Switzerland,Five33Switchback,2021/09/18
 TBS EU Spec Series 8 Race 2,Empty Scene Night,107,94.821,ibor24,Switzerland,TBSSpec,2021/11/07
 TBS EU Spec Series 8 Race 3,Football Stadium,125,73.314,ibor24,Switzerland,Five33Switchback,2021/05/28
 TBS EU Spec Series 8 Race 4,Empty Scene Day,166,101.864,ibor24,Switzerland,Five33Switchback,2021/05/11
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,127,75.002,ibor24,Switzerland,TBSSpec,2021/05/27
-TBS EU Spec Series 8 Race 6,Football Stadium,157,82.617,ibor24,Switzerland,TBSSpec,2021/06/06
+TBS EU Spec Series 8 Race 6,Football Stadium,158,82.617,ibor24,Switzerland,TBSSpec,2021/06/06
 TBS EU Spec Series 8 Race 7,Empty Scene Day,100,81.444,ibor24,Switzerland,Five33Switchback,2021/06/15
 TBS EU Spec Series 9 Final,Dynamic Weather,170,89.229,ibor24,Switzerland,TBSSpec,2021/11/12
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,132,77.956,ibor24,Switzerland,TBSSpec,2021/11/06
-TBS EU Spec Series 9 Race 1,Football Stadium,127,70.698,ibor24,Switzerland,TBSSpec,2021/09/20
+TBS EU Spec Series 9 Race 1,Football Stadium,128,70.698,ibor24,Switzerland,TBSSpec,2021/09/20
 TBS EU Spec Series 9 Race 2,Dynamic Weather,160,74.869,ibor24,Switzerland,TBSSpec,2021/09/18
 TBS EU Spec Series 9 Race 3,Empty Scene Day,123,74.503,ibor24,Switzerland,TBSSpec,2021/10/02
 TBS EU Spec Series 9 Race 4,Football Stadium,110,82.031,ibor24,Switzerland,TBSSpec,2021/10/04
 TBS EU Spec Series 9 Race 5,Empty Scene Day,151,83.721,ibor24,Switzerland,TBSSpec,2021/10/07
-TBS EU Spec Series 9 Race 6,Empty Scene Day,126,92.742,ibor24,Switzerland,TBSSpec,2021/10/22
+TBS EU Spec Series 9 Race 6,Empty Scene Day,127,92.742,ibor24,Switzerland,TBSSpec,2021/10/22
 TBS EU Spec Series 9 Race 7,NEC Birmingham,97,85.292,ibor24,Switzerland,TBSSpec,2021/10/30
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,9,26.949,ibor24,Switzerland,TwigXL3,2022/01/02
-Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,20,32.213,ibor24,Switzerland,TwigXL3,2022/01/02
-Train Insane - Dive - MaiOnHigh,Empty Scene Day,23,31.758,ibor24,Switzerland,TwigXL3,2022/01/09
+Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,26,29.505,ibor24,Switzerland,Five33Switchback,2022/02/10
+Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,22,32.213,ibor24,Switzerland,TwigXL3,2022/01/02
+Train Insane - Dive - MaiOnHigh,Empty Scene Day,24,31.758,ibor24,Switzerland,TwigXL3,2022/01/09
+Train Insane - Dutch 8 - MaiOnHigh,Empty Scene Day,40,73.077,ibor24,Switzerland,Five33Switchback,2022/02/10
 Train insane - High jumps - MaiOnHigh,Empty Scene Day,8,27.394,ibor24,Switzerland,TBSSpec,2022/01/01
-Train Insane - Ladder - MaiOnHigh,Empty Scene Day,19,40.950,ibor24,Switzerland,TwigXL3,2022/01/03
-Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,38,34.862,ibor24,Switzerland,TwigXL3,2022/01/03
-Train Insane - powerloops - MaiOnHigh,Empty Scene Day,21,37.285,ibor24,Switzerland,TBSSpec,2022/01/01
-Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,29,77.645,ibor24,Switzerland,TwigXL3,2022/01/02
-Train Insane Race Track - MaiOnHigh,Empty Scene Day,61,90.432,ibor24,Switzerland,TwigXL3,2022/01/01
-Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,18,44.795,ibor24,Switzerland,TwigXL3,2022/01/01
+Train Insane - Ladder - MaiOnHigh,Empty Scene Day,20,40.950,ibor24,Switzerland,TwigXL3,2022/01/03
+Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,40,34.862,ibor24,Switzerland,TwigXL3,2022/01/03
+Train Insane - powerloops - MaiOnHigh,Empty Scene Day,22,37.285,ibor24,Switzerland,TBSSpec,2022/01/01
+Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,32,77.645,ibor24,Switzerland,TwigXL3,2022/01/02
+Train Insane Race Track - MaiOnHigh,Empty Scene Day,65,90.432,ibor24,Switzerland,TwigXL3,2022/01/01
+Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,19,44.795,ibor24,Switzerland,TwigXL3,2022/01/01
 Train insane - sharp turns - MaiOnHigh,Empty Scene Day,6,51.977,ibor24,Switzerland,Five33Switchback,2022/01/02
 Train Insane - slalom - MaiOnHigh,Empty Scene Day,23,16.291,ibor24,Switzerland,TBSSpec,2022/01/01
-Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,28,85.293,ibor24,Switzerland,TBSSpec,2022/01/01
-Train insane - Split-S - MaiOnHigh,Empty Scene Day,22,20.035,ibor24,Switzerland,TBSSpec,2022/01/01
-Train Insane- Test1 - MaiOnHigh,Empty Scene Day,39,49.620,ibor24,Switzerland,TwigXL3,2022/01/11
+Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,30,85.293,ibor24,Switzerland,TBSSpec,2022/01/01
+Train insane - Split-S - MaiOnHigh,Empty Scene Day,23,20.035,ibor24,Switzerland,TBSSpec,2022/01/01
+Train Insane- Test1 - MaiOnHigh,Empty Scene Day,41,49.620,ibor24,Switzerland,TwigXL3,2022/01/11
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,12,39.598,ibor24,Switzerland,TBSSpec,2022/01/01
-Train insane - wide slalom - MaiOnHigh,Empty Scene Day,18,22.532,ibor24,Switzerland,TwigXL3,2022/01/02
+Train insane - wide slalom - MaiOnHigh,Empty Scene Day,19,22.532,ibor24,Switzerland,TwigXL3,2022/01/02
