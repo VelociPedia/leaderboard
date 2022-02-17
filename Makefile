@@ -77,3 +77,7 @@ maionhigh:
 boners:
 	./getcollection.zsh "Boners Tracks.csv"
 	./makerank.zsh "Bonners Tracks.csv"
+	
+wtt:
+	./getcollection.zsh "Weekly Time Trials Tracks.csv"
+	./makerank.zsh "Weekly Time Trials Tracks.csv"
