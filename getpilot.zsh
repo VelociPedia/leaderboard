@@ -112,7 +112,7 @@ if [ "$makecollectionpilots" = "1" ]   ; then
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
         
-        a=$(grep "NO_DATA$" "$pilots_dir/$pilot.csv")
+        a=$(grep "NO_DATA$" <<< $pilot_data)
         n=$(wc -l <<< $a)
         echo -e "---\n### $n tracks without data (200+ or not in leaderboard)" >> "$outputfile"
         echo -e "|TRACK|SCENE|" >> "$outputfile"
