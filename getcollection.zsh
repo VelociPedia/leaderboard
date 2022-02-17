@@ -13,10 +13,12 @@ pilot=$(sed 's/[[:space:]]//g' <<< $pilot)
 # DO NOT PUT FINAL "/" FOR FOLDERS
 leaderboards_dir="data/leaderboards"
 pilots_dir="data/pilots"
+pilotsraw_dir="data/pilots_raw"
 pilots_md="md/pilots"
 collections_dir="collections"
 
 mkdir -p "$pilots_dir"
+mkdir -p "$pilotsraw_dir"
 mkdir -p "$pilots_md"
 
 collection="$1"
@@ -93,28 +95,38 @@ while read pilot ; do
     while IFS=, read -r track_name scenery_name ; do
         pilot_data=$(grep -e ",${pilot}," "$leaderboards_dir/$track_name - $scenery_name.csv")
         touch "$pilots_dir/${pilot}.csv"
+        touch "$pilotsraw_dir/${pilot}.csv"
         if [ ! -z "$pilot_data" ] ; then
             pilot_rank=$(grep -n ",${pilot}," "$leaderboards_dir/$track_name - $scenery_name.csv" | cut -d: -f1)
             #echo -e "+ RANK $pilot_rank\t$track_name ($scenery_name)"
             d=$(sed "/^$track_name,$scenery_name,/d" < "$pilots_dir/${pilot}.csv")  # ---
             echo -e "$d" > "$pilots_dir/${pilot}.csv"                               # Delete the previous record
             echo -e "$track_name,$scenery_name,$pilot_rank,$pilot_data" >> "$pilots_dir/${pilot}.csv"
+            d=$(sed "/^$track_name,$scenery_name,/d" < "$pilotsraw_dir/${pilot}.csv")  # ---
+            echo -e "$d" > "$pilotsraw_dir/${pilot}.csv"                               # Delete the previous record
+            echo -e "$track_name,$scenery_name,$pilot_data" >> "$pilotsraw_dir/${pilot}.csv"
             ((y++))
         else
             #echo -e "- NO DATA\t$track_name ($scenery_name)"
             d=$(sed "/^$track_name,$scenery_name,/d" < "$pilots_dir/${pilot}.csv")  # ---
             echo -e "$d" > "$pilots_dir/${pilot}.csv"                               # Delete the previous record
+            d=$(sed "/^$track_name,$scenery_name,/d" < "$pilotsraw_dir/${pilot}.csv")  # ---
+            echo -e "$d" > "$pilotsraw_dir/${pilot}.csv"                               # Delete the previous record
             #here it would be awesome to move it to some "archive.file", those are the end of leaderboard that is being kicking out if the data existed before
             #same for the other one, to keep record of past PB
             echo -e "$track_name,$scenery_name,999,999.999,$pilot,NO_DATA" >> "$pilots_dir/${pilot}.csv"
+            echo -e "$track_name,$scenery_name,999.999,$pilot,NO_DATA" >> "$pilotsraw_dir/${pilot}.csv"
             ((z++))
         fi
         done <<< $cleancollection
+        
     newpilotdata=$(sort -u < "$pilots_dir/${pilot}.csv" | sed '/^[[:space:]]*$/d')
     echo -e "\t  --> $y tracks with data"
     echo -e "\t  --> $z tracks without data"
     echo -e "$newpilotdata" > "$pilots_dir/${pilot}.csv"
     
+    newpilotdataraw=$(sort -u < "$pilotsraw_dir/${pilot}.csv" | sed '/^[[:space:]]*$/d')
+    echo -e "$newpilotdataraw" > "$pilotsraw_dir/${pilot}.csv"
     
     if [ "$makecollectionpilots" = "1" ]   ; then
         echo -e "\t  --> Building CheatSheet for pilot"
