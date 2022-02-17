@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |46|DEP Open Series 5 Race 4|Football Stadium|Five33Switchback|2021/12/07|
-|56|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/02/18|
+|57|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/02/18|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

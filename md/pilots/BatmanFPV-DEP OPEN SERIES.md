@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |150|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2020/11/01|
-|119|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/17|
+|120|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/17|
 ---
 ### 8 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

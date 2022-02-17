@@ -9,20 +9,20 @@
 |:---:|:---|:---|:---:|:---:|
 |134|DEP Open Series 5 Race 3|Football Stadium|Yakuza|2021/11/23|
 |122|DEP Open Series 5 Race 5|Football Stadium|Yakuza|2021/12/15|
-|130|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/08/19|
-|108|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/24|
+|132|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/08/19|
+|109|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/24|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |92|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2020/12/09|
-|86|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
+|87|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|86|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
-|108|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/24|
+|87|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
+|109|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/24|
 ---
 ### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

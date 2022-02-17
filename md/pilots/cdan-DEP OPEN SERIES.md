@@ -10,9 +10,9 @@
 |:---:|:---|:---|:---:|:---:|
 |128|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2021/02/10|
 |115|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2021/03/14|
-|59|DEP Open Series 3 Race 4|Football Stadium|Mode2Ghost|2021/08/10|
-|59|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/08/09|
-|48|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/05/17|
+|61|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/08/09|
+|60|DEP Open Series 3 Race 4|Football Stadium|Mode2Ghost|2021/08/10|
+|49|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/05/17|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

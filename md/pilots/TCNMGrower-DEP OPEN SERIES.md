@@ -3,12 +3,12 @@
 |:---:|:---|:---|:---:|:---:|
 |8|DEP Open Pop-Up 2|Dynamic Weather|Chief|2022/01/21|
 |15|DEP Open Series 4 Race 4|Football Stadium|Solleva|2021/04/29|
-|18|DEP Open Series 3 Race 3|Karting Track|Solleva|2021/02/23|
+|19|DEP Open Series 3 Race 3|Karting Track|Solleva|2021/02/23|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|110|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
+|111|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
 |94|DEP Open Series 4 Race 1|Football Stadium|Solleva|2021/04/06|
 |61|DEP Open Series 4 Race 5|Football Stadium|Solleva|2021/04/29|
 |56|DEP Open Series 3 Race 6|Football Stadium|Solleva|2021/03/11|
@@ -17,8 +17,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |40|DEP Open Series 2 Race 1|Dynamic Weather|Solleva|2020/12/07|
-|42|DEP Open Series 3 Race 1|Football Stadium|Solleva|2021/02/04|
-|110|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
+|45|DEP Open Series 3 Race 1|Football Stadium|Solleva|2021/02/04|
+|111|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

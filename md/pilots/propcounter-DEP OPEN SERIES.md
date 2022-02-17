@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |42|DEP Open Series 5 Race 1|Football Stadium|BMSJS-1|2021/10/20|
-|53|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/12/30|
+|55|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/12/30|
 ---
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

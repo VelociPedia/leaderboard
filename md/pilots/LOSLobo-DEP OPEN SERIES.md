@@ -1,9 +1,9 @@
 ### Best 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|30|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/11/13|
-|34|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/02/13|
-|47|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
+|33|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/11/13|
+|35|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/02/13|
+|48|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -25,10 +25,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |102|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
-|30|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/11/13|
-|90|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/11/12|
-|34|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/02/13|
-|47|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
+|33|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/11/13|
+|82|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/02/14|
+|35|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/02/13|
+|48|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
 |55|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/12/26|
 |52|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2022/01/15|
 |94|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/17|

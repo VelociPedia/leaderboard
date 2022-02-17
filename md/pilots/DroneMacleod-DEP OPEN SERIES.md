@@ -21,9 +21,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |182|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2021/05/12|
-|110|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/06/15|
-|147|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/07/22|
-|167|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/06/15|
+|112|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/06/15|
+|148|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/07/22|
+|169|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/06/15|
 |183|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/05/13|
 |178|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/09/21|
 |133|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/06/24|
