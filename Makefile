@@ -57,8 +57,8 @@ vrl:
 	./makerank.zsh "VRL SERIES 08.csv"
 
 multigp:
-	./getcollection.zsh "MultiGP.csv"
-	./makerank.zsh "MultiGP.csv"
+	./getcollection.zsh "MultiGP Tracks.csv"
+	./makerank.zsh "MultiGP Tracks.csv"
 
 quadrivals:
 	./getcollection.zsh "QuadRivals.csv"
