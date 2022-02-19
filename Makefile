@@ -1,6 +1,6 @@
-.PHONY: tbs dep vrl multigp quadrivals rookies maionhigh boners
+.PHONY: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt wttnow
 
-all: tbs dep vrl multigp quadrivals rookies maionhigh boners
+all: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt wttnow
 
 clean:
 	rm data/pilots/*
@@ -79,3 +79,6 @@ boners:
 wtt:
 	./getcollection.zsh "Weekly Time Trials Tracks.csv"
 	./makerank.zsh "Weekly Time Trials Tracks.csv"
+	
+wttnow:
+		./getcollection.zsh "WTT-current.csv"
