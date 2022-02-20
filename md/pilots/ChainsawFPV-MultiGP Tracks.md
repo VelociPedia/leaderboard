@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |35|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/04/06|
-|40|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/08/11|
+|42|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/08/11|
 |47|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/03/25|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
@@ -12,7 +12,7 @@
 |159|MultiGP IO 2019 World Cup|Empty Scene Day|CarbiXZero|2021/01/20|
 |143|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/01/11|
 |132|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/08/11|
-|75|MultiGPIOSpec2018|Empty Scene Day|CarbiXZero|2021/01/20|
+|76|MultiGPIOSpec2018|Empty Scene Day|CarbiXZero|2021/01/20|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

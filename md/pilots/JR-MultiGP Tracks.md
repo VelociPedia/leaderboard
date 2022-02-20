@@ -8,13 +8,13 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |43|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2020/12/28|
-|178|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/16|
+|179|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/16|
 |174|MultiGP 2021 Global Qualifier|Football Stadium|TBSSpec|2021/04/07|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|178|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/16|
+|179|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/16|
 |68|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/11/16|
 ---
 ### 2 tracks where TBS SPEC quad was used

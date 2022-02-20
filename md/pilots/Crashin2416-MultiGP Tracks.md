@@ -1,7 +1,7 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|64|MultiGP 2016 RF|Football Stadium|TinyHawk|2021/05/06|
+|66|MultiGP 2016 RF|Football Stadium|TinyHawk|2021/05/06|
 |70|MultiGP UTT 5|Football Stadium|BetaFPV75x|2021/06/10|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
@@ -10,19 +10,19 @@
 |191|MultiGP IO 2019 Team|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
 |190|MGP2018IOWorldCup|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
 |124|MultiGP 2018 RF|Empty Scene Day|TinyHawk|2021/05/06|
-|103|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2022/01/29|
+|104|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2022/01/29|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|64|MultiGP 2016 RF|Football Stadium|TinyHawk|2021/05/06|
-|182|MultiGP 2017 RF|Football Stadium|TinyHawk|2021/05/06|
+|66|MultiGP 2016 RF|Football Stadium|TinyHawk|2021/05/06|
+|184|MultiGP 2017 RF|Football Stadium|TinyHawk|2021/05/06|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|173|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2022/01/30|
-|103|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2022/01/29|
+|174|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2022/01/30|
+|104|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2022/01/29|
 ---
 ### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

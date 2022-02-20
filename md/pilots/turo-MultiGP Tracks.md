@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |115|MultiGP 2018 RF|Empty Scene Day|Mode2Ghost|2021/01/17|
-|169|2020 Canadian MultiGP Series|Football Stadium|Mode2Ghost|2020/11/03|
-|163|MultiGP 2020 Global Qualifier|Empty Scene Day|Mode2Ghost|2020/12/05|
+|170|2020 Canadian MultiGP Series|Football Stadium|Mode2Ghost|2020/11/03|
+|164|MultiGP 2020 Global Qualifier|Empty Scene Day|Mode2Ghost|2020/12/05|
 |123|MultiGP IO 2019 Team|Empty Scene Day|Mode2Ghost|2020/05/20|
 ---
 ### Oldest 2 personal best

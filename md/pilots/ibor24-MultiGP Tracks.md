@@ -9,10 +9,10 @@
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|2021 MultiGP Champs Track 1|Empty Scene Day|TwigXL3|2021/11/01|
+|200|2021 MultiGP Champs Track 1|Empty Scene Day|TwigXL3|2021/11/01|
 |86|MultiGP 2018 RF|Empty Scene Day|TinyHawk|2020/12/26|
 |189|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/10/21|
-|137|2020 Canadian MultiGP Series|Football Stadium|TwigXL3|2021/08/28|
+|138|2020 Canadian MultiGP Series|Football Stadium|TwigXL3|2021/08/28|
 |129|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/12/17|
 |106|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/24|
 ---

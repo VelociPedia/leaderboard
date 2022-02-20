@@ -9,12 +9,12 @@
 ### Worse 7 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|109|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/01/31|
+|110|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/01/31|
 |45|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/05/20|
 |115|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2021/07/14|
 |93|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/07/13|
 |81|MultiGP UTT 1|Football Stadium|TBSOblivion|2020/10/19|
-|71|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
+|72|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
 |69|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2021/05/20|
 ---
 ### Oldest 4 personal best
@@ -28,7 +28,7 @@
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|71|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
+|72|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
 ---
 ### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -11,7 +11,7 @@
 |182|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
 |133|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
 |112|MultiGP 2018 RF|Empty Scene Day|Ossa|2021/06/27|
-|85|MultiGPIOSpec2018|Empty Scene Day|Ossa|2021/06/26|
+|86|MultiGPIOSpec2018|Empty Scene Day|Ossa|2021/06/26|
 |146|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|
 ---
 ### Oldest 3 personal best

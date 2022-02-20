@@ -9,8 +9,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |108|MultiGP 2018 RF|Empty Scene Day|LilBastard|2020/05/12|
-|86|MultiGPIOSpec2018|Empty Scene Day|LilBastard|2020/07/05|
-|199|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2022/01/17|
+|87|MultiGPIOSpec2018|Empty Scene Day|LilBastard|2020/07/05|
+|200|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2022/01/17|
 |170|MultiGP Tsunami|Football Stadium|LilBastard|2020/07/07|
 |138|MultiGP 2017 RF|Football Stadium|LilBastard|2020/07/11|
 ---
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |108|MultiGP 2018 RF|Empty Scene Day|LilBastard|2020/05/12|
 |117|MultiGP_2019_Qualifier_Large|Dynamic Weather|LilBastard|2020/06/26|
-|91|MultiGP_2019_Qualifier_Spec|Empty Scene Day|LilBastard|2020/06/26|
+|92|MultiGP_2019_Qualifier_Spec|Empty Scene Day|LilBastard|2020/06/26|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

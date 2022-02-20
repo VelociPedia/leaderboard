@@ -14,14 +14,14 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|184|MGP2018IORookie|Empty Scene Day|Yakuza|2020/08/30|
+|185|MGP2018IORookie|Empty Scene Day|Yakuza|2020/08/30|
 |103|MGP2018IOTeam|Empty Scene Day|Yakuza|2020/08/31|
 ---
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |84|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/06/13|
-|150|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/12/31|
+|152|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/12/31|
 |198|MultiGP Bessel Run|Football Stadium|TBSSpec|2021/01/01|
 |161|MultiGP High Voltage|Football Stadium|TBSSpec|2021/01/01|
 ---

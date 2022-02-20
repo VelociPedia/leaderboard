@@ -17,7 +17,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|35|MultiGP 2016 RF|Football Stadium|KareareaTalon|2020/04/10|
+|36|MultiGP 2016 RF|Football Stadium|KareareaTalon|2020/04/10|
 |96|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
 |79|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
 ---

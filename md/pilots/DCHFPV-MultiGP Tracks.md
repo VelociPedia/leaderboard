@@ -12,13 +12,13 @@
 |148|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
 |111|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2020/04/15|
 |101|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2020/04/16|
-|67|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2020/04/15|
+|68|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2020/04/15|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |119|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2020/04/07|
-|101|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSOblivion|2020/04/07|
+|102|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSOblivion|2020/04/07|
 |148|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
 ---
 ### 1 tracks where TBS SPEC quad was used

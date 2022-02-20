@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |46|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Velocity|2021/12/29|
 |48|MultiGP UTT 6|Football Stadium|Mako|2020/06/12|
-|48|MultiGPIOSpec2018|Empty Scene Day|Velocity|2021/12/29|
+|49|MultiGPIOSpec2018|Empty Scene Day|Velocity|2021/12/29|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -17,7 +17,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |48|MultiGP UTT 6|Football Stadium|Mako|2020/06/12|
-|136|MultiGP 2016 RF|Football Stadium|LethalConception|2020/11/14|
+|138|MultiGP 2016 RF|Football Stadium|LethalConception|2020/11/14|
 |153|MultiGP 2018 RQ|Football Stadium|LethalConception|2020/11/14|
 ---
 ### 1 tracks where TBS SPEC quad was used

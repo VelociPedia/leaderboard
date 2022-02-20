@@ -19,7 +19,7 @@
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/04/06|
+|21|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/04/06|
 |61|MultiGP 2017 RF|Football Stadium|TBSSpec|2020/04/06|
 |85|MultiGP 2018 RQ|Football Stadium|TBSSpec|2020/04/06|
 |33|MultiGP Bessel Run|Football Stadium|TBSSpec|2020/04/06|
@@ -32,7 +32,7 @@
 |73|MGP2018IORookie|Empty Scene Day|TBSSpec|2020/04/09|
 |17|MGP2018IOTeam|Empty Scene Day|TBSSpec|2020/05/05|
 |28|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2020/05/05|
-|20|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/04/06|
+|21|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/04/06|
 |61|MultiGP 2017 RF|Football Stadium|TBSSpec|2020/04/06|
 |44|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/10/15|
 |85|MultiGP 2018 RQ|Football Stadium|TBSSpec|2020/04/06|

@@ -3,12 +3,12 @@
 |:---:|:---|:---|:---:|:---:|
 |36|MultiGP UTT 6|Football Stadium|BMSJS-1|2021/08/15|
 |42|MultiGP UTT 5|Football Stadium|BMSJS-1|2021/08/15|
-|53|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/09/19|
+|54|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/09/19|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|193|2021 MultiGP Champs Track 1|Empty Scene Day|HX115|2021/12/31|
+|195|2021 MultiGP Champs Track 1|Empty Scene Day|HX115|2021/12/31|
 |160|MultiGP 2018 RF|Empty Scene Day|Ossa|2021/02/10|
 |195|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2020/08/24|
 |194|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/11/29|
@@ -23,8 +23,8 @@
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|167|MultiGP 2016 RF|Football Stadium|TBSSpec|2021/02/24|
-|53|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/09/19|
+|169|MultiGP 2016 RF|Football Stadium|TBSSpec|2021/02/24|
+|54|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/09/19|
 |58|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/03/03|
 ---
 ### 10 tracks without data (200+ or not in leaderboard)

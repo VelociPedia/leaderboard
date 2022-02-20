@@ -11,8 +11,8 @@
 |158|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2021/05/08|
 |117|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/05/07|
 |85|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/05/07|
-|169|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2021/07/31|
-|153|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/05/08|
+|170|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2021/07/31|
+|154|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/05/08|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
