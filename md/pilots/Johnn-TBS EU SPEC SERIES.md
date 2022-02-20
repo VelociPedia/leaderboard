@@ -1,13 +1,13 @@
 ### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|26|TBS EU Spec Series 5 Race 7|IndoorGoKart|Mode2Ghost|2021/05/01|
-|43|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/11|
-|48|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
+|27|TBS EU Spec Series 5 Race 7|IndoorGoKart|Mode2Ghost|2021/05/01|
+|44|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/11|
+|49|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |50|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |50|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/11|
-|54|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
 |55|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/15|
+|55|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,11 +28,11 @@
 |:---:|:---|:---|:---:|:---:|
 |159|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/08/27|
 |134|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/10/25|
-|88|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/11/04|
-|98|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2020/11/24|
-|60|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/11/30|
-|107|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2020/12/01|
-|114|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
+|89|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/11/04|
+|99|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2020/11/24|
+|61|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/11/30|
+|108|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2020/12/01|
+|115|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
 ---
 ### 21 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -40,24 +40,24 @@
 |50|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |138|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/02|
 |106|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/05/05|
-|65|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/07|
-|94|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/31|
+|67|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/07|
+|95|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/31|
 |95|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/07|
 |67|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/12|
 |98|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
-|54|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
+|55|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
 |70|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/28|
 |96|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/21|
 |56|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/24|
 |140|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/07|
 |59|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/25|
 |74|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/18|
-|82|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/30|
+|83|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/30|
 |55|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/15|
-|110|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/27|
-|48|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
+|111|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/27|
+|49|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |133|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/02|
-|80|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
+|81|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 ---
 ### 27 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

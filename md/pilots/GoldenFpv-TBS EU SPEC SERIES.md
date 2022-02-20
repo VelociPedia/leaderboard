@@ -1,10 +1,10 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|37|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/09|
 |38|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/27|
+|40|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/09|
 |44|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/20|
-|55|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
+|56|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
 |65|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/03|
 |70|TBS EU Spec Series 9 Race 6|Empty Scene Day|BMSJS-1|2021/10/31|
 ---
@@ -13,20 +13,20 @@
 |:---:|:---|:---|:---:|:---:|
 |184|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/22|
 |145|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2022/02/10|
-|141|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
-|123|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/12/26|
-|55|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/12/26|
-|199|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
-|195|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
-|182|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
+|143|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
+|124|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/12/26|
+|56|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/12/26|
+|200|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
+|197|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
+|184|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
 |165|TBS EU Spec Series 4 Race 7|Football Stadium|BMSJS-1|2021/10/05|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|199|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
+|200|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
 |137|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/09/18|
-|195|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
+|197|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
 |138|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
 |141|TBS EU Spec Series 9 Race 4|Football Stadium|BMSJS-1|2021/10/02|
 |77|RCTech.de EU Spec Series 2 Race 1|Football Stadium|BMSJS-1|2021/10/04|
@@ -36,7 +36,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 34 tracks without data (200+ or not in leaderboard)
+### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -72,4 +72,3 @@
 |TBS EU Spec Series 9 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
-|TBS EU Spec Series 10 Losers Final|Football Stadium|

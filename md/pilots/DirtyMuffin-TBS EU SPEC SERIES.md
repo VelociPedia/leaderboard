@@ -14,16 +14,16 @@
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|23|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
+|24|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
 |22|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |19|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |19|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |17|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
+|14|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/03|
 |14|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2021/06/29|
 |14|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/11/07|
 |13|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/03/20|
-|13|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/03|
 |11|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/10|
 |10|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |9|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|

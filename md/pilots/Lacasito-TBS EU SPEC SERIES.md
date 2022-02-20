@@ -7,18 +7,18 @@
 |5|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Mode2Ghost|2020/06/12|
 |6|TBS EU Spec Series 8 Race 3|Football Stadium|Mode2Ghost|2021/04/28|
 |6|TBS EU Spec Series 6 Final|Empty Scene Day|Mode2Ghost|2021/01/03|
+|7|TBS EU Spec Series 10 Race 2|Empty Scene Day|Mode2Ghost|2022/02/17|
 |7|TBS EU Spec Series 6 Race 4|NEC Birmingham|Mode2Ghost|2020/11/11|
-|7|TBS EU Spec Series 5 FINAL|Dynamic Weather|Mode2Ghost|2020/12/17|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |68|TBS EU Spec Series 9 Race 2|Dynamic Weather|Mode2Ghost|2021/10/01|
-|51|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
-|50|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
+|52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
+|51|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
+|47|TBS EU Spec Series 8 Race 7|Empty Scene Day|Mode2Ghost|2021/07/01|
 |46|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
-|46|TBS EU Spec Series 8 Race 7|Empty Scene Day|Mode2Ghost|2021/07/01|
 |45|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |44|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |43|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
@@ -48,8 +48,8 @@
 |43|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |35|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
-|51|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
-|23|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
+|52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
+|24|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 ---
 ### 19 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
