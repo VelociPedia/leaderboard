@@ -5,6 +5,7 @@
 65.068,lebedev25,RussianFederation,CarbiXZero,2021/07/01
 66.175,DirtyMuffin,UnitedStates,Five33Switchback,2020/08/28
 66.207,Pugli,Brazil,SingularitumV5,2020/08/30
+66.457,OliHawk,France,Yakuza,2022/02/17
 66.902,K1R,Ukraine,Five33Switchback,2021/09/20
 67.473,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/03
 67.716,RussellAR,UnitedStates,Five33Switchback,2021/11/11
@@ -18,7 +19,7 @@
 70.597,axefpv,HongKong,Five33Switchback,2020/09/08
 70.686,FPVGilbert,UnitedKingdom,TBSSpec,2021/12/15
 70.782,loufpv,UnitedStates,TBSSpec,2021/11/11
-71.336,TBSInfinitee,UnitedStates,Five33Switchback,2021/11/11
+71.336,RIVALSInfinitee,UnitedStates,Five33Switchback,2021/11/11
 71.412,ALPIFPV,UnitedStates,Five33Switchback,2020/09/01
 71.792,BrieflyFlying,Portugal,TBSSpec,2020/08/27
 71.864,geek_fpv,Italy,Five33Switchback,2020/08/31
@@ -41,7 +42,7 @@
 75.398,OscarNilsson,Sweden,TBSSpec,2020/08/27
 75.445,H15Z,Poland,TBSSpec,2020/10/06
 75.632,SmokyFPV,UnitedKingdom,TBSSpec,2020/08/27
-75.648,TCEuLeR,Germany,TBSSpec,2020/08/28
+75.648,EuLeR,Germany,TBSSpec,2020/08/28
 75.793,MegaHurts,UnitedStates,Five33Switchback,2021/04/28
 75.985,TCLegoCloneNo1,UnitedKingdom,TBSSpec,2020/11/26
 76.278,BigRod,Portugal,TBSSpec,2020/08/27
@@ -160,6 +161,7 @@
 103.733,FrankyFPV60hz,Spain,TBSSpec,2020/08/27
 104.103,mrsmiggins,UnitedKingdom,Five33Switchback,2021/12/23
 104.173,Kaiser,Denmark,Five33Switchback,2020/09/01
+104.561,remypozzo,France,Five33Switchback,2022/02/17
 104.687,Step,RussianFederation,TBSSpec,2020/11/26
 104.749,teefpv,NewZealand,Five33Switchback,2020/08/29
 104.809,DeMoNse3d,Mexico,Five33Switchback,2020/08/31
@@ -193,8 +195,6 @@
 113.052,AdamWu,China,TBSSpec,2020/12/09
 113.244,steinm,Canada,LilBastard,2020/09/01
 113.915,thestorm,Belgium,Five33Switchback,2022/01/06
+113.926,MoFPV!,UnitedStates,CarbiXZero,2022/02/19
 114.074,SilverFoxUK,UnitedKingdom,TBSSpec,2021/06/29
 114.371,Totimom,Sweden,CarbiXZero,2020/09/07
-114.454,GarnChef,Germany,TBSSpec,2020/09/08
-114.804,gsadoubled,Germany,TBSOblivion,2021/12/03
-114.819,ChainsawFPV,UnitedStates,TBSSpec,2021/10/01
