@@ -33,12 +33,13 @@
 88.868,shames,UnitedStates,Five33Switchback,2020/10/08
 89.545,Smurf47akaUlrik,Denmark,Five33Switchback,2020/10/19
 89.547,QF1Propsicle,UnitedStates,CarbiXZero,2020/10/17
+89.583,SolidFpv,UnitedStates,Ossa,2022/02/18
 89.752,Gafannen,Slovakia,Five33Switchback,2021/10/18
 89.830,DownRight,UnitedStates,Ossa,2020/11/08
 90.633,MARAHUTE,Italy,LethalConception,2020/10/27
 90.911,LeoOnFire,Italy,Five33Switchback,2020/11/02
 91.899,MAYHEM,UnitedStates,Ossa,2020/10/15
-91.916,TBSInfinitee,UnitedStates,Five33Switchback,2020/11/01
+91.916,RIVALSInfinitee,UnitedStates,Five33Switchback,2020/11/01
 92.185,PaulEFPV,UnitedStates,Ossa,2020/10/17
 92.965,burffpv,Brazil,Five33Switchback,2020/10/20
 92.969,XPARASITE,UnitedStates,Five33Switchback,2020/10/19
@@ -51,7 +52,7 @@
 94.215,Fury|FPVQE,Canada,Ossa,2020/10/19
 94.277,SIMSebaFPV,UnitedStates,TBSSpec,2020/10/08
 94.469,MiG29,UnitedKingdom,TBSSpec,2020/12/28
-94.488,DrDanglesPHD,UnitedStates,Ossa,2020/11/08
+94.488,ThumbGrippiescom,UnitedStates,Ossa,2020/11/08
 94.754,Dronius,Ukraine,Five33Switchback,2021/03/07
 94.942,TBSTiltedFPV,UnitedStates,CarbiXZero,2020/11/08
 95.975,Math4FPV,France,Five33Switchback,2020/10/08
@@ -91,7 +92,6 @@
 102.619,Deviled90,Italy,Five33Switchback,2021/01/04
 102.797,AlexeyStn_Overpass,RussianFederation,TBSSpec,2020/10/19
 102.859,Ervin_BeAir,Belarus,BMSJS-1,2020/10/16
-102.922,SolidFpv,UnitedStates,Five33Switchback,2020/10/21
 102.975,Thor_fpv,Denmark,TBSSpec,2021/05/05
 103.011,Hsl_Fpv,Brazil,Five33Switchback,2020/10/22
 103.647,wapfpv,Philippines,Five33Switchback,2021/01/07
@@ -148,6 +148,7 @@
 116.149,AlexGold,RussianFederation,CarbiXZero,2022/01/26
 116.273,Carvair,UnitedStates,TBSSpec,2020/11/15
 116.403,BatmanFPV,UnitedKingdom,Ossa,2020/11/01
+116.496,Bree,France,Five33Switchback,2022/02/21
 116.504,DrChabFPVQE,Canada,TBSSpec,2020/10/18
 116.613,OrigDragon,UnitedStates,CarbiXZero,2020/10/17
 117.255,bigFuzz,Italy,Ossa,2021/08/01
@@ -197,4 +198,3 @@
 126.730,MAVERICKFPV,Italy,TBSSpec,2022/01/06
 126.751,FALK_FPVTeamFPV24Racing,Germany,TBSSpec,2020/12/21
 126.866,Fiorix,Italy,Five33Switchback,2020/10/12
-126.885,AdamWu,China,Five33Switchback,2021/03/14
