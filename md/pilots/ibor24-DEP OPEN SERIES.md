@@ -11,13 +11,13 @@
 |192|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/05/27|
 |148|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/07/08|
 |139|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/07/09|
-|136|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/07/06|
+|137|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/07/06|
 |129|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/12/06|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|190|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/25|
+|191|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/25|
 |138|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2021/05/16|
 |136|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/05/17|
 ---
@@ -25,9 +25,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |124|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/07/03|
-|195|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/07/06|
+|196|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/07/06|
 |91|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/08/31|
-|136|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/07/06|
+|137|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/07/06|
 |148|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/07/08|
 |139|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/07/09|
 |101|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/07/10|
@@ -36,7 +36,7 @@
 |192|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/05/27|
 |93|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/12/07|
 |74|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/03|
-|105|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/16|
+|107|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/16|
 |111|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2021/12/23|
 ---
 ### 4 tracks without data (200+ or not in leaderboard)

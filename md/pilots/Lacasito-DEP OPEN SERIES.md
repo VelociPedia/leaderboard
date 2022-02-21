@@ -26,11 +26,10 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 5 tracks without data (200+ or not in leaderboard)
+### 4 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |DEP Open Pop-Up 2|Dynamic Weather|
 |DEP Open Series 3 Race 3|Karting Track|
 |DEP Open Series 5 Race 4|Football Stadium|
-|DEP Open Series 5 Race 6|Football Stadium|
 |DEP Open Series 5 Race 7|Football Stadium|

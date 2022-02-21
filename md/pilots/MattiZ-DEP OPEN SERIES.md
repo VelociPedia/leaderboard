@@ -8,7 +8,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |172|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/07/28|
-|137|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/06/09|
+|138|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/06/09|
 |136|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/06/08|
 ---
 ### Oldest 2 personal best

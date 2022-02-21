@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |185|DEP Open Series 4 Race 7|Football Stadium|Five33Switchback|2021/07/24|
-|173|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/18|
-|168|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/22|
+|174|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/18|
+|169|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/22|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -21,7 +21,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |61|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|173|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/18|
+|174|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/18|
 |82|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/16|
 ---
 ### 11 tracks without data (200+ or not in leaderboard)

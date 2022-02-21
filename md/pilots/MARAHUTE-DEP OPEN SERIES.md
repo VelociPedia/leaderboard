@@ -11,13 +11,13 @@
 |98|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/20|
 |58|DEP Open Series 2 Race 1|Dynamic Weather|LethalConception|2020/12/11|
 |46|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/14|
+|39|DEP Spec Series 1 Race 5|Football Stadium|LethalConception|2020/10/27|
 |39|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/20|
-|38|DEP Spec Series 1 Race 5|Football Stadium|LethalConception|2020/10/27|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|38|DEP Spec Series 1 Race 5|Football Stadium|LethalConception|2020/10/27|
+|39|DEP Spec Series 1 Race 5|Football Stadium|LethalConception|2020/10/27|
 |58|DEP Open Series 2 Race 1|Dynamic Weather|LethalConception|2020/12/11|
 |98|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/20|
 ---

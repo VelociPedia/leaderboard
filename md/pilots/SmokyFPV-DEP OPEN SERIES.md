@@ -9,7 +9,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |84|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/05|
-|60|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
+|61|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
 |54|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/24|
 |51|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/04|
 ---

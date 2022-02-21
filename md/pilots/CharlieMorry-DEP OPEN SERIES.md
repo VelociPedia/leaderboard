@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |141|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/12/04|
 |46|DEP Open Series 3 Race 7|Football Stadium|BMSJS-1|2021/03/28|
-|36|DEP Open Series 2 Race 7|Football Stadium|BMSJS-1|2021/08/01|
+|37|DEP Open Series 2 Race 7|Football Stadium|BMSJS-1|2021/08/01|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

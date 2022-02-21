@@ -11,7 +11,7 @@
 |85|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
 |92|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/12/22|
 |76|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|69|DEP Open Series 5 Race 6|Football Stadium|Mode2Ghost|2021/12/22|
+|71|DEP Open Series 5 Race 6|Football Stadium|Mode2Ghost|2021/12/22|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
