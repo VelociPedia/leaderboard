@@ -1,12 +1,12 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|60|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
+|63|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
 |65|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/01/06|
 |68|TBS EU Spec Series 10 Race 3|Night Factory 2|CarbiXZero|2021/12/20|
 |71|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/01/09|
 |76|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/11/16|
-|87|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2022/01/10|
+|88|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2022/01/10|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,15 +48,15 @@
 |90|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/15|
 |182|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/11/07|
 |131|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/30|
-|153|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/23|
-|124|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
-|141|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/24|
+|154|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/23|
+|125|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
+|142|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/24|
 |170|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/08|
 |137|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |171|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/11|
 |117|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/18|
 |120|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/23|
-|127|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/04/01|
+|128|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/04/01|
 ---
 ### 32 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

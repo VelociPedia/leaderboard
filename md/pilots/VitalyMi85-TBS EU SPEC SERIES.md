@@ -2,11 +2,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |77|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2021/10/03|
-|91|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/01/04|
+|92|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/01/04|
 |96|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/13|
-|96|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/22|
 |96|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/10/27|
-|105|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/10/30|
+|97|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/22|
+|106|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/10/30|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,7 +18,7 @@
 |77|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/10/06|
 |192|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/02|
 |168|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/13|
-|165|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/12/13|
+|166|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/12/13|
 |161|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/27|
 ---
 ### Oldest 6 personal best

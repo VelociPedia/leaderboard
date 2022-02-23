@@ -2,13 +2,13 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |43|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/11/13|
-|63|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/19|
+|67|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/19|
 |76|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/10/01|
 |90|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/15|
 |90|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2022/02/15|
 |92|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|CarbiXZero|2020/04/06|
-|97|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/08|
-|98|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/12/04|
+|98|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/08|
+|99|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/12/04|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -19,11 +19,11 @@
 |137|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2021/12/04|
 |131|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|CarbiXZero|2020/04/06|
 |123|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/11/23|
-|197|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/11/20|
+|198|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/11/20|
 |193|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/11/20|
-|184|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/18|
+|186|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/18|
 |175|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/12/17|
-|173|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/12/20|
+|174|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/12/20|
 |173|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/09/16|
 ---
 ### Oldest 8 personal best
@@ -45,7 +45,7 @@
 |115|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/11/23|
 |138|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/11/23|
 |122|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/11/23|
-|125|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/23|
+|126|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/23|
 ---
 ### 21 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -22,7 +22,7 @@
 |79|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
 |76|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
 |66|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
-|62|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
+|63|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |52|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
 |50|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
 |49|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
@@ -45,7 +45,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |143|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|8|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/16|
+|9|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/16|
 |4|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |9|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |7|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
@@ -58,20 +58,20 @@
 |27|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
 |4|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |11|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/03|
-|62|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
-|37|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/06/29|
+|63|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
+|38|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/06/29|
 |45|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
-|38|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
+|39|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |41|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |39|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |31|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/05|
 |18|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/14|
 |27|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
-|16|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
-|32|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
-|28|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
+|17|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
+|33|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
+|29|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |12|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/04/05|
-|18|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
+|19|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |16|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/07/01|
 |20|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/06/30|
 |2|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2022/01/20|

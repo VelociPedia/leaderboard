@@ -13,11 +13,11 @@
 |:---:|:---|:---|:---:|:---:|
 |184|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/22|
 |145|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2022/02/10|
-|143|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
+|144|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
 |124|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/12/26|
 |56|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/12/26|
 |200|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
-|197|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
+|198|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
 |184|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
 |165|TBS EU Spec Series 4 Race 7|Football Stadium|BMSJS-1|2021/10/05|
 ---
@@ -26,8 +26,8 @@
 |:---:|:---|:---|:---:|:---:|
 |200|TBS EU Spec Series 9 Race 1|Football Stadium|BMSJS-1|2021/09/12|
 |137|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/09/18|
-|197|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
-|138|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
+|198|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
+|139|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
 |141|TBS EU Spec Series 9 Race 4|Football Stadium|BMSJS-1|2021/10/02|
 |77|RCTech.de EU Spec Series 2 Race 1|Football Stadium|BMSJS-1|2021/10/04|
 ---

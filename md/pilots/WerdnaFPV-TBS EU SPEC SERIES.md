@@ -7,7 +7,7 @@
 |7|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2022/02/08|
 |8|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/08/23|
 |9|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/02/13|
-|10|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/06/28|
+|11|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/06/28|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

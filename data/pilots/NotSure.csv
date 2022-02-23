@@ -66,14 +66,14 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,NotSure,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,NotSure,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,147,99.528,NotSure,UnitedKingdom,TBSSpec,2022/01/30
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,NotSure,NO_DATA
-TBS EU Spec Series 10 Losers Final,Football Stadium,83,67.858,NotSure,UnitedKingdom,Five33Switchback,2022/02/13
-TBS EU Spec Series 10 Race 1,Football Stadium,141,85.445,NotSure,UnitedKingdom,TBSSpec,2021/12/07
+TBS EU Spec Series 10 Losers Final,Football Stadium,91,67.858,NotSure,UnitedKingdom,Five33Switchback,2022/02/13
+TBS EU Spec Series 10 Race 1,Football Stadium,142,85.445,NotSure,UnitedKingdom,TBSSpec,2021/12/07
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
-TBS EU Spec Series 10 Race 3,Night Factory 2,186,134.842,NotSure,UnitedKingdom,TBSSpec,2021/12/28
+TBS EU Spec Series 10 Race 3,Night Factory 2,189,134.842,NotSure,UnitedKingdom,TBSSpec,2021/12/28
 TBS EU Spec Series 10 Race 4,Dynamic Weather,77,73.137,NotSure,UnitedKingdom,TBSSpec,2022/01/10
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,95,78.027,NotSure,UnitedKingdom,TBSSpec,2022/01/30
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,96,78.027,NotSure,UnitedKingdom,TBSSpec,2022/01/30
 TBS EU Spec Series 10 Race 6,Large Carpark,52,48.139,NotSure,UnitedKingdom,TBSSpec,2022/01/31
-TBS EU Spec Series 10 Race 7,Football Stadium,99,88.539,NotSure,UnitedKingdom,TBSSpec,2022/02/10
+TBS EU Spec Series 10 Race 7,Football Stadium,100,88.539,NotSure,UnitedKingdom,TBSSpec,2022/02/10
 TBS EU Spec Series 4 FINAL,Dynamic Weather,198,113.702,NotSure,UnitedKingdom,TBSSpec,2021/12/13
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,NotSure,NO_DATA
@@ -94,8 +94,8 @@ TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,161,111.367,NotSure,UnitedKingdom,TBSSpec,2021/10/08
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,NotSure,NO_DATA
-TBS EU Spec Series 6 Race 7,Empty Scene Day,186,67.901,NotSure,UnitedKingdom,TBSSpec,2021/11/28
-TBS EU Spec Series 7 Final,Empty Scene Day,155,90.134,NotSure,UnitedKingdom,Five33Switchback,2022/02/18
+TBS EU Spec Series 6 Race 7,Empty Scene Day,187,67.901,NotSure,UnitedKingdom,TBSSpec,2021/11/28
+TBS EU Spec Series 7 Final,Empty Scene Day,156,90.134,NotSure,UnitedKingdom,Five33Switchback,2022/02/18
 TBS EU Spec Series 7 Race 1,Football Stadium,179,86.114,NotSure,UnitedKingdom,Five33Switchback,2022/02/18
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,NotSure,NO_DATA
@@ -103,8 +103,8 @@ TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,193,98.251,NotSure,UnitedKingdom,Five33Switchback,2022/01/08
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,NotSure,NO_DATA
-TBS EU Spec Series 8 Final,Dynamic Weather,155,115.627,NotSure,UnitedKingdom,TBSSpec,2021/07/03
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,146,80.690,NotSure,UnitedKingdom,TBSSpec,2022/01/03
+TBS EU Spec Series 8 Final,Dynamic Weather,156,115.627,NotSure,UnitedKingdom,TBSSpec,2021/07/03
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,147,80.690,NotSure,UnitedKingdom,TBSSpec,2022/01/03
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,163,115.263,NotSure,UnitedKingdom,Five33Switchback,2021/04/06
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,NotSure,NO_DATA
@@ -115,12 +115,12 @@ TBS EU Spec Series 8 Race 7,Empty Scene Day,185,97.217,NotSure,UnitedKingdom,TBS
 TBS EU Spec Series 9 Final,Dynamic Weather,126,76.765,NotSure,UnitedKingdom,TBSSpec,2021/12/30
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,169,86.280,NotSure,UnitedKingdom,TBSSpec,2021/11/11
 TBS EU Spec Series 9 Race 1,Football Stadium,154,75.480,NotSure,UnitedKingdom,TBSSpec,2021/11/11
-TBS EU Spec Series 9 Race 2,Dynamic Weather,179,80.896,NotSure,UnitedKingdom,Five33Switchback,2021/09/19
-TBS EU Spec Series 9 Race 3,Empty Scene Day,173,85.930,NotSure,UnitedKingdom,Five33Switchback,2021/10/01
+TBS EU Spec Series 9 Race 2,Dynamic Weather,181,80.896,NotSure,UnitedKingdom,Five33Switchback,2021/09/19
+TBS EU Spec Series 9 Race 3,Empty Scene Day,174,85.930,NotSure,UnitedKingdom,Five33Switchback,2021/10/01
 TBS EU Spec Series 9 Race 4,Football Stadium,199,107.485,NotSure,UnitedKingdom,TBSSpec,2021/12/10
 TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,NotSure,NO_DATA
 TBS EU Spec Series 9 Race 6,Empty Scene Day,112,87.395,NotSure,UnitedKingdom,TBSSpec,2021/10/30
-TBS EU Spec Series 9 Race 7,NEC Birmingham,127,92.396,NotSure,UnitedKingdom,TBSSpec,2021/11/03
+TBS EU Spec Series 9 Race 7,NEC Birmingham,129,92.396,NotSure,UnitedKingdom,TBSSpec,2021/11/03
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,10,27.375,NotSure,UnitedKingdom,TBSSpec,2022/01/10
 Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,27,30.031,NotSure,UnitedKingdom,Five33Switchback,2022/02/13
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,35,34.076,NotSure,UnitedKingdom,TBSSpec,2022/01/02

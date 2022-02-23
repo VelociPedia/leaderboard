@@ -14,27 +14,27 @@
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|24|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
+|25|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
 |22|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |19|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |19|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |17|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
+|15|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2021/06/29|
+|14|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/03/20|
 |14|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/03|
-|14|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2021/06/29|
 |14|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/11/07|
-|13|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/03/20|
 |11|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/10|
+|10|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/25|
 |10|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |9|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|
-|9|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/25|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |9|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|
 |7|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/07/10|
-|5|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/14|
+|6|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/14|
 |19|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |22|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |10|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|

@@ -1,7 +1,7 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|10|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
+|11|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
 |16|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/07|
 |22|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/02|
 |28|TBS EU Spec Series 5 Race 7|IndoorGoKart|Ossa|2021/03/16|
@@ -11,14 +11,14 @@
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|169|TBS EU Spec Series 6 Race 7|Empty Scene Day|Ossa|2021/03/09|
+|170|TBS EU Spec Series 6 Race 7|Empty Scene Day|Ossa|2021/03/09|
 |152|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 |106|TBS EU Spec Series 6 Race 2|Empty Scene Day|Ossa|2021/02/28|
 |99|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
 |98|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/03|
 |89|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/03/05|
-|87|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
-|86|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|
+|88|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
+|87|TBS EU Spec Series 7 Final|Empty Scene Day|Ossa|2021/03/09|
 |84|TBS EU Spec Series 6 Race 4|NEC Birmingham|Ossa|2021/02/28|
 ---
 ### Oldest 6 personal best
@@ -26,7 +26,7 @@
 |:---:|:---|:---|:---:|:---:|
 |152|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
 |77|TBS EU Spec Series 7 Race 1|Football Stadium|Ossa|2021/01/15|
-|87|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
+|88|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
 |99|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
 |74|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
 |42|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|

@@ -16,10 +16,10 @@
 |85|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/08|
 |81|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/26|
 |80|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
-|64|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |63|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/08|
-|58|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
-|56|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
+|59|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
+|57|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |49|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |49|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |48|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
@@ -41,7 +41,7 @@
 ### 41 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|38|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/08/29|
+|39|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/08/29|
 |35|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/09/02|
 |35|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/02|
 |81|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/26|
@@ -75,10 +75,10 @@
 |19|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/01/23|
 |19|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/01/10|
 |23|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|64|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
-|58|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
+|65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|59|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |63|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/08|
-|56|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
+|57|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |49|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |49|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |46|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|

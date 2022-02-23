@@ -51,10 +51,10 @@
 |31|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |136|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/12/31|
 |39|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/10|
-|42|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
+|43|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
 |38|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
-|33|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/02|
-|29|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/23|
+|34|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/02|
+|30|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/23|
 |53|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/13|
 |38|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/06/03|
 |34|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
