@@ -1,9 +1,9 @@
 104.391,IQ0,Australia,CarbiXZero,2022/02/19
+105.970,NeonFPV,UnitedStates,Five33Switchback,2022/02/23
 106.354,00Hyper,UnitedStates,Yakuza,2022/02/18
 106.488,XBDarKex,France,Five33Switchback,2022/02/18
 109.286,Ewen,France,Yakuza,2022/02/22
 109.868,jiggy,Philippines,Five33Switchback,2022/02/21
-110.020,NeonFPV,UnitedStates,Five33Switchback,2022/02/20
 110.882,XB₸ЯIИ✘,France,Five33Switchback,2022/02/18
 112.482,OliHawk,France,Yakuza,2022/02/21
 113.831,saulfpv,UnitedKingdom,Five33Switchback,2022/02/19
@@ -38,6 +38,7 @@
 136.149,VIPERX,UnitedStates,Five33Switchback,2022/02/22
 136.176,Bree,France,Five33Switchback,2022/02/21
 136.220,vexsk,Germany,Five33Switchback,2022/02/20
+136.803,NotSure,UnitedKingdom,TBSSpec,2022/02/23
 137.098,PacoTeamCanadaFPV,Canada,Chief,2022/02/21
 137.754,cbleehk,HongKong,Five33Switchback,2022/02/21
 138.255,Frengo,Italy,Ossa,2022/02/17
@@ -48,6 +49,7 @@
 139.655,Torretojr,UnitedStates,PandaCavity,2022/02/21
 141.190,SemperFly,UnitedStates,Chief,2022/02/21
 141.493,BikeGuy_FPV,UnitedStates,Five33Switchback,2022/02/21
+141.781,ejectfpv865,UnitedStates,TBSSpec,2022/02/23
 142.948,RobSi,Slovenia,Five33Switchback,2022/02/19
 143.022,SKMING,China,BMSJS-1,2022/02/19
 143.535,ibor24,Switzerland,Five33Switchback,2022/02/22
@@ -55,7 +57,6 @@
 143.806,RIVALSDreadPool,UnitedStates,CarbiXZero,2022/02/19
 143.987,kasapon,Japan,SkyXKiller,2022/02/22
 144.072,thefpvdoctor,Slovakia,Five33Switchback,2022/02/22
-144.264,NotSure,UnitedKingdom,TBSSpec,2022/02/22
 144.598,BatmanFPV,UnitedKingdom,TBSSpec,2022/02/22
 144.905,AZ2019,China,Five33Switchback,2022/02/18
 144.917,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/17
@@ -65,7 +66,6 @@
 147.123,HBe,Finland,TBSSpec,2022/02/20
 148.482,Pukka_fpv,UnitedKingdom,Five33Switchback,2022/02/19
 149.051,FanZ,France,Five33Switchback,2022/02/20
-149.380,ejectfpv865,UnitedStates,TBSSpec,2022/02/22
 150.410,Vegaworm,HongKong,Five33Switchback,2022/02/22
 150.527,FPVlC,Unknown,TBSSpec,2022/02/18
 150.569,jonnycible,Indonesia,Five33Switchback,2022/02/20
@@ -106,19 +106,21 @@
 165.886,TH,Sweden,Five33Switchback,2022/02/18
 166.769,Airftis,UnitedKingdom,Five33Switchback,2022/02/20
 166.982,NaZze,Finland,TBSSpec,2022/02/21
+168.245,TMAD,UnitedStates,Five33Switchback,2022/02/23
 168.267,mori_fpv,Japan,Five33Switchback,2022/02/22
 168.411,4Ari,Unknown,Five33Switchback,2022/02/18
 168.648,dyk0n,UnitedStates,Five33Switchback,2022/02/17
 169.428,JR138,UnitedStates,Five33Switchback,2022/02/21
+169.943,DEJAS,UnitedStates,TBSSpec,2022/02/23
 170.551,jaybot,UnitedStates,Five33Switchback,2022/02/18
+170.705,Fastodon,UnitedStates,Five33Switchback,2022/02/22
 171.386,talkrz,Unknown,CarbiXZero,2022/02/18
 173.884,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/02/21
 175.408,jonFive,UnitedStates,SlamNasty,2022/02/17
 175.842,KoX,Unknown,Rooster,2022/02/21
-175.856,Fastodon,UnitedStates,TBSSpec,2022/02/17
 175.934,TWIP,RussianFederation,Five33Switchback,2022/02/19
 176.410,barney,UnitedKingdom,Five33Switchback,2022/02/21
-176.829,DEJAS,UnitedStates,TBSSpec,2022/02/20
+177.734,yuzuiro5,Japan,AstroXSL5,2022/02/23
 177.984,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/17
 179.126,Crashin2416,UnitedStates,Five33Switchback,2022/02/21
 179.146,UnderTheRadar,Canada,TBSSpec,2022/02/21
@@ -132,7 +134,6 @@
 182.584,Atsupon,Japan,Five33Switchback,2022/02/22
 183.256,JonasBackman,Sweden,Five33Switchback,2022/02/22
 183.677,TriBull,UnitedKingdom,TBSSpec,2022/02/17
-183.830,yuzuiro5,Japan,AstroXSL5,2022/02/22
 184.298,kordets,Finland,TBSSpec,2022/02/22
 185.165,izis,CzechRepublic,TBSSpec,2022/02/19
 185.490,CyberSaxon,UnitedKingdom,Five33Switchback,2022/02/18
@@ -162,6 +163,7 @@
 199.042,FPphil,Switzerland,TBSSpec,2022/02/17
 199.046,pepper,China,Five33Switchback,2022/02/18
 199.116,IBKING,UnitedStates,Five33Switchback,2022/02/18
+199.307,LukeFlies,UnitedStates,Five33Switchback,2022/02/23
 200.325,KONRADAIR1,Belgium,Five33Switchback,2022/02/22
 200.933,VIMANA7,Unknown,TwigXL3,2022/02/22
 200.989,thiiron,Finland,TBSSpec,2022/02/22
@@ -196,5 +198,3 @@
 218.839,Tyga55,SouthAfrica,Five33Switchback,2022/02/21
 219.948,kisssy,Japan,Five33Switchback,2022/02/22
 220.730,TallBoiFly,UnitedStates,TBSSpec,2022/02/18
-221.846,gsadoubled,Germany,Rooster,2022/02/21
-222.790,CHEMTRAILS,UnitedStates,Five33Switchback,2022/02/20
