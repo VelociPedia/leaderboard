@@ -1,16 +1,16 @@
 ### Best 2 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|14|DEP Open Series 4 Race 7|Football Stadium|Five33Switchback|2021/05/26|
 |14|DEP Open Series 5 Race 3|Football Stadium|CarbiXZero|2021/11/25|
+|14|DEP Open Series 4 Race 4|Football Stadium|CarbiXZero|2021/05/12|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|71|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/04/11|
+|73|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/04/11|
 |55|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
-|39|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
-|36|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/25|
+|40|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
+|37|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/25|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -22,8 +22,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |55|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
-|36|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/25|
-|39|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
+|37|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/25|
+|40|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
 ---
 ### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

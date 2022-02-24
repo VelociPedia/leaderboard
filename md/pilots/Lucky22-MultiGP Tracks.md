@@ -1,7 +1,7 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|75|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/12/11|
+|77|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/12/11|
 |78|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/12/24|
 ---
 ### Worse 3 MultiGP Tracks TRACKS ranks

@@ -8,14 +8,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |78|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/10/23|
-|139|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/05/24|
-|126|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/24|
+|142|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/05/24|
+|129|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/24|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|139|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/05/24|
-|103|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/05/24|
+|142|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/05/24|
+|104|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/05/24|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

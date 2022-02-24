@@ -8,7 +8,7 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|192|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/25|
+|194|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/25|
 |137|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/07/18|
 |122|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/07/24|
 |89|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/07/25|
@@ -17,16 +17,16 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|99|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/07/18|
-|66|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/07/18|
+|100|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/07/18|
+|67|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/07/18|
 |108|MGP2018IOTeam|Empty Scene Day|TBSSpec|2021/07/18|
 ---
 ### 22 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|153|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2022/01/04|
-|99|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/07/18|
-|66|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/07/18|
+|156|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2022/01/04|
+|100|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/07/18|
+|67|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/07/18|
 |108|MGP2018IOTeam|Empty Scene Day|TBSSpec|2021/07/18|
 |137|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/07/18|
 |52|MultiGP 2016 RF|Football Stadium|TBSSpec|2021/07/24|
@@ -35,15 +35,15 @@
 |162|MultiGP 2018 RQ|Football Stadium|TBSSpec|2021/07/24|
 |85|MultiGP_2019_Qualifier_Large|Dynamic Weather|TBSSpec|2022/01/30|
 |97|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2021/07/25|
-|82|MultiGP Bessel Run|Football Stadium|TBSSpec|2021/07/24|
+|83|MultiGP Bessel Run|Football Stadium|TBSSpec|2021/07/24|
 |122|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2021/07/25|
 |54|MultiGP High Voltage|Football Stadium|TBSSpec|2021/07/24|
-|112|MultiGP IO 2019 Team|Empty Scene Day|TBSSpec|2021/07/24|
-|192|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/25|
+|113|MultiGP IO 2019 Team|Empty Scene Day|TBSSpec|2021/07/24|
+|194|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/25|
 |89|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2021/07/25|
 |52|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/07/25|
-|73|MultiGP Tsunami|Football Stadium|TBSSpec|2021/07/25|
-|66|MultiGP UTT 1|Football Stadium|TBSSpec|2021/07/25|
+|74|MultiGP Tsunami|Football Stadium|TBSSpec|2021/07/25|
+|67|MultiGP UTT 1|Football Stadium|TBSSpec|2021/07/25|
 |37|MultiGP UTT 5|Football Stadium|TBSSpec|2021/07/25|
 |56|MultiGP UTT 6|Football Stadium|TBSSpec|2021/07/25|
 ---

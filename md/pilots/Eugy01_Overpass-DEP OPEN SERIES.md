@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |135|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2021/04/20|
 |75|DEP Open Series 2 Race 7|Football Stadium|CarbiXZero|2021/03/28|
-|141|DEP Open Series 4 Race 7|Football Stadium|CarbiXZero|2021/05/28|
+|145|DEP Open Series 4 Race 7|Football Stadium|CarbiXZero|2021/05/28|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

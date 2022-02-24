@@ -9,7 +9,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |40|2020 MultiGP Champs presented by RDQ|Football Stadium|Ossa|2020/11/07|
-|28|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/12/06|
+|29|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/12/06|
 |15|MultiGP 2020 Global Qualifier|Empty Scene Day|Ossa|2020/09/29|
 |10|MultiGP-Championships-2019|Empty Scene Day|SingularitumV5|2020/05/08|
 ---

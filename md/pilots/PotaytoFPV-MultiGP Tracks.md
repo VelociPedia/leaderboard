@@ -8,14 +8,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |61|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2020/11/02|
-|163|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/14|
+|164|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/14|
 |158|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
-|141|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/01/06|
+|142|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/01/06|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|97|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2020/04/14|
+|98|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2020/04/14|
 |158|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
 ---
 ### 2 tracks where TBS SPEC quad was used

@@ -15,8 +15,8 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|166|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/20|
-|175|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/21|
+|168|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/20|
+|176|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/21|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

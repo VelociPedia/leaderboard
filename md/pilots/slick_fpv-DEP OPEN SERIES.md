@@ -7,8 +7,8 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|77|DEP Open Series 4 Race 2|Football Stadium|Ossa|2021/04/10|
-|62|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/24|
+|79|DEP Open Series 4 Race 2|Football Stadium|Ossa|2021/04/10|
+|64|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/24|
 |70|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2021/12/16|
 ---
 ### Oldest 2 personal best

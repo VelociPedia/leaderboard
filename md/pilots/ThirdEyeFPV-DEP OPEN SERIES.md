@@ -1,15 +1,15 @@
 ### Best 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|81|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/17|
-|99|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/19|
-|102|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/21|
+|82|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/17|
+|100|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/19|
+|102|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/03|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|175|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/11|
-|174|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
+|178|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/11|
+|176|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
 |161|DEP Open Series 3 Race 6|Football Stadium|Five33Switchback|2021/05/28|
 |159|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/05/29|
 ---
@@ -17,19 +17,19 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |157|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/13|
-|174|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
-|175|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/11|
+|176|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
+|178|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/11|
 ---
 ### 7 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|102|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/21|
+|103|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/21|
 |102|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/03|
-|99|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/19|
-|100|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/26|
+|100|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/19|
+|101|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/26|
 |89|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/05|
-|81|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/17|
-|84|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2021/12/29|
+|82|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/17|
+|87|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2021/12/29|
 ---
 ### 6 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

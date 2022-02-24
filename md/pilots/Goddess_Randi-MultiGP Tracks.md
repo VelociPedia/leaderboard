@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |179|MultiGP-Championships-2019|Empty Scene Day|Rooster|2021/02/23|
-|163|MultiGP IO 2019 World Cup|Empty Scene Day|Rooster|2021/02/23|
-|154|MultiGP IO 2019 Team|Empty Scene Day|Rooster|2021/02/23|
+|165|MultiGP IO 2019 World Cup|Empty Scene Day|Rooster|2021/02/23|
+|155|MultiGP IO 2019 Team|Empty Scene Day|Rooster|2021/02/23|
 |104|MultiGP 2018 RF|Empty Scene Day|Rooster|2021/01/20|
 ---
 ### Oldest 2 personal best

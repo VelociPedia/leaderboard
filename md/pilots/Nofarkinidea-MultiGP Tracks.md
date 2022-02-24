@@ -3,14 +3,14 @@
 |:---:|:---|:---|:---:|:---:|
 |14|MultiGP UTT 5|Football Stadium|KareareaTalon|2020/04/13|
 |25|MultiGP High Voltage|Football Stadium|KareareaTalon|2020/04/12|
-|27|MGP2018IOIntermediate|Empty Scene Day|KareareaTalon|2020/07/31|
+|27|MultiGP Round 2 FNL|Sports Hall|KareareaTalon|2020/07/02|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |74|MGP2018IOWorldCup|Empty Scene Day|KareareaTalon|2020/08/02|
 |56|MultiGP 2018 RF|Empty Scene Day|KareareaTalon|2020/08/02|
-|127|MultiGP 2019 Sport Championships|Football Stadium|KareareaTalon|2020/04/12|
+|128|MultiGP 2019 Sport Championships|Football Stadium|KareareaTalon|2020/04/12|
 |104|MultiGP IO 2019 World Cup|Empty Scene Day|KareareaTalon|2020/08/04|
 |96|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
 ---
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |36|MultiGP 2016 RF|Football Stadium|KareareaTalon|2020/04/10|
 |96|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
-|79|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
+|80|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

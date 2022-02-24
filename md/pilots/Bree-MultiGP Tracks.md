@@ -1,15 +1,15 @@
 ### Best 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|17|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/12/20|
-|31|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/08/19|
+|18|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/12/20|
 |32|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/08/19|
+|32|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/08/19|
 |37|MultiGP 2016 RF|Football Stadium|TBSSpec|2022/02/19|
 ---
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|182|2021 MultiGP Champs Track 1|Empty Scene Day|TBSSpec|2021/12/19|
+|184|2021 MultiGP Champs Track 1|Empty Scene Day|TBSSpec|2021/12/19|
 |172|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/08/19|
 |142|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/05/04|
 |129|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/08/18|
@@ -28,11 +28,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |114|2020 Canadian MultiGP Series|Football Stadium|TBSSpec|2022/02/19|
-|166|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2022/02/19|
-|182|2021 MultiGP Champs Track 1|Empty Scene Day|TBSSpec|2021/12/19|
-|121|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
-|17|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/12/20|
-|47|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/12/20|
+|167|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2022/02/19|
+|184|2021 MultiGP Champs Track 1|Empty Scene Day|TBSSpec|2021/12/19|
+|123|2021 MultiGP Champs Track 2|Empty Scene Day|TBSSpec|2021/12/18|
+|18|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/12/20|
+|48|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/12/20|
 |37|MultiGP 2016 RF|Football Stadium|TBSSpec|2022/02/19|
 |160|MultiGP_2019_Qualifier_Large|Dynamic Weather|TBSSpec|2022/02/19|
 |85|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2022/02/19|

@@ -1,7 +1,7 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|16|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/07/03|
+|17|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/07/03|
 |27|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/07/17|
 |34|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/08/02|
 ---
@@ -9,16 +9,16 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |55|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/07/20|
-|180|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/07/21|
+|181|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/07/21|
 |131|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/03/04|
-|121|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/07/17|
+|122|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/07/17|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |131|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/03/04|
-|48|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/07/03|
-|16|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/07/03|
+|49|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/07/03|
+|17|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/07/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

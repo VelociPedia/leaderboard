@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |80|MultiGP 2021 Global Qualifier|Football Stadium|TBSSpec|2021/04/17|
 |57|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2020/11/08|
-|42|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2022/02/02|
+|43|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2022/02/02|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

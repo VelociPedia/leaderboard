@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |155|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/07/25|
 |61|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/05/16|
-|41|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
+|42|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
 |38|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
 |32|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/07/02|
 |30|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
@@ -32,7 +32,7 @@
 |9|MultiGP 2020 Global Qualifier|Empty Scene Day|TBSSpec|2021/10/20|
 |30|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
 |22|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|
-|41|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
+|42|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
 |10|MultiGP UTT 5|Football Stadium|TBSSpec|2020/07/02|
 ---
 ### 2 tracks without data (200+ or not in leaderboard)

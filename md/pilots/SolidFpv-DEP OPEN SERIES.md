@@ -1,7 +1,7 @@
 ### Best 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|5|DEP Open Series 3 Race 3|Karting Track|SniperX|2022/02/15|
+|6|DEP Open Series 3 Race 3|Karting Track|SniperX|2022/02/15|
 |9|DEP Open Series 3 Race 6|Football Stadium|SniperX|2022/02/12|
 |10|DEP Open Series 4 Race 5|Football Stadium|SniperX|2022/02/06|
 ---
@@ -18,7 +18,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |25|DEP Open Series 5 Race 3|Football Stadium|Ossa|2021/11/18|
-|19|DEP Open Pop-Up 2|Dynamic Weather|Ossa|2021/11/24|
+|20|DEP Open Pop-Up 2|Dynamic Weather|Ossa|2021/11/24|
 |28|DEP Open Series 2 Race 1|Dynamic Weather|Ossa|2021/11/24|
 ---
 ### 1 tracks where TBS SPEC quad was used

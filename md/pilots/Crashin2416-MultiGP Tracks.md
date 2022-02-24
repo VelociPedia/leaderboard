@@ -7,8 +7,8 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|MultiGP IO 2019 Team|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
-|190|MGP2018IOWorldCup|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
+|193|MultiGP IO 2019 Team|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
+|191|MGP2018IOWorldCup|Empty Scene Day|Five33SwitchbackExp|2021/10/16|
 |124|MultiGP 2018 RF|Empty Scene Day|TinyHawk|2021/05/06|
 |104|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2022/01/29|
 ---
@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |66|MultiGP 2016 RF|Football Stadium|TinyHawk|2021/05/06|
-|184|MultiGP 2017 RF|Football Stadium|TinyHawk|2021/05/06|
+|187|MultiGP 2017 RF|Football Stadium|TinyHawk|2021/05/06|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

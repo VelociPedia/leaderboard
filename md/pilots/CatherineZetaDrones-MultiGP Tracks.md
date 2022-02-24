@@ -3,12 +3,12 @@
 |:---:|:---|:---|:---:|:---:|
 |58|MultiGP UTT 5|Football Stadium|LilBastard|2020/04/26|
 |70|MultiGP 2016 RF|Football Stadium|LilBastard|2020/04/26|
-|77|MGP2018IORookie|Empty Scene Day|LilBastard|2020/05/21|
+|79|MGP2018IORookie|Empty Scene Day|LilBastard|2020/05/21|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|166|MultiGP IO 2019 World Cup|Empty Scene Day|LilBastard|2020/05/22|
+|168|MultiGP IO 2019 World Cup|Empty Scene Day|LilBastard|2020/05/22|
 |119|MGP2018IOWorldCup|Empty Scene Day|LilBastard|2020/05/21|
 |105|MultiGP 2018 RF|Empty Scene Day|LilBastard|2020/05/21|
 |94|MultiGPIOSpec2018|Empty Scene Day|LilBastard|2020/05/22|
@@ -17,7 +17,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |70|MultiGP 2016 RF|Football Stadium|LilBastard|2020/04/26|
-|151|MultiGP 2017 RF|Football Stadium|LilBastard|2020/04/26|
+|154|MultiGP 2017 RF|Football Stadium|LilBastard|2020/04/26|
 |172|MultiGP 2018 RQ|Football Stadium|LilBastard|2020/04/26|
 ---
 ### 1 tracks where TBS SPEC quad was used

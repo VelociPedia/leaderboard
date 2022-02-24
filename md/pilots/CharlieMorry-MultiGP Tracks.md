@@ -9,10 +9,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |159|MGP2018IOWorldCup|Empty Scene Day|BMSJS-1|2020/10/28|
-|145|MultiGP 2019 Sport Championships|Football Stadium|BMSJS-1|2020/12/14|
+|146|MultiGP 2019 Sport Championships|Football Stadium|BMSJS-1|2020/12/14|
 |140|MultiGP UTT 5|Football Stadium|DRPMib5|2020/08/26|
 |132|MultiGP Bessel Run|Football Stadium|BMSJS-1|2020/11/21|
-|89|MultiGP Tsunami|Football Stadium|BMSJS-1|2020/11/21|
+|90|MultiGP Tsunami|Football Stadium|BMSJS-1|2020/11/21|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

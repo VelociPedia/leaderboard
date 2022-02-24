@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |189|DEP Open Series 4 Race 3|Football Stadium|BMSJS-1|2021/10/19|
-|158|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/10/19|
-|143|DEP Open Series 5 Race 3|Football Stadium|Five33Switchback|2021/11/22|
+|161|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/10/19|
+|145|DEP Open Series 5 Race 3|Football Stadium|Five33Switchback|2021/11/22|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

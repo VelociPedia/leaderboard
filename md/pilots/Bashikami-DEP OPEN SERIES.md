@@ -2,15 +2,15 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |41|DEP Open Series 5 Race 4|Football Stadium|Five33Switchback|2021/11/24|
-|42|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/06/30|
 |42|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/02|
+|44|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/06/30|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |80|DEP Open Series 3 Race 6|Football Stadium|Five33Switchback|2021/03/10|
 |79|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2021/01/04|
-|59|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/22|
+|61|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/22|
 |89|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/24|
 |82|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2020/12/17|
 ---

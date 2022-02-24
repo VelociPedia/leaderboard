@@ -8,7 +8,7 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|182|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
+|184|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
 |133|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
 |112|MultiGP 2018 RF|Empty Scene Day|Ossa|2021/06/27|
 |86|MultiGPIOSpec2018|Empty Scene Day|Ossa|2021/06/26|
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |28|MultiGP UTT 1|Football Stadium|Ossa|2021/06/12|
 |82|MGP2018IOTeam|Empty Scene Day|Ossa|2021/06/23|
-|103|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
+|104|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

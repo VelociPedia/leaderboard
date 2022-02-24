@@ -15,12 +15,12 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |64|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/07/03|
-|149|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
+|150|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|96|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/08/06|
+|97|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/08/06|
 |118|MGP2018IOTeam|Empty Scene Day|TBSSpec|2021/08/06|
 ---
 ### 13 tracks without data (200+ or not in leaderboard)

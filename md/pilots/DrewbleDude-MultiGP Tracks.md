@@ -7,15 +7,15 @@
 ### Worse 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|194|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2022/01/31|
-|169|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2022/01/28|
+|196|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2022/01/31|
+|171|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2022/01/28|
 |150|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2022/01/30|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|177|MultiGP High Voltage|Football Stadium|Five33Switchback|2022/01/28|
-|169|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2022/01/28|
+|179|MultiGP High Voltage|Football Stadium|Five33Switchback|2022/01/28|
+|171|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2022/01/28|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

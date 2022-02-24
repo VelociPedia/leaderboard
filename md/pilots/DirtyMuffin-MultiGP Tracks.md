@@ -9,7 +9,7 @@
 ### Worse 7 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|21|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/27|
+|22|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/27|
 |16|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2020/12/22|
 |13|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/11/03|
 |9|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/03/31|

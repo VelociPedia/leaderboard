@@ -8,7 +8,7 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|148|MultiGP IO 2019 World Cup|Empty Scene Day|Velocity|2021/12/29|
+|150|MultiGP IO 2019 World Cup|Empty Scene Day|Velocity|2021/12/29|
 |66|MultiGP 2018 RF|Empty Scene Day|Velocity|2021/12/26|
 |153|MultiGP 2018 RQ|Football Stadium|LethalConception|2020/11/14|
 |140|MultiGP Bessel Run|Football Stadium|LethalConception|2020/11/14|
