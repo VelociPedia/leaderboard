@@ -1,7 +1,7 @@
 ### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|TBS EU Spec Series 10 Losers Final|Football Stadium|Ossa|2022/02/18|
+|2|TBS EU Spec Series 10 Losers Final|Football Stadium|Ossa|2022/02/18|
 |6|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/11/17|
 |6|TBS EU Spec Series 9 Race 6|Empty Scene Day|Ossa|2021/10/28|
 |7|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2022/02/08|
@@ -38,8 +38,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |21|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/05|
-|35|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
-|35|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/19|
+|36|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
+|36|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/19|
 |29|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |45|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
 |32|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/10/08|
@@ -47,7 +47,7 @@
 |38|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/06|
 |52|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 ---
-### 27 tracks without data (200+ or not in leaderboard)
+### 28 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 1|Football Stadium|
@@ -77,3 +77,4 @@
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

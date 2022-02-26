@@ -56,9 +56,9 @@
 |101|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/29|
 |168|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/16|
 |127|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
-|48|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/25|
+|49|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/25|
 ---
-### 26 tracks without data (200+ or not in leaderboard)
+### 27 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |TBS EU Spec Series 4 Race 3|IndoorGoKart|
@@ -87,3 +87,4 @@
 |TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 10 Losers Final|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

@@ -45,7 +45,7 @@
 |22|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/19|
 |65|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/06/24|
 ---
-### 34 tracks where TBS SPEC quad was used
+### 35 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |44|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/04/16|
@@ -60,11 +60,12 @@
 |9|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/04/15|
 |12|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/11/25|
 |8|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/11/25|
+|9|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |10|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/17|
 |62|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/02/09|
-|10|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/02/14|
+|11|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/02/14|
 |5|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|9|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/17|
+|10|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/17|
 |32|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/06/25|
 |22|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/28|
 |18|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/03/04|

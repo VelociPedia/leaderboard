@@ -15,7 +15,7 @@
 |89|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |76|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |64|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
-|60|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
+|62|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
 |59|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/27|
 |59|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |57|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/16|
@@ -64,17 +64,17 @@
 |34|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|
 |27|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |43|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/11/11|
-|60|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
-|48|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
-|52|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/12|
+|62|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
+|49|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
+|53|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/12|
 |48|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
-|37|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
+|38|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
 |23|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |42|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
 |17|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 |33|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/11|
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 32 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -108,3 +108,4 @@
 |TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 10 Losers Final|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

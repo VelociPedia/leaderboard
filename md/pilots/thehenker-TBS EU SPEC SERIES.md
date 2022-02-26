@@ -14,8 +14,8 @@
 |150|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|
 |123|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
 |96|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/27|
+|71|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |71|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|70|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |61|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |59|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |58|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/09/22|
@@ -62,13 +62,13 @@
 |26|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
 |96|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/27|
 |49|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
-|70|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
+|71|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |46|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/12|
-|49|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/16|
+|50|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/16|
 |24|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/18|
 |18|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
 ---
-### 32 tracks without data (200+ or not in leaderboard)
+### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -103,3 +103,4 @@
 |TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 10 Losers Final|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

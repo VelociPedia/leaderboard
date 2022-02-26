@@ -71,7 +71,7 @@
 |85|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/18|
 |39|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 ---
-### 34 tracks without data (200+ or not in leaderboard)
+### 35 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -108,3 +108,4 @@
 |TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 10 Losers Final|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

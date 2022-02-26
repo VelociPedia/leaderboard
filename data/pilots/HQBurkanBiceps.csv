@@ -8,7 +8,7 @@ DEP Open Series 3 Race 7,Football Stadium,4,68.065,HQBurkanBiceps,UnitedKingdom,
 EU Spec Season 4 Race 1,Football Stadium,51,86.048,HQBurkanBiceps,UnitedKingdom,TBSSpec,2020/04/30
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,200,77.591,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2020/12/21
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,HQBurkanBiceps,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,3,53.089,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2020/09/20
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,HQBurkanBiceps,NO_DATA
@@ -20,12 +20,13 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,80,93.247,HQBurkanBiceps,Unite
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,25,71.409,HQBurkanBiceps,UnitedKingdom,TBSSpec,2020/04/09
 TBS EU Spec Season 5 Race 1,Football Stadium,13,54.166,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2020/11/26
-TBS EU Spec Series 10 Losers Final,Football Stadium,14,52.300,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/02/13
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,13,71.064,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/02/18
+TBS EU Spec Series 10 Losers Final,Football Stadium,15,52.300,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/02/13
 TBS EU Spec Series 10 Race 1,Football Stadium,13,55.628,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/02/20
-TBS EU Spec Series 10 Race 2,Empty Scene Day,146,91.426,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/01/11
+TBS EU Spec Series 10 Race 2,Empty Scene Day,151,91.426,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/01/11
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,HQBurkanBiceps,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,HQBurkanBiceps,NO_DATA
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,11,52.357,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/01/21
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,12,52.357,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/01/21
 TBS EU Spec Series 10 Race 6,Large Carpark,18,34.563,HQBurkanBiceps,UnitedKingdom,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,HQBurkanBiceps,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,4,70.783,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2020/10/20
@@ -65,12 +66,12 @@ TBS EU Spec Series 8 Race 3,Football Stadium,23,57.801,HQBurkanBiceps,UnitedKing
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,1,46.847,HQBurkanBiceps,UnitedKingdom,Five33Switchback,2021/06/30
 TBS EU Spec Series 8 Race 6,Football Stadium,33,61.841,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/06/03
-TBS EU Spec Series 8 Race 7,Empty Scene Day,24,68.451,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/09/09
-TBS EU Spec Series 9 Final,Dynamic Weather,36,62.654,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/11/11
+TBS EU Spec Series 8 Race 7,Empty Scene Day,26,68.451,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/09/09
+TBS EU Spec Series 9 Final,Dynamic Weather,37,62.654,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/11/11
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,HQBurkanBiceps,NO_DATA
-TBS EU Spec Series 9 Race 1,Football Stadium,16,53.327,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/09/11
+TBS EU Spec Series 9 Race 1,Football Stadium,17,53.327,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/09/11
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,HQBurkanBiceps,NO_DATA
-TBS EU Spec Series 9 Race 3,Empty Scene Day,22,57.575,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/10/04
+TBS EU Spec Series 9 Race 3,Empty Scene Day,23,57.575,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/10/04
 TBS EU Spec Series 9 Race 4,Football Stadium,14,61.165,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/10/02
 TBS EU Spec Series 9 Race 5,Empty Scene Day,30,63.158,HQBurkanBiceps,UnitedKingdom,TBSSpec,2021/10/10
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,HQBurkanBiceps,NO_DATA

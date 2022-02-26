@@ -1,14 +1,14 @@
 ### Best 8 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|2|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/15|
-|3|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/13|
+|3|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/15|
+|4|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/13|
 |8|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/26|
-|10|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/20|
+|11|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/20|
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/10/18|
 |14|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/13|
+|18|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/22|
 |20|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/12|
-|20|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/04|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -20,7 +20,7 @@
 |78|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/03|
 |72|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/06|
 |71|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/27|
-|67|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/08|
+|68|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/08|
 |61|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/17|
 |59|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/10|
 |58|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/17|
@@ -58,7 +58,7 @@
 |59|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/10|
 |42|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/16|
 |49|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/03/02|
-|67|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/08|
+|68|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/08|
 ---
 ### 22 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

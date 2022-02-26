@@ -19,12 +19,12 @@
 |146|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/02/25|
 |130|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/05/28|
 |130|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
-|128|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
+|129|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |125|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/02|
 |118|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/06/07|
-|105|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
+|106|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
+|104|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 |104|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|103|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -84,15 +84,15 @@
 |76|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |57|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|
 |53|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
-|83|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
+|84|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |65|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/20|
 |78|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
-|99|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/24|
-|105|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
-|128|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
-|103|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|101|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/24|
+|106|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
+|129|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
+|104|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
-### 20 tracks without data (200+ or not in leaderboard)
+### 21 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|
@@ -115,3 +115,4 @@
 |TBS EU Spec Series 10 Race 6|Large Carpark|
 |TBS EU Spec Series 10 Race 7|Football Stadium|
 |TBS EU Spec Series 10 Losers Final|Football Stadium|
+|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|

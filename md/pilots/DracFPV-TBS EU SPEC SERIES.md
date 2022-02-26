@@ -7,8 +7,8 @@
 |7|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2022/02/02|
 |7|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/10|
 |10|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/09/07|
+|10|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/23|
 |11|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/09/05|
-|13|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/11/05|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
