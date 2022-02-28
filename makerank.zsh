@@ -42,6 +42,7 @@ pilots=$(sed 's/\///g' <<< $pilots |
          sed 's/\]//g' |
          sed 's/\*//g' |
          sed 's/-//g'  |
+         sed 's/|//g'  |
          sed 's/\\//g' )
 pilots=$(cut -d , -f2 <<< $pilots)
 pilots=$(sed '/\n/d' <<< $pilots | sed '/^[[:space:]]*$/d')
