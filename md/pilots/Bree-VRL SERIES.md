@@ -19,6 +19,14 @@
 |161|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/02/28|
 |160|VRL Season 4 Track 3|Basketball Stadium|Five33Switchback|2021/05/03|
 ---
+### 4 tracks where TBS SPEC quad was used
+|RANK|TRACK|SCENE|QUAD|DATE|
+|:---:|:---|:---|:---:|:---:|
+|148|VRL Season 8 Track 1|Office Complex|TBSSpec|2021/12/06|
+|145|VRL Season 8 Track 3|Night Factory 2|TBSSpec|2021/12/04|
+|71|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
+|106|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/21|
+---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
@@ -27,14 +35,6 @@
 |123|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2021/05/03|
 |101|VRL S5 TRACK 4|Empty Scene Day|Five33Switchback|2021/05/03|
 |86|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/05/03|
----
-### 4 tracks where TBS SPEC quad was used
-|RANK|TRACK|SCENE|QUAD|DATE|
-|:---:|:---|:---|:---:|:---:|
-|148|VRL Season 8 Track 1|Office Complex|TBSSpec|2021/12/06|
-|145|VRL Season 8 Track 3|Night Factory 2|TBSSpec|2021/12/04|
-|71|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
-|106|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/21|
 ---
 ### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
