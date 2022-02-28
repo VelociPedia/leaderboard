@@ -20,6 +20,7 @@
 123.051,sbrfpv,Brazil,Five33Switchback,2021/09/12
 123.241,Gafannen,Slovakia,Five33Switchback,2021/11/06
 123.359,DAFFPV,Sweden,Chief,2022/01/16
+128.610,MegaHurts,UnitedStates,SniperX,2022/02/20
 129.625,ZEDIFPV,Brazil,Five33Switchback,2021/09/12
 130.497,anadium,UnitedStates,TBSOblivion,2020/05/10
 130.804,Brombeer,Netherlands,TBSSpec,2020/06/07
@@ -40,6 +41,7 @@
 148.821,Pochy,Canada,TBSSpec,2021/05/15
 149.784,Musilex,Brazil,Five33Switchback,2021/07/01
 150.369,Bichofpv,UnitedKingdom,Rooster,2021/12/29
+150.887,Barnyard,UnitedStates,Five33Switchback,2022/02/20
 151.228,Lucky22,UnitedStates,Five33Switchback,2022/01/24
 153.683,SHARKER,Mexico,Five33Switchback,2021/02/16
 154.076,Azimute,Brazil,PandaCavity,2021/09/07
@@ -62,8 +64,9 @@
 163.580,LukeS,Germany,Five33Switchback,2021/07/02
 164.276,Edsonfpv,Brazil,SingularitumV5,2021/09/08
 164.794,Pierrebon05,France,Velocity,2020/04/13
+164.808,KhonsFPV,Turkey,Five33Switchback,2022/02/24
 165.085,Concussionfpv,Netherlands,Five33Switchback,2020/04/13
-165.936,mraleksandr,Ukraine,NazgulXL5,2022/01/25
+165.572,mraleksandr,Ukraine,NazgulXL5,2022/02/17
 167.227,majorweakness,Australia,HX115,2021/10/29
 167.621,Fenrir_FPV,Switzerland,Velocity,2020/04/10
 167.904,BotLinus,UnitedStates,Five33Switchback,2021/01/12
@@ -92,7 +95,6 @@
 181.188,MartinMcfly,France,Five33Switchback,2020/04/23
 181.435,BiggTyler420,UnitedStates,NazgulXL5,2021/11/06
 181.995,DeimosFPV,UnitedStates,Five33Switchback,2021/04/20
-182.049,MegaHurts,UnitedStates,Five33Switchback,2020/11/13
 182.999,HYTEK,Portugal,Mode2Ghost,2020/05/10
 183.815,Saqoosha,Japan,TBSSpec,2022/02/01
 183.845,Bree,France,Five33Switchback,2021/05/03
@@ -111,11 +113,14 @@
 193.656,pablo_pescador22,Spain,ArchAngleBlue,2021/09/26
 193.938,SiCFPV,Portugal,LilBastard,2020/08/13
 195.067,nAdibFPV,Switzerland,Five33Switchback,2021/08/23
+195.120,Explaner,RussianFederation,Five33Switchback,2022/02/28
 196.462,spacepirate_FPV,India,Five33Switchback,2022/01/18
 197.103,RIVALSMixedSignals,UnitedStates,Five33Switchback,2020/06/24
 198.797,jcd,France,Five33Switchback,2021/11/18
+199.665,pidemo,France,Five33Switchback,2022/02/19
 200.136,Fifarez,CzechRepublic,LilBastard,2020/07/04
 200.140,ChrisFPV,Germany,LilBastard,2021/07/16
+200.307,GarFly,UnitedStates,Five33Switchback,2022/02/20
 201.097,bsg,Ukraine,Five33Switchback,2022/02/07
 201.234,gkucmierz,Poland,Five33Switchback,2021/10/15
 202.376,Elari269,Estonia,LilBastard,2021/11/01
@@ -125,6 +130,7 @@
 208.563,BogDN,Bulgaria,RotorEvolutionX1,2020/12/01
 210.278,ConradvanDeventer,SouthAfrica,TBSOblivion,2020/05/21
 210.962,robertmzm,Canada,LilBastard,2021/11/16
+211.510,Balky,DominicanRepublic,NazgulXL5,2022/02/25
 212.594,ploppor,Germany,Mode2Ghost,2020/11/05
 213.127,SPooKno,Norway,Five33Switchback,2021/05/08
 213.789,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
@@ -170,6 +176,7 @@
 237.469,RaveanAaron,UnitedStates,Rooster,2020/08/16
 237.532,Lumor,Sweden,Strix,2020/12/20
 237.783,Marfy,CzechRepublic,FlynocerosAether,2021/02/03
+238.699,Galsim,Israel,LilBastard,2022/02/19
 239.066,Izlud,France,LilBastard,2020/05/24
 240.046,Aurel_fpv,France,Five33Switchback,2020/10/21
 241.960,Symplexfpv,UnitedStates,CarbiXZero,2022/01/30
@@ -183,7 +190,7 @@
 247.872,intent2bhuman,UnitedStates,TBSSpec,2020/08/19
 249.031,Dan11092,Bolivia,ArmattanChameleon,2020/05/28
 250.240,hypergab,Italy,Five33Switchback,2022/01/24
-250.259,Ewriker,RussianFederation,TBSSpec,2020/12/16
+250.259,Ewriker_QT,RussianFederation,TBSSpec,2020/12/16
 252.884,Will132,UnitedKingdom,Strix,2021/12/28
 253.109,tgapchalupa,UnitedStates,Strix,2020/04/30
 253.367,Simone_Genova,Italy,Five33Switchback,2021/11/20
@@ -191,10 +198,3 @@
 257.205,eulkomar,France,SkyXKiller,2021/11/18
 257.543,edschmee,UnitedStates,TBSSpec,2021/06/09
 257.767,Fly_Fingers,Unknown,TBSVendetta,2021/11/02
-259.243,ShadowSneaker,Denmark,Five33Switchback,2021/11/21
-261.123,ItsDarts,UnitedStates,Five33Switchback,2021/12/30
-261.978,dilligaf,UnitedStates,LilBastard,2021/12/12
-262.613,SzeryfxD,Poland,TBSSpec,2021/04/20
-262.839,Souxley,Germany,Ragg-e200h,2022/02/05
-263.611,Chavira,Mexico,LilBastard,2021/02/22
-264.272,Myal02,UnitedKingdom,PandaCavity,2021/03/12
