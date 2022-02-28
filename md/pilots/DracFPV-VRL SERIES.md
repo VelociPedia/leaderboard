@@ -1,10 +1,10 @@
 ### Best 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|VRL Season 3 Track 2|Empty Scene Day|Ossa|2021/09/04|
 |1|VRL_Season_4_Track_6|Dynamic Weather|SingularitumV5|2020/05/26|
 |1|VRL Season 3 Track 4|Empty Scene Day|SingularitumV5|2020/06/06|
 |1|VRL Season 4 Championship|Football Stadium|Five33Switchback|2021/10/17|
+|2|VRL Season 3 Track 2|Empty Scene Day|Ossa|2021/09/04|
 |2|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2020/08/02|
 |3|VRL S5 TRACK 4|Empty Scene Day|SingularitumV5|2020/04/25|
 |3|VRL Season 3 Track 3|Empty Scene Day|SingularitumV5|2020/06/20|

@@ -12,9 +12,9 @@
 |143|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/28|
 |107|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/11/13|
 |101|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
-|98|VRL Season 8 Track 4|DynamicPoly|Five33Switchback|2021/12/07|
-|94|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/01/26|
-|91|VRL Season 8 Track 5|Dynamic Weather|Five33Switchback|2021/12/19|
+|99|VRL Season 8 Track 4|DynamicPoly|Five33Switchback|2021/12/07|
+|95|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/01/26|
+|92|VRL Season 8 Track 5|Dynamic Weather|Five33Switchback|2021/12/19|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

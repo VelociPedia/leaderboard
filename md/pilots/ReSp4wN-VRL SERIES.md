@@ -5,15 +5,15 @@
 |13|VRL-Season-4-Track-4|Dynamic Weather|TBSSpec|2020/04/13|
 |21|VRL Season 4 Track 3|Basketball Stadium|TBSSpec|2020/04/20|
 |26|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/04/12|
-|29|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2020/07/19|
+|33|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2020/07/19|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |77|VRL6 Kenerator|Dynamic Weather|TBSSpec|2020/04/25|
-|75|VRL6 Championships|Dynamic Weather|TBSSpec|2020/05/01|
+|76|VRL6 Championships|Dynamic Weather|TBSSpec|2020/05/01|
 |72|VRL6 Extermination|Dynamic Weather|TBSSpec|2020/04/25|
-|64|VRL6 Tunnel Vision|Dynamic Weather|TBSSpec|2020/04/24|
+|65|VRL6 Tunnel Vision|Dynamic Weather|TBSSpec|2020/04/24|
 |58|VRL Season 3 Track 5|Empty Scene Day|TBSSpec|2020/04/12|
 |51|VRL6 Reinforcement|Dynamic Weather|TBSSpec|2020/04/06|
 |38|VRL SEASON 6 TRYOUTS|Dynamic Weather|TBSSpec|2020/04/06|
@@ -30,28 +30,28 @@
 ### 31 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|75|VRL6 Championships|Dynamic Weather|TBSSpec|2020/05/01|
+|76|VRL6 Championships|Dynamic Weather|TBSSpec|2020/05/01|
 |20|VRL6 Crash Site|Dynamic Weather|TBSSpec|2020/04/06|
 |12|VRL6 Downtown Loop|Dynamic Weather|TBSSpec|2020/04/06|
 |72|VRL6 Extermination|Dynamic Weather|TBSSpec|2020/04/25|
 |77|VRL6 Kenerator|Dynamic Weather|TBSSpec|2020/04/25|
 |27|VRL6 Meltdown|Dynamic Weather|TBSSpec|2020/04/06|
 |51|VRL6 Reinforcement|Dynamic Weather|TBSSpec|2020/04/06|
-|64|VRL6 Tunnel Vision|Dynamic Weather|TBSSpec|2020/04/24|
+|65|VRL6 Tunnel Vision|Dynamic Weather|TBSSpec|2020/04/24|
 |26|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/04/12|
 |35|VRL S5 Track 1|Dynamic Weather|TBSSpec|2020/04/06|
 |19|VRL S5 TRACK 2|Dynamic Weather|TBSSpec|2020/04/06|
 |15|VRL S5 TRACK 3|Bando|TBSSpec|2020/04/28|
 |12|VRL S5 TRACK 4|Empty Scene Day|TBSSpec|2020/04/12|
 |23|VRL S5 TRACK 5|Dynamic Weather|TBSSpec|2020/04/06|
-|85|VRL Season 3 Track 1|Empty Scene Day|TBSSpec|2020/04/12|
-|29|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2020/07/19|
+|86|VRL Season 3 Track 1|Empty Scene Day|TBSSpec|2020/04/12|
+|33|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2020/07/19|
 |34|VRL Season 3 Track 3|Empty Scene Day|TBSSpec|2020/04/12|
 |37|VRL Season 3 Track 4|Empty Scene Day|TBSSpec|2020/04/12|
 |58|VRL Season 3 Track 5|Empty Scene Day|TBSSpec|2020/04/12|
 |19|VRL Season 3 Track 6|Empty Scene Day|TBSSpec|2020/04/12|
-|15|VRL Season 4 Championship|Football Stadium|TBSSpec|2020/04/06|
-|30|VRL Season 4 Track 1|Dynamic Weather|TBSSpec|2020/04/06|
+|16|VRL Season 4 Championship|Football Stadium|TBSSpec|2020/04/06|
+|31|VRL Season 4 Track 1|Dynamic Weather|TBSSpec|2020/04/06|
 |16|VRL Season 4 Track 2|Bando|TBSSpec|2020/04/19|
 |21|VRL Season 4 Track 3|Basketball Stadium|TBSSpec|2020/04/20|
 |13|VRL-Season-4-Track-4|Dynamic Weather|TBSSpec|2020/04/13|
@@ -59,7 +59,7 @@
 |35|VRL Season 4 Track 7|Dynamic Weather|TBSSpec|2020/04/06|
 |14|VRL-Season-4-Tryouts|Dynamic Weather|TBSSpec|2020/04/06|
 |23|VRL SEASON 5 TRACK 6|Dynamic Weather|TBSSpec|2020/04/06|
-|27|VRL SEASON 5 TRYOUTS|Dynamic Weather|TBSSpec|2020/04/06|
+|28|VRL SEASON 5 TRYOUTS|Dynamic Weather|TBSSpec|2020/04/06|
 |38|VRL SEASON 6 TRYOUTS|Dynamic Weather|TBSSpec|2020/04/06|
 ---
 ### 20 tracks without data (200+ or not in leaderboard)

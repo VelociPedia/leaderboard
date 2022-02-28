@@ -10,7 +10,7 @@
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|63|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
+|65|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
 |61|VRL Season 8 Track 5|Dynamic Weather|Ossa|2021/12/20|
 |57|VRL Season 7 Championships|Dynamic Weather|Ossa|2021/01/03|
 |47|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/11|

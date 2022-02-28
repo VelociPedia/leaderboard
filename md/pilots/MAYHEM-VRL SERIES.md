@@ -18,8 +18,8 @@
 |77|VRL Season 8 Track 6|Night Factory 2|Five33Switchback|2022/01/19|
 |77|VRL 7 Track 2|Future Hangar Empty|Ossa|2020/11/03|
 |75|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2020/12/31|
+|74|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/08|
 |73|VRL Season 8 Track 1|Office Complex|Five33Switchback|2022/01/20|
-|71|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/08|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -27,7 +27,7 @@
 |22|VRL6 Reinforcement|Dynamic Weather|SingularitumV5|2020/04/06|
 |56|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/07|
 |5|VRL_Season_4_Track_6|Dynamic Weather|SingularitumV5|2020/04/12|
-|12|VRL Season 4 Championship|Football Stadium|SingularitumV5|2020/04/13|
+|13|VRL Season 4 Championship|Football Stadium|SingularitumV5|2020/04/13|
 |52|VRL6 Tunnel Vision|Dynamic Weather|SingularitumV5|2020/04/15|
 |10|VRL Season 4 Track 1|Dynamic Weather|SingularitumV5|2020/04/17|
 ---

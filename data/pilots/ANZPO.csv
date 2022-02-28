@@ -7,7 +7,7 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,139,85.075,ANZPO,UnitedStates,TBSSp
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,83,74.293,ANZPO,UnitedStates,TBSSpec,2022/02/10
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,ANZPO,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,90,84.112,ANZPO,UnitedStates,TBSSpec,2022/02/08
-VRL6 Championships,Dynamic Weather,199,161.758,ANZPO,UnitedStates,Five33Switchback,2022/01/23
+VRL6 Championships,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL6 Crash Site,Dynamic Weather,25,157.155,ANZPO,UnitedStates,Five33Switchback,2022/01/23
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,ANZPO,NO_DATA
@@ -16,28 +16,28 @@ VRL6 Meltdown,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL6 Reinforcement,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL6 Tunnel Vision,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL 7 Race 4,Dynamic Weather,999,999.999,ANZPO,NO_DATA
-VRL 7 Track 1,Future Hangar,190,127.207,ANZPO,UnitedStates,Five33Switchback,2021/12/20
-VRL 7 Track 2,Future Hangar Empty,148,153.350,ANZPO,UnitedStates,Five33Switchback,2021/12/22
-VRL 7 Track 3,Dynamic Weather,182,109.704,ANZPO,UnitedStates,Five33Switchback,2021/12/20
-VRL 7 Track 5,Dynamic Weather,197,111.612,ANZPO,UnitedStates,Five33Switchback,2022/02/01
+VRL 7 Track 1,Future Hangar,191,127.207,ANZPO,UnitedStates,Five33Switchback,2021/12/20
+VRL 7 Track 2,Future Hangar Empty,149,153.350,ANZPO,UnitedStates,Five33Switchback,2021/12/22
+VRL 7 Track 3,Dynamic Weather,184,109.704,ANZPO,UnitedStates,Five33Switchback,2021/12/20
+VRL 7 Track 5,Dynamic Weather,198,111.612,ANZPO,UnitedStates,Five33Switchback,2022/02/01
 VRL 7 Track 6,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,ANZPO,NO_DATA
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,51,111.609,ANZPO,UnitedStates,Five33Switchback,2021/12/22
 VRL S5 Track 1,Dynamic Weather,25,103.781,ANZPO,UnitedStates,Five33Switchback,2021/12/23
 VRL S5 TRACK 2,Dynamic Weather,29,132.179,ANZPO,UnitedStates,Five33Switchback,2021/12/22
-VRL S5 TRACK 3,Bando,38,141.099,ANZPO,UnitedStates,Five33Switchback,2021/12/22
+VRL S5 TRACK 3,Bando,39,141.099,ANZPO,UnitedStates,Five33Switchback,2021/12/22
 VRL S5 TRACK 4,Empty Scene Day,28,102.556,ANZPO,UnitedStates,Five33Switchback,2021/12/22
 VRL S5 TRACK 5,Dynamic Weather,48,178.010,ANZPO,UnitedStates,Five33Switchback,2021/12/23
-VRL Season 3 Track 1,Empty Scene Day,103,93.885,ANZPO,UnitedStates,Five33Switchback,2021/12/29
-VRL Season 3 Track 2,Empty Scene Day,71,82.748,ANZPO,UnitedStates,Five33Switchback,2021/12/31
+VRL Season 3 Track 1,Empty Scene Day,104,93.885,ANZPO,UnitedStates,Five33Switchback,2021/12/29
+VRL Season 3 Track 2,Empty Scene Day,76,82.748,ANZPO,UnitedStates,Five33Switchback,2021/12/31
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,ANZPO,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,57,139.443,ANZPO,UnitedStates,Five33Switchback,2022/01/16
 VRL Season 3 Track 5,Empty Scene Day,42,92.235,ANZPO,UnitedStates,Five33Switchback,2022/01/16
 VRL Season 3 Track 6,Empty Scene Day,26,169.897,ANZPO,UnitedStates,Five33Switchback,2022/01/19
 VRL Season 4 Championship,Football Stadium,999,999.999,ANZPO,NO_DATA
-VRL Season 4 Track 1,Dynamic Weather,23,138.742,ANZPO,UnitedStates,Five33Switchback,2022/01/22
-VRL Season 4 Track 2,Bando,49,156.181,ANZPO,UnitedStates,Five33Switchback,2022/01/22
-VRL Season 4 Track 3,Basketball Stadium,81,95.407,ANZPO,UnitedStates,Five33Switchback,2022/01/22
+VRL Season 4 Track 1,Dynamic Weather,24,138.742,ANZPO,UnitedStates,Five33Switchback,2022/01/22
+VRL Season 4 Track 2,Bando,51,156.181,ANZPO,UnitedStates,Five33Switchback,2022/01/22
+VRL Season 4 Track 3,Basketball Stadium,83,95.407,ANZPO,UnitedStates,Five33Switchback,2022/01/22
 VRL-Season-4-Track-4,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL_Season_4_Track_5,Coastal,999,999.999,ANZPO,NO_DATA
 VRL_Season_4_Track_6,Dynamic Weather,999,999.999,ANZPO,NO_DATA
@@ -45,16 +45,16 @@ VRL Season 4 Track 7,Dynamic Weather,30,117.272,ANZPO,UnitedStates,Five33Switchb
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL SEASON 5 TRACK 6,Dynamic Weather,30,121.411,ANZPO,UnitedStates,Five33Switchback,2021/12/23
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,ANZPO,NO_DATA
-VRL SEASON 5 TRACK 8,Industrial Wasteland,55,162.097,ANZPO,UnitedStates,Five33Switchback,2021/12/25
+VRL SEASON 5 TRACK 8,Industrial Wasteland,56,162.097,ANZPO,UnitedStates,Five33Switchback,2021/12/25
 VRL SEASON 5 TRYOUTS,Dynamic Weather,42,155.666,ANZPO,UnitedStates,Five33Switchback,2021/12/16
 VRL SEASON 6 TRYOUTS,Dynamic Weather,90,157.289,ANZPO,UnitedStates,Five33Switchback,2021/12/16
 VRL Season 7 Championships,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,999,999.999,ANZPO,NO_DATA
-VRL Season 8 Track 1,Office Complex,103,231.477,ANZPO,UnitedStates,Five33Switchback,2022/01/07
-VRL Season 8 Track 2,Drift Track,147,227.720,ANZPO,UnitedStates,Five33Switchback,2022/01/07
+VRL Season 8 Track 1,Office Complex,104,231.477,ANZPO,UnitedStates,Five33Switchback,2022/01/07
+VRL Season 8 Track 2,Drift Track,149,227.720,ANZPO,UnitedStates,Five33Switchback,2022/01/07
 VRL Season 8 Track 3,Night Factory 2,999,999.999,ANZPO,NO_DATA
 VRL Season 8 Track 4,DynamicPoly,999,999.999,ANZPO,NO_DATA
-VRL Season 8 Track 5,Dynamic Weather,108,170.982,ANZPO,UnitedStates,Five33Switchback,2022/01/07
+VRL Season 8 Track 5,Dynamic Weather,109,170.982,ANZPO,UnitedStates,Five33Switchback,2022/01/07
 VRL Season 8 Track 6,Night Factory 2,83,144.710,ANZPO,UnitedStates,Five33Switchback,2022/01/05
 VRL SEASON 8 TRACK 7,Dynamic Weather,999,999.999,ANZPO,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,ANZPO,NO_DATA

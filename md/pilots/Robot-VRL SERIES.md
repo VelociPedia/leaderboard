@@ -10,20 +10,20 @@
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|169|VRL6 Championships|Dynamic Weather|CarbiXZero|2020/09/22|
+|171|VRL6 Championships|Dynamic Weather|CarbiXZero|2020/09/22|
 |107|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/09/23|
 |102|VRL6 Extermination|Dynamic Weather|CarbiXZero|2020/09/23|
-|81|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/09/23|
+|82|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/09/23|
 |73|VRL SEASON 6 TRYOUTS|Dynamic Weather|CarbiXZero|2020/09/22|
 |44|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|CarbiXZero|2020/11/04|
-|41|VRL Season 4 Track 7|Dynamic Weather|CarbiXZero|2020/09/22|
+|42|VRL Season 4 Track 7|Dynamic Weather|CarbiXZero|2020/09/22|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |14|VRL S5 TRACK 3|Bando|CarbiXZero|2020/06/07|
 |18|VRL Season 4 Track 2|Bando|CarbiXZero|2020/06/10|
-|47|VRL Season 4 Track 3|Basketball Stadium|CarbiXZero|2020/06/16|
+|48|VRL Season 4 Track 3|Basketball Stadium|CarbiXZero|2020/06/16|
 |18|VRL_Season_4_Track_5|Coastal|CarbiXZero|2020/08/26|
 |25|VRL S5 TRACK 2|Dynamic Weather|CarbiXZero|2020/09/16|
 ---

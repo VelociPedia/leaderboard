@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |22|VRL Season 3 Track 3|Empty Scene Day|AcrobotTruX-R197|2020/12/26|
 |52|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/01/02|
-|70|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
+|75|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
 |13|VRL-Season-4-Tryouts|Dynamic Weather|AcrobotTruX-R197|2020/09/07|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |164|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
 |122|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
-|98|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
+|99|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
 |82|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
 |61|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
 |56|VRL Season 3 Track 5|Empty Scene Day|TBSOblivion|2020/07/01|

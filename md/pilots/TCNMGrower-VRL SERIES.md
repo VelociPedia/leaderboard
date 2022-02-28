@@ -6,16 +6,16 @@
 |3|VRL S5 Track 1|Dynamic Weather|Chief|2022/01/20|
 |3|VRL S5 TRACK 2|Dynamic Weather|Solleva|2021/09/02|
 |5|VRL S5 TRACK 4|Empty Scene Day|Chief|2022/01/18|
-|9|VRL Season 3 Track 2|Empty Scene Day|Chief|2022/01/17|
+|9|VRL S5 TRACK 5|Dynamic Weather|Solleva|2020/07/11|
 ---
 ### Worse 10 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|79|VRL Season 8 Championships|Dynamic Weather|Chief|2022/02/17|
+|83|VRL Season 8 Championships|Dynamic Weather|Chief|2022/02/17|
 |66|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/30|
 |52|VRL Season 8 Track 5|Dynamic Weather|Chief|2021/12/17|
 |50|VRL Season 8 Track 1|Office Complex|Solleva|2021/11/12|
-|44|VRL SEASON 5 TRACK 8|Industrial Wasteland|Solleva|2020/07/12|
+|45|VRL SEASON 5 TRACK 8|Industrial Wasteland|Solleva|2020/07/12|
 |44|VRL Season 8 Track 4|DynamicPoly|Chief|2021/12/10|
 |41|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
 |41|VRL Season 8 Track 6|Night Factory 2|Chief|2022/01/15|

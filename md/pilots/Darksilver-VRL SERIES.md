@@ -1,11 +1,11 @@
 ### Best 5 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|40|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2021/07/22|
-|46|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/05|
+|44|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2021/07/22|
+|48|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/05|
 |62|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/20|
-|111|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/08|
-|119|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/21|
+|112|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/08|
+|120|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/21|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,22 +16,22 @@
 |102|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/21|
 |98|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2021/01/04|
 |91|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/12/27|
-|87|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
+|88|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|87|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
+|88|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
 |102|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/21|
 |128|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/22|
 |140|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/12/05|
-|111|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/08|
+|112|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/08|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|87|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
-|40|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2021/07/22|
+|88|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSSpec|2020/07/20|
+|44|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2021/07/22|
 ---
 ### 20 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
