@@ -41,7 +41,7 @@
 83.398,ZEDIFPV,Brazil,Five33Switchback,2021/03/14
 83.631,Hsl_Fpv,Brazil,Five33Switchback,2021/03/14
 83.866,kuatoFPV,NewZealand,BMSJS-1,2021/11/11
-83.890,bigspeed,UnitedStates,Five33Switchback,2021/08/08
+83.890,RIVALSbigspeed,UnitedStates,Five33Switchback,2021/08/08
 84.057,IonFPV,India,TBSSpec,2021/10/31
 84.123,McLovin_,Brazil,CarbiXZero,2021/03/11
 84.244,StefanLjungberg,Sweden,Five33Switchback,2021/03/13
@@ -127,7 +127,7 @@
 113.711,RoflcopterStL,UnitedStates,Five33Switchback,2021/08/16
 113.839,BearmanFPV,UnitedKingdom,Ossa,2021/03/03
 113.868,kasapon,Japan,Five33Switchback,2021/02/27
-113.937,TBSTiltedFPV,UnitedStates,Five33Switchback,2021/08/17
+113.937,TiltedFPV,UnitedStates,Five33Switchback,2021/08/17
 114.910,RaZm0,France,Five33Switchback,2022/01/12
 115.101,ADK,UnitedStates,Ossa,2021/11/20
 115.719,SemperFly,UnitedStates,Five33Switchback,2021/02/25
@@ -155,6 +155,7 @@
 125.909,NelisFPV,Netherlands,Five33Switchback,2021/02/24
 126.447,Weeman1990,Sweden,Five33Switchback,2022/01/21
 127.035,DenizAksaya,Turkey,Five33Switchback,2021/08/18
+127.189,mojofpv,Germany,Five33Switchback,2022/03/02
 127.907,FPReaper,Denmark,Five33Switchback,2021/02/27
 128.321,HQK1NG,UnitedStates,Five33Switchback,2021/02/21
 128.389,eedok,Canada,BMSJS-1,2021/02/22
@@ -197,4 +198,3 @@
 141.973,fulofbrightnes,UnitedStates,TBSSpec,2021/02/24
 141.985,krists,Latvia,Five33Switchback,2021/03/02
 142.053,BLENDERIS,Unknown,Five33Switchback,2021/02/21
-142.284,sapsan,RussianFederation,ArmattanChameleon,2021/10/15
