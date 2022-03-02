@@ -7,9 +7,9 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|195|DEP Open Series 5 Race 4|Football Stadium|LethalConception|2021/11/26|
-|192|DEP Open Series 4 Race 7|Football Stadium|LethalConception|2021/05/29|
-|189|DEP Open Series 3 Race 7|Football Stadium|LethalConception|2021/08/07|
+|197|DEP Open Series 5 Race 4|Football Stadium|LethalConception|2021/11/26|
+|194|DEP Open Series 4 Race 7|Football Stadium|LethalConception|2021/05/29|
+|191|DEP Open Series 3 Race 7|Football Stadium|LethalConception|2021/08/07|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

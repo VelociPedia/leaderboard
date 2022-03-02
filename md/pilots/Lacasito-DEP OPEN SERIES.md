@@ -19,17 +19,16 @@
 |:---:|:---|:---|:---:|:---:|
 |17|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2020/11/18|
 |15|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2020/12/21|
-|17|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/03/15|
+|18|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/03/15|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 4 tracks without data (200+ or not in leaderboard)
+### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |DEP Open Pop-Up 2|Dynamic Weather|
 |DEP Open Series 3 Race 3|Karting Track|
 |DEP Open Series 5 Race 4|Football Stadium|
-|DEP Open Series 5 Race 7|Football Stadium|
