@@ -27,7 +27,7 @@
 |49|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |79|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/04/12|
 |40|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/04/12|
-|53|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/12|
+|54|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/12|
 |47|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/04/12|
 |79|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/13|
 ---
@@ -44,7 +44,7 @@
 |40|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/04/12|
 |37|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |73|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/04/13|
-|53|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/12|
+|54|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/12|
 |47|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/04/12|
 |46|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/30|
 |49|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
@@ -55,14 +55,14 @@
 |65|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/25|
 |57|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 |101|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/25|
-|44|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
+|45|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |42|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/03|
 |55|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |63|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/27|
 |53|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |49|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |60|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/28|
-|65|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/26|
+|68|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/26|
 |89|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |110|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |87|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/22|

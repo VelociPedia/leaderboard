@@ -5,7 +5,7 @@
 |30|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |30|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |33|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
-|35|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|36|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 |38|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/01|
 |43|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
 |43|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/23|
@@ -15,7 +15,7 @@
 ### Worse 15 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
+|199|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
 |197|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/11|
 |134|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/09|
 |111|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/07|
@@ -38,9 +38,9 @@
 |114|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/11|
 |107|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/05/11|
 |111|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/07|
-|198|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
+|199|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
 |179|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|60|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
+|61|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |140|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |99|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |106|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
@@ -50,11 +50,11 @@
 |:---:|:---|:---|:---:|:---:|
 |197|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/11|
 |70|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/06/02|
-|198|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
+|199|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/10|
 |180|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/04/08|
 |30|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |38|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/01|
-|60|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
+|61|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |114|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/11|
 |107|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/05/11|
 |191|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2021/04/30|
@@ -75,7 +75,7 @@
 |106|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |81|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2021/02/04|
 |126|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
-|93|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/26|
+|96|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/26|
 |122|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |180|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/03/11|
 |134|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/09|
@@ -104,9 +104,9 @@
 |77|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/10/08|
 |63|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
 |67|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
-|66|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
-|54|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
-|35|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|67|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
+|55|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
+|36|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 10 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

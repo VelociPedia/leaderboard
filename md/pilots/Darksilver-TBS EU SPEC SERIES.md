@@ -1,10 +1,10 @@
 ### Best 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|28|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
+|32|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
 |38|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/13|
-|41|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |42|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
+|43|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |44|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/12/25|
 |45|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
 |47|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/07|
@@ -14,13 +14,13 @@
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|155|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2020/11/07|
+|156|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2020/11/07|
 |152|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2022/01/02|
 |149|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/09/11|
 |123|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/12|
+|195|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/02/07|
 |195|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2020/11/24|
-|194|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/02/07|
-|161|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/07|
+|162|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/07|
 |150|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2021/01/16|
 |145|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/07/06|
 |135|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2020/12/25|
@@ -40,7 +40,7 @@
 |101|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/13|
 |94|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Ossa|2020/09/29|
 |92|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/02|
-|155|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2020/11/07|
+|156|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2020/11/07|
 ---
 ### 33 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,7 +48,7 @@
 |91|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/09/11|
 |63|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/12/25|
 |149|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/09/11|
-|72|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/08|
+|73|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/08|
 |45|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
 |69|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/02/08|
 |47|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/07|
@@ -61,7 +61,7 @@
 |114|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/10|
 |135|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/06/27|
 |134|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
-|41|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2022/02/10|
+|43|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |92|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/02|
 |107|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/15|
 |95|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/03/17|
@@ -77,7 +77,7 @@
 |90|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/16|
 |89|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/21|
 |80|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/29|
-|98|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
+|99|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 ---
 ### 15 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

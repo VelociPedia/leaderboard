@@ -1,14 +1,14 @@
 ### Best 8 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|61|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
-|67|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/14|
-|67|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/04|
+|62|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |67|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|
+|68|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/14|
+|68|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/04|
 |69|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/23|
 |69|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
 |78|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2022/02/13|
-|80|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/10/24|
+|81|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/10/24|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -21,7 +21,7 @@
 |183|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |182|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
 |167|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
-|155|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/01|
+|156|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/01|
 |154|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2021/08/16|
 |150|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/07/29|
 |149|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/25|
@@ -33,7 +33,7 @@
 |183|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |161|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/08/12|
 |153|TBS EU Spec Series 4 Race 5|Dynamic Weather|SingularitumV5|2020/08/13|
-|61|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
+|62|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |69|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
 |167|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
 |67|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|

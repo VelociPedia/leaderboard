@@ -1,8 +1,8 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|65|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
 |65|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/01/06|
+|66|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/18|
 |69|TBS EU Spec Series 10 Race 3|Night Factory 2|CarbiXZero|2021/12/20|
 |73|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/01/09|
 |76|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/11/16|
@@ -39,7 +39,7 @@
 |161|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |112|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/07|
 |134|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
-|95|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
+|96|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
 |160|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/14|
 |102|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/09/25|
 |128|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/10/13|

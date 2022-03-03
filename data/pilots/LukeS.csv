@@ -47,10 +47,10 @@ RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,LukeS,NO_DATA
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,131,124.960,LukeS,Germany,Five33Switchback,2020/05/24
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,132,124.960,LukeS,Germany,Five33Switchback,2020/05/24
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,172,98.314,LukeS,Germany,Five33Switchback,2020/05/24
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,200,113.235,LukeS,Germany,Five33Switchback,2020/05/24
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,157,127.761,LukeS,Germany,Five33Switchback,2020/05/24
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,LukeS,NO_DATA
@@ -58,10 +58,10 @@ TBS EU Spec Season 5 Race 1,Football Stadium,197,71.805,LukeS,Germany,TBSSpec,20
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,58,59.885,LukeS,Germany,TBSSpec,2022/02/15
 TBS EU Spec Series 10 Race 1,Football Stadium,87,69.837,LukeS,Germany,TBSSpec,2021/12/15
-TBS EU Spec Series 10 Race 2,Empty Scene Day,162,95.818,LukeS,Germany,TBSSpec,2021/12/22
+TBS EU Spec Series 10 Race 2,Empty Scene Day,164,95.818,LukeS,Germany,TBSSpec,2021/12/22
 TBS EU Spec Series 10 Race 3,Night Factory 2,74,78.347,LukeS,Germany,TBSSpec,2021/12/22
 TBS EU Spec Series 10 Race 4,Dynamic Weather,97,77.315,LukeS,Germany,TBSSpec,2022/01/09
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,114,84.035,LukeS,Germany,TBSSpec,2022/01/25
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,115,84.035,LukeS,Germany,TBSSpec,2022/01/25
 TBS EU Spec Series 10 Race 6,Large Carpark,59,50.275,LukeS,Germany,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,73,78.886,LukeS,Germany,TBSSpec,2022/02/09
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,LukeS,NO_DATA
@@ -79,7 +79,7 @@ TBS EU Spec Series 5 Race 6,Dynamic Weather,178,93.490,LukeS,Germany,Five33Switc
 TBS EU Spec Series 5 Race 7,IndoorGoKart,68,80.315,LukeS,Germany,TBSSpec,2022/02/01
 TBS EU Spec Series 6 Final,Empty Scene Day,91,89.047,LukeS,Germany,TBSSpec,2022/02/01
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,195,93.666,LukeS,Germany,Five33Switchback,2021/03/09
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,197,93.666,LukeS,Germany,Five33Switchback,2021/03/09
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,128,93.056,LukeS,Germany,Five33Switchback,2021/03/12
 TBS EU Spec Series 6 Race 5,Dynamic Weather,104,95.984,LukeS,Germany,Five33Switchback,2021/03/12
@@ -89,7 +89,7 @@ TBS EU Spec Series 7 Final,Empty Scene Day,103,79.524,LukeS,Germany,Five33Switch
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 7 Race 2,Empty Scene Day,165,84.960,LukeS,Germany,Five33Switchback,2021/03/08
 TBS EU Spec Series 7 Race 3,Empty Scene Day,187,89.764,LukeS,Germany,Five33Switchback,2021/03/09
-TBS EU Spec Series 7 Race 4,Empty Scene Day,195,90.097,LukeS,Germany,Five33Switchback,2021/03/09
+TBS EU Spec Series 7 Race 4,Empty Scene Day,197,90.097,LukeS,Germany,Five33Switchback,2021/03/09
 TBS EU Spec Series 7 Race 5,IndoorGoKart,143,84.116,LukeS,Germany,Five33Switchback,2021/03/09
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 7 Race 7,Empty Scene Day,173,102.330,LukeS,Germany,Five33Switchback,2021/03/28
@@ -108,6 +108,6 @@ TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,124,86.038,LukeS,Germany,Five33Switchback,2021/10/11
-TBS EU Spec Series 9 Race 5,Empty Scene Day,102,74.490,LukeS,Germany,Five33Switchback,2021/10/12
-TBS EU Spec Series 9 Race 6,Empty Scene Day,65,73.706,LukeS,Germany,Five33Switchback,2021/10/29
-TBS EU Spec Series 9 Race 7,NEC Birmingham,81,78.293,LukeS,Germany,Five33Switchback,2021/11/01
+TBS EU Spec Series 9 Race 5,Empty Scene Day,103,74.490,LukeS,Germany,Five33Switchback,2021/10/12
+TBS EU Spec Series 9 Race 6,Empty Scene Day,66,73.706,LukeS,Germany,Five33Switchback,2021/10/29
+TBS EU Spec Series 9 Race 7,NEC Birmingham,82,78.293,LukeS,Germany,Five33Switchback,2021/11/01

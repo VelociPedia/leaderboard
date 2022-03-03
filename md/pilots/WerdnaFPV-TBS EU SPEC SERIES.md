@@ -15,13 +15,13 @@
 |74|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/11/15|
 |57|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
 |55|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/28|
-|52|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
+|53|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 |49|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
 |49|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/11/17|
-|46|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2021/03/30|
 |45|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
 |45|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2021/02/08|
 |38|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/06|
+|36|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/19|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -34,7 +34,7 @@
 |49|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
 |28|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/02/06|
 ---
-### 9 tracks where TBS SPEC quad was used
+### 10 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |21|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/05|
@@ -42,10 +42,11 @@
 |36|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/19|
 |29|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |45|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
+|13|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/03/01|
 |32|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/10/08|
 |55|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/28|
 |38|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/06|
-|52|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
+|53|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 ---
 ### 28 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

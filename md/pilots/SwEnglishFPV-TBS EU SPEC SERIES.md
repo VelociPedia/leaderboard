@@ -16,7 +16,7 @@
 |157|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/12/28|
 |97|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/20|
 |90|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
-|85|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/18|
+|86|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/18|
 |77|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
 |73|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |69|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
@@ -68,8 +68,8 @@
 |24|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/23|
 |69|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |97|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/20|
-|85|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/18|
-|39|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
+|86|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/18|
+|40|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 ---
 ### 35 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

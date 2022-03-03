@@ -19,7 +19,7 @@
 |200|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
 |200|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |183|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/14|
-|168|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/11|
+|169|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/11|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -42,7 +42,7 @@
 |50|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/09/06|
 |147|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/09/06|
 |179|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/24|
-|129|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/11/14|
+|130|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/11/14|
 |86|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2021/08/27|
 |183|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/14|
 |90|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2021/08/11|
@@ -58,8 +58,8 @@
 |151|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/22|
 |84|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |81|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/22|
-|99|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/24|
-|113|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/08|
+|100|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/24|
+|114|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/08|
 ---
 ### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

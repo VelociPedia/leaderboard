@@ -5,8 +5,8 @@
 |19|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|CarbiXZero|2021/06/18|
 |21|EU Spec Season 4 Race 1|Football Stadium|CarbiXZero|2020/06/17|
 |22|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/09/12|
-|25|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/20|
 |25|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
+|26|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/20|
 |26|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2022/01/27|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
@@ -41,7 +41,7 @@
 |115|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/06|
 |132|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/07|
 |22|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/09/12|
-|35|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/09/13|
+|36|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/09/13|
 |34|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/09/14|
 |26|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2022/01/27|
 |68|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|

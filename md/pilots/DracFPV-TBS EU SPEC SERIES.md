@@ -7,13 +7,13 @@
 |7|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2022/02/02|
 |7|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/10|
 |10|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/09/07|
-|10|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/23|
 |11|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/09/05|
+|12|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/23|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|85|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/08|
+|86|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/08|
 |81|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/26|
 |80|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
@@ -42,7 +42,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |39|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/08/29|
-|35|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/09/02|
+|36|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/09/02|
 |35|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/06/02|
 |81|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/26|
 |14|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/09/02|
@@ -55,21 +55,21 @@
 |10|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/09/07|
 |27|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/09/07|
 |31|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/09/07|
-|85|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/08|
+|86|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/08|
 |35|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/09/08|
 |37|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/09/09|
 |23|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |36|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/05/28|
 |40|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 |48|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|35|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
+|36|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |21|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/09|
 |45|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |25|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |27|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/21|
 |33|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |45|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
-|39|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|41|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |40|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |80|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |19|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/01/23|

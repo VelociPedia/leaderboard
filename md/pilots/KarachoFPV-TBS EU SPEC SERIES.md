@@ -44,7 +44,7 @@
 |178|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/01/09|
 |114|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2021/01/09|
 |93|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/01/25|
-|100|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/01/09|
+|103|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/01/09|
 |157|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/09|
 ---
 ### 20 tracks without data (200+ or not in leaderboard)

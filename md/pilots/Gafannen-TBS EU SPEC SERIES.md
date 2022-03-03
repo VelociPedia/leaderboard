@@ -5,7 +5,7 @@
 |5|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/01/23|
 |7|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2022/01/08|
 |7|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/10/16|
-|8|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/25|
+|9|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/25|
 |10|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2022/02/14|
 |11|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2022/02/02|
 |12|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/31|
@@ -55,10 +55,10 @@
 |52|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
 |34|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |30|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
-|33|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/09/09|
+|35|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/09/09|
 |53|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/09/09|
 |81|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/11/12|
-|31|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|32|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

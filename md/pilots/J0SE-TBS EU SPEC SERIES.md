@@ -1,10 +1,10 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
-|28|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
+|21|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 |28|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |29|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
+|29|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 |30|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |42|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 ---
@@ -66,11 +66,11 @@
 |77|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |74|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
 |63|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
-|67|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
+|68|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
 |42|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
-|68|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
-|28|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
-|20|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|69|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
+|29|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
+|21|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 32 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

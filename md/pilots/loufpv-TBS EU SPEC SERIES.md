@@ -8,7 +8,7 @@
 |7|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/09/10|
 |8|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Five33Switchback|2021/08/05|
 |11|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/09/18|
-|15|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
+|16|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/10|
 ---
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -24,7 +24,7 @@
 |95|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/01/05|
 |93|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2021/04/15|
 |86|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/22|
-|84|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
+|85|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
 |78|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
 ---
 ### Oldest 8 personal best
@@ -54,7 +54,7 @@
 |60|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/12|
 |45|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/11|
 |41|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/08|
-|84|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
+|85|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
 ---
 ### 18 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

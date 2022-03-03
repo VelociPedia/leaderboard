@@ -20,7 +20,7 @@
 |101|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/29|
 |95|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |68|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/07/01|
-|61|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/28|
+|64|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/28|
 |59|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2020/06/04|
 |55|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/06/25|
 ---
@@ -49,7 +49,7 @@
 |34|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/20|
 |192|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |95|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
-|61|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/28|
+|64|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/28|
 |117|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/03|
 |36|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/01|
 |54|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|

@@ -58,18 +58,18 @@ RCTech.de EU Spec Series 2 Race 1,Football Stadium,114,66.658,Bree,France,TBSSpe
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,95,87.451,Bree,France,TBSSpec,2022/02/04
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,82,75.790,Bree,France,TBSSpec,2021/12/09
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,123,98.097,Bree,France,TBSSpec,2022/02/04
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,120,118.079,Bree,France,TBSSpec,2022/02/04
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,121,118.079,Bree,France,TBSSpec,2022/02/04
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,123,90.115,Bree,France,TBSSpec,2022/02/05
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,97,74.406,Bree,France,Five33Switchback,2021/12/06
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,127,91.454,Bree,France,TBSSpec,2022/02/04
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,128,91.454,Bree,France,TBSSpec,2022/02/04
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,82,93.776,Bree,France,TBSSpec,2022/02/04
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,98,114.052,Bree,France,TBSSpec,2022/02/04
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,96,88.487,Bree,France,TBSSpec,2022/02/04
 TBS EU Spec Season 5 Race 1,Football Stadium,118,66.013,Bree,France,Five33Switchback,2022/02/02
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,58,84.612,Bree,France,TBSSpec,2022/02/17
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,40,77.230,Bree,France,Five33Switchback,2022/02/28
 TBS EU Spec Series 10 Losers Final,Football Stadium,27,55.280,Bree,France,Five33Switchback,2022/02/11
 TBS EU Spec Series 10 Race 1,Football Stadium,75,67.218,Bree,France,Five33Switchback,2022/02/02
-TBS EU Spec Series 10 Race 2,Empty Scene Day,96,76.134,Bree,France,TBSSpec,2021/12/09
+TBS EU Spec Series 10 Race 2,Empty Scene Day,97,76.134,Bree,France,TBSSpec,2021/12/09
 TBS EU Spec Series 10 Race 3,Night Factory 2,82,81.410,Bree,France,TBSSpec,2021/12/18
 TBS EU Spec Series 10 Race 4,Dynamic Weather,85,75.046,Bree,France,Five33Switchback,2022/01/06
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,56,65.113,Bree,France,Five33Switchback,2022/02/02
@@ -89,11 +89,11 @@ TBS EU Spec Series 5 Race 5,NEC Birmingham,68,75.831,Bree,France,Five33Switchbac
 TBS EU Spec Series 5 Race 6,Dynamic Weather,117,81.427,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 5 Race 7,IndoorGoKart,144,98.660,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 6 Final,Empty Scene Day,155,98.401,Bree,France,TBSSpec,2021/12/21
-TBS EU Spec Series 6 Losers Final,Football Stadium,78,77.376,Bree,France,Five33Switchback,2022/01/26
+TBS EU Spec Series 6 Losers Final,Football Stadium,81,77.376,Bree,France,Five33Switchback,2022/01/26
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,138,82.435,Bree,France,TBSSpec,2021/12/20
 TBS EU Spec Series 6 Race 2,Empty Scene Day,156,80.385,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 6 Race 4,NEC Birmingham,124,91.700,Bree,France,TBSSpec,2021/12/21
-TBS EU Spec Series 6 Race 5,Dynamic Weather,153,109.714,Bree,France,TBSSpec,2021/12/21
+TBS EU Spec Series 6 Race 5,Dynamic Weather,154,109.714,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 6 Race 6,Empty Scene Day,164,93.069,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 6 Race 7,Empty Scene Day,178,67.011,Bree,France,TBSSpec,2021/12/21
 TBS EU Spec Series 7 Final,Empty Scene Day,135,84.953,Bree,France,Five33Switchback,2022/02/02
@@ -111,7 +111,7 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,180,122.179,Bree,France,Five33Swit
 TBS EU Spec Series 8 Race 3,Football Stadium,186,83.719,Bree,France,Five33Switchback,2021/05/04
 TBS EU Spec Series 8 Race 4,Empty Scene Day,120,88.806,Bree,France,TBSSpec,2021/12/20
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,164,86.423,Bree,France,Five33Switchback,2021/05/20
-TBS EU Spec Series 8 Race 6,Football Stadium,99,72.526,Bree,France,Five33Switchback,2022/02/02
+TBS EU Spec Series 8 Race 6,Football Stadium,101,72.526,Bree,France,Five33Switchback,2022/02/02
 TBS EU Spec Series 8 Race 7,Empty Scene Day,63,75.400,Bree,France,Five33Switchback,2022/02/16
 TBS EU Spec Series 9 Final,Dynamic Weather,93,70.015,Bree,France,Five33Switchback,2022/02/15
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,168,86.262,Bree,France,TBSSpec,2021/12/20
@@ -119,9 +119,9 @@ TBS EU Spec Series 9 Race 1,Football Stadium,108,67.950,Bree,France,Five33Switch
 TBS EU Spec Series 9 Race 2,Dynamic Weather,154,73.263,Bree,France,TBSSpec,2021/12/20
 TBS EU Spec Series 9 Race 3,Empty Scene Day,95,69.192,Bree,France,Five33Switchback,2022/01/24
 TBS EU Spec Series 9 Race 4,Football Stadium,117,83.794,Bree,France,TBSSpec,2021/12/04
-TBS EU Spec Series 9 Race 5,Empty Scene Day,177,90.309,Bree,France,TBSSpec,2021/12/20
-TBS EU Spec Series 9 Race 6,Empty Scene Day,135,93.973,Bree,France,TBSSpec,2021/12/20
-TBS EU Spec Series 9 Race 7,NEC Birmingham,132,93.886,Bree,France,Five33Switchback,2022/02/07
+TBS EU Spec Series 9 Race 5,Empty Scene Day,178,90.309,Bree,France,TBSSpec,2021/12/20
+TBS EU Spec Series 9 Race 6,Empty Scene Day,136,93.973,Bree,France,TBSSpec,2021/12/20
+TBS EU Spec Series 9 Race 7,NEC Birmingham,133,93.886,Bree,France,Five33Switchback,2022/02/07
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,21,32.271,Bree,France,Five33Switchback,2022/02/07
 Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,10,25.629,Bree,France,Five33Switchback,2022/02/11
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,27,32.842,Bree,France,Five33Switchback,2022/02/07

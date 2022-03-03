@@ -2,10 +2,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |2|TBS EU Spec Series 5 Race 7|IndoorGoKart|Mode2Ghost|2020/12/05|
-|3|TBS EU Spec Series 6 Losers Final|Football Stadium|Mode2Ghost|2021/01/12|
 |4|TBS EU Spec Series 10 Race 1|Football Stadium|Mode2Ghost|2022/02/03|
+|4|TBS EU Spec Series 10 Race 3|Night Factory 2|Mode2Ghost|2022/02/27|
+|4|TBS EU Spec Series 6 Losers Final|Football Stadium|Mode2Ghost|2021/01/12|
 |5|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Mode2Ghost|2020/06/12|
-|5|TBS EU Spec Series 10 Race 3|Night Factory 2|Mode2Ghost|2022/02/25|
 |6|TBS EU Spec Series 8 Race 3|Football Stadium|Mode2Ghost|2021/04/28|
 |6|TBS EU Spec Series 6 Final|Empty Scene Day|Mode2Ghost|2021/01/03|
 |7|TBS EU Spec Series 10 Race 2|Empty Scene Day|Mode2Ghost|2022/02/17|
@@ -14,9 +14,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
-|68|TBS EU Spec Series 9 Race 2|Dynamic Weather|Mode2Ghost|2021/10/01|
+|69|TBS EU Spec Series 9 Race 2|Dynamic Weather|Mode2Ghost|2021/10/01|
 |52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
-|51|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
+|52|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
 |49|TBS EU Spec Series 8 Race 7|Empty Scene Day|Mode2Ghost|2021/07/01|
 |46|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |45|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|

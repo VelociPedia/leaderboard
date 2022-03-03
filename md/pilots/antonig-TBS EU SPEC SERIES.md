@@ -19,8 +19,8 @@
 |51|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/20|
 |45|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/09/09|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
-|41|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
-|37|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
+|42|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|38|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -47,9 +47,9 @@
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
 |36|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |29|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
-|41|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
-|29|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/19|
-|37|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
+|42|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|30|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/19|
+|38|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
 ---
 ### 30 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

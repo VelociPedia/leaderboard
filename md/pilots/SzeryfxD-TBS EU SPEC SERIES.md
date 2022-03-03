@@ -45,7 +45,7 @@
 |58|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
 |80|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/03/14|
 |200|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2021/03/05|
-|120|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
+|121|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
 |65|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
 |84|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
 |58|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
@@ -59,7 +59,7 @@
 |107|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2021/02/17|
 |67|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/03/07|
 |69|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/12/23|
-|83|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/03/08|
+|86|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/03/08|
 |112|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/03/06|
 |166|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/03/10|
 |68|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/12|
@@ -77,12 +77,12 @@
 |102|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/30|
 |81|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/14|
 |83|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/06/18|
-|92|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/14|
+|94|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/14|
 |105|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/16|
 |135|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |102|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/01|
 |139|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
-|118|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|119|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
 ---
 ### 20 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
