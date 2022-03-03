@@ -36,7 +36,7 @@
 79.540,DracFPV,Spain,TBSSpec,2020/05/28
 79.563,SmokyFPV,UnitedKingdom,TBSSpec,2020/06/04
 80.016,Slashchev,Ukraine,Five33Switchback,2021/09/15
-80.394,HQlephroslowmode,Germany,TBSSpec,2020/05/28
+80.394,HQlephroslowbro,Germany,TBSSpec,2020/05/28
 80.694,Barnyard,UnitedStates,Five33Switchback,2021/10/11
 80.756,BadfishFPV,UnitedStates,TBSSpec,2020/06/01
 80.828,FuryFPVQE,Canada,TBSSpec,2020/06/02
@@ -82,12 +82,12 @@
 87.209,M4TTFPV,UnitedKingdom,TBSSpec,2020/05/28
 87.408,CravenFPV,UnitedStates,TBSSpec,2020/07/28
 87.411,Locke_FPV_,Germany,Five33Switchback,2020/06/03
-87.430,RCSwix,RussianFederation,TBSSpec,2020/05/28
+87.430,RCSwix_QT,RussianFederation,TBSSpec,2020/05/28
 87.462,MegaHurts,UnitedStates,TBSSpec,2020/06/02
 87.598,H15Z,Poland,TBSSpec,2020/05/28
 87.653,GruffFPV,UnitedKingdom,TBSSpec,2020/06/02
 87.828,DAFFPV,Sweden,Five33Switchback,2021/06/30
-87.995,ETERNAL☆ATAKAN,Turkey,SingularitumV5,2020/05/30
+87.995,ATAKAN,Turkey,SingularitumV5,2020/05/30
 88.118,Gator,UnitedStates,TBSSpec,2020/06/01
 88.172,PotaytoFPV,UnitedStates,TBSSpec,2021/01/16
 88.376,Saqoosha,Japan,SingularitumV5,2020/05/30
@@ -171,11 +171,12 @@
 104.191,MaykFPV,CostaRica,TBSSpec,2020/07/29
 104.259,kawato,Japan,Five33Switchback,2020/12/02
 104.356,StoneyNapoleon,UnitedKingdom,TBSSpec,2020/07/27
-104.942,Fifarez,CzechRepublic,Five33Switchback,2022/01/04
-105.130,DownRight,UnitedStates,Solleva,2020/06/03
+104.942,fifarez,CzechRepublic,Five33Switchback,2022/01/04
+105.130,DownRight4,UnitedStates,Solleva,2020/06/03
 105.411,BONADI,Poland,Five33Switchback,2021/06/29
 105.430,Bree,France,TBSSpec,2021/07/01
 105.555,Paynefull,UnitedKingdom,TBSSpec,2021/07/01
+105.653,fpv_tempest,Finland,TBSSpec,2022/02/28
 105.679,JR,Sweden,Five33Switchback,2020/10/25
 106.328,RIVALSbigspeed,UnitedStates,TBSSpec,2020/06/01
 106.509,RedOne,Indonesia,SingularitumV5,2020/06/09
@@ -197,4 +198,3 @@
 108.989,doggz,Canada,TBSOblivion,2021/07/02
 109.121,TFSFlam,Poland,TBSSpec,2020/06/01
 109.289,CerbAirus,Germany,TBSSpec,2021/02/17
-109.357,OLDETERNAL☆YAYOU,France,LethalConception,2020/06/07

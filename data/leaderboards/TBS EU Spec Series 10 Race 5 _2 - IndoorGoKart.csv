@@ -35,7 +35,7 @@
 57.496,chogeRINTGF,Spain,TBSSpec,2022/02/12
 58.017,MX_BIGRAMON,Germany,TBSSpec,2022/01/20
 58.309,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2022/02/11
-58.708,RCSwix,RussianFederation,TBSSpec,2022/01/20
+58.708,RCSwix_QT,RussianFederation,TBSSpec,2022/01/20
 58.743,SmokyFPV,UnitedKingdom,TBSSpec,2022/01/20
 60.360,Bubbows,UnitedKingdom,TBSSpec,2022/01/24
 60.501,frteskesc,Germany,Five33Switchback,2022/01/21
@@ -85,10 +85,11 @@
 74.887,RaZm0,France,Five33Switchback,2022/02/02
 75.090,CravenFPV(Macbook),CostaRica,TBSSpec,2022/01/27
 75.305,Plaukuotasis,Unknown,Five33Switchback,2022/01/22
+75.363,HERCULESFPV,Bulgaria,Five33Switchback,2022/02/28
 75.448,fpv_tempest,Finland,TBSSpec,2022/01/20
 75.637,AliB㋡,UnitedKingdom,TBSSpec,2022/01/20
 75.741,ale0890,CostaRica,Five33Switchback,2022/01/27
-75.859,ThumbGrippiescom,UnitedStates,TBSSpec,2022/01/25
+75.859,ProDangles,UnitedStates,TBSSpec,2022/01/25
 75.906,DAFFPV,Sweden,Chief,2022/01/22
 76.580,SpencerDfpv,UnitedStates,TBSSpec,2022/01/22
 76.988,Jacobbey,Slovenia,Five33Switchback,2022/02/02
@@ -116,7 +117,7 @@
 84.101,CoderElectronics,UnitedStates,Chief,2022/02/23
 84.208,ChainsawFPV,UnitedStates,SniperX,2022/02/16
 84.288,QuadforsakenFPV,UnitedKingdom,Five33Switchback,2022/01/28
-84.357,Ralph12,Singapore,Five33Switchback,2022/02/15
+84.357,NiknokFPV,Singapore,Five33Switchback,2022/02/15
 84.387,stogie,UnitedStates,Five33Switchback,2022/01/21
 84.847,dyk0n,UnitedStates,TwigXL3,2022/01/31
 85.162,Gruver,UnitedStates,TBSSpec,2022/01/30
@@ -160,6 +161,7 @@
 101.114,dutaach,UnitedKingdom,Five33Switchback,2022/02/02
 101.832,Chatsubo,SouthAfrica,Five33Switchback,2022/02/26
 101.855,phisi,Switzerland,Five33Switchback,2022/01/23
+102.056,ImpactFPV,UnitedKingdom,TBSSpec,2022/03/01
 102.116,evoznes,RussianFederation,TwigXL3,2022/02/15
 102.597,iJS,Australia,Five33Switchback,2022/02/11
 102.787,kimtendo⁶⁴,Germany,TBSSpec,2022/01/22
@@ -196,5 +198,3 @@
 122.346,dutchvenom,Netherlands,Five33Switchback,2022/01/30
 123.108,CorgZilla,SouthAfrica,TBSSpec,2022/01/30
 124.446,ShadowSneaker,Denmark,Five33Switchback,2022/02/19
-124.959,Wizard_,UnitedKingdom,TBSSpec,2022/01/20
-125.921,Pine_Apple,Austria,Five33Switchback,2022/02/01

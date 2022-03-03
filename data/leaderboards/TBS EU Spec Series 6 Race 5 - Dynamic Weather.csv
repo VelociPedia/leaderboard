@@ -2,7 +2,7 @@
 67.122,HQThunder,Spain,TBSSpec,2020/11/05
 67.416,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2020/11/15
 68.851,ETERNAL☆BURAK,Turkey,TBSSpec,2020/11/05
-69.456,ETERNAL☆ATAKAN,Turkey,TBSSpec,2020/11/11
+69.456,ATAKAN,Turkey,TBSSpec,2020/11/11
 71.042,Kosta,Germany,TBSSpec,2020/11/29
 71.670,Mazak,Poland,TBSSpec,2020/11/06
 71.944,OliHawk,France,Yakuza,2022/02/19
@@ -36,7 +36,7 @@
 81.763,ZEDIFPV,Brazil,Five33Switchback,2020/11/28
 82.070,zy0nfpv,Brazil,Five33Switchback,2020/11/24
 82.353,Saqoosha,Japan,TBSSpec,2020/11/07
-82.427,RCSwix,RussianFederation,TBSSpec,2020/11/05
+82.427,RCSwix_QT,RussianFederation,TBSSpec,2020/11/05
 82.527,Gator,UnitedStates,TBSSpec,2020/11/12
 82.529,RAFN,Denmark,TBSSpec,2020/11/07
 82.626,Dronius,Ukraine,Five33Switchback,2021/04/05
@@ -73,7 +73,7 @@
 89.031,knighthawk,UnitedKingdom,TBSSpec,2020/11/08
 89.305,remypozzo,France,Five33Switchback,2020/11/25
 89.414,SzeryfxD,Poland,TBSSpec,2021/03/13
-89.739,TBSTiltedFPV,UnitedStates,TBSSpec,2020/11/05
+89.739,TiltedFPV,UnitedStates,TBSSpec,2020/11/05
 89.789,Bubbows,UnitedKingdom,TBSSpec,2020/11/05
 89.919,Eugy01_Overpass,RussianFederation,TBSSpec,2020/11/05
 90.464,JWWFPV,UnitedStates,Five33Switchback,2021/10/08
@@ -111,7 +111,7 @@
 97.298,Nofarkinidea,Australia,TBSSpec,2020/11/07
 97.386,Step,RussianFederation,TBSSpec,2021/01/09
 97.552,VILLOFPV,Italy,TBSSpec,2020/11/10
-98.012,ThumbGrippiescom,UnitedStates,TBSSpec,2020/11/05
+98.012,ProDangles,UnitedStates,TBSSpec,2020/11/05
 98.129,BigRod,Portugal,TBSSpec,2020/11/10
 98.240,BONADI,Poland,Yakuza,2021/10/18
 98.717,KOCFPV,Turkey,TBSSpec,2021/01/07
@@ -146,6 +146,7 @@
 107.281,NelsonFpv,Ireland,TBSSpec,2021/08/27
 107.693,SideFPV,Hungary,TBSSpec,2020/11/05
 107.728,Grif,UnitedStates,TBSSpec,2020/11/12
+107.801,fpv_tempest,Finland,TBSSpec,2022/03/01
 107.834,TFSFlam,Poland,TBSSpec,2020/11/05
 108.680,Blahesz,Hungary,TBSSpec,2020/11/18
 108.681,dawen,Germany,TBSSpec,2020/11/05
@@ -164,6 +165,7 @@
 112.106,FalconFPV,Ukraine,Mako,2021/06/14
 112.118,sbrfpv,Brazil,Five33Switchback,2020/11/27
 112.125,TMAD,UnitedStates,TBSSpec,2020/11/15
+112.462,OGAFPV,Japan,Yakuza,2022/03/02
 112.522,MDV,Latvia,LethalConception,2020/12/21
 112.673,TriBull,UnitedKingdom,TBSSpec,2020/11/05
 112.886,ThirdEyeFPV,Australia,Five33Switchback,2021/07/24
@@ -196,5 +198,3 @@
 123.019,DragonFlyte,UnitedStates,TBSSpec,2021/11/14
 123.035,RipDaLip,Germany,Five33Switchback,2021/07/27
 123.525,TheLastAirbenderFPV,Turkey,TBSSpec,2020/11/05
-126.044,jeanjeanfpv,Unknown,Yakuza,2021/04/29
-126.164,lef,Ukraine,AttoFPVPhoton,2021/08/05
