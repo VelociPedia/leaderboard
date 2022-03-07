@@ -8,7 +8,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |132|DEP Open Series 4 Race 1|Football Stadium|CarbiXZero|2021/04/12|
-|123|DEP Spec Series 1 Race 5|Football Stadium|CarbiXZero|2021/05/06|
+|124|DEP Spec Series 1 Race 5|Football Stadium|CarbiXZero|2021/05/06|
 |113|DEP Open Series 3 Race 7|Football Stadium|CarbiXZero|2021/05/06|
 ---
 ### Oldest 2 personal best

@@ -21,10 +21,10 @@
 ### 13 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|79|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2022/02/26|
+|81|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2022/02/26|
 |110|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2022/01/15|
 |71|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/01/18|
-|126|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
+|127|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
 |120|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2022/01/15|
 |141|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/06/13|
 |197|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/12|

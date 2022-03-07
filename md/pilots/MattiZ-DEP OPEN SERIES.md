@@ -7,7 +7,7 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|180|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/07/28|
+|183|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/07/28|
 |141|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/06/09|
 |140|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/06/08|
 ---

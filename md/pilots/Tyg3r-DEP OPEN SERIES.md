@@ -10,7 +10,7 @@
 |:---:|:---|:---|:---:|:---:|
 |116|DEP Open Series 3 Race 6|Football Stadium|Mode2Ghost|2021/05/05|
 |115|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/23|
-|127|DEP Open Series 3 Race 4|Football Stadium|Mode2Ghost|2021/06/11|
+|128|DEP Open Series 3 Race 4|Football Stadium|Mode2Ghost|2021/06/11|
 |123|DEP Open Series 4 Race 6|Football Stadium|Mode2Ghost|2021/08/17|
 ---
 ### Oldest 3 personal best

@@ -24,10 +24,9 @@
 |69|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/05|
 |77|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/28|
 ---
-### 11 tracks where TBS SPEC quad was used
+### 10 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|64|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/07/09|
 |35|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2021/09/21|
 |64|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/09/22|
 |53|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/09/23|

@@ -20,7 +20,7 @@
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|189|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2021/05/19|
+|191|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2021/05/19|
 |125|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/08/09|
 |191|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
 ---
