@@ -10,8 +10,9 @@
 53.293,DirtyMuffin,UnitedStates,Five33Switchback,2021/03/09
 53.471,TCDAN00B,Spain,CarbiXZero,2021/02/26
 53.510,EuLeR,Germany,Five33Switchback,2021/02/25
-54.001,HQBurkanBiceps,UnitedKingdom,CarbiXZero,2021/02/28
+54.001,Brrrkan,UnitedKingdom,CarbiXZero,2021/02/28
 54.021,Mazak,Poland,Five33Switchback,2021/02/24
+54.330,MegaHurts,UnitedStates,SniperX,2022/03/06
 54.547,TCGundren_Fpv,Switzerland,Ossa,2021/02/24
 54.784,HaloWalker03,Germany,Five33Switchback,2021/02/24
 54.934,longcat,Sweden,Five33Switchback,2021/02/24
@@ -19,7 +20,7 @@
 55.081,CharlieMorry,Italy,Ossa,2022/01/14
 55.976,SolidFpv,UnitedStates,SniperX,2022/02/15
 56.255,DracFPV,Spain,Ossa,2021/05/24
-56.505,HQlephroslowbro,Germany,SingularitumV5,2021/02/24
+56.505,lephroslowbro,Germany,SingularitumV5,2021/02/24
 56.553,iamwud,UnitedKingdom,Five33Switchback,2021/10/08
 56.817,TCAyyyKayyy,UnitedStates,Five33Switchback,2021/03/09
 57.039,karrson㋡,Sweden,Five33Switchback,2021/08/11
@@ -31,6 +32,8 @@
 57.741,XB₸ЯIИ✘,France,Five33Switchback,2021/03/01
 57.770,SIMLeviathann,UnitedStates,TBSSpec,2021/07/14
 57.881,loufpv,UnitedStates,Five33Switchback,2021/07/31
+58.061,Barnyard,UnitedStates,Five33Switchback,2022/03/06
+58.104,Gafannen,Slovakia,Five33Switchback,2022/03/06
 59.090,TBSskAve,Germany,Five33Switchback,2021/02/27
 59.287,antonig,Bulgaria,Five33Switchback,2021/03/01
 59.612,MARAHUTE,Italy,Five33Switchback,2021/03/05
@@ -48,22 +51,20 @@
 61.183,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/22
 61.192,LOSLobo,Hungary,TBSSpec,2021/12/29
 61.317,TCNMGrower,UnitedStates,Solleva,2021/03/08
-61.471,Gafannen,Slovakia,Five33Switchback,2021/12/29
 61.533,LeoOnFire,Italy,Five33Switchback,2021/02/28
-61.654,MegaHurts,UnitedStates,TBSSpec,2021/07/14
 61.952,Smeland_FPV,Norway,Five33Switchback,2021/02/24
 62.035,Ninjakat,Unknown,Five33Switchback,2021/03/10
 62.126,SUPERSONICFPV,Korea,AstroXSL5,2021/03/01
 62.428,RIVALSbigspeed,UnitedStates,Five33Switchback,2021/08/08
-62.629,Barnyard,UnitedStates,Five33Switchback,2021/12/29
 63.249,PaulEFPV,UnitedStates,Ossa,2021/03/12
 63.331,cdan,Germany,Mode2Ghost,2021/08/10
 63.343,knighthawk,UnitedKingdom,TBSSpec,2021/02/26
 63.451,CALFPV,Germany,Five33Switchback,2021/03/17
+63.492,DeMoNse3d,Mexico,SniperX,2022/03/06
 63.729,Darksilver,Canada,Five33Switchback,2022/02/04
 64.124,SOMi,Hungary,TBSSpec,2021/03/07
 64.268,MX_BIGRAMON,Germany,TBSSpec,2021/02/26
-64.553,ThumbGrippiescom,UnitedStates,Ossa,2021/07/21
+64.553,ProDangles,UnitedStates,Ossa,2021/07/21
 64.667,PandaROLL3D,UnitedStates,Five33Switchback,2021/10/11
 64.751,Johnn,Denmark,TBSSpec,2021/02/25
 64.881,chogeRINTGF,Spain,Five33Switchback,2021/12/23
@@ -97,7 +98,6 @@
 69.475,58GHz,Japan,Five33Switchback,2022/01/19
 69.561,OrigDragon,UnitedStates,TBSSpec,2021/03/01
 69.938,DayLightFPV,UnitedStates,TBSSpec,2021/03/05
-70.327,DeMoNse3d,Mexico,TBSSpec,2021/02/26
 70.348,ARM_FPV,UnitedStates,Five33Switchback,2021/02/24
 70.358,SzeryfxD,Poland,TBSSpec,2021/02/27
 70.464,TriBull,UnitedKingdom,TBSSpec,2021/02/25
@@ -108,6 +108,7 @@
 71.595,fabiofpv,Spain,Five33Switchback,2021/03/02
 72.085,SashPRO,Ukraine,Five33Switchback,2021/05/30
 72.159,BlueWolfTFS,Poland,TBSSpec,2021/02/24
+72.170,GarFly,UnitedStates,Five33Switchback,2022/03/06
 72.175,Snowyeti,Norway,Ossa,2021/02/26
 72.478,Deviled90,Italy,Five33Switchback,2021/02/28
 72.578,MelissaFPV,HongKong,LethalConception,2021/03/06
@@ -186,7 +187,6 @@
 86.903,frteskesc,Germany,Five33Switchback,2021/02/25
 87.001,MioElGato,Unknown,Five33Switchback,2021/02/24
 87.304,limmo,Germany,Five33Switchback,2022/01/16
-87.521,GarFly,UnitedStates,Five33Switchback,2021/12/29
 88.509,SemperFly,UnitedStates,Five33Switchback,2021/09/23
 89.259,ibor24,Switzerland,Five33Switchback,2021/02/25
 89.397,Drids,Spain,TBSSpec,2021/02/24

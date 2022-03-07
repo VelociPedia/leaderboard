@@ -10,7 +10,7 @@
 42.934,Femto_Chungus,UnitedStates,MadLite,2021/10/13
 43.499,Slashchev,Ukraine,SniperX,2022/02/01
 43.670,TCGundren_Fpv,Switzerland,Ossa,2021/03/17
-43.850,SIMSebaFPV,UnitedStates,CarbiXZero,2022/01/04
+43.850,V025,UnitedStates,CarbiXZero,2022/01/04
 43.964,HighGroundFPV,Australia,Five33Switchback,2020/12/29
 43.977,Lacasito,Spain,Mode2Ghost,2020/12/21
 44.213,the23_QT,RussianFederation,CarbiXZero,2021/09/09
@@ -41,6 +41,7 @@
 50.026,TCNMGrower,UnitedStates,Solleva,2020/12/07
 50.798,roma_fpv,Spain,Five33Switchback,2021/01/18
 50.845,MiG29,UnitedKingdom,TBSSpec,2020/12/07
+51.239,WinterRanger,UnitedStates,Five33Switchback,2022/03/06
 51.244,Aleksi15,Finland,Five33Switchback,2020/12/13
 51.296,PaulEFPV,UnitedStates,Ossa,2020/12/12
 51.346,OrigDragon,UnitedStates,TBSSpec,2021/05/18
@@ -58,12 +59,13 @@
 53.709,M4TTFPV,UnitedKingdom,TBSSpec,2021/01/29
 53.757,MARAHUTE,Italy,LethalConception,2020/12/11
 54.223,DeMoNse3d,Mexico,TBSSpec,2021/03/03
-54.304,ThumbGrippiescom,UnitedStates,Ossa,2021/08/30
+54.304,ProDangles,UnitedStates,Ossa,2021/08/30
 54.348,HQBatuFPV,Germany,TBSSpec,2020/12/03
 54.424,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/10/19
 54.448,obeny,Poland,Five33Switchback,2021/12/08
 54.720,ROMIZ,Italy,Five33Switchback,2022/02/02
 54.867,PhantmFPV,UnitedStates,TBSSpec,2020/12/03
+55.094,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2022/03/03
 55.463,VILLOFPV,Italy,Five33Switchback,2021/01/01
 55.599,SSBelmont,UnitedStates,CarbiXZero,2020/12/10
 55.767,WordyN,Ukraine,Five33Switchback,2022/02/01
@@ -118,6 +120,7 @@
 63.307,cdan,Germany,Mode2Ghost,2021/03/14
 63.418,Snowyeti,Norway,Ossa,2020/12/15
 63.544,RIVALSDreadPool,UnitedStates,CarbiXZero,2021/05/19
+64.273,Solace,Canada,TwigXL3,2022/03/03
 64.483,JOLLY,UnitedStates,Five33Switchback,2021/09/03
 64.646,glazite32,Latvia,BMSJS-1,2020/12/19
 64.654,Nofarkinidea,Australia,Five33Switchback,2020/12/12
@@ -128,7 +131,6 @@
 65.124,whalefpv,China,Five33Switchback,2021/08/31
 65.171,NailedUPTeamCanadaFPV,Canada,Five33Switchback,2020/12/06
 65.178,StoneyNapoleon,UnitedKingdom,TBSSpec,2021/10/07
-65.238,Solace,Canada,TwigXL3,2022/02/26
 65.668,Dezz,Ukraine,TBSSpec,2022/01/31
 65.861,Fathenico,Turkey,Five33Switchback,2021/11/20
 66.139,ReSp4wN,Netherlands,TBSSpec,2020/12/21
@@ -196,5 +198,3 @@
 77.618,rdk87,Poland,Five33Switchback,2020/12/15
 77.720,FuzeJM,UnitedKingdom,Five33Switchback,2021/06/02
 77.929,ANUBIIS,Belgium,LethalConception,2020/12/09
-78.286,PantherFPV,Turkey,TBSSpec,2020/12/26
-78.699,MrSky,Italy,Five33Switchback,2021/06/16
