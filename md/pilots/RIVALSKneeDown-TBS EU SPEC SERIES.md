@@ -2,30 +2,30 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |41|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/11/20|
-|48|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/11/21|
-|51|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/12/26|
+|49|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/11/21|
+|52|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/12/26|
 |52|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/11/20|
-|56|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/12/25|
-|57|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/21|
+|57|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/12/25|
+|59|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/21|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|194|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/13|
+|196|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/13|
 |143|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/08/18|
 |179|TBS EU Spec Series 6 Race 2|Empty Scene Day|CarbiXZero|2020/10/11|
-|154|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/30|
+|158|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/30|
 |150|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/11|
 |148|TBS EU Spec Series 6 Final|Empty Scene Day|CarbiXZero|2020/12/09|
 |148|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/22|
 |146|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/22|
-|143|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/04/30|
+|144|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/04/30|
 |133|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/16|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|143|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/04/30|
+|144|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/04/30|
 |104|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/17|
 |114|TBS EU Spec Series 5 Race 3|Dynamic Weather|CarbiXZero|2020/08/05|
 |117|TBS EU Spec Series 5 Race 4|Football Stadium|CarbiXZero|2020/08/05|
@@ -35,14 +35,14 @@
 ### 25 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|77|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2021/11/12|
-|60|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/11/12|
+|78|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2021/11/12|
+|61|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/11/12|
 |62|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/11/13|
 |41|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/11/20|
-|48|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/11/21|
+|49|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/11/21|
 |74|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/22|
-|57|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/21|
-|194|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/13|
+|59|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/21|
+|196|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/13|
 |77|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/28|
 |133|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/16|
 |114|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/11/16|
@@ -58,8 +58,8 @@
 |97|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
 |76|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/07|
 |108|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
-|51|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/12/26|
-|56|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/12/25|
+|52|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/12/26|
+|57|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/12/25|
 ---
 ### 31 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

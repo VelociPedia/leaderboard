@@ -13,9 +13,9 @@
 |:---:|:---|:---|:---:|:---:|
 |94|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |74|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2021/09/09|
-|68|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/30|
+|69|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/30|
+|59|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/10/10|
 |58|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2021/02/22|
-|57|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/10/10|
 |51|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/20|
 |45|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/09/09|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
@@ -25,7 +25,7 @@
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|57|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/10/10|
+|59|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/10/10|
 |58|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2021/02/22|
 |7|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/03/10|
 |11|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/03/30|
@@ -41,9 +41,9 @@
 |28|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2022/01/19|
 |94|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
 |7|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|17|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|19|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |51|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/20|
-|68|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/30|
+|69|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/30|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
 |36|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |29|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|

@@ -23,7 +23,7 @@ DEP Open Series 5 Race 5,Football Stadium,26,78.809,TCNMGrower,UnitedStates,Chie
 DEP Open Series 5 Race 6,Football Stadium,26,64.605,TCNMGrower,UnitedStates,Chief,2021/12/15
 DEP Open Series 5 Race 7,Football Stadium,37,94.653,TCNMGrower,UnitedStates,Chief,2022/01/04
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,TCNMGrower,NO_DATA
-EU Spec Season 4 Race 1,Football Stadium,37,83.489,TCNMGrower,UnitedStates,Solleva,2021/02/24
+EU Spec Season 4 Race 1,Football Stadium,38,83.489,TCNMGrower,UnitedStates,Solleva,2021/02/24
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,133,81.792,TCNMGrower,UnitedStates,TBSSpec,2021/04/19
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,59,72.222,TCNMGrower,UnitedStates,TBSSpec,2021/04/19
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,TCNMGrower,NO_DATA
@@ -36,15 +36,15 @@ RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,64,66.846,TCNMGrower,UnitedStat
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,TCNMGrower,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,17,72.392,TCNMGrower,UnitedStates,TBSSpec,2021/05/02
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,15,90.837,TCNMGrower,UnitedStates,TBSSpec,2022/02/16
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,56,77.724,TCNMGrower,UnitedStates,TBSSpec,2021/09/04
-TBS EU Spec Season 5 Race 1,Football Stadium,147,68.604,TCNMGrower,UnitedStates,TBSSpec,2020/07/17
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,57,77.724,TCNMGrower,UnitedStates,TBSSpec,2021/09/04
+TBS EU Spec Season 5 Race 1,Football Stadium,148,68.604,TCNMGrower,UnitedStates,TBSSpec,2020/07/17
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,49,63.185,TCNMGrower,UnitedStates,TBSSpec,2021/12/13
 TBS EU Spec Series 10 Race 2,Empty Scene Day,49,65.930,TCNMGrower,UnitedStates,TBSSpec,2021/12/14
 TBS EU Spec Series 10 Race 3,Night Factory 2,54,73.508,TCNMGrower,UnitedStates,TBSSpec,2021/12/22
 TBS EU Spec Series 10 Race 4,Dynamic Weather,54,69.786,TCNMGrower,UnitedStates,TBSSpec,2022/01/09
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,186,114.123,TCNMGrower,UnitedStates,Five33Switchback,2022/01/25
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,190,114.123,TCNMGrower,UnitedStates,Five33Switchback,2022/01/25
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,TCNMGrower,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,48,85.115,TCNMGrower,UnitedStates,TBSSpec,2020/07/04
@@ -52,9 +52,9 @@ TBS EU Spec Series 4 Race 2,Empty Scene Day,71,68.575,TCNMGrower,UnitedStates,TB
 TBS EU Spec Series 4 Race 3,IndoorGoKart,79,115.505,TCNMGrower,UnitedStates,TBSSpec,2020/07/10
 TBS EU Spec Series 4 Race 4,Empty Scene Day,54,82.393,TCNMGrower,UnitedStates,TBSSpec,2020/05/28
 TBS EU Spec Series 4 Race 5,Dynamic Weather,41,86.873,TCNMGrower,UnitedStates,TBSSpec,2021/09/02
-TBS EU Spec Series 4 Race 7,Football Stadium,91,77.322,TCNMGrower,UnitedStates,TBSSpec,2020/06/24
+TBS EU Spec Series 4 Race 7,Football Stadium,94,77.322,TCNMGrower,UnitedStates,TBSSpec,2020/06/24
 TBS EU Spec Series 5 FINAL,Dynamic Weather,132,101.371,TCNMGrower,UnitedStates,Solleva,2021/01/04
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,63,84.054,TCNMGrower,UnitedStates,TBSSpec,2020/09/07
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,64,84.054,TCNMGrower,UnitedStates,TBSSpec,2020/09/07
 TBS EU Spec Series 5 Race 3,Dynamic Weather,48,74.901,TCNMGrower,UnitedStates,TBSSpec,2020/07/23
 TBS EU Spec Series 5 Race 4,Football Stadium,56,83.504,TCNMGrower,UnitedStates,TBSSpec,2021/04/29
 TBS EU Spec Series 5 Race 5,NEC Birmingham,55,72.293,TCNMGrower,UnitedStates,TBSSpec,2020/08/08
@@ -62,7 +62,7 @@ TBS EU Spec Series 5 Race 6,Dynamic Weather,48,68.609,TCNMGrower,UnitedStates,TB
 TBS EU Spec Series 5 Race 7,IndoorGoKart,62,78.657,TCNMGrower,UnitedStates,TBSSpec,2021/11/11
 TBS EU Spec Series 6 Final,Empty Scene Day,84,88.229,TCNMGrower,UnitedStates,TBSSpec,2020/12/11
 TBS EU Spec Series 6 Losers Final,Football Stadium,82,77.413,TCNMGrower,UnitedStates,TBSSpec,2020/11/28
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,81,74.643,TCNMGrower,UnitedStates,TBSSpec,2020/09/25
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,83,74.643,TCNMGrower,UnitedStates,TBSSpec,2020/09/25
 TBS EU Spec Series 6 Race 2,Empty Scene Day,43,71.063,TCNMGrower,UnitedStates,Solleva,2020/10/03
 TBS EU Spec Series 6 Race 4,NEC Birmingham,27,63.665,TCNMGrower,UnitedStates,TBSSpec,2020/11/27
 TBS EU Spec Series 6 Race 5,Dynamic Weather,92,92.472,TCNMGrower,UnitedStates,TBSSpec,2021/01/11

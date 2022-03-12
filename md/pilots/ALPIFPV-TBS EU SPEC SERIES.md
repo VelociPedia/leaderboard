@@ -5,8 +5,8 @@
 |4|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/13|
 |8|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/26|
 |11|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/20|
-|12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/10/18|
-|14|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/13|
+|14|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/10/18|
+|15|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/13|
 |20|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/12|
 |20|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/04|
 ---
@@ -14,7 +14,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |58|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/31|
-|116|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/02/02|
+|118|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/02/02|
 |96|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/06|
 |89|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
 |78|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/03|

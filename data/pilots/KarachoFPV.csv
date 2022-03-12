@@ -27,7 +27,7 @@ DEP Open Series 5 Race 5,Football Stadium,999,999.999,KarachoFPV,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,KarachoFPV,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,KarachoFPV,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,75,99.851,KarachoFPV,Austria,Five33Switchback,2021/04/19
-EU Spec Season 4 Race 1,Football Stadium,160,99.842,KarachoFPV,Austria,Five33Switchback,2021/04/21
+EU Spec Season 4 Race 1,Football Stadium,162,99.842,KarachoFPV,Austria,Five33Switchback,2021/04/21
 MGP2018IOIntermediate,Empty Scene Day,38,37.545,KarachoFPV,Austria,Five33Switchback,2021/04/22
 MGP2018IORookie,Empty Scene Day,58,21.162,KarachoFPV,Austria,Five33Switchback,2021/04/22
 MGP2018IOTeam,Empty Scene Day,38,51.232,KarachoFPV,Austria,Five33Switchback,2021/04/22
@@ -64,8 +64,8 @@ RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,53,64.402,KarachoFPV,Austria,Fi
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,63,76.994,KarachoFPV,Austria,Five33Switchback,2021/02/01
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,44,83.281,KarachoFPV,Austria,Five33Switchback,2021/04/21
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,139,120.504,KarachoFPV,Austria,Five33Switchback,2021/02/01
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,125,94.230,KarachoFPV,Austria,Five33Switchback,2021/05/05
-TBS EU Spec Season 5 Race 1,Football Stadium,91,63.829,KarachoFPV,Austria,Five33Switchback,2021/04/04
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,126,94.230,KarachoFPV,Austria,Five33Switchback,2021/05/05
+TBS EU Spec Season 5 Race 1,Football Stadium,92,63.829,KarachoFPV,Austria,Five33Switchback,2021/04/04
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,KarachoFPV,NO_DATA
@@ -80,19 +80,19 @@ TBS EU Spec Series 4 Race 2,Empty Scene Day,178,80.286,KarachoFPV,Austria,TBSSpe
 TBS EU Spec Series 4 Race 3,IndoorGoKart,114,129.788,KarachoFPV,Austria,TBSSpec,2021/01/09
 TBS EU Spec Series 4 Race 4,Empty Scene Day,60,83.245,KarachoFPV,Austria,Five33Switchback,2021/06/30
 TBS EU Spec Series 4 Race 5,Dynamic Weather,115,101.633,KarachoFPV,Austria,Mode2Ghost,2020/06/11
-TBS EU Spec Series 4 Race 7,Football Stadium,96,78.516,KarachoFPV,Austria,Five33Switchback,2021/04/19
+TBS EU Spec Series 4 Race 7,Football Stadium,99,78.516,KarachoFPV,Austria,Five33Switchback,2021/04/19
 TBS EU Spec Series 5 FINAL,Dynamic Weather,93,94.182,KarachoFPV,Austria,TBSSpec,2021/01/25
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 5 Race 3,Dynamic Weather,61,76.426,KarachoFPV,Austria,Five33Switchback,2021/06/30
 TBS EU Spec Series 5 Race 4,Football Stadium,71,85.883,KarachoFPV,Austria,Five33Switchback,2021/04/29
 TBS EU Spec Series 5 Race 5,NEC Birmingham,128,89.808,KarachoFPV,Austria,Five33Switchback,2021/05/05
 TBS EU Spec Series 5 Race 6,Dynamic Weather,101,79.260,KarachoFPV,Austria,Five33Switchback,2021/07/14
-TBS EU Spec Series 5 Race 7,IndoorGoKart,112,89.678,KarachoFPV,Austria,Five33Switchback,2021/04/26
+TBS EU Spec Series 5 Race 7,IndoorGoKart,113,89.678,KarachoFPV,Austria,Five33Switchback,2021/04/26
 TBS EU Spec Series 6 Final,Empty Scene Day,102,90.434,KarachoFPV,Austria,Five33Switchback,2021/01/30
 TBS EU Spec Series 6 Losers Final,Football Stadium,103,80.382,KarachoFPV,Austria,TBSSpec,2021/01/09
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,132,77.881,KarachoFPV,Austria,Five33Switchback,2020/10/03
-TBS EU Spec Series 6 Race 4,NEC Birmingham,137,94.761,KarachoFPV,Austria,Five33Switchback,2020/11/05
+TBS EU Spec Series 6 Race 4,NEC Birmingham,139,94.761,KarachoFPV,Austria,Five33Switchback,2020/11/05
 TBS EU Spec Series 6 Race 5,Dynamic Weather,94,93.063,KarachoFPV,Austria,Five33Switchback,2021/04/14
 TBS EU Spec Series 6 Race 6,Empty Scene Day,77,80.444,KarachoFPV,Austria,Five33Switchback,2021/05/06
 TBS EU Spec Series 6 Race 7,Empty Scene Day,124,63.130,KarachoFPV,Austria,Five33Switchback,2020/11/25
@@ -112,7 +112,7 @@ TBS EU Spec Series 8 Race 3,Football Stadium,84,65.554,KarachoFPV,Austria,Five33
 TBS EU Spec Series 8 Race 4,Empty Scene Day,98,84.045,KarachoFPV,Austria,Five33Switchback,2021/05/10
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,77,63.334,KarachoFPV,Austria,Five33Switchback,2021/05/30
 TBS EU Spec Series 8 Race 6,Football Stadium,67,68.407,KarachoFPV,Austria,Five33Switchback,2021/06/10
-TBS EU Spec Series 8 Race 7,Empty Scene Day,72,77.255,KarachoFPV,Austria,Five33Switchback,2021/06/15
+TBS EU Spec Series 8 Race 7,Empty Scene Day,73,77.255,KarachoFPV,Austria,Five33Switchback,2021/06/15
 TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,KarachoFPV,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,KarachoFPV,NO_DATA
