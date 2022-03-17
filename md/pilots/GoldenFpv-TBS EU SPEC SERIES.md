@@ -5,7 +5,7 @@
 |43|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/09|
 |44|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/20|
 |56|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
-|60|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
+|63|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
 |65|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/03|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
@@ -18,8 +18,8 @@
 |198|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
 |184|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
 |170|TBS EU Spec Series 4 Race 7|Football Stadium|BMSJS-1|2021/10/05|
+|154|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/02/27|
 |152|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/12/26|
-|151|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/02/27|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

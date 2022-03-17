@@ -6,30 +6,30 @@
 |81|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/07/08|
 |86|TBS EU Spec Series 6 Race 4|NEC Birmingham|SniperX|2022/02/14|
 |86|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
-|97|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|SniperX|2022/02/18|
+|100|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|SniperX|2022/02/18|
 |102|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|195|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/04/14|
-|192|TBS EU Spec Series 5 Race 5|NEC Birmingham|SniperX|2022/02/12|
+|197|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/04/14|
+|193|TBS EU Spec Series 5 Race 5|NEC Birmingham|SniperX|2022/02/12|
 |177|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/05/16|
+|175|TBS EU Spec Series 4 Race 5|Dynamic Weather|SniperX|2022/02/12|
 |175|TBS EU Spec Series 7 Race 7|Empty Scene Day|SniperX|2022/02/13|
-|174|TBS EU Spec Series 4 Race 5|Dynamic Weather|SniperX|2022/02/12|
 |170|TBS EU Spec Series 6 Final|Empty Scene Day|SniperX|2022/02/13|
 |168|TBS EU Spec Series 4 Race 4|Empty Scene Day|SniperX|2021/12/20|
-|165|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
+|167|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
 |163|TBS EU Spec Series 6 Race 5|Dynamic Weather|SniperX|2022/02/13|
-|151|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/26|
+|152|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/26|
 |149|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/04/14|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |149|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/04/14|
-|195|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/04/14|
-|165|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
+|197|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/04/14|
+|167|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
 |167|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Mode2Ghost|2020/04/18|
 |86|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
 |135|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|

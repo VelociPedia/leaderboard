@@ -52,13 +52,13 @@ MultiGP Tsunami,Football Stadium,999,999.999,DracFPV,NO_DATA
 MultiGP UTT 1,Football Stadium,999,999.999,DracFPV,NO_DATA
 MultiGP UTT 5,Football Stadium,999,999.999,DracFPV,NO_DATA
 MultiGP UTT 6,Football Stadium,1,21.968,DracFPV,Spain,Ossa,2021/07/15
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,36,69.408,DracFPV,Spain,TBSSpec,2020/09/02
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,37,69.408,DracFPV,Spain,TBSSpec,2020/09/02
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,35,67.252,DracFPV,Spain,TBSSpec,2020/06/02
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,81,63.095,DracFPV,Spain,TBSSpec,2020/04/26
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,14,57.604,DracFPV,Spain,TBSSpec,2020/09/02
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,19,60.574,DracFPV,Spain,TBSSpec,2020/09/04
-RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,33,69.579,DracFPV,Spain,TBSSpec,2020/09/04
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,11,64.571,DracFPV,Spain,TBSSpec,2020/09/05
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,20,60.574,DracFPV,Spain,TBSSpec,2020/09/04
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,34,69.579,DracFPV,Spain,TBSSpec,2020/09/04
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,12,64.571,DracFPV,Spain,TBSSpec,2020/09/05
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,15,68.216,DracFPV,Spain,TBSSpec,2020/09/08
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,36,60.535,DracFPV,Spain,TBSSpec,2020/08/31
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,17,66.873,DracFPV,Spain,TBSSpec,2020/09/05
@@ -79,7 +79,7 @@ TBS EU Spec Series 4 FINAL,Dynamic Weather,35,81.896,DracFPV,Spain,TBSSpec,2020/
 TBS EU Spec Series 4 Race 2,Empty Scene Day,37,65.318,DracFPV,Spain,TBSSpec,2020/09/09
 TBS EU Spec Series 4 Race 3,IndoorGoKart,23,94.214,DracFPV,Spain,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,36,79.540,DracFPV,Spain,TBSSpec,2020/05/28
-TBS EU Spec Series 4 Race 5,Dynamic Weather,40,86.729,DracFPV,Spain,TBSSpec,2020/06/04
+TBS EU Spec Series 4 Race 5,Dynamic Weather,41,86.729,DracFPV,Spain,TBSSpec,2020/06/04
 TBS EU Spec Series 4 Race 7,Football Stadium,50,72.526,DracFPV,Spain,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,36,80.892,DracFPV,Spain,TBSSpec,2020/09/10
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,22,73.593,DracFPV,Spain,TBSSpec,2020/09/09
@@ -100,7 +100,7 @@ TBS EU Spec Series 7 Final,Empty Scene Day,59,74.832,DracFPV,Spain,TBSSpec,2021/
 TBS EU Spec Series 7 Race 1,Football Stadium,63,70.355,DracFPV,Spain,TBSSpec,2021/01/08
 TBS EU Spec Series 7 Race 2,Empty Scene Day,57,70.432,DracFPV,Spain,TBSSpec,2021/01/14
 TBS EU Spec Series 7 Race 3,Empty Scene Day,49,72.445,DracFPV,Spain,TBSSpec,2021/01/21
-TBS EU Spec Series 7 Race 4,Empty Scene Day,49,70.145,DracFPV,Spain,TBSSpec,2021/01/28
+TBS EU Spec Series 7 Race 4,Empty Scene Day,52,70.145,DracFPV,Spain,TBSSpec,2021/01/28
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,DracFPV,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,46,70.697,DracFPV,Spain,TBSSpec,2021/02/11
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,DracFPV,NO_DATA
@@ -119,7 +119,7 @@ TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,DracFPV,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,DracFPV,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,7,54.276,DracFPV,Spain,Five33Switchback,2021/10/12
 TBS EU Spec Series 9 Race 4,Football Stadium,999,999.999,DracFPV,NO_DATA
-TBS EU Spec Series 9 Race 5,Empty Scene Day,37,64.513,DracFPV,Spain,Five33Switchback,2021/10/31
+TBS EU Spec Series 9 Race 5,Empty Scene Day,38,64.513,DracFPV,Spain,Five33Switchback,2021/10/31
 TBS EU Spec Series 9 Race 6,Empty Scene Day,3,58.005,DracFPV,Spain,Five33Switchback,2021/11/29
 TBS EU Spec Series 9 Race 7,NEC Birmingham,7,56.320,DracFPV,Spain,Five33Switchback,2021/11/10
 VRL6 Championships,Dynamic Weather,37,88.066,DracFPV,Spain,Ossa,2020/10/07

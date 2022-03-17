@@ -6,9 +6,9 @@ DEP Open Series 4 Race 5,Football Stadium,999,999.999,OrangutanFPV,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,63,69.861,OrangutanFPV,UnitedKingdom,Velocity,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,OrangutanFPV,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,OrangutanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,78,74.946,OrangutanFPV,UnitedKingdom,TBSSpec,2021/06/02
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,79,74.946,OrangutanFPV,UnitedKingdom,TBSSpec,2021/06/02
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,OrangutanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,174,73.919,OrangutanFPV,UnitedKingdom,TBSSpec,2021/04/08
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,175,73.919,OrangutanFPV,UnitedKingdom,TBSSpec,2021/04/08
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,49,74.092,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,OrangutanFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,OrangutanFPV,NO_DATA
@@ -33,17 +33,17 @@ TBS EU Spec Series 4 FINAL,Dynamic Weather,71,89.301,OrangutanFPV,UnitedKingdom,
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,OrangutanFPV,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,99,123.565,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/26
 TBS EU Spec Series 4 Race 4,Empty Scene Day,96,89.169,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/11
-TBS EU Spec Series 4 Race 5,Dynamic Weather,131,105.015,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/14
+TBS EU Spec Series 4 Race 5,Dynamic Weather,132,105.015,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/14
 TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,OrangutanFPV,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,61,87.943,OrangutanFPV,UnitedKingdom,TBSSpec,2021/06/28
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,107,92.519,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/26
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,OrangutanFPV,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,97,90.015,OrangutanFPV,UnitedKingdom,TBSSpec,2021/04/29
+TBS EU Spec Series 5 Race 4,Football Stadium,99,90.015,OrangutanFPV,UnitedKingdom,TBSSpec,2021/04/29
 TBS EU Spec Series 5 Race 5,NEC Birmingham,111,86.870,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/19
 TBS EU Spec Series 5 Race 6,Dynamic Weather,131,84.755,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/18
 TBS EU Spec Series 5 Race 7,IndoorGoKart,78,82.524,OrangutanFPV,UnitedKingdom,TBSSpec,2021/05/20
 TBS EU Spec Series 6 Final,Empty Scene Day,116,92.465,OrangutanFPV,UnitedKingdom,TBSSpec,2021/06/27
-TBS EU Spec Series 6 Losers Final,Football Stadium,117,81.921,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/28
+TBS EU Spec Series 6 Losers Final,Football Stadium,118,81.921,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/28
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,174,88.098,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/15
 TBS EU Spec Series 6 Race 2,Empty Scene Day,136,78.691,OrangutanFPV,UnitedKingdom,TBSSpec,2022/01/10
 TBS EU Spec Series 6 Race 4,NEC Birmingham,103,86.502,OrangutanFPV,UnitedKingdom,TBSSpec,2020/11/15
@@ -54,7 +54,7 @@ TBS EU Spec Series 7 Final,Empty Scene Day,114,81.951,OrangutanFPV,UnitedKingdom
 TBS EU Spec Series 7 Race 1,Football Stadium,104,75.878,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/14
 TBS EU Spec Series 7 Race 2,Empty Scene Day,99,74.995,OrangutanFPV,UnitedKingdom,TBSSpec,2021/01/15
 TBS EU Spec Series 7 Race 3,Empty Scene Day,141,82.500,OrangutanFPV,UnitedKingdom,TBSSpec,2021/05/13
-TBS EU Spec Series 7 Race 4,Empty Scene Day,121,77.442,OrangutanFPV,UnitedKingdom,TBSSpec,2021/02/06
+TBS EU Spec Series 7 Race 4,Empty Scene Day,126,77.442,OrangutanFPV,UnitedKingdom,TBSSpec,2021/02/06
 TBS EU Spec Series 7 Race 5,IndoorGoKart,82,75.436,OrangutanFPV,UnitedKingdom,TBSSpec,2021/02/06
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,138,86.775,OrangutanFPV,UnitedKingdom,TBSSpec,2021/02/11
 TBS EU Spec Series 7 Race 7,Empty Scene Day,134,93.559,OrangutanFPV,UnitedKingdom,TBSSpec,2021/03/13
@@ -73,7 +73,7 @@ TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,OrangutanFPV,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,OrangutanFPV,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,OrangutanFPV,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,188,103.989,OrangutanFPV,UnitedKingdom,TBSSpec,2021/10/23
-TBS EU Spec Series 9 Race 5,Empty Scene Day,172,88.137,OrangutanFPV,UnitedKingdom,TBSSpec,2021/10/23
+TBS EU Spec Series 9 Race 5,Empty Scene Day,175,88.137,OrangutanFPV,UnitedKingdom,TBSSpec,2021/10/23
 TBS EU Spec Series 9 Race 6,Empty Scene Day,126,91.516,OrangutanFPV,UnitedKingdom,TBSSpec,2021/10/23
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,OrangutanFPV,NO_DATA
 VRL 7 Race 4,Dynamic Weather,178,110.278,OrangutanFPV,UnitedKingdom,Velocity,2020/11/25

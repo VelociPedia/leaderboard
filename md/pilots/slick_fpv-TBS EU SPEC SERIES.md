@@ -6,7 +6,7 @@
 |23|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/02|
 |28|TBS EU Spec Series 5 Race 7|IndoorGoKart|Ossa|2021/03/16|
 |30|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/07|
-|33|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/10/12|
+|34|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Ossa|2021/05/24|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,7 +28,7 @@
 |77|TBS EU Spec Series 7 Race 1|Football Stadium|Ossa|2021/01/15|
 |88|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
 |99|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
-|74|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
+|78|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
 |42|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|
 ---
 ### 1 tracks where TBS SPEC quad was used

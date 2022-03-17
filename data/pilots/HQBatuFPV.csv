@@ -26,7 +26,7 @@ DEP Spec Series 1 Race 5,Football Stadium,103,104.995,HQBatuFPV,Germany,Mode2Gho
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,HQBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,HQBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,HQBatuFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,166,73.481,HQBatuFPV,Germany,Five33Switchback,2020/12/23
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,167,73.481,HQBatuFPV,Germany,Five33Switchback,2020/12/23
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,HQBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,44,67.373,HQBatuFPV,Germany,TBSSpec,2020/05/21
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,HQBatuFPV,NO_DATA
@@ -40,13 +40,13 @@ RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,136,96.639,HQBatuFPV,Germany,TB
 TBS EU Spec Season 5 Race 1,Football Stadium,137,67.267,HQBatuFPV,Germany,Mode2Ghost,2020/07/22
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,HQBatuFPV,NO_DATA
-TBS EU Spec Series 10 Race 1,Football Stadium,42,61.666,HQBatuFPV,Germany,TBSSpec,2021/12/02
+TBS EU Spec Series 10 Race 1,Football Stadium,45,61.666,HQBatuFPV,Germany,TBSSpec,2021/12/02
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,24,63.374,HQBatuFPV,Germany,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,6,50.483,HQBatuFPV,Germany,Five33Switchback,2022/01/21
 TBS EU Spec Series 10 Race 6,Large Carpark,46,46.380,HQBatuFPV,Germany,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,86,81.478,HQBatuFPV,Germany,TBSSpec,2022/02/03
+TBS EU Spec Series 10 Race 7,Football Stadium,87,81.478,HQBatuFPV,Germany,TBSSpec,2022/02/03
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,151,77.543,HQBatuFPV,Germany,Mode2Ghost,2020/05/15
 TBS EU Spec Series 4 Race 3,IndoorGoKart,60,108.585,HQBatuFPV,Germany,TBSSpec,2020/05/21
@@ -56,7 +56,7 @@ TBS EU Spec Series 4 Race 7,Football Stadium,102,78.752,HQBatuFPV,Germany,TBSSpe
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,111,93.439,HQBatuFPV,Germany,Mode2Ghost,2020/09/15
 TBS EU Spec Series 5 Race 3,Dynamic Weather,104,86.417,HQBatuFPV,Germany,Mode2Ghost,2020/08/11
-TBS EU Spec Series 5 Race 4,Football Stadium,168,105.846,HQBatuFPV,Germany,Mode2Ghost,2020/08/06
+TBS EU Spec Series 5 Race 4,Football Stadium,172,105.846,HQBatuFPV,Germany,Mode2Ghost,2020/08/06
 TBS EU Spec Series 5 Race 5,NEC Birmingham,69,75.957,HQBatuFPV,Germany,Mode2Ghost,2020/08/19
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,HQBatuFPV,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,HQBatuFPV,NO_DATA
@@ -72,7 +72,7 @@ TBS EU Spec Series 7 Final,Empty Scene Day,85,77.400,HQBatuFPV,Germany,TBSSpec,2
 TBS EU Spec Series 7 Race 1,Football Stadium,25,66.370,HQBatuFPV,Germany,Five33Switchback,2021/01/08
 TBS EU Spec Series 7 Race 2,Empty Scene Day,17,64.833,HQBatuFPV,Germany,Five33Switchback,2021/01/24
 TBS EU Spec Series 7 Race 3,Empty Scene Day,72,74.869,HQBatuFPV,Germany,TBSSpec,2021/01/27
-TBS EU Spec Series 7 Race 4,Empty Scene Day,60,70.767,HQBatuFPV,Germany,TBSSpec,2021/02/01
+TBS EU Spec Series 7 Race 4,Empty Scene Day,63,70.767,HQBatuFPV,Germany,TBSSpec,2021/02/01
 TBS EU Spec Series 7 Race 5,IndoorGoKart,73,74.659,HQBatuFPV,Germany,TBSSpec,2021/02/06
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,26,66.416,HQBatuFPV,Germany,TBSSpec,2021/02/14
 TBS EU Spec Series 7 Race 7,Empty Scene Day,59,78.077,HQBatuFPV,Germany,TBSSpec,2021/02/18
@@ -91,7 +91,7 @@ TBS EU Spec Series 9 Race 1,Football Stadium,120,69.433,HQBatuFPV,Germany,TBSSpe
 TBS EU Spec Series 9 Race 2,Dynamic Weather,75,60.423,HQBatuFPV,Germany,TBSSpec,2021/09/16
 TBS EU Spec Series 9 Race 3,Empty Scene Day,103,70.994,HQBatuFPV,Germany,TBSSpec,2021/09/30
 TBS EU Spec Series 9 Race 4,Football Stadium,51,68.684,HQBatuFPV,Germany,TBSSpec,2021/09/30
-TBS EU Spec Series 9 Race 5,Empty Scene Day,71,69.087,HQBatuFPV,Germany,TBSSpec,2021/10/21
+TBS EU Spec Series 9 Race 5,Empty Scene Day,72,69.087,HQBatuFPV,Germany,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 6,Empty Scene Day,38,67.644,HQBatuFPV,Germany,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,50,68.565,HQBatuFPV,Germany,TBSSpec,2021/11/04
 VRL 7 Race 4,Dynamic Weather,79,92.388,HQBatuFPV,Germany,Five33Switchback,2021/10/17

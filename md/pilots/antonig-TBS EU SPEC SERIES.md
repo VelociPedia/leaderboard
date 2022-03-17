@@ -17,9 +17,9 @@
 |59|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/10/10|
 |58|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2021/02/22|
 |51|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/20|
-|45|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/09/09|
+|46|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/09/09|
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
-|42|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|43|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
 |38|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
 ---
 ### Oldest 6 personal best
@@ -36,7 +36,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |18|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/24|
-|28|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/19|
+|30|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/01/19|
 |33|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/19|
 |28|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2022/01/19|
 |94|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
@@ -47,7 +47,7 @@
 |45|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
 |36|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |29|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
-|42|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
+|43|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
 |30|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/19|
 |38|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/19|
 ---

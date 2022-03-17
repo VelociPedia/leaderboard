@@ -4,8 +4,8 @@
 |1|TBS EU Spec Series 8 Race 7|Empty Scene Day|CarbiXZero|2022/02/11|
 |2|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2022/01/20|
 |2|TBS EU Spec Series 6 Race 1|Future Hangar Empty|SingularitumV5|2020/10/05|
-|2|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|SingularitumV5|2021/03/24|
 |3|TBS EU Spec Series 9 Race 5|Empty Scene Day|CarbiXZero|2021/10/10|
+|3|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|SingularitumV5|2021/03/24|
 |4|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |4|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/18|
 |4|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
@@ -33,7 +33,7 @@
 |:---:|:---|:---|:---:|:---:|
 |79|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
 |52|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
-|35|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|SingularitumV5|2020/05/18|
+|36|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|SingularitumV5|2020/05/18|
 |154|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
 |51|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |73|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
@@ -64,7 +64,7 @@
 |45|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |39|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |41|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
-|39|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
+|43|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |31|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/05|
 |18|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/14|
 |27|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|

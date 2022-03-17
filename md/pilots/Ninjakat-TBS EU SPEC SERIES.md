@@ -12,7 +12,7 @@
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSOblivion|2020/11/10|
+|199|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSOblivion|2020/11/10|
 |193|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSOblivion|2020/11/10|
 |128|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSOblivion|2020/11/06|
 |80|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/01/27|
@@ -20,7 +20,7 @@
 |157|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
 |151|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/02/18|
 |150|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/24|
-|134|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|135|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |130|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/02/18|
 |121|TBS EU Spec Series 4 Race 7|Football Stadium|TBSOblivion|2020/11/10|
 ---
@@ -30,7 +30,7 @@
 |128|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSOblivion|2020/11/06|
 |65|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/11/07|
 |82|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSOblivion|2020/11/09|
-|198|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSOblivion|2020/11/10|
+|199|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSOblivion|2020/11/10|
 |117|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSOblivion|2020/11/10|
 |121|TBS EU Spec Series 4 Race 7|Football Stadium|TBSOblivion|2020/11/10|
 |193|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSOblivion|2020/11/10|
@@ -47,7 +47,7 @@
 |55|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/23|
 |111|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/24|
 |157|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
-|134|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|135|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |130|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/02/18|
 |151|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/02/18|
 |60|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/01/26|
@@ -67,7 +67,7 @@
 |71|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/30|
 |67|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/30|
 |47|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/07|
-|62|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
+|63|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
 ---
 ### 27 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -45,7 +45,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |17|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/16|
-|17|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
+|19|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
 |29|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |21|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |14|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/20|

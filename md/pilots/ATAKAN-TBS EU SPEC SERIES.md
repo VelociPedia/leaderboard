@@ -21,9 +21,9 @@
 |38|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |35|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/14|
 |33|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
+|31|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |30|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
 |28|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
-|27|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |26|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
 ### Oldest 8 personal best
@@ -43,7 +43,7 @@
 |:---:|:---|:---|:---:|:---:|
 |7|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |7|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/17|
-|19|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/16|
+|22|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/16|
 |24|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/03|
 |12|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |3|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
@@ -60,7 +60,7 @@
 |26|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |18|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |22|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
-|27|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
+|31|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |21|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/10|
 |5|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/15|
 |8|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/22|
