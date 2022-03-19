@@ -68,6 +68,10 @@ rookies:
 	./getcollection.zsh "Rookies Tracks.csv"
 	./makerank.zsh "Rookies Tracks.csv"
 
+formula:
+	./getcollection.zsh "FormulaFlow.csv"
+	./makerank.zsh "FormulaFlow.csv"
+
 maionhigh:
 	./getcollection.zsh "MaiOnHigh Tracks.csv"
 	./makerank.zsh "MaiOnHigh Tracks.csv"
