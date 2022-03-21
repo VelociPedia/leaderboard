@@ -5,7 +5,7 @@
 DEP Open Pop-Up 2,Dynamic Weather,99.611,ibor24,Switzerland,TBSSpec,2021/07/03
 DEP Open Series 2 Race 1,Dynamic Weather,62.302,ibor24,Switzerland,TwigXL3,2021/09/29
 DEP Open Series 2 Race 7,Football Stadium,999.999,ibor24,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,72.774,ibor24,Switzerland,TBSSpec,2021/07/06
+DEP Open Series 3 Race 1,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,100.429,ibor24,Switzerland,TBSSpec,2021/08/31
 DEP Open Series 3 Race 4,Football Stadium,89.259,ibor24,Switzerland,Five33Switchback,2021/02/25
@@ -18,7 +18,7 @@ DEP Open Series 4 Race 3,Football Stadium,82.058,ibor24,Switzerland,TBSSpec,2021
 DEP Open Series 4 Race 4,Football Stadium,115.129,ibor24,Switzerland,TBSSpec,2021/12/06
 DEP Open Series 4 Race 5,Football Stadium,78.081,ibor24,Switzerland,TBSSpec,2021/12/06
 DEP Open Series 4 Race 6,Football Stadium,88.706,ibor24,Switzerland,Five33Switchback,2021/05/16
-DEP Open Series 4 Race 7,Football Stadium,101.226,ibor24,Switzerland,TBSSpec,2021/05/27
+DEP Open Series 4 Race 7,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 5 Race 1,Football Stadium,65.879,ibor24,Switzerland,Five33Switchback,2021/11/10
 DEP Open Series 5 Race 2,Football Stadium,89.498,ibor24,Switzerland,TBSSpec,2021/12/07
 DEP Open Series 5 Race 3,Football Stadium,100.945,ibor24,Switzerland,TwigXL3,2021/11/22
@@ -26,6 +26,8 @@ DEP Open Series 5 Race 4,Football Stadium,94.153,ibor24,Switzerland,DiatoneGTB33
 DEP Open Series 5 Race 5,Football Stadium,99.650,ibor24,Switzerland,TBSSpec,2021/12/03
 DEP Open Series 5 Race 6,Football Stadium,87.825,ibor24,Switzerland,TBSSpec,2021/12/16
 DEP Open Series 5 Race 7,Football Stadium,130.694,ibor24,Switzerland,TBSSpec,2021/12/23
+DEP Open Series 6 Race 1,Football Stadium,88.894,ibor24,Switzerland,TBSSpec,2022/03/03
+DEP Open Series 6 Race 2,Football Stadium,999.999,ibor24,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999.999,ibor24,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,98.949,ibor24,Switzerland,Five33Switchback,2021/07/15
 Formula FLow I,Empty Scene Day,71.441,ibor24,Switzerland,CarbiXZero,2022/03/11
@@ -127,7 +129,7 @@ TBS EU Spec Series 9 Race 5,Empty Scene Day,83.721,ibor24,Switzerland,TBSSpec,20
 TBS EU Spec Series 9 Race 6,Empty Scene Day,92.742,ibor24,Switzerland,TBSSpec,2021/10/22
 TBS EU Spec Series 9 Race 7,NEC Birmingham,85.292,ibor24,Switzerland,TBSSpec,2021/10/30
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,26.949,ibor24,Switzerland,TwigXL3,2022/01/02
-Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,29.505,ibor24,Switzerland,Five33Switchback,2022/02/10
+Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,29.276,ibor24,Switzerland,Five33Switchback,2022/02/23
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,32.213,ibor24,Switzerland,TwigXL3,2022/01/02
 Train Insane - Dive - MaiOnHigh,Empty Scene Day,31.758,ibor24,Switzerland,TwigXL3,2022/01/09
 Train Insane - Dutch 8 - MaiOnHigh,Empty Scene Day,73.077,ibor24,Switzerland,Five33Switchback,2022/02/10

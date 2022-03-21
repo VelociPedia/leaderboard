@@ -12,13 +12,13 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |83|VRL Season 8 Championships|Dynamic Weather|Chief|2022/02/17|
-|66|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/30|
+|67|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/30|
 |52|VRL Season 8 Track 5|Dynamic Weather|Chief|2021/12/17|
 |50|VRL Season 8 Track 1|Office Complex|Solleva|2021/11/12|
 |45|VRL SEASON 5 TRACK 8|Industrial Wasteland|Solleva|2020/07/12|
 |44|VRL Season 8 Track 4|DynamicPoly|Chief|2021/12/10|
-|41|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
-|41|VRL Season 8 Track 6|Night Factory 2|Chief|2022/01/15|
+|43|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
+|42|VRL Season 8 Track 6|Night Factory 2|Chief|2022/01/15|
 |41|VRL6 Extermination|Dynamic Weather|SlamNasty|2020/04/11|
 |39|VRL Season 3 Track 4|Empty Scene Day|Solleva|2020/12/27|
 ---
@@ -27,7 +27,7 @@
 |:---:|:---|:---|:---:|:---:|
 |41|VRL6 Extermination|Dynamic Weather|SlamNasty|2020/04/11|
 |36|VRL6 Tunnel Vision|Dynamic Weather|SlamNasty|2020/04/18|
-|41|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
+|43|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
 |15|VRL SEASON 6 TRYOUTS|Dynamic Weather|SlamNasty|2020/04/23|
 |10|VRL6 Downtown Loop|Dynamic Weather|SlamNasty|2020/05/02|
 |10|VRL6 Meltdown|Dynamic Weather|SlamNasty|2020/05/02|

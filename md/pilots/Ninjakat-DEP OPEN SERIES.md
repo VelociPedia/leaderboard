@@ -7,24 +7,24 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|89|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
-|74|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
-|68|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
+|90|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
+|75|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
+|70|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|89|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
+|90|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
 |56|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/03/10|
 ---
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|89|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
-|68|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
-|74|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
+|90|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
+|70|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
+|75|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
 ---
-### 11 tracks without data (200+ or not in leaderboard)
+### 13 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |DEP Open Pop-Up 2|Dynamic Weather|
@@ -38,3 +38,5 @@
 |DEP Open Series 5 Race 5|Football Stadium|
 |DEP Open Series 5 Race 6|Football Stadium|
 |DEP Open Series 5 Race 7|Football Stadium|
+|DEP Open Series 6 Race 1|Football Stadium|
+|DEP Open Series 6 Race 2|Football Stadium|

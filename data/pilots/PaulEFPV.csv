@@ -1,18 +1,18 @@
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,46,51.296,PaulEFPV,UnitedStates,Ossa,2020/12/12
 DEP Open Series 2 Race 7,Football Stadium,17,81.275,PaulEFPV,UnitedStates,Ossa,2021/03/24
-DEP Open Series 3 Race 1,Football Stadium,56,56.788,PaulEFPV,UnitedStates,Ossa,2021/03/11
-DEP Open Series 3 Race 2,Football Stadium,43,75.965,PaulEFPV,UnitedStates,Ossa,2021/03/11
+DEP Open Series 3 Race 1,Football Stadium,57,56.788,PaulEFPV,UnitedStates,Ossa,2021/03/11
+DEP Open Series 3 Race 2,Football Stadium,44,75.965,PaulEFPV,UnitedStates,Ossa,2021/03/11
 DEP Open Series 3 Race 3,Karting Track,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,59,63.249,PaulEFPV,UnitedStates,Ossa,2021/03/12
-DEP Open Series 3 Race 5,Football Stadium,61,81.092,PaulEFPV,UnitedStates,Ossa,2021/05/27
+DEP Open Series 3 Race 5,Football Stadium,62,81.092,PaulEFPV,UnitedStates,Ossa,2021/05/27
 DEP Open Series 3 Race 6,Football Stadium,999,999.999,PaulEFPV,NO_DATA
-DEP Open Series 3 Race 7,Football Stadium,93,98.769,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
-DEP Open Series 4 Race 1,Football Stadium,138,106.537,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
+DEP Open Series 3 Race 7,Football Stadium,94,98.769,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
+DEP Open Series 4 Race 1,Football Stadium,139,106.537,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
 DEP Open Series 4 Race 2,Football Stadium,44,96.999,PaulEFPV,UnitedStates,TBSSpec,2021/04/14
-DEP Open Series 4 Race 3,Football Stadium,36,64.941,PaulEFPV,UnitedStates,Ossa,2021/04/27
+DEP Open Series 4 Race 3,Football Stadium,37,64.941,PaulEFPV,UnitedStates,Ossa,2021/04/27
 DEP Open Series 4 Race 4,Football Stadium,71,90.832,PaulEFPV,UnitedStates,Ossa,2021/04/28
-DEP Open Series 4 Race 5,Football Stadium,34,61.921,PaulEFPV,UnitedStates,Ossa,2021/04/28
+DEP Open Series 4 Race 5,Football Stadium,35,61.921,PaulEFPV,UnitedStates,Ossa,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,PaulEFPV,NO_DATA
@@ -34,11 +34,11 @@ VRL6 Championships,Dynamic Weather,53,92.889,PaulEFPV,UnitedStates,Five33Switchb
 VRL6 Crash Site,Dynamic Weather,3,104.376,PaulEFPV,UnitedStates,Ossa,2021/07/28
 VRL6 Downtown Loop,Dynamic Weather,3,126.814,PaulEFPV,UnitedStates,Ossa,2021/07/28
 VRL6 Extermination,Dynamic Weather,39,103.995,PaulEFPV,UnitedStates,SingularitumV5,2020/04/11
-VRL6 Kenerator,Dynamic Weather,42,124.932,PaulEFPV,UnitedStates,Five33Switchback,2020/04/23
+VRL6 Kenerator,Dynamic Weather,44,124.932,PaulEFPV,UnitedStates,Five33Switchback,2020/04/23
 VRL6 Meltdown,Dynamic Weather,14,106.137,PaulEFPV,UnitedStates,Ossa,2021/01/25
 VRL6 Reinforcement,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
 VRL6 Tunnel Vision,Dynamic Weather,31,111.108,PaulEFPV,UnitedStates,CarbiXZero,2020/04/18
-VRL 7 Race 4,Dynamic Weather,76,92.007,PaulEFPV,UnitedStates,Ossa,2021/06/07
+VRL 7 Race 4,Dynamic Weather,75,91.106,PaulEFPV,UnitedStates,Five33Switchback,2022/03/21
 VRL 7 Track 1,Future Hangar,72,99.419,PaulEFPV,UnitedStates,Mode2Ghost,2021/10/16
 VRL 7 Track 2,Future Hangar Empty,53,96.640,PaulEFPV,UnitedStates,Ossa,2020/11/12
 VRL 7 Track 3,Dynamic Weather,64,74.805,PaulEFPV,UnitedStates,Ossa,2020/11/21
@@ -52,7 +52,7 @@ VRL S5 TRACK 3,Bando,5,91.738,PaulEFPV,UnitedStates,Ossa,2021/04/10
 VRL S5 TRACK 4,Empty Scene Day,4,69.395,PaulEFPV,UnitedStates,Ossa,2021/04/11
 VRL S5 TRACK 5,Dynamic Weather,5,93.014,PaulEFPV,UnitedStates,Ossa,2021/04/04
 VRL Season 3 Track 1,Empty Scene Day,5,61.411,PaulEFPV,UnitedStates,CarbiXZero,2022/01/18
-VRL Season 3 Track 2,Empty Scene Day,10,59.703,PaulEFPV,UnitedStates,Ossa,2021/04/07
+VRL Season 3 Track 2,Empty Scene Day,11,59.703,PaulEFPV,UnitedStates,Ossa,2021/04/07
 VRL Season 3 Track 3,Empty Scene Day,4,68.583,PaulEFPV,UnitedStates,Ossa,2021/04/07
 VRL Season 3 Track 4,Empty Scene Day,10,91.943,PaulEFPV,UnitedStates,Ossa,2021/02/19
 VRL Season 3 Track 5,Empty Scene Day,3,65.588,PaulEFPV,UnitedStates,Ossa,2021/02/20
@@ -63,7 +63,7 @@ VRL Season 4 Track 2,Bando,6,100.006,PaulEFPV,UnitedStates,Ossa,2021/04/13
 VRL Season 4 Track 3,Basketball Stadium,3,58.909,PaulEFPV,UnitedStates,Ossa,2021/07/02
 VRL-Season-4-Track-4,Dynamic Weather,4,70.062,PaulEFPV,UnitedStates,Ossa,2021/04/05
 VRL_Season_4_Track_5,Coastal,6,101.871,PaulEFPV,UnitedStates,Five33Switchback,2020/05/10
-VRL_Season_4_Track_6,Dynamic Weather,4,87.489,PaulEFPV,UnitedStates,Five33Switchback,2020/06/05
+VRL_Season_4_Track_6,Dynamic Weather,3,84.071,PaulEFPV,UnitedStates,Five33Switchback,2022/03/13
 VRL Season 4 Track 7,Dynamic Weather,7,83.142,PaulEFPV,UnitedStates,Ossa,2021/04/13
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
 VRL SEASON 5 TRACK 6,Dynamic Weather,6,87.221,PaulEFPV,UnitedStates,Ossa,2021/04/05

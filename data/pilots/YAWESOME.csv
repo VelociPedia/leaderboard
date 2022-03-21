@@ -2,26 +2,28 @@ DEP Open Pop-Up 2,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,34,48.585,YAWESOME,UnitedStates,Five33Switchback,2021/11/21
 DEP Open Series 2 Race 7,Football Stadium,47,95.208,YAWESOME,UnitedStates,TBSSpec,2021/03/27
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,YAWESOME,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,79,89.290,YAWESOME,UnitedStates,TBSSpec,2021/02/24
+DEP Open Series 3 Race 2,Football Stadium,80,89.290,YAWESOME,UnitedStates,TBSSpec,2021/02/24
 DEP Open Series 3 Race 3,Karting Track,68,91.422,YAWESOME,UnitedStates,TBSSpec,2021/02/24
 DEP Open Series 3 Race 4,Football Stadium,88,67.725,YAWESOME,UnitedStates,TBSSpec,2021/02/26
 DEP Open Series 3 Race 5,Football Stadium,999,999.999,YAWESOME,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,999,999.999,YAWESOME,NO_DATA
-DEP Open Series 3 Race 7,Football Stadium,89,97.022,YAWESOME,UnitedStates,TBSSpec,2021/03/27
+DEP Open Series 3 Race 7,Football Stadium,90,97.022,YAWESOME,UnitedStates,TBSSpec,2021/03/27
 DEP Open Series 4 Race 1,Football Stadium,74,89.462,YAWESOME,UnitedStates,TBSSpec,2021/03/31
-DEP Open Series 4 Race 2,Football Stadium,144,127.456,YAWESOME,UnitedStates,TBSSpec,2021/04/14
-DEP Open Series 4 Race 3,Football Stadium,60,71.191,YAWESOME,UnitedStates,TBSSpec,2021/04/17
+DEP Open Series 4 Race 2,Football Stadium,145,127.456,YAWESOME,UnitedStates,TBSSpec,2021/04/14
+DEP Open Series 4 Race 3,Football Stadium,61,71.191,YAWESOME,UnitedStates,TBSSpec,2021/04/17
 DEP Open Series 4 Race 4,Football Stadium,51,85.505,YAWESOME,UnitedStates,TBSSpec,2021/05/01
-DEP Open Series 4 Race 5,Football Stadium,85,69.385,YAWESOME,UnitedStates,TBSSpec,2021/05/06
-DEP Open Series 4 Race 6,Football Stadium,141,88.940,YAWESOME,UnitedStates,TBSSpec,2021/06/27
-DEP Open Series 4 Race 7,Football Stadium,93,76.651,YAWESOME,UnitedStates,Five33Switchback,2021/11/11
+DEP Open Series 4 Race 5,Football Stadium,87,69.385,YAWESOME,UnitedStates,TBSSpec,2021/05/06
+DEP Open Series 4 Race 6,Football Stadium,142,88.940,YAWESOME,UnitedStates,TBSSpec,2021/06/27
+DEP Open Series 4 Race 7,Football Stadium,94,76.651,YAWESOME,UnitedStates,Five33Switchback,2021/11/11
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,YAWESOME,NO_DATA
-DEP Open Series 5 Race 2,Football Stadium,119,97.867,YAWESOME,UnitedStates,Five33Switchback,2021/11/08
+DEP Open Series 5 Race 2,Football Stadium,121,97.867,YAWESOME,UnitedStates,Five33Switchback,2021/11/08
 DEP Open Series 5 Race 3,Football Stadium,48,80.505,YAWESOME,UnitedStates,Five33Switchback,2021/11/19
 DEP Open Series 5 Race 4,Football Stadium,66,92.244,YAWESOME,UnitedStates,Five33Switchback,2021/11/27
 DEP Open Series 5 Race 5,Football Stadium,37,84.459,YAWESOME,UnitedStates,Five33Switchback,2021/12/02
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,YAWESOME,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,103,120.293,YAWESOME,UnitedStates,Five33Switchback,2022/01/04
+DEP Open Series 5 Race 7,Football Stadium,107,120.293,YAWESOME,UnitedStates,Five33Switchback,2022/01/04
+DEP Open Series 6 Race 1,Football Stadium,999,999.999,YAWESOME,NO_DATA
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,YAWESOME,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,64,97.299,YAWESOME,UnitedStates,Ossa,2020/10/19
 TBS EU Spec Series 6 Final,Empty Scene Day,70,86.300,YAWESOME,UnitedStates,TBSSpec,2020/12/10
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,YAWESOME,NO_DATA
@@ -48,7 +50,7 @@ VRL 7 Track 6,Dynamic Weather,111,87.412,YAWESOME,UnitedStates,Five33Switchback,
 VRL7 Tryouts,Future Hangar Empty,111,96.685,YAWESOME,UnitedStates,Ossa,2020/09/16
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,999,999.999,YAWESOME,NO_DATA
 VRL S5 Track 1,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
-VRL S5 TRACK 2,Dynamic Weather,74,193.703,YAWESOME,UnitedStates,Five33Switchback,2021/01/30
+VRL S5 TRACK 2,Dynamic Weather,76,193.703,YAWESOME,UnitedStates,Five33Switchback,2021/01/30
 VRL S5 TRACK 3,Bando,7,100.111,YAWESOME,UnitedStates,Five33Switchback,2021/11/11
 VRL S5 TRACK 4,Empty Scene Day,999,999.999,YAWESOME,NO_DATA
 VRL S5 TRACK 5,Dynamic Weather,2,90.571,YAWESOME,UnitedStates,Five33Switchback,2021/11/22
@@ -56,7 +58,7 @@ VRL Season 3 Track 1,Empty Scene Day,999,999.999,YAWESOME,NO_DATA
 VRL Season 3 Track 2,Empty Scene Day,999,999.999,YAWESOME,NO_DATA
 VRL Season 3 Track 3,Empty Scene Day,16,91.839,YAWESOME,UnitedStates,Five33Switchback,2022/01/15
 VRL Season 3 Track 4,Empty Scene Day,25,109.575,YAWESOME,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 5,Empty Scene Day,89,134.734,YAWESOME,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 5,Empty Scene Day,91,134.734,YAWESOME,UnitedStates,Five33Switchback,2022/01/15
 VRL Season 3 Track 6,Empty Scene Day,999,999.999,YAWESOME,NO_DATA
 VRL Season 4 Championship,Football Stadium,999,999.999,YAWESOME,NO_DATA
 VRL Season 4 Track 1,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
@@ -65,7 +67,7 @@ VRL Season 4 Track 3,Basketball Stadium,999,999.999,YAWESOME,NO_DATA
 VRL-Season-4-Track-4,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
 VRL_Season_4_Track_5,Coastal,999,999.999,YAWESOME,NO_DATA
 VRL_Season_4_Track_6,Dynamic Weather,20,130.359,YAWESOME,UnitedStates,Ossa,2020/10/19
-VRL Season 4 Track 7,Dynamic Weather,20,106.346,YAWESOME,UnitedStates,Five33Switchback,2021/01/31
+VRL Season 4 Track 7,Dynamic Weather,22,106.346,YAWESOME,UnitedStates,Five33Switchback,2021/01/31
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
 VRL SEASON 5 TRACK 6,Dynamic Weather,40,128.670,YAWESOME,UnitedStates,Five33Switchback,2021/01/30
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,YAWESOME,NO_DATA
@@ -76,9 +78,9 @@ VRL Season 7 Championships,Dynamic Weather,86,108.078,YAWESOME,UnitedStates,Five
 VRL Season 8 Championships,Dynamic Weather,999,999.999,YAWESOME,NO_DATA
 VRL Season 8 Track 1,Office Complex,999,999.999,YAWESOME,NO_DATA
 VRL Season 8 Track 2,Drift Track,67,100.298,YAWESOME,UnitedStates,Five33Switchback,2021/11/16
-VRL Season 8 Track 3,Night Factory 2,77,122.239,YAWESOME,UnitedStates,Five33Switchback,2021/11/25
+VRL Season 8 Track 3,Night Factory 2,78,122.239,YAWESOME,UnitedStates,Five33Switchback,2021/11/25
 VRL Season 8 Track 4,DynamicPoly,99,285.100,YAWESOME,UnitedStates,Five33Switchback,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,92,158.016,YAWESOME,UnitedStates,Five33Switchback,2021/12/19
-VRL Season 8 Track 6,Night Factory 2,85,146.832,YAWESOME,UnitedStates,Five33Switchback,2022/01/03
+VRL Season 8 Track 6,Night Factory 2,87,146.832,YAWESOME,UnitedStates,Five33Switchback,2022/01/03
 VRL SEASON 8 TRACK 7,Dynamic Weather,95,109.194,YAWESOME,UnitedStates,Five33Switchback,2022/01/26
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,YAWESOME,NO_DATA

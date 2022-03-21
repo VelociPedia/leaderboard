@@ -1,18 +1,18 @@
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,SmokyFPV,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,SmokyFPV,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999,999.999,SmokyFPV,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,51,56.255,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/04
-DEP Open Series 3 Race 2,Football Stadium,27,72.398,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/10
+DEP Open Series 3 Race 1,Football Stadium,52,56.255,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/04
+DEP Open Series 3 Race 2,Football Stadium,29,72.398,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/10
 DEP Open Series 3 Race 3,Karting Track,17,73.543,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/18
-DEP Open Series 3 Race 4,Football Stadium,42,59.779,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/25
+DEP Open Series 3 Race 4,Football Stadium,43,59.779,SmokyFPV,UnitedKingdom,Five33Switchback,2021/02/25
 DEP Open Series 3 Race 5,Football Stadium,34,73.832,SmokyFPV,UnitedKingdom,Five33Switchback,2021/03/03
 DEP Open Series 3 Race 6,Football Stadium,28,86.825,SmokyFPV,UnitedKingdom,Five33Switchback,2021/03/10
 DEP Open Series 3 Race 7,Football Stadium,19,76.099,SmokyFPV,UnitedKingdom,Five33Switchback,2021/03/17
 DEP Open Series 4 Race 1,Football Stadium,62,87.017,SmokyFPV,UnitedKingdom,Five33Switchback,2021/04/04
 DEP Open Series 4 Race 2,Football Stadium,51,97.885,SmokyFPV,UnitedKingdom,Five33Switchback,2021/04/11
-DEP Open Series 4 Race 3,Football Stadium,50,69.683,SmokyFPV,UnitedKingdom,TBSSpec,2021/06/29
+DEP Open Series 4 Race 3,Football Stadium,51,69.683,SmokyFPV,UnitedKingdom,TBSSpec,2021/06/29
 DEP Open Series 4 Race 4,Football Stadium,24,75.971,SmokyFPV,UnitedKingdom,Five33Switchback,2021/04/21
-DEP Open Series 4 Race 5,Football Stadium,33,61.104,SmokyFPV,UnitedKingdom,Five33Switchback,2021/04/28
+DEP Open Series 4 Race 5,Football Stadium,34,61.104,SmokyFPV,UnitedKingdom,Five33Switchback,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,19,61.836,SmokyFPV,UnitedKingdom,Five33Switchback,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,34,63.989,SmokyFPV,UnitedKingdom,Five33Switchback,2021/05/26
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,SmokyFPV,NO_DATA
@@ -22,6 +22,8 @@ DEP Open Series 5 Race 4,Football Stadium,56,86.913,SmokyFPV,UnitedKingdom,TBSSp
 DEP Open Series 5 Race 5,Football Stadium,86,105.116,SmokyFPV,UnitedKingdom,Five33Switchback,2021/12/05
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,SmokyFPV,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,41,95.714,SmokyFPV,UnitedKingdom,Five33Switchback,2021/12/29
+DEP Open Series 6 Race 1,Football Stadium,999,999.999,SmokyFPV,NO_DATA
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,SmokyFPV,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,13,82.112,SmokyFPV,UnitedKingdom,Five33Switchback,2020/10/10
 EU Spec Season 4 Race 1,Football Stadium,46,84.585,SmokyFPV,UnitedKingdom,TBSSpec,2020/04/30
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,66,73.149,SmokyFPV,UnitedKingdom,TBSSpec,2021/02/21
@@ -103,11 +105,11 @@ VRL 7 Track 6,Dynamic Weather,20,79.479,SmokyFPV,UnitedKingdom,Five33Switchback,
 VRL7 Tryouts,Future Hangar Empty,67,94.224,SmokyFPV,UnitedKingdom,Five33Switchback,2020/10/25
 VRL Season 7 Championships,Dynamic Weather,46,99.691,SmokyFPV,UnitedKingdom,Five33Switchback,2021/01/02
 VRL Season 8 Championships,Dynamic Weather,999,999.999,SmokyFPV,NO_DATA
-VRL Season 8 Track 1,Office Complex,88,194.331,SmokyFPV,UnitedKingdom,Five33Switchback,2021/10/25
+VRL Season 8 Track 1,Office Complex,90,194.331,SmokyFPV,UnitedKingdom,Five33Switchback,2021/10/25
 VRL Season 8 Track 2,Drift Track,999,999.999,SmokyFPV,NO_DATA
 VRL Season 8 Track 3,Night Factory 2,94,137.282,SmokyFPV,UnitedKingdom,TBSSpec,2021/11/25
 VRL Season 8 Track 4,DynamicPoly,68,163.061,SmokyFPV,UnitedKingdom,Five33Switchback,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,90,151.751,SmokyFPV,UnitedKingdom,Five33Switchback,2021/12/19
-VRL Season 8 Track 6,Night Factory 2,60,118.061,SmokyFPV,UnitedKingdom,Five33Switchback,2022/01/08
+VRL Season 8 Track 6,Night Factory 2,61,118.061,SmokyFPV,UnitedKingdom,Five33Switchback,2022/01/08
 VRL SEASON 8 TRACK 7,Dynamic Weather,999,999.999,SmokyFPV,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,SmokyFPV,NO_DATA

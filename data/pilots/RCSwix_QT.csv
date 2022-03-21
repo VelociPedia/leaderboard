@@ -1,7 +1,7 @@
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,RCSwix_QT,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,15,69.816,RCSwix_QT,RussianFederation,Mode2Ghost,2021/02/10
+DEP Open Series 3 Race 2,Football Stadium,18,69.816,RCSwix_QT,RussianFederation,Mode2Ghost,2021/02/10
 DEP Open Series 3 Race 3,Karting Track,999,999.999,RCSwix_QT,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,31,57.733,RCSwix_QT,RussianFederation,Mode2Ghost,2021/02/24
+DEP Open Series 3 Race 4,Football Stadium,33,57.733,RCSwix_QT,RussianFederation,Mode2Ghost,2021/02/24
 DEP Open Series 3 Race 5,Football Stadium,33,73.406,RCSwix_QT,RussianFederation,Mode2Ghost,2021/03/03
 DEP Open Series 3 Race 6,Football Stadium,30,87.144,RCSwix_QT,RussianFederation,Mode2Ghost,2021/03/10
 DEP Open Series 3 Race 7,Football Stadium,26,78.683,RCSwix_QT,RussianFederation,Mode2Ghost,2021/03/17
@@ -9,7 +9,7 @@ DEP Open Series 4 Race 1,Football Stadium,23,75.814,RCSwix_QT,RussianFederation,
 DEP Open Series 4 Race 2,Football Stadium,26,89.716,RCSwix_QT,RussianFederation,Mode2Ghost,2021/04/07
 DEP Open Series 4 Race 3,Football Stadium,999,999.999,RCSwix_QT,NO_DATA
 DEP Open Series 4 Race 4,Football Stadium,21,75.265,RCSwix_QT,RussianFederation,Mode2Ghost,2021/04/21
-DEP Open Series 4 Race 5,Football Stadium,27,60.236,RCSwix_QT,RussianFederation,Mode2Ghost,2021/04/28
+DEP Open Series 4 Race 5,Football Stadium,28,60.236,RCSwix_QT,RussianFederation,Mode2Ghost,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,18,61.809,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,29,62.377,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/27
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,RCSwix_QT,NO_DATA
@@ -87,6 +87,25 @@ TBS EU Spec Series 9 Race 4,Football Stadium,31,65.798,RCSwix_QT,RussianFederati
 TBS EU Spec Series 9 Race 5,Empty Scene Day,55,66.929,RCSwix_QT,RussianFederation,TBSSpec,2021/10/07
 TBS EU Spec Series 9 Race 6,Empty Scene Day,5,58.414,RCSwix_QT,RussianFederation,Mode2Ghost,2021/11/05
 TBS EU Spec Series 9 Race 7,NEC Birmingham,24,62.452,RCSwix_QT,RussianFederation,TBSSpec,2021/10/28
+Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,1,20.147,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/09
+Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,999,999.999,RCSwix_QT,NO_DATA
+Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,3,25.249,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/01
+Train Insane - Dive - MaiOnHigh,Empty Scene Day,4,22.869,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/01
+Train Insane - Dutch 8 - MaiOnHigh,Empty Scene Day,999,999.999,RCSwix_QT,NO_DATA
+Train insane - High jumps - MaiOnHigh,Empty Scene Day,1,21.657,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/05
+Train Insane - Ladder - MaiOnHigh,Empty Scene Day,4,31.416,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/02
+Train Insane - Long Dive - MaiOnHigh,Empty Scene Day,3,21.527,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/03
+Train Insane - powerloops - MaiOnHigh,Empty Scene Day,4,27.131,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/04
+Train insane - powerloop to sharp turn - MaiOnHigh,Empty Scene Day,3,48.017,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/08
+Train Insane Race Track - MaiOnHigh,Empty Scene Day,5,55.293,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/12
+Train Insane - Reversed split-s - MaiOnhigh,Empty Scene Day,1,27.425,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/03
+Train insane - sharp turns - MaiOnHigh,Empty Scene Day,1,47.943,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/08
+Train Insane - slalom - MaiOnHigh,Empty Scene Day,3,10.788,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/08
+Train insane - Split-S ladder - MaiOnHigh,Empty Scene Day,1,45.826,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/09
+Train insane - Split-S - MaiOnHigh,Empty Scene Day,1,14.877,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/04
+Train Insane- Test1 - MaiOnHigh,Empty Scene Day,8,39.481,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/11
+Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,1,29.489,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/10
+Train insane - wide slalom - MaiOnHigh,Empty Scene Day,2,18.253,RCSwix_QT,RussianFederation,Mode2Ghost,2022/01/08
 VRL 7 Race 4,Dynamic Weather,120,98.954,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/11
 VRL 7 Track 1,Future Hangar,100,102.721,RCSwix_QT,RussianFederation,Mode2Ghost,2021/01/15
 VRL 7 Track 2,Future Hangar Empty,60,97.917,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/06

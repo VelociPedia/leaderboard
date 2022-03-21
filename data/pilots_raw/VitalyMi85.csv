@@ -6,7 +6,7 @@ DEP Open Pop-Up 2,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,122.160,VitalyMi85,RussianFederation,Five33Switchback,2021/09/11
 DEP Open Series 3 Race 1,Football Stadium,66.603,VitalyMi85,RussianFederation,Five33Switchback,2021/09/04
-DEP Open Series 3 Race 2,Football Stadium,999.999,VitalyMi85,NO_DATA
+DEP Open Series 3 Race 2,Football Stadium,114.756,VitalyMi85,RussianFederation,Five33Switchback,2022/03/07
 DEP Open Series 3 Race 3,Karting Track,94.104,VitalyMi85,RussianFederation,Five33Switchback,2021/12/14
 DEP Open Series 3 Race 4,Football Stadium,999.999,VitalyMi85,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,90.585,VitalyMi85,RussianFederation,Five33Switchback,2021/12/14
@@ -26,6 +26,8 @@ DEP Open Series 5 Race 4,Football Stadium,117.707,VitalyMi85,RussianFederation,F
 DEP Open Series 5 Race 5,Football Stadium,93.137,VitalyMi85,RussianFederation,Five33Switchback,2021/12/11
 DEP Open Series 5 Race 6,Football Stadium,81.885,VitalyMi85,RussianFederation,Five33Switchback,2022/02/22
 DEP Open Series 5 Race 7,Football Stadium,115.200,VitalyMi85,RussianFederation,Five33Switchback,2021/12/25
+DEP Open Series 6 Race 1,Football Stadium,126.537,VitalyMi85,RussianFederation,Five33Switchback,2022/03/05
+DEP Open Series 6 Race 2,Football Stadium,134.446,VitalyMi85,RussianFederation,Five33Switchback,2022/03/10
 DEP Spec Series 1 Race 5,Football Stadium,111.434,VitalyMi85,RussianFederation,Five33Switchback,2022/01/18
 EU Spec Season 4 Race 1,Football Stadium,999.999,VitalyMi85,NO_DATA
 Formula FLow I,Empty Scene Day,68.920,VitalyMi85,RussianFederation,Five33Switchback,2022/03/17
@@ -151,6 +153,12 @@ VRL S5 TRACK 2,Dynamic Weather,175.281,VitalyMi85,RussianFederation,Five33Switch
 VRL S5 TRACK 3,Bando,999.999,VitalyMi85,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,97.768,VitalyMi85,RussianFederation,Five33Switchback,2021/12/21
 VRL S5 TRACK 5,Dynamic Weather,137.426,VitalyMi85,RussianFederation,Five33Switchback,2021/12/21
+VRL Season 3 Track 1,Empty Scene Day,78.513,VitalyMi85,RussianFederation,Five33Switchback,2021/09/30
+VRL Season 3 Track 2,Empty Scene Day,73.842,VitalyMi85,RussianFederation,Five33Switchback,2021/09/30
+VRL Season 3 Track 3,Empty Scene Day,106.933,VitalyMi85,RussianFederation,Five33Switchback,2022/03/18
+VRL Season 3 Track 4,Empty Scene Day,137.434,VitalyMi85,RussianFederation,Five33Switchback,2022/03/18
+VRL Season 3 Track 5,Empty Scene Day,136.675,VitalyMi85,RussianFederation,Five33Switchback,2022/03/18
+VRL Season 3 Track 6,Empty Scene Day,234.557,VitalyMi85,RussianFederation,Five33Switchback,2022/03/18
 VRL SEASON 5 TRACK 6,Dynamic Weather,160.185,VitalyMi85,RussianFederation,Five33Switchback,2021/12/21
 VRL SEASON 5 TRACK 7,IndoorGoKart,203.144,VitalyMi85,RussianFederation,Five33Switchback,2021/12/21
 VRL SEASON 5 TRACK 8,Industrial Wasteland,999.999,VitalyMi85,NO_DATA

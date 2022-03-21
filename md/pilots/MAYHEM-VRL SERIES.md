@@ -12,14 +12,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |96|VRL 7 Track 1|Future Hangar|Ossa|2020/10/27|
-|81|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2022/02/08|
+|82|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2022/02/08|
+|82|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/01/16|
 |80|VRL Season 8 Track 5|Dynamic Weather|Five33Switchback|2022/01/19|
-|80|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/01/16|
-|77|VRL Season 8 Track 6|Night Factory 2|Five33Switchback|2022/01/19|
+|79|VRL Season 8 Track 6|Night Factory 2|Five33Switchback|2022/01/19|
 |77|VRL 7 Track 2|Future Hangar Empty|Ossa|2020/11/03|
 |75|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2020/12/31|
+|74|VRL Season 8 Track 1|Office Complex|Five33Switchback|2022/01/20|
 |74|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/08|
-|73|VRL Season 8 Track 1|Office Complex|Five33Switchback|2022/01/20|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

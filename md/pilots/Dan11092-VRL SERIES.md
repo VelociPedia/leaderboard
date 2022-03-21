@@ -2,29 +2,29 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |18|VRL-Season-4-Tryouts|Dynamic Weather|ArmattanChameleon|2020/05/28|
-|40|VRL-Season-4-Track-4|Dynamic Weather|ArmattanChameleon|2020/05/28|
+|42|VRL-Season-4-Track-4|Dynamic Weather|ArmattanChameleon|2020/05/28|
 |46|VRL_Season_4_Track_6|Dynamic Weather|ArmattanChameleon|2020/05/28|
-|46|VRL6 Downtown Loop|Dynamic Weather|ArmattanChameleon|2020/05/28|
-|52|VRL SEASON 5 TRACK 7|IndoorGoKart|ArmattanChameleon|2020/05/27|
+|47|VRL6 Downtown Loop|Dynamic Weather|ArmattanChameleon|2020/05/28|
+|54|VRL SEASON 5 TRACK 7|IndoorGoKart|ArmattanChameleon|2020/05/27|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|VRL Season 4 Track 2|Bando|ArmattanChameleon|2020/05/28|
-|173|VRL SEASON 6 TRYOUTS|Dynamic Weather|ArmattanChameleon|2020/05/27|
-|149|VRL6 Extermination|Dynamic Weather|ArmattanChameleon|2020/05/28|
-|137|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|ArmattanChameleon|2020/05/27|
-|133|VRL Season 3 Track 2|Empty Scene Day|ArmattanChameleon|2020/05/27|
-|132|VRL S5 TRACK 3|Bando|ArmattanChameleon|2020/05/27|
-|130|VRL6 Kenerator|Dynamic Weather|ArmattanChameleon|2020/05/28|
+|194|VRL Season 4 Track 2|Bando|ArmattanChameleon|2020/05/28|
+|175|VRL SEASON 6 TRYOUTS|Dynamic Weather|ArmattanChameleon|2020/05/27|
+|150|VRL6 Extermination|Dynamic Weather|ArmattanChameleon|2020/05/28|
+|141|VRL Season 3 Track 2|Empty Scene Day|ArmattanChameleon|2020/05/27|
+|138|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|ArmattanChameleon|2020/05/27|
+|135|VRL S5 TRACK 3|Bando|ArmattanChameleon|2020/05/27|
+|133|VRL6 Kenerator|Dynamic Weather|ArmattanChameleon|2020/05/28|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|137|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|ArmattanChameleon|2020/05/27|
-|103|VRL S5 Track 1|Dynamic Weather|ArmattanChameleon|2020/05/27|
-|82|VRL S5 TRACK 2|Dynamic Weather|ArmattanChameleon|2020/05/27|
-|132|VRL S5 TRACK 3|Bando|ArmattanChameleon|2020/05/27|
+|138|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|ArmattanChameleon|2020/05/27|
+|105|VRL S5 Track 1|Dynamic Weather|ArmattanChameleon|2020/05/27|
+|84|VRL S5 TRACK 2|Dynamic Weather|ArmattanChameleon|2020/05/27|
+|135|VRL S5 TRACK 3|Bando|ArmattanChameleon|2020/05/27|
 |57|VRL S5 TRACK 4|Empty Scene Day|ArmattanChameleon|2020/05/27|
 ---
 ### 1 tracks where TBS SPEC quad was used

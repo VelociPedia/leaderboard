@@ -1,3 +1,30 @@
+DEP Open Pop-Up 2,Dynamic Weather,6,55.195,クマシャンプ,UnitedStates,Mode2Ghost,2021/07/03
+DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 2 Race 7,Football Stadium,24,84.839,クマシャンプ,UnitedStates,Mode2Ghost,2021/08/11
+DEP Open Series 3 Race 1,Football Stadium,31,51.984,クマシャンプ,UnitedStates,Mode2Ghost,2021/05/31
+DEP Open Series 3 Race 2,Football Stadium,28,72.334,クマシャンプ,UnitedStates,BMSJS-1,2021/02/22
+DEP Open Series 3 Race 3,Karting Track,14,72.124,クマシャンプ,UnitedStates,Mode2Ghost,2021/06/23
+DEP Open Series 3 Race 4,Football Stadium,41,59.622,クマシャンプ,UnitedStates,Five33Switchback,2021/02/27
+DEP Open Series 3 Race 5,Football Stadium,52,78.643,クマシャンプ,UnitedStates,Five33Switchback,2021/03/09
+DEP Open Series 3 Race 6,Football Stadium,19,82.502,クマシャンプ,UnitedStates,Mode2Ghost,2021/05/31
+DEP Open Series 3 Race 7,Football Stadium,31,80.817,クマシャンプ,UnitedStates,Five33Switchback,2021/03/22
+DEP Open Series 4 Race 1,Football Stadium,30,77.826,クマシャンプ,UnitedStates,Ossa,2021/04/11
+DEP Open Series 4 Race 2,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 4 Race 3,Football Stadium,25,61.652,クマシャンプ,UnitedStates,BMSJS-1,2021/04/18
+DEP Open Series 4 Race 4,Football Stadium,23,75.812,クマシャンプ,UnitedStates,Mode2Ghost,2021/04/27
+DEP Open Series 4 Race 5,Football Stadium,29,60.300,クマシャンプ,UnitedStates,Mode2Ghost,2021/05/05
+DEP Open Series 4 Race 6,Football Stadium,33,64.943,クマシャンプ,UnitedStates,Mode2Ghost,2021/05/25
+DEP Open Series 4 Race 7,Football Stadium,32,63.583,クマシャンプ,UnitedStates,Mode2Ghost,2021/05/31
+DEP Open Series 5 Race 1,Football Stadium,112,76.634,クマシャンプ,UnitedStates,CarbiXZero,2021/11/02
+DEP Open Series 5 Race 2,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 5 Race 3,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 5 Race 4,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 5 Race 5,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 5 Race 6,Football Stadium,25,64.304,クマシャンプ,UnitedStates,CarbiXZero,2021/12/25
+DEP Open Series 5 Race 7,Football Stadium,999,999.999,クマシャンプ,NO_DATA
+DEP Open Series 6 Race 1,Football Stadium,11,59.816,クマシャンプ,UnitedStates,Mode2Ghost,2022/03/10
+DEP Open Series 6 Race 2,Football Stadium,40,101.232,クマシャンプ,UnitedStates,Mode2Ghost,2022/03/19
+DEP Spec Series 1 Race 5,Football Stadium,104,105.012,クマシャンプ,UnitedStates,Five33Switchback,2020/10/13
 TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,クマシャンプ,NO_DATA
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,クマシャンプ,NO_DATA
 TBS EU Spec Series 7 Race 2,Empty Scene Day,38,68.234,クマシャンプ,UnitedStates,Mode2Ghost,2021/06/04
@@ -24,3 +51,20 @@ TBS EU Spec Series 9 Race 4,Football Stadium,9,60.030,クマシャンプ,UnitedS
 TBS EU Spec Series 9 Race 5,Empty Scene Day,15,57.289,クマシャンプ,UnitedStates,CarbiXZero,2021/10/15
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,クマシャンプ,NO_DATA
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,クマシャンプ,NO_DATA
+VRL 7 Race 4,Dynamic Weather,16,84.591,クマシャンプ,UnitedStates,MadLite,2021/09/03
+VRL 7 Track 1,Future Hangar,19,93.292,クマシャンプ,UnitedStates,MadLite,2021/08/31
+VRL 7 Track 2,Future Hangar Empty,8,89.109,クマシャンプ,UnitedStates,Mode2Ghost,2021/07/04
+VRL 7 Track 3,Dynamic Weather,5,68.488,クマシャンプ,UnitedStates,MadLite,2021/09/01
+VRL 7 Track 5,Dynamic Weather,5,78.738,クマシャンプ,UnitedStates,MadLite,2021/09/01
+VRL 7 Track 6,Dynamic Weather,6,77.534,クマシャンプ,UnitedStates,CarbiXZero,2021/10/19
+VRL7 Tryouts,Future Hangar Empty,3,87.188,クマシャンプ,UnitedStates,Mode2Ghost,2021/07/04
+VRL Season 7 Championships,Dynamic Weather,62,103.076,クマシャンプ,UnitedStates,CarbiXZero,2021/10/17
+VRL Season 8 Championships,Dynamic Weather,34,76.056,クマシャンプ,UnitedStates,CarbiXZero,2022/02/05
+VRL Season 8 Track 1,Office Complex,23,113.177,クマシャンプ,UnitedStates,CarbiXZero,2021/11/11
+VRL Season 8 Track 2,Drift Track,25,84.825,クマシャンプ,UnitedStates,CarbiXZero,2021/11/18
+VRL Season 8 Track 3,Night Factory 2,41,103.205,クマシャンプ,UnitedStates,CarbiXZero,2021/11/28
+VRL Season 8 Track 4,DynamicPoly,23,109.354,クマシャンプ,UnitedStates,CarbiXZero,2021/12/11
+VRL Season 8 Track 5,Dynamic Weather,34,97.629,クマシャンプ,UnitedStates,CarbiXZero,2021/12/18
+VRL Season 8 Track 6,Night Factory 2,34,103.075,クマシャンプ,UnitedStates,CarbiXZero,2022/01/05
+VRL SEASON 8 TRACK 7,Dynamic Weather,46,81.182,クマシャンプ,UnitedStates,CarbiXZero,2022/01/22
+VRL SEASON 8 TRYOUTS,RedValley,999,999.999,クマシャンプ,NO_DATA

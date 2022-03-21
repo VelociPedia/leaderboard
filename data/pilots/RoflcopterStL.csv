@@ -3,8 +3,8 @@
 2021 MultiGP Champs Track 1,Empty Scene Day,999,999.999,RoflcopterStL,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Pop-Up 2,Dynamic Weather,187,126.197,RoflcopterStL,UnitedStates,Five33Switchback,2021/07/01
-DEP Open Series 2 Race 1,Dynamic Weather,158,69.874,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/26
-DEP Open Series 2 Race 7,Football Stadium,168,136.147,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/10
+DEP Open Series 2 Race 1,Dynamic Weather,159,69.874,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/26
+DEP Open Series 2 Race 7,Football Stadium,171,136.147,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/10
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,127,113.711,RoflcopterStL,UnitedStates,Five33Switchback,2021/08/16
@@ -15,17 +15,19 @@ DEP Open Series 3 Race 7,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 4 Race 1,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 4 Race 2,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
-DEP Open Series 4 Race 4,Football Stadium,183,143.762,RoflcopterStL,UnitedStates,TBSOblivion,2021/05/05
-DEP Open Series 4 Race 5,Football Stadium,166,86.717,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/14
-DEP Open Series 4 Race 6,Football Stadium,164,96.665,RoflcopterStL,UnitedStates,TBSSpec,2021/10/01
-DEP Open Series 4 Race 7,Football Stadium,166,93.571,RoflcopterStL,UnitedStates,TBSSpec,2021/10/01
-DEP Open Series 5 Race 1,Football Stadium,153,86.871,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/04
-DEP Open Series 5 Race 2,Football Stadium,189,123.979,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/15
+DEP Open Series 4 Race 4,Football Stadium,184,143.762,RoflcopterStL,UnitedStates,TBSOblivion,2021/05/05
+DEP Open Series 4 Race 5,Football Stadium,168,86.717,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/14
+DEP Open Series 4 Race 6,Football Stadium,165,96.665,RoflcopterStL,UnitedStates,TBSSpec,2021/10/01
+DEP Open Series 4 Race 7,Football Stadium,172,93.571,RoflcopterStL,UnitedStates,TBSSpec,2021/10/01
+DEP Open Series 5 Race 1,Football Stadium,156,86.871,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/04
+DEP Open Series 5 Race 2,Football Stadium,192,123.979,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/15
 DEP Open Series 5 Race 3,Football Stadium,140,109.972,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/22
-DEP Open Series 5 Race 4,Football Stadium,139,118.959,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/10
-DEP Open Series 5 Race 5,Football Stadium,166,148.737,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/07
+DEP Open Series 5 Race 4,Football Stadium,140,118.959,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/10
+DEP Open Series 5 Race 5,Football Stadium,167,148.737,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/07
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
+DEP Open Series 6 Race 1,Football Stadium,114,102.014,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/05
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
 Formula FLow I,Empty Scene Day,104,74.304,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/15
 Formula Flow II,Empty Scene Day,75,119.558,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/15
@@ -90,40 +92,40 @@ VRL6 Tunnel Vision,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL 7 Race 4,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL 7 Track 1,Future Hangar,999,999.999,RoflcopterStL,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,160,162.440,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
-VRL 7 Track 3,Dynamic Weather,161,100.365,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/20
+VRL 7 Track 3,Dynamic Weather,162,100.365,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/20
 VRL 7 Track 5,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,RoflcopterStL,NO_DATA
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,75,124.007,RoflcopterStL,UnitedStates,Five33Switchback,2022/01/21
-VRL S5 Track 1,Dynamic Weather,95,163.106,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
+VRL S5 Track 1,Dynamic Weather,97,163.106,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL S5 TRACK 2,Dynamic Weather,28,129.442,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL S5 TRACK 3,Bando,999,999.999,RoflcopterStL,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,55,136.181,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/17
-VRL S5 TRACK 5,Dynamic Weather,54,181.524,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
-VRL Season 3 Track 1,Empty Scene Day,118,98.579,RoflcopterStL,UnitedStates,Five33Switchback,2022/01/09
-VRL Season 3 Track 2,Empty Scene Day,199,148.106,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/17
-VRL Season 3 Track 3,Empty Scene Day,50,125.617,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/28
+VRL S5 TRACK 5,Dynamic Weather,56,181.524,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
+VRL Season 3 Track 1,Empty Scene Day,123,98.579,RoflcopterStL,UnitedStates,Five33Switchback,2022/01/09
+VRL Season 3 Track 2,Empty Scene Day,999,999.999,RoflcopterStL,NO_DATA
+VRL Season 3 Track 3,Empty Scene Day,54,125.617,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/28
 VRL Season 3 Track 4,Empty Scene Day,42,121.775,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/21
-VRL Season 3 Track 5,Empty Scene Day,49,98.096,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
+VRL Season 3 Track 5,Empty Scene Day,50,98.096,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL Season 3 Track 6,Empty Scene Day,31,172.476,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL Season 4 Championship,Football Stadium,999,999.999,RoflcopterStL,NO_DATA
-VRL Season 4 Track 1,Dynamic Weather,56,256.383,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/18
-VRL Season 4 Track 2,Bando,151,220.734,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/18
-VRL Season 4 Track 3,Basketball Stadium,107,102.050,RoflcopterStL,UnitedStates,Five33Switchback,2021/08/18
-VRL-Season-4-Track-4,Dynamic Weather,39,123.189,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/29
+VRL Season 4 Track 1,Dynamic Weather,58,256.383,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/18
+VRL Season 4 Track 2,Bando,153,220.734,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/18
+VRL Season 4 Track 3,Basketball Stadium,109,102.050,RoflcopterStL,UnitedStates,Five33Switchback,2021/08/18
+VRL-Season-4-Track-4,Dynamic Weather,41,123.189,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/29
 VRL_Season_4_Track_5,Coastal,999,999.999,RoflcopterStL,NO_DATA
 VRL_Season_4_Track_6,Dynamic Weather,60,246.104,RoflcopterStL,UnitedStates,Five33Switchback,2021/06/18
-VRL Season 4 Track 7,Dynamic Weather,44,140.972,RoflcopterStL,UnitedStates,Five33Switchback,2021/05/14
+VRL Season 4 Track 7,Dynamic Weather,47,140.972,RoflcopterStL,UnitedStates,Five33Switchback,2021/05/14
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
-VRL SEASON 5 TRACK 6,Dynamic Weather,96,247.823,RoflcopterStL,UnitedStates,Mode2Ghost,2021/04/21
-VRL SEASON 5 TRACK 7,IndoorGoKart,123,562.006,RoflcopterStL,UnitedStates,Five33Switchback,2021/04/15
+VRL SEASON 5 TRACK 6,Dynamic Weather,101,247.823,RoflcopterStL,UnitedStates,Mode2Ghost,2021/04/21
+VRL SEASON 5 TRACK 7,IndoorGoKart,126,562.006,RoflcopterStL,UnitedStates,Five33Switchback,2021/04/15
 VRL SEASON 5 TRACK 8,Industrial Wasteland,999,999.999,RoflcopterStL,NO_DATA
 VRL SEASON 5 TRYOUTS,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL Season 7 Championships,Dynamic Weather,999,999.999,RoflcopterStL,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,108,132.429,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/14
-VRL Season 8 Track 1,Office Complex,137,360.289,RoflcopterStL,UnitedStates,Five33Switchback,2021/10/29
-VRL Season 8 Track 2,Drift Track,139,202.753,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/17
+VRL Season 8 Track 1,Office Complex,141,360.289,RoflcopterStL,UnitedStates,Five33Switchback,2021/10/29
+VRL Season 8 Track 2,Drift Track,144,202.753,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/17
 VRL Season 8 Track 3,Night Factory 2,999,999.999,RoflcopterStL,NO_DATA
 VRL Season 8 Track 4,DynamicPoly,78,192.564,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,82,145.074,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/25

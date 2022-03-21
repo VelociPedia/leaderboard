@@ -2,38 +2,39 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |24|VRL-Season-4-Tryouts|Dynamic Weather|Solleva|2021/04/22|
-|41|VRL6 Downtown Loop|Dynamic Weather|Solleva|2021/04/23|
+|42|VRL6 Downtown Loop|Dynamic Weather|Solleva|2021/04/23|
 |44|VRL_Season_4_Track_6|Dynamic Weather|Solleva|2021/04/25|
-|44|VRL SEASON 5 TRACK 7|IndoorGoKart|Yakuza|2021/06/08|
+|46|VRL SEASON 5 TRACK 7|IndoorGoKart|Yakuza|2021/06/08|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|197|VRL Season 3 Track 2|Empty Scene Day|Solleva|2021/03/21|
-|160|VRL SEASON 6 TRYOUTS|Dynamic Weather|Solleva|2021/04/21|
-|148|VRL6 Kenerator|Dynamic Weather|Solleva|2021/04/24|
-|145|VRL6 Extermination|Dynamic Weather|Solleva|2021/04/24|
-|145|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|UVifyDraco|2021/03/21|
-|130|VRL6 Tunnel Vision|Dynamic Weather|Solleva|2021/04/25|
-|112|VRL Season 3 Track 5|Empty Scene Day|Solleva|2021/03/22|
+|162|VRL SEASON 6 TRYOUTS|Dynamic Weather|Solleva|2021/04/21|
+|151|VRL6 Kenerator|Dynamic Weather|Solleva|2021/04/24|
+|146|VRL6 Extermination|Dynamic Weather|Solleva|2021/04/24|
+|146|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|UVifyDraco|2021/03/21|
+|131|VRL6 Tunnel Vision|Dynamic Weather|Solleva|2021/04/25|
+|115|VRL Season 3 Track 5|Empty Scene Day|Solleva|2021/03/22|
+|109|VRL_Season_4_Track_5|Coastal|Solleva|2021/05/02|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|92|VRL Season 4 Championship|Football Stadium|TinyHawk|2020/10/05|
-|145|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|UVifyDraco|2021/03/21|
+|94|VRL Season 4 Championship|Football Stadium|TinyHawk|2020/10/05|
+|146|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|UVifyDraco|2021/03/21|
 |74|VRL S5 TRACK 4|Empty Scene Day|UVifyDraco|2021/03/21|
-|197|VRL Season 3 Track 2|Empty Scene Day|Solleva|2021/03/21|
+|72|VRL Season 3 Track 3|Empty Scene Day|Solleva|2021/03/21|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 22 tracks without data (200+ or not in leaderboard)
+### 23 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |VRL Season 3 Track 1|Empty Scene Day|
+|VRL Season 3 Track 2|Empty Scene Day|
 |VRL Season 4 Track 2|Bando|
 |VRL Season 4 Track 3|Basketball Stadium|
 |VRL S5 TRACK 3|Bando|

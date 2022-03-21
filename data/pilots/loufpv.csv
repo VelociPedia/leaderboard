@@ -5,27 +5,29 @@
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,loufpv,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,23,45.438,loufpv,UnitedStates,Five33Switchback,2021/05/19
 DEP Open Series 2 Race 7,Football Stadium,23,83.765,loufpv,UnitedStates,Five33Switchback,2021/04/07
-DEP Open Series 3 Race 1,Football Stadium,47,55.709,loufpv,UnitedStates,Five33Switchback,2021/03/31
-DEP Open Series 3 Race 2,Football Stadium,16,70.045,loufpv,UnitedStates,Five33Switchback,2021/07/08
+DEP Open Series 3 Race 1,Football Stadium,48,55.709,loufpv,UnitedStates,Five33Switchback,2021/03/31
+DEP Open Series 3 Race 2,Football Stadium,8,64.509,loufpv,UnitedStates,Five33Switchback,2022/03/17
 DEP Open Series 3 Race 3,Karting Track,35,81.115,loufpv,UnitedStates,Five33Switchback,2021/10/12
-DEP Open Series 3 Race 4,Football Stadium,34,57.881,loufpv,UnitedStates,Five33Switchback,2021/07/31
-DEP Open Series 3 Race 5,Football Stadium,71,82.794,loufpv,UnitedStates,Five33Switchback,2021/04/14
+DEP Open Series 3 Race 4,Football Stadium,19,54.977,loufpv,UnitedStates,Five33Switchback,2022/03/17
+DEP Open Series 3 Race 5,Football Stadium,72,82.794,loufpv,UnitedStates,Five33Switchback,2021/04/14
 DEP Open Series 3 Race 6,Football Stadium,32,87.455,loufpv,UnitedStates,Five33Switchback,2021/08/03
 DEP Open Series 3 Race 7,Football Stadium,30,80.391,loufpv,UnitedStates,Five33Switchback,2021/05/04
 DEP Open Series 4 Race 1,Football Stadium,115,99.518,loufpv,UnitedStates,Five33Switchback,2021/04/05
 DEP Open Series 4 Race 2,Football Stadium,57,98.414,loufpv,UnitedStates,Five33Switchback,2021/05/05
-DEP Open Series 4 Race 3,Football Stadium,27,63.213,loufpv,UnitedStates,Five33Switchback,2021/04/22
+DEP Open Series 4 Race 3,Football Stadium,28,63.213,loufpv,UnitedStates,Five33Switchback,2021/04/22
 DEP Open Series 4 Race 4,Football Stadium,30,78.525,loufpv,UnitedStates,Five33Switchback,2021/11/22
-DEP Open Series 4 Race 5,Football Stadium,15,58.214,loufpv,UnitedStates,Five33Switchback,2021/07/11
+DEP Open Series 4 Race 5,Football Stadium,16,58.214,loufpv,UnitedStates,Five33Switchback,2021/07/11
 DEP Open Series 4 Race 6,Football Stadium,28,64.244,loufpv,UnitedStates,Five33Switchback,2021/09/18
 DEP Open Series 4 Race 7,Football Stadium,22,60.501,loufpv,UnitedStates,Five33Switchback,2021/09/13
-DEP Open Series 5 Race 1,Football Stadium,150,86.260,loufpv,UnitedStates,Five33Switchback,2021/11/21
+DEP Open Series 5 Race 1,Football Stadium,153,86.260,loufpv,UnitedStates,Five33Switchback,2021/11/21
 DEP Open Series 5 Race 2,Football Stadium,999,999.999,loufpv,NO_DATA
-DEP Open Series 5 Race 3,Football Stadium,17,68.624,loufpv,UnitedStates,Five33Switchback,2021/11/17
+DEP Open Series 5 Race 3,Football Stadium,7,65.482,loufpv,UnitedStates,Five33Switchback,2022/03/20
 DEP Open Series 5 Race 4,Football Stadium,999,999.999,loufpv,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,loufpv,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,loufpv,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,loufpv,NO_DATA
+DEP Open Series 6 Race 1,Football Stadium,999,999.999,loufpv,NO_DATA
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,loufpv,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,loufpv,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,103,92.543,loufpv,UnitedStates,Five33Switchback,2020/12/23
 MGP2018IOIntermediate,Empty Scene Day,999,999.999,loufpv,NO_DATA
@@ -126,13 +128,13 @@ VRL 7 Race 4,Dynamic Weather,34,86.835,loufpv,UnitedStates,Five33Switchback,2021
 VRL 7 Track 1,Future Hangar,999,999.999,loufpv,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,100,123.084,loufpv,UnitedStates,Five33Switchback,2021/01/13
 VRL 7 Track 3,Dynamic Weather,999,999.999,loufpv,NO_DATA
-VRL 7 Track 5,Dynamic Weather,172,104.427,loufpv,UnitedStates,Five33Switchback,2020/12/20
+VRL 7 Track 5,Dynamic Weather,173,104.427,loufpv,UnitedStates,Five33Switchback,2020/12/20
 VRL 7 Track 6,Dynamic Weather,999,999.999,loufpv,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,24,91.574,loufpv,UnitedStates,Five33Switchback,2021/08/07
-VRL Season 3 Track 1,Empty Scene Day,177,117.246,loufpv,UnitedStates,Velocity,2020/05/01
-VRL Season 3 Track 2,Empty Scene Day,97,89.924,loufpv,UnitedStates,CarbiXZero,2020/10/06
+VRL Season 3 Track 1,Empty Scene Day,182,117.246,loufpv,UnitedStates,Velocity,2020/05/01
+VRL Season 3 Track 2,Empty Scene Day,101,89.924,loufpv,UnitedStates,CarbiXZero,2020/10/06
 VRL Season 3 Track 3,Empty Scene Day,17,93.022,loufpv,UnitedStates,CarbiXZero,2020/10/29
 VRL Season 3 Track 4,Empty Scene Day,24,108.874,loufpv,UnitedStates,Five33Switchback,2020/12/27
-VRL Season 3 Track 5,Empty Scene Day,50,98.173,loufpv,UnitedStates,CarbiXZero,2020/10/17
-VRL Season 3 Track 6,Empty Scene Day,38,188.260,loufpv,UnitedStates,CarbiXZero,2020/10/14
+VRL Season 3 Track 5,Empty Scene Day,51,98.173,loufpv,UnitedStates,CarbiXZero,2020/10/17
+VRL Season 3 Track 6,Empty Scene Day,39,188.260,loufpv,UnitedStates,CarbiXZero,2020/10/14
 VRL Season 7 Championships,Dynamic Weather,110,112.822,loufpv,UnitedStates,Five33Switchback,2020/12/30

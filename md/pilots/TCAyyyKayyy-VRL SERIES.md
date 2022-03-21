@@ -10,13 +10,13 @@
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|65|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
-|61|VRL Season 8 Track 5|Dynamic Weather|Ossa|2021/12/20|
+|66|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
+|62|VRL Season 8 Track 5|Dynamic Weather|Ossa|2021/12/20|
 |57|VRL Season 7 Championships|Dynamic Weather|Ossa|2021/01/03|
 |47|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/11|
 |43|VRL Season 8 Track 3|Night Factory 2|Ossa|2021/11/25|
 |41|VRL Season 8 Track 1|Office Complex|Ossa|2021/10/29|
-|39|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/04/24|
+|40|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/04/24|
 |39|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/04/15|
 ---
 ### Oldest 5 personal best
@@ -24,7 +24,7 @@
 |:---:|:---|:---|:---:|:---:|
 |47|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/11|
 |39|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/04/15|
-|39|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/04/24|
+|40|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/04/24|
 |45|VRL6 Championships|Dynamic Weather|CarbiXZero|2020/04/29|
 |22|VRL Season 4 Track 3|Basketball Stadium|CarbiXZero|2020/05/16|
 ---

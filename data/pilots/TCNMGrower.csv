@@ -1,8 +1,8 @@
 DEP Open Pop-Up 2,Dynamic Weather,8,56.068,TCNMGrower,UnitedStates,Chief,2022/01/21
 DEP Open Series 2 Race 1,Dynamic Weather,41,50.026,TCNMGrower,UnitedStates,Solleva,2020/12/07
 DEP Open Series 2 Race 7,Football Stadium,999,999.999,TCNMGrower,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,45,55.035,TCNMGrower,UnitedStates,Solleva,2021/02/04
-DEP Open Series 3 Race 2,Football Stadium,112,97.691,TCNMGrower,UnitedStates,Solleva,2021/02/11
+DEP Open Series 3 Race 1,Football Stadium,46,55.035,TCNMGrower,UnitedStates,Solleva,2021/02/04
+DEP Open Series 3 Race 2,Football Stadium,114,97.691,TCNMGrower,UnitedStates,Solleva,2021/02/11
 DEP Open Series 3 Race 3,Karting Track,20,75.029,TCNMGrower,UnitedStates,Solleva,2021/02/23
 DEP Open Series 3 Race 4,Football Stadium,53,61.317,TCNMGrower,UnitedStates,Solleva,2021/03/08
 DEP Open Series 3 Race 5,Football Stadium,44,77.211,TCNMGrower,UnitedStates,Solleva,2021/03/10
@@ -10,11 +10,11 @@ DEP Open Series 3 Race 6,Football Stadium,56,95.646,TCNMGrower,UnitedStates,Soll
 DEP Open Series 3 Race 7,Football Stadium,43,83.108,TCNMGrower,UnitedStates,Chief,2022/01/21
 DEP Open Series 4 Race 1,Football Stadium,97,95.168,TCNMGrower,UnitedStates,Solleva,2021/04/06
 DEP Open Series 4 Race 2,Football Stadium,35,94.361,TCNMGrower,UnitedStates,TBSSpec,2021/04/15
-DEP Open Series 4 Race 3,Football Stadium,21,60.668,TCNMGrower,UnitedStates,Solleva,2021/04/19
+DEP Open Series 4 Race 3,Football Stadium,22,60.668,TCNMGrower,UnitedStates,Solleva,2021/04/19
 DEP Open Series 4 Race 4,Football Stadium,15,73.333,TCNMGrower,UnitedStates,Solleva,2021/04/29
-DEP Open Series 4 Race 5,Football Stadium,61,66.778,TCNMGrower,UnitedStates,Solleva,2021/04/29
+DEP Open Series 4 Race 5,Football Stadium,62,66.778,TCNMGrower,UnitedStates,Solleva,2021/04/29
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,TCNMGrower,NO_DATA
-DEP Open Series 4 Race 7,Football Stadium,53,67.969,TCNMGrower,UnitedStates,Solleva,2021/11/16
+DEP Open Series 4 Race 7,Football Stadium,54,67.969,TCNMGrower,UnitedStates,Solleva,2021/11/16
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 DEP Open Series 5 Race 2,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 DEP Open Series 5 Race 3,Football Stadium,24,70.344,TCNMGrower,UnitedStates,Solleva,2021/11/22
@@ -22,6 +22,8 @@ DEP Open Series 5 Race 4,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,26,78.809,TCNMGrower,UnitedStates,Chief,2021/12/06
 DEP Open Series 5 Race 6,Football Stadium,26,64.605,TCNMGrower,UnitedStates,Chief,2021/12/15
 DEP Open Series 5 Race 7,Football Stadium,37,94.653,TCNMGrower,UnitedStates,Chief,2022/01/04
+DEP Open Series 6 Race 1,Football Stadium,25,67.169,TCNMGrower,UnitedStates,Chief,2022/03/16
+DEP Open Series 6 Race 2,Football Stadium,22,88.725,TCNMGrower,UnitedStates,Chief,2022/03/16
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,TCNMGrower,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,38,83.489,TCNMGrower,UnitedStates,Solleva,2021/02/24
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,134,81.792,TCNMGrower,UnitedStates,TBSSpec,2021/04/19
@@ -98,7 +100,7 @@ VRL6 Championships,Dynamic Weather,57,94.428,TCNMGrower,UnitedStates,SlamNasty,2
 VRL6 Crash Site,Dynamic Weather,17,140.076,TCNMGrower,UnitedStates,SlamNasty,2020/05/07
 VRL6 Downtown Loop,Dynamic Weather,10,152.218,TCNMGrower,UnitedStates,SlamNasty,2020/05/02
 VRL6 Extermination,Dynamic Weather,41,104.171,TCNMGrower,UnitedStates,SlamNasty,2020/04/11
-VRL6 Kenerator,Dynamic Weather,41,124.884,TCNMGrower,UnitedStates,SlamNasty,2020/04/23
+VRL6 Kenerator,Dynamic Weather,43,124.884,TCNMGrower,UnitedStates,SlamNasty,2020/04/23
 VRL6 Meltdown,Dynamic Weather,10,102.094,TCNMGrower,UnitedStates,SlamNasty,2020/05/02
 VRL6 Reinforcement,Dynamic Weather,38,134.247,TCNMGrower,UnitedStates,SlamNasty,2020/05/02
 VRL6 Tunnel Vision,Dynamic Weather,36,113.189,TCNMGrower,UnitedStates,SlamNasty,2020/04/18
@@ -115,8 +117,8 @@ VRL S5 TRACK 2,Dynamic Weather,3,83.553,TCNMGrower,UnitedStates,Solleva,2021/09/
 VRL S5 TRACK 3,Bando,8,106.377,TCNMGrower,UnitedStates,Solleva,2021/01/10
 VRL S5 TRACK 4,Empty Scene Day,5,76.768,TCNMGrower,UnitedStates,Chief,2022/01/18
 VRL S5 TRACK 5,Dynamic Weather,9,97.841,TCNMGrower,UnitedStates,Solleva,2020/07/11
-VRL Season 3 Track 1,Empty Scene Day,124,99.806,TCNMGrower,UnitedStates,Chief,2022/01/21
-VRL Season 3 Track 2,Empty Scene Day,11,59.821,TCNMGrower,UnitedStates,Chief,2022/01/17
+VRL Season 3 Track 1,Empty Scene Day,129,99.806,TCNMGrower,UnitedStates,Chief,2022/01/21
+VRL Season 3 Track 2,Empty Scene Day,12,59.821,TCNMGrower,UnitedStates,Chief,2022/01/17
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,TCNMGrower,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,39,119.998,TCNMGrower,UnitedStates,Solleva,2020/12/27
 VRL Season 3 Track 5,Empty Scene Day,29,81.373,TCNMGrower,UnitedStates,Solleva,2021/01/10
@@ -139,9 +141,9 @@ VRL Season 7 Championships,Dynamic Weather,21,96.511,TCNMGrower,UnitedStates,Chi
 VRL Season 8 Championships,Dynamic Weather,83,111.642,TCNMGrower,UnitedStates,Chief,2022/02/17
 VRL Season 8 Track 1,Office Complex,50,135.825,TCNMGrower,UnitedStates,Solleva,2021/11/12
 VRL Season 8 Track 2,Drift Track,61,97.083,TCNMGrower,UnitedStates,Solleva,2021/11/16
-VRL Season 8 Track 3,Night Factory 2,66,113.614,TCNMGrower,UnitedStates,Chief,2021/11/30
+VRL Season 8 Track 3,Night Factory 2,67,113.614,TCNMGrower,UnitedStates,Chief,2021/11/30
 VRL Season 8 Track 4,DynamicPoly,44,121.320,TCNMGrower,UnitedStates,Chief,2021/12/10
 VRL Season 8 Track 5,Dynamic Weather,52,109.054,TCNMGrower,UnitedStates,Chief,2021/12/17
-VRL Season 8 Track 6,Night Factory 2,41,105.695,TCNMGrower,UnitedStates,Chief,2022/01/15
+VRL Season 8 Track 6,Night Factory 2,42,105.695,TCNMGrower,UnitedStates,Chief,2022/01/15
 VRL SEASON 8 TRACK 7,Dynamic Weather,48,81.543,TCNMGrower,UnitedStates,Chief,2022/01/22
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,TCNMGrower,NO_DATA

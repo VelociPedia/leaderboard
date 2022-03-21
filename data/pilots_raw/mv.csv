@@ -2,7 +2,7 @@ DEP Open Pop-Up 2,Dynamic Weather,66.754,mv,Estonia,TBSSpec,2021/06/30
 DEP Open Series 2 Race 1,Dynamic Weather,49.596,mv,Estonia,CarbiXZero,2021/12/13
 DEP Open Series 2 Race 7,Football Stadium,75.581,mv,Estonia,CarbiXZero,2021/12/30
 DEP Open Series 3 Race 1,Football Stadium,48.646,mv,Estonia,CarbiXZero,2021/12/01
-DEP Open Series 3 Race 2,Football Stadium,74.563,mv,Estonia,TBSSpec,2021/08/09
+DEP Open Series 3 Race 2,Football Stadium,63.702,mv,Estonia,CarbiXZero,2022/03/17
 DEP Open Series 3 Race 3,Karting Track,73.744,mv,Estonia,TBSSpec,2022/02/12
 DEP Open Series 3 Race 4,Football Stadium,52.881,mv,Estonia,CarbiXZero,2021/12/21
 DEP Open Series 3 Race 5,Football Stadium,65.011,mv,Estonia,CarbiXZero,2021/12/14
@@ -22,6 +22,8 @@ DEP Open Series 5 Race 4,Football Stadium,67.825,mv,Estonia,CarbiXZero,2021/11/2
 DEP Open Series 5 Race 5,Football Stadium,72.756,mv,Estonia,CarbiXZero,2022/01/14
 DEP Open Series 5 Race 6,Football Stadium,62.044,mv,Estonia,CarbiXZero,2021/12/15
 DEP Open Series 5 Race 7,Football Stadium,86.540,mv,Estonia,CarbiXZero,2021/12/22
+DEP Open Series 6 Race 1,Football Stadium,999.999,mv,NO_DATA
+DEP Open Series 6 Race 2,Football Stadium,78.289,mv,Estonia,CarbiXZero,2022/03/09
 DEP Spec Series 1 Race 5,Football Stadium,97.156,mv,Estonia,TBSSpec,2021/10/18
 EU Spec Season 4 Race 1,Football Stadium,77.540,mv,Estonia,TBSSpec,2022/02/21
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,65.678,mv,Estonia,TBSSpec,2021/12/11

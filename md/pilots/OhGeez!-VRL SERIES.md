@@ -11,24 +11,24 @@
 ### Worse 10 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|VRL 7 Track 5|Dynamic Weather|NeatoFastback|2021/03/12|
-|184|VRL7 Tryouts|Future Hangar Empty|NeatoFastback|2020/09/12|
-|176|VRL 7 Track 3|Dynamic Weather|NeatoFastback|2021/03/12|
+|193|VRL 7 Track 5|Dynamic Weather|NeatoFastback|2021/03/12|
+|185|VRL7 Tryouts|Future Hangar Empty|NeatoFastback|2020/09/12|
+|177|VRL 7 Track 3|Dynamic Weather|NeatoFastback|2021/03/12|
 |174|VRL 7 Track 1|Future Hangar|NeatoFastback|2021/04/11|
 |131|VRL Season 7 Championships|Dynamic Weather|NeatoFastback|2021/03/18|
 |112|VRL6 Extermination|Dynamic Weather|NeatoFastback|2021/03/21|
 |111|VRL6 Championships|Dynamic Weather|NeatoFastback|2021/03/19|
 |106|VRL 7 Track 2|Future Hangar Empty|NeatoFastback|2021/02/24|
-|69|VRL Season 4 Championship|Football Stadium|NeatoFastback|2021/03/08|
-|69|VRL6 Kenerator|Dynamic Weather|NeatoFastback|2021/03/30|
+|71|VRL Season 4 Championship|Football Stadium|NeatoFastback|2021/03/08|
+|71|VRL6 Kenerator|Dynamic Weather|NeatoFastback|2021/03/30|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|49|VRL Season 4 Track 3|Basketball Stadium|NeatoFastback|2020/04/14|
+|50|VRL Season 4 Track 3|Basketball Stadium|NeatoFastback|2020/04/14|
 |37|VRL_Season_4_Track_6|Dynamic Weather|NeatoFastback|2020/04/28|
 |22|VRL Season 3 Track 4|Empty Scene Day|NeatoFastback|2020/06/10|
-|184|VRL7 Tryouts|Future Hangar Empty|NeatoFastback|2020/09/12|
+|185|VRL7 Tryouts|Future Hangar Empty|NeatoFastback|2020/09/12|
 |14|VRL SEASON 5 TRACK 7|IndoorGoKart|NeatoFastback|2021/01/04|
 |106|VRL 7 Track 2|Future Hangar Empty|NeatoFastback|2021/02/24|
 ---

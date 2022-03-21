@@ -1,27 +1,29 @@
-DEP Open Pop-Up 2,Dynamic Weather,119,91.073,CerbAirus,Germany,TBSSpec,2021/07/01
+DEP Open Pop-Up 2,Dynamic Weather,120,91.073,CerbAirus,Germany,TBSSpec,2021/07/01
 DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,CerbAirus,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,146,111.213,CerbAirus,Germany,Five33Switchback,2021/02/14
-DEP Open Series 3 Race 3,Karting Track,140,118.990,CerbAirus,Germany,Five33Switchback,2021/02/22
+DEP Open Series 3 Race 2,Football Stadium,148,111.213,CerbAirus,Germany,Five33Switchback,2021/02/14
+DEP Open Series 3 Race 3,Karting Track,141,118.990,CerbAirus,Germany,Five33Switchback,2021/02/22
 DEP Open Series 3 Race 4,Football Stadium,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,162,138.762,CerbAirus,Germany,TBSSpec,2021/03/12
 DEP Open Series 3 Race 7,Football Stadium,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 4 Race 1,Football Stadium,999,999.999,CerbAirus,NO_DATA
 DEP Open Series 4 Race 2,Football Stadium,999,999.999,CerbAirus,NO_DATA
-DEP Open Series 4 Race 3,Football Stadium,161,97.568,CerbAirus,Germany,Five33Switchback,2021/04/20
+DEP Open Series 4 Race 3,Football Stadium,162,97.568,CerbAirus,Germany,Five33Switchback,2021/04/20
 DEP Open Series 4 Race 4,Football Stadium,167,130.996,CerbAirus,Germany,TBSSpec,2021/04/27
-DEP Open Series 4 Race 5,Football Stadium,171,87.735,CerbAirus,Germany,TBSSpec,2021/05/11
-DEP Open Series 4 Race 6,Football Stadium,122,84.828,CerbAirus,Germany,Five33Switchback,2021/05/23
-DEP Open Series 4 Race 7,Football Stadium,124,84.130,CerbAirus,Germany,TBSSpec,2021/10/11
-DEP Open Series 5 Race 1,Football Stadium,113,77.210,CerbAirus,Germany,Five33Switchback,2021/10/21
-DEP Open Series 5 Race 2,Football Stadium,105,92.865,CerbAirus,Germany,TBSSpec,2021/10/30
+DEP Open Series 4 Race 5,Football Stadium,173,87.735,CerbAirus,Germany,TBSSpec,2021/05/11
+DEP Open Series 4 Race 6,Football Stadium,123,84.828,CerbAirus,Germany,Five33Switchback,2021/05/23
+DEP Open Series 4 Race 7,Football Stadium,129,84.130,CerbAirus,Germany,TBSSpec,2021/10/11
+DEP Open Series 5 Race 1,Football Stadium,116,77.210,CerbAirus,Germany,Five33Switchback,2021/10/21
+DEP Open Series 5 Race 2,Football Stadium,107,92.865,CerbAirus,Germany,TBSSpec,2021/10/30
 DEP Open Series 5 Race 3,Football Stadium,89,95.460,CerbAirus,Germany,CarbiXZero,2021/11/21
 DEP Open Series 5 Race 4,Football Stadium,92,97.885,CerbAirus,Germany,TBSSpec,2021/11/28
 DEP Open Series 5 Race 5,Football Stadium,93,107.431,CerbAirus,Germany,Five33Switchback,2021/12/13
-DEP Open Series 5 Race 6,Football Stadium,116,88.905,CerbAirus,Germany,Five33Switchback,2021/12/17
-DEP Open Series 5 Race 7,Football Stadium,76,110.582,CerbAirus,Germany,Five33Switchback,2022/01/02
+DEP Open Series 5 Race 6,Football Stadium,117,88.905,CerbAirus,Germany,Five33Switchback,2021/12/17
+DEP Open Series 5 Race 7,Football Stadium,77,110.582,CerbAirus,Germany,Five33Switchback,2022/01/02
+DEP Open Series 6 Race 1,Football Stadium,120,104.513,CerbAirus,Germany,Five33Switchback,2022/03/04
+DEP Open Series 6 Race 2,Football Stadium,80,138.687,CerbAirus,Germany,Five33Switchback,2022/03/16
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,CerbAirus,NO_DATA
 Formula FLow I,Empty Scene Day,70,68.259,CerbAirus,Germany,Five33Switchback,2022/03/10
 Formula Flow II,Empty Scene Day,72,114.761,CerbAirus,Germany,Five33Switchback,2022/03/17
@@ -56,10 +58,10 @@ TBS EU Spec Series 9 Race 6,Empty Scene Day,163,102.778,CerbAirus,Germany,TBSSpe
 TBS EU Spec Series 9 Race 7,NEC Birmingham,127,90.662,CerbAirus,Germany,TBSSpec,2021/11/07
 VRL Season 8 Championships,Dynamic Weather,137,169.745,CerbAirus,Germany,Five33Switchback,2022/02/12
 VRL Season 8 Track 1,Office Complex,999,999.999,CerbAirus,NO_DATA
-VRL Season 8 Track 2,Drift Track,105,138.964,CerbAirus,Germany,CarbiXZero,2021/11/16
+VRL Season 8 Track 2,Drift Track,107,138.964,CerbAirus,Germany,CarbiXZero,2021/11/16
 VRL Season 8 Track 3,Night Factory 2,163,210.340,CerbAirus,Germany,Five33Switchback,2021/11/27
 VRL Season 8 Track 4,DynamicPoly,999,999.999,CerbAirus,NO_DATA
 VRL Season 8 Track 5,Dynamic Weather,85,146.722,CerbAirus,Germany,Five33Switchback,2021/12/16
-VRL Season 8 Track 6,Night Factory 2,119,181.055,CerbAirus,Germany,TBSSpec,2022/01/08
-VRL SEASON 8 TRACK 7,Dynamic Weather,120,128.440,CerbAirus,Germany,Five33Switchback,2022/01/23
+VRL Season 8 Track 6,Night Factory 2,123,181.055,CerbAirus,Germany,TBSSpec,2022/01/08
+VRL SEASON 8 TRACK 7,Dynamic Weather,121,128.440,CerbAirus,Germany,Five33Switchback,2022/01/23
 VRL SEASON 8 TRYOUTS,RedValley,17,258.056,CerbAirus,Germany,TBSSpec,2021/09/10

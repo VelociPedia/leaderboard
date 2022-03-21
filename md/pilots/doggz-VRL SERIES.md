@@ -2,27 +2,27 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |22|VRL Season 3 Track 3|Empty Scene Day|AcrobotTruX-R197|2020/12/26|
-|52|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/01/02|
-|75|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
+|53|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/01/02|
+|78|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
 |13|VRL-Season-4-Tryouts|Dynamic Weather|AcrobotTruX-R197|2020/09/07|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|164|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
-|122|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
+|165|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|125|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 |99|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
-|82|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
-|61|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
-|56|VRL Season 3 Track 5|Empty Scene Day|TBSOblivion|2020/07/01|
+|83|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
+|62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
+|57|VRL Season 3 Track 5|Empty Scene Day|TBSOblivion|2020/07/01|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|35|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
-|164|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
-|61|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
-|122|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
+|36|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
+|165|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
+|125|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

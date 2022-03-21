@@ -25,7 +25,7 @@ VRL6 Championships,Dynamic Weather,67,100.526,MAYHEM,UnitedStates,SingularitumV5
 VRL6 Crash Site,Dynamic Weather,999,999.999,MAYHEM,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,11,154.883,MAYHEM,UnitedStates,Five33Switchback,2020/12/05
 VRL6 Extermination,Dynamic Weather,56,114.164,MAYHEM,UnitedStates,SingularitumV5,2020/04/07
-VRL6 Kenerator,Dynamic Weather,58,133.002,MAYHEM,UnitedStates,SingularitumV5,2020/04/21
+VRL6 Kenerator,Dynamic Weather,59,133.002,MAYHEM,UnitedStates,SingularitumV5,2020/04/21
 VRL6 Meltdown,Dynamic Weather,999,999.999,MAYHEM,NO_DATA
 VRL6 Reinforcement,Dynamic Weather,22,103.349,MAYHEM,UnitedStates,SingularitumV5,2020/04/06
 VRL6 Tunnel Vision,Dynamic Weather,52,128.524,MAYHEM,UnitedStates,SingularitumV5,2020/04/15
@@ -42,8 +42,8 @@ VRL S5 TRACK 2,Dynamic Weather,999,999.999,MAYHEM,NO_DATA
 VRL S5 TRACK 3,Bando,999,999.999,MAYHEM,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,999,999.999,MAYHEM,NO_DATA
 VRL S5 TRACK 5,Dynamic Weather,999,999.999,MAYHEM,NO_DATA
-VRL Season 3 Track 1,Empty Scene Day,30,69.965,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
-VRL Season 3 Track 2,Empty Scene Day,21,64.762,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
+VRL Season 3 Track 1,Empty Scene Day,31,69.965,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
+VRL Season 3 Track 2,Empty Scene Day,23,64.762,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
 VRL Season 3 Track 3,Empty Scene Day,6,72.244,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
 VRL Season 3 Track 4,Empty Scene Day,7,89.204,MAYHEM,UnitedStates,SingularitumV5,2020/05/13
 VRL Season 3 Track 5,Empty Scene Day,13,70.197,MAYHEM,UnitedStates,SingularitumV5,2020/05/15
@@ -64,11 +64,11 @@ VRL SEASON 5 TRYOUTS,Dynamic Weather,999,999.999,MAYHEM,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,18,107.158,MAYHEM,UnitedStates,Five33Switchback,2020/12/05
 VRL Season 7 Championships,Dynamic Weather,75,104.689,MAYHEM,UnitedStates,Five33Switchback,2020/12/31
 VRL Season 8 Championships,Dynamic Weather,74,102.815,MAYHEM,UnitedStates,Five33Switchback,2022/02/08
-VRL Season 8 Track 1,Office Complex,73,157.718,MAYHEM,UnitedStates,Five33Switchback,2022/01/20
-VRL Season 8 Track 2,Drift Track,80,115.678,MAYHEM,UnitedStates,Five33Switchback,2022/01/16
-VRL Season 8 Track 3,Night Factory 2,81,125.841,MAYHEM,UnitedStates,Five33Switchback,2022/02/08
+VRL Season 8 Track 1,Office Complex,74,157.718,MAYHEM,UnitedStates,Five33Switchback,2022/01/20
+VRL Season 8 Track 2,Drift Track,82,115.678,MAYHEM,UnitedStates,Five33Switchback,2022/01/16
+VRL Season 8 Track 3,Night Factory 2,82,125.841,MAYHEM,UnitedStates,Five33Switchback,2022/02/08
 VRL Season 8 Track 4,DynamicPoly,999,999.999,MAYHEM,NO_DATA
 VRL Season 8 Track 5,Dynamic Weather,80,140.588,MAYHEM,UnitedStates,Five33Switchback,2022/01/19
-VRL Season 8 Track 6,Night Factory 2,77,138.565,MAYHEM,UnitedStates,Five33Switchback,2022/01/19
+VRL Season 8 Track 6,Night Factory 2,79,138.565,MAYHEM,UnitedStates,Five33Switchback,2022/01/19
 VRL SEASON 8 TRACK 7,Dynamic Weather,75,98.448,MAYHEM,UnitedStates,Five33Switchback,2022/01/30
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,MAYHEM,NO_DATA

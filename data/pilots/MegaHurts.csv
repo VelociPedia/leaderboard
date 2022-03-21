@@ -5,18 +5,18 @@
 DEP Open Pop-Up 2,Dynamic Weather,48,69.110,MegaHurts,UnitedStates,Five33Switchback,2021/07/05
 DEP Open Series 2 Race 1,Dynamic Weather,29,47.300,MegaHurts,UnitedStates,SniperX,2022/02/26
 DEP Open Series 2 Race 7,Football Stadium,36,91.406,MegaHurts,UnitedStates,Five33Switchback,2021/03/28
-DEP Open Series 3 Race 1,Football Stadium,80,58.898,MegaHurts,UnitedStates,Five33Switchback,2021/02/08
-DEP Open Series 3 Race 2,Football Stadium,29,72.569,MegaHurts,UnitedStates,Chief,2022/01/18
+DEP Open Series 3 Race 1,Football Stadium,81,58.898,MegaHurts,UnitedStates,Five33Switchback,2021/02/08
+DEP Open Series 3 Race 2,Football Stadium,31,72.569,MegaHurts,UnitedStates,Chief,2022/01/18
 DEP Open Series 3 Race 3,Karting Track,29,80.258,MegaHurts,UnitedStates,Mode2Ghost,2021/08/16
 DEP Open Series 3 Race 4,Football Stadium,15,54.330,MegaHurts,UnitedStates,SniperX,2022/03/06
 DEP Open Series 3 Race 5,Football Stadium,37,74.826,MegaHurts,UnitedStates,Five33Switchback,2021/03/16
 DEP Open Series 3 Race 6,Football Stadium,57,96.240,MegaHurts,UnitedStates,Chief,2021/12/05
 DEP Open Series 3 Race 7,Football Stadium,58,88.102,MegaHurts,UnitedStates,Five33Switchback,2021/03/21
 DEP Open Series 4 Race 1,Football Stadium,71,89.042,MegaHurts,UnitedStates,Five33Switchback,2021/06/08
-DEP Open Series 4 Race 2,Football Stadium,62,101.751,MegaHurts,UnitedStates,Five33Switchback,2021/06/22
-DEP Open Series 4 Race 3,Football Stadium,34,64.702,MegaHurts,UnitedStates,Mode2Ghost,2021/08/06
+DEP Open Series 4 Race 2,Football Stadium,63,101.751,MegaHurts,UnitedStates,Five33Switchback,2021/06/22
+DEP Open Series 4 Race 3,Football Stadium,35,64.702,MegaHurts,UnitedStates,Mode2Ghost,2021/08/06
 DEP Open Series 4 Race 4,Football Stadium,53,86.460,MegaHurts,UnitedStates,Five33Switchback,2021/04/28
-DEP Open Series 4 Race 5,Football Stadium,26,60.232,MegaHurts,UnitedStates,Mode2Ghost,2021/07/12
+DEP Open Series 4 Race 5,Football Stadium,27,60.232,MegaHurts,UnitedStates,Mode2Ghost,2021/07/12
 DEP Open Series 4 Race 6,Football Stadium,35,65.378,MegaHurts,UnitedStates,Five33Switchback,2021/06/08
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,MegaHurts,NO_DATA
 DEP Open Series 5 Race 1,Football Stadium,26,57.413,MegaHurts,UnitedStates,Mode2Ghost,2021/11/01
@@ -26,6 +26,8 @@ DEP Open Series 5 Race 4,Football Stadium,46,83.597,MegaHurts,UnitedStates,Snipe
 DEP Open Series 5 Race 5,Football Stadium,36,84.075,MegaHurts,UnitedStates,Chief,2022/01/18
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,MegaHurts,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,60,103.778,MegaHurts,UnitedStates,SniperX,2022/02/22
+DEP Open Series 6 Race 1,Football Stadium,16,62.936,MegaHurts,UnitedStates,SniperX,2022/03/09
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,MegaHurts,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,28,87.136,MegaHurts,UnitedStates,Five33Switchback,2021/03/03
 EU Spec Season 4 Race 1,Football Stadium,65,88.017,MegaHurts,UnitedStates,Velocity,2021/02/24
 MGP2018IOIntermediate,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
@@ -143,8 +145,8 @@ VRL S5 TRACK 2,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL S5 TRACK 3,Bando,999,999.999,MegaHurts,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,13,86.621,MegaHurts,UnitedStates,Five33Switchback,2020/05/10
 VRL S5 TRACK 5,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-VRL Season 3 Track 1,Empty Scene Day,25,67.977,MegaHurts,UnitedStates,Five33Switchback,2021/01/19
-VRL Season 3 Track 2,Empty Scene Day,105,93.427,MegaHurts,UnitedStates,Five33Switchback,2021/04/07
+VRL Season 3 Track 1,Empty Scene Day,26,67.977,MegaHurts,UnitedStates,Five33Switchback,2021/01/19
+VRL Season 3 Track 2,Empty Scene Day,110,93.427,MegaHurts,UnitedStates,Five33Switchback,2021/04/07
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,26,111.725,MegaHurts,UnitedStates,Five33Switchback,2021/04/13
 VRL Season 3 Track 5,Empty Scene Day,17,72.704,MegaHurts,UnitedStates,Chief,2021/11/16
@@ -153,7 +155,7 @@ VRL Season 4 Championship,Football Stadium,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Track 1,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Track 2,Bando,23,128.610,MegaHurts,UnitedStates,SniperX,2022/02/20
 VRL Season 4 Track 3,Basketball Stadium,14,67.598,MegaHurts,UnitedStates,TBSSpec,2021/01/16
-VRL-Season-4-Track-4,Dynamic Weather,26,103.488,MegaHurts,UnitedStates,TBSSpec,2020/05/16
+VRL-Season-4-Track-4,Dynamic Weather,27,103.488,MegaHurts,UnitedStates,TBSSpec,2020/05/16
 VRL_Season_4_Track_5,Coastal,5,99.671,MegaHurts,UnitedStates,SniperX,2022/01/30
 VRL_Season_4_Track_6,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Track 7,Dynamic Weather,4,80.969,MegaHurts,UnitedStates,SniperX,2022/02/04
@@ -166,7 +168,7 @@ VRL SEASON 6 TRYOUTS,Dynamic Weather,6,99.333,MegaHurts,UnitedStates,Mode2Ghost,
 VRL Season 7 Championships,Dynamic Weather,32,98.014,MegaHurts,UnitedStates,Mode2Ghost,2021/09/04
 VRL Season 8 Championships,Dynamic Weather,51,82.135,MegaHurts,UnitedStates,SniperX,2022/02/06
 VRL Season 8 Track 1,Office Complex,999,999.999,MegaHurts,NO_DATA
-VRL Season 8 Track 2,Drift Track,118,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
+VRL Season 8 Track 2,Drift Track,121,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
 VRL Season 8 Track 3,Night Factory 2,103,143.473,MegaHurts,UnitedStates,SniperX,2022/02/19
 VRL Season 8 Track 4,DynamicPoly,63,149.720,MegaHurts,UnitedStates,Chief,2021/12/19
 VRL Season 8 Track 5,Dynamic Weather,77,136.184,MegaHurts,UnitedStates,SniperX,2022/01/20
