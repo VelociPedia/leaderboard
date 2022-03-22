@@ -25,6 +25,7 @@
 56.960,chogeRINTGF,Spain,Five33Switchback,2022/03/16
 57.674,BearmanFPV,UnitedKingdom,Five33Switchback,2022/03/19
 57.963,HQLongxinPeng,China,CarbiXZero,2022/03/13
+58.028,cuxx,Germany,Mode2Ghost,2022/03/21
 58.044,ALPIFPV,UnitedStates,Five33Switchback,2022/03/12
 58.088,Bree,France,Five33Switchback,2022/03/21
 58.206,FPVFPVINEEDTOGETFASTER,Norway,Five33Switchback,2022/03/09
@@ -35,7 +36,6 @@
 58.747,CravenFPV,UnitedStates,Five33Switchback,2022/03/15
 59.068,ejectfpv865,UnitedStates,Ossa,2022/03/20
 59.420,razbri,UnitedKingdom,Five33Switchback,2022/03/20
-59.683,cuxx,Germany,Mode2Ghost,2022/03/20
 59.760,mojofpv,Germany,Five33Switchback,2022/03/17
 59.950,PacoTeamCanadaFPV,Canada,Chief,2022/03/12
 60.115,Gafannen,Slovakia,Five33Switchback,2022/03/17
@@ -50,6 +50,7 @@
 62.778,Uirou3,Japan,SkyXKiller,2022/03/19
 62.843,ARM_FPV,UnitedStates,Five33Switchback,2022/03/16
 62.995,Fastodon,UnitedStates,Five33Switchback,2022/03/13
+63.750,NotSure,UnitedKingdom,Five33Switchback,2022/03/21
 64.052,frteskesc,Germany,Five33Switchback,2022/03/09
 64.193,HowieDewitt,UnitedStates,Five33Switchback,2022/03/18
 64.233,Dragony,Switzerland,Five33Switchback,2022/03/15
@@ -58,6 +59,7 @@
 64.663,lephroenjoyingtheride,Germany,PantherMM,2022/03/09
 64.731,Martin071,CzechRepublic,Five33Switchback,2022/03/10
 64.783,TensorFlow,UnitedStates,Five33Switchback,2022/03/15
+65.154,GruffFPV,UnitedKingdom,Five33Switchback,2022/03/21
 65.367,BoosiveFPV,UnitedKingdom,Five33Switchback,2022/03/19
 65.470,KnetiK,UnitedStates,Five33Switchback,2022/03/15
 65.924,talkrz,Unknown,CarbiXZero,2022/03/17
@@ -86,7 +88,6 @@
 70.530,BatmanFPV,UnitedKingdom,TBSSpec,2022/03/13
 70.896,GoldenTangoELRSHDzero,Singapore,Five33Switchback,2022/03/14
 71.441,ibor24,Switzerland,CarbiXZero,2022/03/11
-71.483,NotSure,UnitedKingdom,TBSSpec,2022/03/10
 71.559,octYuhao,HongKong,CarbiXZero,2022/03/09
 71.719,TBSLehan,UnitedStates,Chief,2022/03/16
 72.130,OrigDragon,UnitedStates,TBSSpec,2022/03/12
@@ -166,10 +167,12 @@
 92.912,JFP2,RussianFederation,Yakuza,2022/03/19
 93.922,TallBoiFly,UnitedStates,TBSSpec,2022/03/19
 93.980,Slopo,UnitedStates,Five33Switchback,2022/03/13
+94.005,thestorm,Belgium,SniperX,2022/03/21
 94.357,barney,UnitedKingdom,DRPMib5,2022/03/17
 94.454,JFP4,RussianFederation,Five33Switchback,2022/03/19
 94.972,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/14
 95.257,pidemo,France,Five33Switchback,2022/03/20
+95.516,BonesE,UnitedStates,Five33Switchback,2022/03/21
 95.762,lod,Germany,Five33Switchback,2022/03/14
 96.252,FreakoutFPV,Switzerland,Five33Switchback,2022/03/08
 97.871,manuel_herz,Germany,Yakuza,2022/03/16
@@ -178,12 +181,12 @@
 99.977,alperaydin0105,Turkey,Five33Switchback,2022/03/10
 100.106,CaptainColin,UnitedStates,TBSSpec,2022/03/12
 100.985,ArvinFPV,Germany,DiatoneGTB339,2022/03/09
-101.341,thestorm,Belgium,Five33Switchback,2022/03/10
 101.572,kasapon,Japan,SkyXKiller,2022/03/10
 102.006,georgemca,UnitedStates,Five33Switchback,2022/03/11
 102.041,pógmothóin,Ireland,TBSSpec,2022/03/18
 102.336,T3schio,Italy,D-Rock,2022/03/15
 102.363,Thorgal,France,KareareaTalon,2022/03/17
+102.697,KnowThings,Germany,TBSSpec,2022/03/21
 102.863,Yesman,Spain,Five33Switchback,2022/03/11
 103.549,MAVERICKFPV,Italy,Five33Switchback,2022/03/18
 103.716,R05ALIN,UnitedStates,Five33Switchback,2022/03/13
@@ -195,6 +198,3 @@
 108.527,antonfpv,Ukraine,TBSOblivion,2022/03/12
 108.746,Remzoune,Canada,Five33Switchback,2022/03/20
 109.062,Ucangoz,Turkey,SkyXKiller,2022/03/18
-109.266,rcds,Unknown,Mode2Ghost,2022/03/20
-110.073,ErraziBProductionS,UnitedStates,Five33SwitchbackExp,2022/03/20
-110.852,SlavaUkrainieriagnan,RussianFederation,NazgulXL5,2022/03/09
