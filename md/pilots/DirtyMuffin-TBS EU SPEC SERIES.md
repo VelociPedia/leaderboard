@@ -6,28 +6,28 @@
 |1|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2020/08/29|
 |2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |2|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/08/03|
-|2|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/08/03|
 |3|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/08/02|
 |3|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/08/02|
 |3|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/07|
+|3|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2020/12/01|
 ---
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |25|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
-|23|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
+|25|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
-|20|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
+|21|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |19|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
-|17|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
+|18|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
 |16|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/03|
 |15|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2021/06/29|
 |15|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/11/07|
 |14|TBS EU Spec Series 8 Race 1|Dynamic Weather|Five33Switchback|2021/03/20|
+|12|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/25|
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |11|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/01|
 |11|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/10|
-|10|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/25|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -36,7 +36,7 @@
 |7|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/07/10|
 |6|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/14|
 |19|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
-|23|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
+|25|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |10|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/08/02|

@@ -3,33 +3,33 @@
 |:---:|:---|:---|:---:|:---:|
 |3|TBS EU Spec Series 7 Race 5|IndoorGoKart|Yakuza|2021/10/17|
 |5|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2022/01/31|
-|19|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/27|
-|29|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/10/17|
+|20|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/27|
 |29|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/30|
+|31|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/10/17|
 |34|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/27|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|197|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
+|199|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
 |193|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/07/23|
 |176|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
-|169|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
-|168|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
-|160|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/01/12|
-|159|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/07/13|
-|191|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
-|178|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
+|172|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
+|171|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
+|161|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/07/13|
+|161|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/01/12|
+|192|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
+|179|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |176|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
-|169|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
+|172|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
 |97|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/07/01|
-|178|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
-|168|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
-|197|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
+|179|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
+|171|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
+|199|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

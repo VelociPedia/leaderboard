@@ -89,6 +89,7 @@
 88.062,Eugy01_Overpass,RussianFederation,TBSSpec,2021/03/25
 88.449,KarachoFPV,Austria,Five33Switchback,2021/03/27
 88.498,DAFFPV,Sweden,TBSSpec,2021/04/15
+88.894,fpv_tempest,Finland,TBSSpec,2022/03/29
 89.063,Baton,RussianFederation,TBSSpec,2021/03/25
 89.933,fape,Hungary,TBSSpec,2021/03/26
 90.053,GPW,France,Five33Switchback,2021/04/13
@@ -98,7 +99,7 @@
 92.616,喜洋洋,UnitedKingdom,Five33Switchback,2021/12/17
 92.734,LaBeba,UnitedStates,TBSSpec,2021/03/31
 92.749,Plaukuotasis,Unknown,TBSSpec,2021/03/27
-93.023,SIMDorukFPV,Turkey,TBSSpec,2021/03/25
+93.023,DorukFPV,Turkey,TBSSpec,2021/03/25
 93.206,FrankyFPV60hz,Spain,Five33Switchback,2021/04/05
 93.243,SIMRaiToR,Germany,TBSSpec,2021/11/10
 93.342,MakoPL,Poland,TBSSpec,2021/04/06
@@ -197,4 +198,3 @@
 126.493,yrrbay,UnitedKingdom,SingularitumV5,2021/04/05
 126.691,mINdAt3,Sweden,TBSSpec,2021/03/25
 127.000,Quadboy_ICTFPV,UnitedStates,DRPMib5,2021/10/27
-127.373,SRT•(oOo),UnitedKingdom,Five33Switchback,2021/08/17

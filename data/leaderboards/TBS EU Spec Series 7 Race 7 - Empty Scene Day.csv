@@ -1,7 +1,7 @@
 52.245,SWEEPER,CzechRepublic,Five33Switchback,2021/12/18
 63.910,HQThunder,Spain,TBSSpec,2021/03/03
 64.086,BMSweb,Australia,BMSJS-1,2021/02/22
-64.770,TBSRetiredNoic,UnitedStates,TBSSpec,2021/02/19
+64.770,CarNoic,UnitedStates,TBSSpec,2021/02/19
 65.049,karrson㋡,Sweden,Five33Switchback,2021/02/20
 65.278,EuLeR,Germany,Five33Switchback,2021/02/23
 66.201,WerdnaFPV,Singapore,Five33Switchback,2022/02/08
@@ -10,7 +10,7 @@
 66.674,00Hyper,UnitedStates,TBSSpec,2021/02/19
 67.052,geek_fpv,Italy,Five33Switchback,2021/03/30
 67.149,Lacasito,Spain,Mode2Ghost,2021/03/29
-67.740,TBSskAve,Germany,Five33Switchback,2021/03/03
+67.740,skAve,Germany,Five33Switchback,2021/03/03
 67.826,Kosta,Germany,TBSSpec,2021/03/03
 67.870,RustyDollar,Latvia,TBSSpec,2021/02/18
 68.169,Burkan,UnitedKingdom,TBSSpec,2021/02/19
@@ -145,6 +145,7 @@
 96.179,doggz,Canada,Five33Switchback,2021/02/21
 96.418,KiloFoxtrot,UnitedStates,TBSSpec,2021/02/19
 96.549,Shuttleee,Sweden,TBSSpec,2021/03/27
+96.700,4ndro1d78,Ukraine,Five33Switchback,2022/03/26
 97.125,LOSLobo,Hungary,TBSSpec,2021/02/19
 97.254,PiFLY,UnitedStates,TBSSpec,2021/03/02
 97.279,NelsonFpv,Ireland,Five33Switchback,2021/06/16
@@ -164,6 +165,7 @@
 100.152,Alêx,UnitedKingdom,Five33Switchback,2021/02/21
 100.329,RIVALSMixedSignals,UnitedStates,TBSSpec,2021/03/02
 100.588,FPV360,Germany,CarbiXZero,2021/04/11
+100.730,DmytroAvdosiev,Ukraine,Strix,2022/03/26
 100.969,Bree,France,Five33Switchback,2022/02/07
 101.128,patrikfpv,CzechRepublic,Five33Switchback,2021/04/02
 101.547,frteskesc,Germany,Five33Switchback,2021/02/19
@@ -196,5 +198,3 @@
 109.666,Finzfpv,Unknown,Five33Switchback,2021/02/23
 110.104,BONADI,Poland,Five33Switchback,2021/07/09
 110.419,SemperFly,UnitedStates,Five33Switchback,2021/02/25
-110.684,kuatoFPV,NewZealand,Five33Switchback,2021/03/04
-110.761,2dogrc,UnitedStates,TBSSpec,2021/02/22

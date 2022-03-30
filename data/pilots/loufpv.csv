@@ -63,15 +63,15 @@ RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,loufpv,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,loufpv,NO_DATA
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,loufpv,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,107,77.273,loufpv,UnitedStates,TBSSpec,2020/12/29
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,6,60.078,loufpv,UnitedStates,Five33Switchback,2021/10/16
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,7,60.078,loufpv,UnitedStates,Five33Switchback,2021/10/16
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,60,86.891,loufpv,UnitedStates,Five33Switchback,2020/12/30
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,56,104.085,loufpv,UnitedStates,Five33Switchback,2021/01/07
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,86,85.342,loufpv,UnitedStates,Five33Switchback,2021/01/22
-TBS EU Spec Season 5 Race 1,Football Stadium,54,60.590,loufpv,UnitedStates,Five33Switchback,2021/03/12
+TBS EU Spec Season 5 Race 1,Football Stadium,11,53.811,loufpv,UnitedStates,Five33Switchback,2022/03/26
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,loufpv,NO_DATA
-TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,loufpv,NO_DATA
+TBS EU Spec Series 10 Losers Final,Football Stadium,5,47.845,loufpv,UnitedStates,Five33Switchback,2022/03/18
 TBS EU Spec Series 10 Race 1,Football Stadium,35,59.378,loufpv,UnitedStates,Five33Switchback,2021/12/02
-TBS EU Spec Series 10 Race 2,Empty Scene Day,17,57.649,loufpv,UnitedStates,Five33Switchback,2021/12/10
+TBS EU Spec Series 10 Race 2,Empty Scene Day,18,57.649,loufpv,UnitedStates,Five33Switchback,2021/12/10
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,loufpv,NO_DATA
@@ -82,7 +82,7 @@ TBS EU Spec Series 4 Race 2,Empty Scene Day,28,64.047,loufpv,UnitedStates,Five33
 TBS EU Spec Series 4 Race 3,IndoorGoKart,82,116.139,loufpv,UnitedStates,TBSSpec,2021/04/22
 TBS EU Spec Series 4 Race 4,Empty Scene Day,73,85.464,loufpv,UnitedStates,Five33Switchback,2021/10/11
 TBS EU Spec Series 4 Race 5,Dynamic Weather,94,97.196,loufpv,UnitedStates,Five33Switchback,2021/04/15
-TBS EU Spec Series 4 Race 7,Football Stadium,176,86.879,loufpv,UnitedStates,TBSSpec,2021/11/11
+TBS EU Spec Series 4 Race 7,Football Stadium,177,86.879,loufpv,UnitedStates,TBSSpec,2021/11/11
 TBS EU Spec Series 5 FINAL,Dynamic Weather,53,85.661,loufpv,UnitedStates,TBSSpec,2021/01/25
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,50,79.646,loufpv,UnitedStates,Five33Switchback,2021/01/15
 TBS EU Spec Series 5 Race 3,Dynamic Weather,3,62.709,loufpv,UnitedStates,Five33Switchback,2021/09/20
@@ -90,21 +90,21 @@ TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,61,71.301,loufpv,UnitedStates,Five33Switchback,2021/07/15
 TBS EU Spec Series 5 Race 7,IndoorGoKart,21,70.782,loufpv,UnitedStates,TBSSpec,2021/11/11
-TBS EU Spec Series 6 Final,Empty Scene Day,95,89.489,loufpv,UnitedStates,TBSSpec,2021/01/05
+TBS EU Spec Series 6 Final,Empty Scene Day,98,89.489,loufpv,UnitedStates,TBSSpec,2021/01/05
 TBS EU Spec Series 6 Losers Final,Football Stadium,27,69.480,loufpv,UnitedStates,Five33Switchback,2021/04/14
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,8,61.708,loufpv,UnitedStates,Five33Switchback,2021/08/05
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,2,57.409,loufpv,UnitedStates,Five33Switchback,2022/03/21
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,32,80.341,loufpv,UnitedStates,Five33Switchback,2021/04/29
 TBS EU Spec Series 6 Race 6,Empty Scene Day,6,68.341,loufpv,UnitedStates,Five33Switchback,2021/07/31
-TBS EU Spec Series 6 Race 7,Empty Scene Day,18,53.351,loufpv,UnitedStates,Five33Switchback,2021/08/02
+TBS EU Spec Series 6 Race 7,Empty Scene Day,19,53.351,loufpv,UnitedStates,Five33Switchback,2021/08/02
 TBS EU Spec Series 7 Final,Empty Scene Day,34,68.726,loufpv,UnitedStates,Five33Switchback,2021/07/13
 TBS EU Spec Series 7 Race 1,Football Stadium,53,69.675,loufpv,UnitedStates,Five33Switchback,2021/05/04
 TBS EU Spec Series 7 Race 2,Empty Scene Day,7,61.623,loufpv,UnitedStates,Five33Switchback,2021/09/10
-TBS EU Spec Series 7 Race 3,Empty Scene Day,145,82.863,loufpv,UnitedStates,TBSSpec,2021/02/01
+TBS EU Spec Series 7 Race 3,Empty Scene Day,146,82.863,loufpv,UnitedStates,TBSSpec,2021/02/01
 TBS EU Spec Series 7 Race 4,Empty Scene Day,66,71.210,loufpv,UnitedStates,Five33Switchback,2021/03/30
 TBS EU Spec Series 7 Race 5,IndoorGoKart,30,69.874,loufpv,UnitedStates,Five33Switchback,2021/04/21
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,123,83.598,loufpv,UnitedStates,Five33Switchback,2021/04/10
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,127,83.598,loufpv,UnitedStates,Five33Switchback,2021/04/10
 TBS EU Spec Series 7 Race 7,Empty Scene Day,130,92.547,loufpv,UnitedStates,TBSSpec,2021/02/23
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,loufpv,NO_DATA
@@ -113,13 +113,13 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,56,78.217,loufpv,UnitedStates,Five
 TBS EU Spec Series 8 Race 3,Football Stadium,51,62.061,loufpv,UnitedStates,Five33Switchback,2021/05/02
 TBS EU Spec Series 8 Race 4,Empty Scene Day,22,70.902,loufpv,UnitedStates,Five33Switchback,2021/08/31
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,loufpv,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,29,60.938,loufpv,UnitedStates,Five33Switchback,2021/09/09
+TBS EU Spec Series 8 Race 6,Football Stadium,31,60.938,loufpv,UnitedStates,Five33Switchback,2021/09/09
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,loufpv,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,60,64.964,loufpv,UnitedStates,TBSSpec,2021/11/12
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,45,66.119,loufpv,UnitedStates,TBSSpec,2021/11/11
 TBS EU Spec Series 9 Race 1,Football Stadium,11,52.608,loufpv,UnitedStates,Five33Switchback,2021/09/18
-TBS EU Spec Series 9 Race 2,Dynamic Weather,28,54.228,loufpv,UnitedStates,Five33Switchback,2021/09/19
-TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,loufpv,NO_DATA
+TBS EU Spec Series 9 Race 2,Dynamic Weather,29,54.228,loufpv,UnitedStates,Five33Switchback,2021/09/19
+TBS EU Spec Series 9 Race 3,Empty Scene Day,21,56.952,loufpv,UnitedStates,Five33Switchback,2022/03/17
 TBS EU Spec Series 9 Race 4,Football Stadium,42,67.673,loufpv,UnitedStates,TBSSpec,2021/10/08
 TBS EU Spec Series 9 Race 5,Empty Scene Day,25,59.862,loufpv,UnitedStates,Five33Switchback,2021/10/09
 TBS EU Spec Series 9 Race 6,Empty Scene Day,16,63.460,loufpv,UnitedStates,Five33Switchback,2021/12/01

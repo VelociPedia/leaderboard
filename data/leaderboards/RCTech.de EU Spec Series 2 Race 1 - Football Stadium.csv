@@ -31,7 +31,7 @@
 55.551,MAYHEM,UnitedStates,SingularitumV5,2020/04/16
 55.582,CozmicsHD,UnitedKingdom,Five33Switchback,2021/11/03
 55.952,MegaHurts,UnitedStates,Five33Switchback,2021/02/08
-56.199,TBSskAve,Germany,Five33Switchback,2021/12/14
+56.199,skAve,Germany,Five33Switchback,2021/12/14
 56.205,Math4FPV,France,Five33Switchback,2020/10/06
 56.321,Ninjakat,Unknown,Five33Switchback,2021/02/10
 56.561,alvaritono55,Spain,Five33Switchback,2020/09/03
@@ -99,7 +99,7 @@
 65.064,Quinofpv,CostaRica,TBSSpec,2020/04/29
 65.094,scooby_doo,Latvia,SingularitumV5,2020/06/10
 65.107,RobSi,Slovenia,Five33Switchback,2021/12/27
-65.345,CravenFPV(Macbook),CostaRica,TBSSpec,2020/04/29
+65.345,CravenFPV(Laptop),CostaRica,TBSSpec,2020/04/29
 65.467,Agro,Lithuania,TBSSpec,2020/07/21
 65.603,SpeedSloth,UnitedKingdom,TBSSpec,2020/04/29
 65.609,Eugy01_Overpass,RussianFederation,CarbiXZero,2021/06/04
@@ -153,6 +153,7 @@
 71.870,rafifly,France,Five33Switchback,2022/02/04
 71.895,bence0810,Hungary,Five33Switchback,2020/04/16
 71.942,NICKNOMBREPILOTO,Spain,TBSOblivion,2020/08/15
+71.955,fpv_tempest,Finland,TBSSpec,2022/03/17
 72.071,ISRACC,CostaRica,CarbiXZero,2020/05/02
 72.149,DAFFPV,Sweden,Five33Switchback,2021/04/21
 72.316,Charthus,Unknown,Five33Switchback,2021/12/01
@@ -197,4 +198,3 @@
 77.084,CerbAirus,Germany,Five33Switchback,2021/02/04
 77.169,JR138,UnitedStates,ArchAngelOrange,2020/12/01
 77.291,Step,RussianFederation,TBSSpec,2020/12/19
-77.352,Rocket,Canada,Five33Switchback,2021/11/01

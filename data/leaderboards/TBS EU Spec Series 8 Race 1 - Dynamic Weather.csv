@@ -2,7 +2,7 @@
 61.856,HAISENFPV,China,Five33Switchback,2021/04/06
 62.540,andreas_fpv,Netherlands,Five33Switchback,2021/10/08
 64.138,BMSweb,Australia,BMSJS-1,2021/03/22
-65.430,Shaigne,France,CarbiXZero,2021/12/02
+65.430,SSXShaigne,France,CarbiXZero,2021/12/02
 66.136,EuLeR,Germany,Five33Switchback,2021/03/22
 66.499,XBDarKex,France,Five33Switchback,2021/03/18
 66.721,WerdnaFPV,Singapore,Five33Switchback,2021/08/23
@@ -115,6 +115,7 @@
 87.119,CALFPV,Germany,TBSSpec,2021/03/24
 87.406,MattMaxx,UnitedStates,CarbiXZero,2021/03/24
 87.422,LaBeba,UnitedStates,TBSSpec,2021/03/26
+87.446,RaceRat,UnitedKingdom,TBSSpec,2022/03/28
 87.606,Gromozeka,RussianFederation,TBSSpec,2021/03/26
 87.691,JR,Sweden,TBSSpec,2021/03/20
 88.368,MattiZ,Germany,Five33Switchback,2021/03/27
@@ -132,12 +133,12 @@
 91.664,HERCULESFPV,Bulgaria,Ossa,2021/03/19
 91.676,Brodrone,Denmark,TBSSpec,2021/03/18
 91.958,Thrash,UnitedStates,Five33Switchback,2021/11/21
+92.075,fpv_tempest,Finland,TBSSpec,2022/03/29
 92.210,MakoPL,Poland,TBSSpec,2021/03/23
 92.401,ibor24,Switzerland,Five33Switchback,2021/09/18
 92.681,HQkenrickfpv,Indonesia,TBSSpec,2021/03/26
 92.800,achmiral,Indonesia,Five33Switchback,2021/03/23
 92.802,Brombeer,Netherlands,Five33Switchback,2021/03/28
-92.841,RaceRat,UnitedKingdom,TBSSpec,2021/04/21
 92.898,Shavito,Israel,TBSSpec,2021/06/29
 93.166,CerbAirus,Germany,TBSSpec,2021/04/12
 93.320,frteskesc,Germany,Five33Switchback,2021/03/19
@@ -184,7 +185,7 @@
 103.056,Wizard_,UnitedKingdom,TBSSpec,2022/01/08
 103.401,ANZPO,UnitedStates,TBSSpec,2021/10/19
 103.464,ClkFpv,Turkey,KareareaTalon,2021/03/29
-103.767,SIMDorukFPV,Turkey,TBSSpec,2021/03/25
+103.767,DorukFPV,Turkey,TBSSpec,2021/03/25
 103.964,Flyauge,Germany,Five33Switchback,2021/07/20
 104.232,Rocket,Canada,Five33Switchback,2022/02/16
 104.431,nAdibFPV,Switzerland,ArmattanChameleon,2021/03/28
@@ -197,4 +198,3 @@
 106.778,Mikisuluk,Denmark,Five33Switchback,2021/06/26
 107.340,2dogrc,UnitedStates,TBSSpec,2021/04/16
 107.625,PantherFPV,Turkey,TBSSpec,2021/03/20
-108.024,FEATHERSFPV,UnitedKingdom,TBSSpec,2021/06/26

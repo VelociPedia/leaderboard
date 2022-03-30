@@ -10,7 +10,7 @@
 66.715,Burkan,UnitedKingdom,CarbiXZero,2020/10/31
 66.926,Seasky_FPV,Spain,SingularitumV5,2020/07/31
 67.902,WerdnaFPV,Singapore,Five33Switchback,2021/02/15
-68.248,TBSRetiredNoic,UnitedStates,TBSSpec,2020/07/23
+68.248,CarNoic,UnitedStates,TBSSpec,2020/07/23
 68.619,RustyDollar,Latvia,TBSSpec,2020/07/30
 68.781,MARAHUTE,Italy,Five33Switchback,2021/03/20
 68.791,SWEEPER,CzechRepublic,TBSSpec,2020/09/22
@@ -81,6 +81,8 @@
 80.240,TriBull,UnitedKingdom,TBSSpec,2021/02/10
 80.528,rafifly,France,Five33Switchback,2022/02/13
 81.131,AttoFPV,UnitedKingdom,AttoFPVPhoton,2020/07/29
+81.275,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/26
+81.714,LOSLobo,Hungary,TBSSpec,2022/03/26
 82.639,kulka,Lithuania,Five33Switchback,2021/03/21
 83.015,PotaytoFPV,UnitedStates,TBSSpec,2021/07/29
 83.232,NelsonFpv,Ireland,TBSSpec,2021/08/27
@@ -95,7 +97,6 @@
 85.559,saulfpv,UnitedKingdom,Five33Switchback,2020/08/05
 85.655,stogie,UnitedStates,Five33Switchback,2021/11/27
 85.678,NelisFPV,Netherlands,TBSSpec,2020/07/30
-85.753,LOSLobo,Hungary,TBSSpec,2021/08/16
 85.834,Bercik11palcow,Poland,CarbiXZero,2021/12/01
 86.143,DMiz,UnitedKingdom,TBSSpec,2021/10/28
 86.154,OrangeFly,Australia,CarbiXZero,2020/08/03
@@ -142,6 +143,7 @@
 94.054,WeeklyPlayer1,Poland,TBSSpec,2020/07/29
 94.235,ibor24,Switzerland,Five33Switchback,2021/09/12
 94.647,Nofarkinidea,Australia,Five33Switchback,2020/10/20
+95.573,Solace,Canada,TwigXL3,2022/03/26
 95.598,Finzfpv,Unknown,Five33Switchback,2021/03/13
 95.752,FALK_FPVTeamFPV24Racing,Germany,BMSJS-1,2020/11/02
 96.175,MaxxFPV,UnitedStates,SlamNasty,2020/08/06
@@ -164,6 +166,7 @@
 100.648,JR138,UnitedStates,AcrobotTruX-R197,2020/12/22
 100.781,turo,UnitedStates,Mode2Ghost,2020/10/19
 100.784,zaye1987,Sweden,Five33Switchback,2021/04/01
+100.976,GoldenTangoELRSHDzero,Singapore,Five33Switchback,2022/03/26
 101.481,TFSFlam,Poland,TBSSpec,2020/07/23
 101.617,CutnLines,Australia,Five33Switchback,2020/08/03
 101.700,HighGroundFPV,Australia,Five33Switchback,2020/08/06
@@ -195,6 +198,3 @@
 107.486,Syncopath,Slovenia,CarbiXZero,2020/07/29
 107.709,Kliff0X,Germany,TBSSpec,2020/08/04
 108.184,krists,Latvia,Five33Switchback,2021/03/21
-108.204,Musilex,Brazil,Five33Switchback,2021/08/14
-108.686,FEATHERSFPV,UnitedKingdom,TBSSpec,2021/07/12
-108.914,Cobrafpv,Canada,TBSOblivion,2020/08/06

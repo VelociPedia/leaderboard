@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |10|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/03/06|
 |17|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/06/03|
-|20|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|CarbiXZero|2021/06/18|
+|21|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|CarbiXZero|2021/06/18|
 |22|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/09/12|
 |22|EU Spec Season 4 Race 1|Football Stadium|CarbiXZero|2020/06/17|
 |26|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/20|
@@ -13,16 +13,16 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |133|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/04/07|
-|130|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
+|131|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |119|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |116|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/06|
-|99|TBS EU Spec Series 6 Final|Empty Scene Day|CarbiXZero|2020/12/05|
+|102|TBS EU Spec Series 6 Final|Empty Scene Day|CarbiXZero|2020/12/05|
 |99|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/11/11|
 |91|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
 |90|TBS EU Spec Series 9 Race 4|Football Stadium|CarbiXZero|2021/10/21|
 |81|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/06/29|
 |77|TBS EU Spec Series 7 Final|Empty Scene Day|CarbiXZero|2021/07/20|
-|71|TBS EU Spec Series 6 Race 5|Dynamic Weather|CarbiXZero|2021/01/10|
+|72|TBS EU Spec Series 6 Race 5|Dynamic Weather|CarbiXZero|2021/01/10|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -33,7 +33,7 @@
 |119|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |17|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/06/03|
 |22|EU Spec Season 4 Race 1|Football Stadium|CarbiXZero|2020/06/17|
-|28|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
+|30|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
 ---
 ### 12 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,7 +48,7 @@
 |38|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |119|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |65|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|130|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
+|131|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |91|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
 ---
 ### 26 tracks without data (200+ or not in leaderboard)
