@@ -7,7 +7,7 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|161|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2022/02/24|
+|162|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2022/02/24|
 |116|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2022/01/16|
 |115|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2022/01/06|
 ---
@@ -22,7 +22,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 13 tracks without data (200+ or not in leaderboard)
+### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |DEP Open Pop-Up 2|Dynamic Weather|
@@ -37,4 +37,3 @@
 |DEP Open Series 3 Race 7|Football Stadium|
 |DEP Open Series 4 Race 3|Football Stadium|
 |DEP Open Series 4 Race 4|Football Stadium|
-|DEP Open Series 6 Race 2|Football Stadium|

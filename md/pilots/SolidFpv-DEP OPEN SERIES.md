@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |42|DEP Open Series 5 Race 5|Football Stadium|Ossa|2021/12/06|
 |36|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2022/02/18|
-|33|DEP Open Series 6 Race 2|Football Stadium|SniperX|2022/03/16|
+|35|DEP Open Series 6 Race 2|Football Stadium|SniperX|2022/03/16|
 |33|DEP Open Series 5 Race 4|Football Stadium|Ossa|2021/12/06|
 |30|DEP Open Series 5 Race 6|Football Stadium|Ossa|2021/12/26|
 |30|DEP Open Series 2 Race 1|Dynamic Weather|Ossa|2021/11/24|

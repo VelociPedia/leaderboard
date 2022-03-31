@@ -1,8 +1,12 @@
-DEP Open Pop-Up 2,Dynamic Weather,99,85.069,FPVlC,Unknown,TBSSpec,2021/12/18
-DEP Open Series 2 Race 1,Dynamic Weather,161,70.083,FPVlC,Unknown,TBSSpec,2021/12/19
+2020 Canadian MultiGP Series,Football Stadium,135,61.541,FPVlC,Unknown,TBSSpec,2022/01/06
+2020 MultiGP Champs presented by RDQ,Football Stadium,999,999.999,FPVlC,NO_DATA
+2021 MultiGP Champs Track 1,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+2021 MultiGP Champs Track 2,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+DEP Open Pop-Up 2,Dynamic Weather,100,85.069,FPVlC,Unknown,TBSSpec,2021/12/18
+DEP Open Series 2 Race 1,Dynamic Weather,163,70.083,FPVlC,Unknown,TBSSpec,2021/12/19
 DEP Open Series 2 Race 7,Football Stadium,149,130.402,FPVlC,Unknown,TBSSpec,2021/12/19
 DEP Open Series 3 Race 1,Football Stadium,139,65.110,FPVlC,Unknown,TBSSpec,2022/01/03
-DEP Open Series 3 Race 2,Football Stadium,109,96.763,FPVlC,Unknown,TBSSpec,2022/01/09
+DEP Open Series 3 Race 2,Football Stadium,110,96.763,FPVlC,Unknown,TBSSpec,2022/01/09
 DEP Open Series 3 Race 3,Karting Track,90,97.506,FPVlC,Unknown,TBSSpec,2022/01/09
 DEP Open Series 3 Race 4,Football Stadium,117,73.215,FPVlC,Unknown,TBSSpec,2022/01/10
 DEP Open Series 3 Race 5,Football Stadium,200,114.693,FPVlC,Unknown,TBSSpec,2022/01/14
@@ -13,15 +17,42 @@ DEP Open Series 4 Race 2,Football Stadium,121,120.459,FPVlC,Unknown,TBSSpec,2022
 DEP Open Series 4 Race 3,Football Stadium,111,84.500,FPVlC,Unknown,TBSSpec,2022/01/22
 DEP Open Series 4 Race 4,Football Stadium,89,96.444,FPVlC,Unknown,TBSSpec,2022/01/23
 DEP Open Series 4 Race 5,Football Stadium,100,72.582,FPVlC,Unknown,TBSSpec,2022/01/24
-DEP Open Series 4 Race 6,Football Stadium,145,89.597,FPVlC,Unknown,TBSSpec,2022/01/27
-DEP Open Series 4 Race 7,Football Stadium,161,90.791,FPVlC,Unknown,TBSSpec,2022/01/31
+DEP Open Series 4 Race 6,Football Stadium,147,89.597,FPVlC,Unknown,TBSSpec,2022/01/27
+DEP Open Series 4 Race 7,Football Stadium,164,90.791,FPVlC,Unknown,TBSSpec,2022/01/31
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,FPVlC,NO_DATA
-DEP Open Series 5 Race 2,Football Stadium,134,100.819,FPVlC,Unknown,TBSSpec,2021/11/05
+DEP Open Series 5 Race 2,Football Stadium,135,100.819,FPVlC,Unknown,TBSSpec,2021/11/05
 DEP Open Series 5 Race 3,Football Stadium,149,113.687,FPVlC,Unknown,TBSSpec,2021/12/01
 DEP Open Series 5 Race 4,Football Stadium,106,104.721,FPVlC,Unknown,TBSSpec,2021/12/01
 DEP Open Series 5 Race 5,Football Stadium,139,130.270,FPVlC,Unknown,TBSSpec,2021/12/03
 DEP Open Series 5 Race 6,Football Stadium,131,94.194,FPVlC,Unknown,TBSSpec,2021/12/19
-DEP Open Series 5 Race 7,Football Stadium,89,114.534,FPVlC,Unknown,TBSSpec,2021/12/22
-DEP Open Series 6 Race 1,Football Stadium,999,999.999,FPVlC,NO_DATA
-DEP Open Series 6 Race 2,Football Stadium,999,999.999,FPVlC,NO_DATA
+DEP Open Series 5 Race 7,Football Stadium,90,114.534,FPVlC,Unknown,TBSSpec,2021/12/22
+DEP Open Series 6 Race 1,Football Stadium,89,89.187,FPVlC,Unknown,Five33Switchback,2022/03/28
+DEP Open Series 6 Race 2,Football Stadium,95,142.381,FPVlC,Unknown,Five33Switchback,2022/03/28
 DEP Spec Series 1 Race 5,Football Stadium,113,106.839,FPVlC,Unknown,TBSSpec,2021/12/01
+Mayhem 2021 By YAWESOME,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+Mayhem 22 by SFPV,Empty Scene Day,67,82.221,FPVlC,Unknown,Five33Switchback,2022/03/29
+Mayhem Dawn till Dusk,Empty Scene Day,72,66.666,FPVlC,Unknown,TBSSpec,2022/02/19
+MGP2018IOIntermediate,Empty Scene Day,14,32.117,FPVlC,Unknown,TBSSpec,2022/02/20
+MGP2018IORookie,Empty Scene Day,15,17.374,FPVlC,Unknown,TBSSpec,2022/02/20
+MGP2018IOTeam,Empty Scene Day,51,55.562,FPVlC,Unknown,TBSSpec,2022/02/26
+MGP2018IOWorldCup,Empty Scene Day,81,100.743,FPVlC,Unknown,TBSSpec,2022/02/26
+MultiGP 2016 RF,Football Stadium,17,45.832,FPVlC,Unknown,TBSSpec,2022/02/19
+MultiGP 2017 RF,Football Stadium,49,60.396,FPVlC,Unknown,TBSSpec,2022/02/26
+MultiGP 2018 RF,Empty Scene Day,40,100.860,FPVlC,Unknown,TBSSpec,2022/02/26
+MultiGP 2018 RQ,Football Stadium,30,49.187,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP_2019_Qualifier_Large,Dynamic Weather,20,37.152,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP_2019_Qualifier_Spec,Empty Scene Day,38,48.000,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP 2019 Sport Championships,Football Stadium,67,61.020,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP 2020 Global Qualifier,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+MultiGP 2021 Global Qualifier,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP Bessel Run,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP-Championships-2019,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+MultiGP High Voltage,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP IO 2019 Team,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+MultiGP IO 2019 World Cup,Empty Scene Day,999,999.999,FPVlC,NO_DATA
+MultiGPIOSpec2018,Empty Scene Day,29,84.326,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP Round 2 FNL,Sports Hall,11,30.999,FPVlC,Unknown,TBSSpec,2022/03/05
+MultiGP Tsunami,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP UTT 1,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP UTT 5,Football Stadium,999,999.999,FPVlC,NO_DATA
+MultiGP UTT 6,Football Stadium,999,999.999,FPVlC,NO_DATA

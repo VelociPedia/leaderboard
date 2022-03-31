@@ -8,25 +8,25 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|127|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/12/12|
-|144|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/23|
-|136|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/06/02|
-|101|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/06/01|
-|98|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/06/12|
+|136|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/12/12|
+|151|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/23|
+|140|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/06/02|
+|105|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/06/01|
+|101|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/06/12|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|93|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2020/08/05|
-|94|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2020/08/13|
-|71|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
+|99|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2020/08/05|
+|96|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2020/08/13|
+|73|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |21|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2020/09/29|
 ---
-### 7 tracks without data (200+ or not in leaderboard)
+### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MGP2018IOWorldCup|Empty Scene Day|
@@ -36,3 +36,5 @@
 |MultiGP Tsunami|Football Stadium|
 |MultiGP UTT 1|Football Stadium|
 |MultiGP UTT 5|Football Stadium|
+|Mayhem 2021 By YAWESOME|Empty Scene Day|
+|Mayhem 22 by SFPV|Empty Scene Day|

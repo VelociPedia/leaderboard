@@ -9,8 +9,8 @@
 83.669,MARAHUTE,Italy,CarbiXZero,2021/12/26
 83.885,OLDETERNAL☆YAYOU,France,Five33Switchback,2021/12/22
 84.452,TFFYCryson,Germany,Five33Switchback,2021/12/22
-84.833,Shaigne,France,CarbiXZero,2021/12/22
-84.915,TBSskAve,Germany,Five33Switchback,2021/12/22
+84.833,SSXShaigne,France,CarbiXZero,2021/12/22
+84.915,skAve,Germany,Five33Switchback,2021/12/22
 85.004,roma_fpv,Spain,Five33Switchback,2022/02/26
 85.535,jiggy,Philippines,Five33Switchback,2021/12/24
 86.028,MARV_FPV,Liechtenstein,Five33Switchback,2021/12/22
@@ -84,6 +84,7 @@
 112.863,jonnycible,Indonesia,Five33Switchback,2022/01/04
 113.288,Finzfpv,Unknown,Five33Switchback,2022/01/05
 113.734,FuzeJM,UnitedKingdom,TBSSpec,2021/12/30
+113.915,cap01_fpv,Germany,Five33Switchback,2022/03/21
 114.338,ANONOMOUSFPV,UnitedStates,Five33Switchback,2022/01/07
 114.365,mcrakus,Poland,TBSSpec,2021/12/22
 114.534,FPVlC,Unknown,TBSSpec,2021/12/22
@@ -102,7 +103,6 @@
 117.895,RIVALSKneeDown,UnitedStates,TBSSpec,2022/01/01
 118.385,RobSi,Slovenia,Five33Switchback,2021/12/25
 118.663,HobbyQFPV,Indonesia,Five33Switchback,2021/12/24
-119.418,cap01_fpv,Germany,Five33Switchback,2022/03/19
 120.017,whalefpv,China,Five33Switchback,2022/01/04
 120.293,YAWESOME,UnitedStates,Five33Switchback,2022/01/04
 120.598,Lo123,Austria,TBSSpec,2022/01/04
@@ -116,9 +116,11 @@
 125.028,Fiorix,Italy,Five33Switchback,2021/12/30
 125.522,Froiden,Unknown,Ossa,2022/03/08
 126.402,Solace,Canada,TwigXL3,2022/02/25
+127.149,AlexGold,RussianFederation,CarbiXZero,2022/03/23
 128.348,fape,Hungary,TBSSpec,2022/02/08
 128.533,Blahesz,Hungary,TBSSpec,2022/01/03
 128.791,ironoid8145,Australia,Five33Switchback,2021/12/30
+129.883,Habz,RussianFederation,CarbiXZero,2022/03/23
 130.694,ibor24,Switzerland,TBSSpec,2021/12/23
 130.728,m4yonnaise,Philippines,TBSSpec,2022/03/09
 131.909,DaemonFPV,Hungary,Five33Switchback,2022/01/03
@@ -196,5 +198,3 @@
 172.603,brebon,UnitedStates,Five33Switchback,2022/01/31
 173.801,VoitoBulas,Switzerland,LilBastard,2021/12/30
 173.991,CtrlAltFred,SouthAfrica,SlamNasty,2022/01/01
-176.099,SlavaUkrainieriagnan,RussianFederation,Five33Switchback,2021/12/23
-176.268,jamusXIII,UnitedStates,Five33Switchback,2021/12/30

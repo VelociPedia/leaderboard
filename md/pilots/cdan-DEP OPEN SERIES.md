@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |19|DEP Open Series 6 Race 1|Football Stadium|Mode2Ghost|2022/03/20|
-|23|DEP Open Series 6 Race 2|Football Stadium|Mode2Ghost|2022/03/09|
+|25|DEP Open Series 6 Race 2|Football Stadium|Mode2Ghost|2022/03/09|
 |27|DEP Open Series 5 Race 1|Football Stadium|Mode2Ghost|2021/11/22|
 |32|DEP Open Series 5 Race 3|Football Stadium|Mode2Ghost|2021/11/17|
 ---
@@ -10,7 +10,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |129|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2021/02/10|
-|120|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2021/03/14|
+|122|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2021/03/14|
 |62|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/08/09|
 |60|DEP Open Series 3 Race 4|Football Stadium|Mode2Ghost|2021/08/10|
 |51|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/05/17|
@@ -20,7 +20,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |129|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2021/02/10|
-|120|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2021/03/14|
+|122|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2021/03/14|
 |43|DEP Open Series 4 Race 5|Football Stadium|Mode2Ghost|2021/04/29|
 |51|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/05/17|
 ---

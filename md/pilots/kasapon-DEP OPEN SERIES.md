@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |65|DEP Open Series 5 Race 4|Football Stadium|SkyXKiller|2021/12/08|
 |73|DEP Open Series 5 Race 6|Football Stadium|SkyXKiller|2021/12/21|
-|92|DEP Open Series 6 Race 1|Football Stadium|SkyXKiller|2022/03/08|
+|95|DEP Open Series 6 Race 1|Football Stadium|SkyXKiller|2022/03/08|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -1,7 +1,7 @@
 25.090,NeonFPV,UnitedStates,Five33Switchback,2022/02/20
-26.299,SIMLeviathann,UnitedStates,Mode2Ghost,2021/02/14
+26.299,Leviathann,UnitedStates,Mode2Ghost,2021/02/14
 26.329,HQThunder,Spain,Mode2Ghost,2020/05/30
-27.130,TBSRetiredNoic,UnitedStates,CarbiXZero,2020/06/14
+27.130,CarNoic,UnitedStates,CarbiXZero,2020/06/14
 28.156,MuYaHoFPV,Korea,Five33Switchback,2022/01/10
 28.721,DirtyMuffin,UnitedStates,Five33Switchback,2020/08/14
 29.484,QF1Propsicle,UnitedStates,CarbiXZero,2020/04/17
@@ -17,7 +17,7 @@
 31.320,TC_NickwaspFPV,UnitedStates,CarbiXZero,2020/04/11
 31.358,PacoTeamCanadaFPV,Canada,Five33Switchback,2020/07/29
 31.695,Pino,UnitedStates,Mode2Ghost,2020/04/11
-31.720,HQBearShampoo,UnitedStates,Five33Switchback,2021/03/01
+31.720,クマシャンプ,UnitedStates,Five33Switchback,2021/03/01
 31.978,shames,UnitedStates,Five33Switchback,2020/07/27
 32.188,vexsk,Germany,TBSSpec,2020/07/09
 32.296,ALPIFPV,UnitedStates,Five33Switchback,2020/07/25
@@ -41,7 +41,7 @@
 34.223,SolidFpv,UnitedStates,Five33Switchback,2020/07/24
 34.278,RIVALSSkybound,UnitedStates,Five33Switchback,2020/04/28
 34.313,KillerBeemanFPV,UnitedStates,Five33Switchback,2020/04/07
-34.370,TBSQTFPV,UnitedStates,Five33Switchback,2020/09/22
+34.370,QF1QTFPV,UnitedStates,Five33Switchback,2020/09/22
 34.466,BluelineFPV,UnitedStates,TBSSpec,2020/08/30
 34.466,jra,UnitedStates,Mode2Ghost,2020/05/15
 34.551,SIMSFPV,UnitedStates,Ossa,2020/09/03
@@ -55,11 +55,11 @@
 35.377,HQzephatalien,Australia,TBSOblivion,2020/07/29
 35.625,OrbitFPV,UnitedStates,Five33Switchback,2020/06/27
 35.730,Michael_,Germany,Five33Switchback,2021/08/08
-35.744,screecherfpv,UnitedStates,Five33Switchback,2022/01/11
+35.744,Screecher_FPV,UnitedStates,Five33Switchback,2022/01/11
 35.755,FuryFPVQE,Canada,KareareaTalon,2020/05/31
 35.806,BONADI,Poland,Five33Switchback,2022/02/01
 35.818,FWMFPV,Canada,Five33Switchback,2020/07/03
-35.822,TBSskAve,Germany,Five33Switchback,2020/04/17
+35.822,skAve,Germany,Five33Switchback,2020/04/17
 35.864,Gator,UnitedStates,TBSSpec,2020/07/21
 35.922,ETERNAL☆FrSkyyler,UnitedStates,Five33Switchback,2020/06/27
 35.937,schwabbicus,UnitedStates,LilBastard,2020/06/13
@@ -104,6 +104,7 @@
 39.131,HungrysharkFPV,UnitedStates,Velocity,2020/08/29
 39.171,Fenixfpv,Spain,TBSSpec,2021/09/19
 39.179,w0rmser,Norway,Five33Switchback,2020/07/10
+39.181,cbleehk,HongKong,Five33Switchback,2022/03/03
 39.216,ARM_FPV,UnitedStates,Five33Switchback,2021/03/31
 39.398,niconi654,UnitedStates,Five33Switchback,2020/04/25
 39.436,FewRee,BruneiDarussalam,Five33Switchback,2020/06/21
@@ -113,6 +114,7 @@
 39.653,baraktal,Israel,TBSSpec,2021/01/12
 39.723,RIVALSMixedSignals,UnitedStates,CarbiXZero,2020/12/08
 39.864,JR138,UnitedStates,Five33Switchback,2021/07/14
+39.877,TMAD,UnitedStates,Five33Switchback,2022/02/24
 39.879,BrunoFPV,Mexico,TBSOblivion,2020/04/16
 40.046,fpvfpv,RussianFederation,Five33Switchback,2020/07/04
 40.058,Dea(f),UnitedStates,TBSSpec,2020/07/30
@@ -122,7 +124,6 @@
 40.505,WinterRanger,UnitedStates,Five33Switchback,2020/04/26
 40.517,JR,Sweden,TBSSpec,2021/03/06
 40.527,Flynby,UnitedStates,Five33Switchback,2020/05/08
-40.614,TMAD,UnitedStates,Five33Switchback,2021/11/03
 40.844,Reap3r,UnitedStates,Five33Switchback,2020/04/08
 40.855,_death247_,UnitedStates,Five33Switchback,2021/12/12
 40.857,kLawlz,Canada,Five33Switchback,2021/01/14
@@ -134,6 +135,7 @@
 41.100,quirijn,Netherlands,Five33Switchback,2021/03/02
 41.241,AgentOrange,UnitedStates,CarbiXZero,2020/08/17
 41.426,DonJohnson,France,TinyHawk,2020/08/13
+41.455,SemperFly,UnitedStates,Chief,2022/02/27
 41.520,ad_movie,Poland,Five33Switchback,2021/11/26
 41.658,IDRL_SH4DY,India,Five33Switchback,2020/10/20
 41.770,HaloWalker03,Germany,CarbiXZero,2020/04/07
@@ -188,13 +190,11 @@
 45.067,AronFF,Sweden,Five33Switchback,2022/02/08
 45.099,TC_PewPew,Canada,Yakuza,2020/07/28
 45.160,Phantom542,France,CarbiXZero,2020/08/01
+45.193,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/08
 45.242,TCGundren_Fpv,Switzerland,Five33Switchback,2020/05/25
 45.289,OscarNilsson,Sweden,CarbiXZero,2020/07/09
 45.311,Slikster,SouthAfrica,Five33Switchback,2021/08/17
 45.314,LOLDERSTeamCanadaFPV,Canada,Yakuza,2020/06/26
 45.439,JLongoPoker,UnitedStates,TBSSpec,2020/08/14
 45.452,boAzoz,Kuwait,Five33Switchback,2020/04/29
-45.470,bigspeed,UnitedStates,TBSSpec,2020/04/22
-45.484,RagingCanadian,Canada,CarbiXZero,2020/04/20
-45.548,limon,UnitedStates,Mode2Ghost,2020/06/19
-45.622,stogie,UnitedStates,Five33Switchback,2020/10/27
+45.470,RIVALSbigspeed,UnitedStates,TBSSpec,2020/04/22

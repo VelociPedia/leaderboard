@@ -10,8 +10,8 @@
 |:---:|:---|:---|:---:|:---:|
 |58|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2021/12/17|
 |56|DEP Open Series 5 Race 3|Football Stadium|SniperX|2022/01/25|
+|54|DEP Open Series 4 Race 7|Football Stadium|SniperX|2022/01/26|
 |54|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/02/28|
-|53|DEP Open Series 4 Race 7|Football Stadium|SniperX|2022/01/26|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
