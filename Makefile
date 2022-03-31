@@ -72,6 +72,10 @@ formula:
 	./getcollection.zsh "FormulaFlow.csv"
 	./makerank.zsh "FormulaFlow.csv"
 
+ddr22:
+		./getcollection.zsh "DDR22.csv"
+		./makerank.zsh "DDR22.csv"
+
 maionhigh:
 	./getcollection.zsh "MaiOnHigh Tracks.csv"
 	./makerank.zsh "MaiOnHigh Tracks.csv"
