@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |1|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/09/16|
-|7|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/31|
-|11|MGP2018IOTeam|Empty Scene Day|Five33Switchback|2021/07/10|
+|6|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/01|
+|9|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/31|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -26,7 +26,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 11 tracks without data (200+ or not in leaderboard)
+### 10 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2018 RQ|Football Stadium|
@@ -39,4 +39,3 @@
 |MultiGP Round 2 FNL|Sports Hall|
 |MultiGP Tsunami|Football Stadium|
 |MultiGP UTT 5|Football Stadium|
-|Mayhem 2021 By YAWESOME|Empty Scene Day|

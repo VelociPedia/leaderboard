@@ -1,11 +1,11 @@
 ### Best 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/03/31|
+|7|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/03/31|
 |18|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/12/20|
-|30|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/30|
 |32|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/08/19|
 |33|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/08/19|
+|33|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/30|
 ---
 ### Worse 7 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

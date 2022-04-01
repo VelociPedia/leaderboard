@@ -12,7 +12,7 @@
 |99|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2021/03/09|
 |84|MultiGP_2019_Qualifier_Spec|Empty Scene Day|BMSJS-1|2020/12/30|
 |81|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/03/10|
-|79|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/10/26|
+|80|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/10/26|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

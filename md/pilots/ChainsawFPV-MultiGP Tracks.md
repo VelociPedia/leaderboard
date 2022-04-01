@@ -26,7 +26,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 9 tracks without data (200+ or not in leaderboard)
+### 8 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2019 Sport Championships|Football Stadium|
@@ -37,4 +37,3 @@
 |2021 MultiGP Champs Track 2|Empty Scene Day|
 |MultiGP 2021 Global Qualifier|Football Stadium|
 |Mayhem 2021 By YAWESOME|Empty Scene Day|
-|Mayhem 22 by SFPV|Empty Scene Day|

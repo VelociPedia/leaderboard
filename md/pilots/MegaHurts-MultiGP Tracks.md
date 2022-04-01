@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |9|MultiGP 2018 RF|Empty Scene Day|Mode2Ghost|2021/09/06|
-|20|Mayhem 22 by SFPV|Empty Scene Day|SniperX|2022/03/28|
+|22|Mayhem 22 by SFPV|Empty Scene Day|SniperX|2022/03/28|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

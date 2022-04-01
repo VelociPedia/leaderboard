@@ -1,7 +1,7 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|5|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/29|
+|7|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/29|
 |14|MGP2018IOTeam|Empty Scene Day|TBSSpec|2021/02/28|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
