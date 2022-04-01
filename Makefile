@@ -1,6 +1,6 @@
-.PHONY: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt wttnow
+.PHONY: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt ddr22 formula
 
-all: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt wttnow
+all: tbs dep vrl multigp maionhigh ddr22 wtt formula
 
 clean:
 	rm data/pilots/*
@@ -39,6 +39,8 @@ dep:
 	./makerank.zsh "DEP OPEN SERIES 04.csv"
 	./getcollection.zsh "DEP OPEN SERIES 05.csv"
 	./makerank.zsh "DEP OPEN SERIES 05.csv"
+	./getcollection.zsh "DEP OPEN SERIES 06.csv"
+	./makerank.zsh "DEP OPEN SERIES 06.csv"
 
 vrl:
 	./getcollection.zsh "VRL SERIES.csv"
@@ -87,6 +89,3 @@ boners:
 wtt:
 	./getcollection.zsh "Weekly Time Trials Tracks.csv"
 	./makerank.zsh "Weekly Time Trials Tracks.csv"
-	
-wttnow:
-		./getcollection.zsh "WTT-current.csv"
