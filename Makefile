@@ -65,6 +65,10 @@ multigp:
 quadrivals:
 	./getcollection.zsh "QuadRivals.csv"
 	./makerank.zsh "QuadRivals.csv"
+	
+qr21:
+	./getcollection.zsh "QRivals21.csv"
+	./makerank.zsh "QRivals21.csv"
 
 rookies:
 	./getcollection.zsh "Rookies Tracks.csv"
