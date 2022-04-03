@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |200|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/05/30|
-|81|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/06/23|
+|82|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/06/23|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

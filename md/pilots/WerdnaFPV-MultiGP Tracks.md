@@ -12,7 +12,7 @@
 |160|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/07/25|
 |62|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/05/16|
 |42|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
-|40|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
+|41|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
 |32|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/07/02|
 |32|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
 |25|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/01/14|
@@ -20,10 +20,10 @@
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|40|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
-|11|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/06/30|
+|41|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
+|12|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/06/30|
 |32|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
-|22|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|
+|23|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|
 ---
 ### 7 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -32,7 +32,7 @@
 |32|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/07/02|
 |9|MultiGP 2020 Global Qualifier|Empty Scene Day|TBSSpec|2021/10/20|
 |32|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
-|22|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|
+|23|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|
 |42|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
 |10|MultiGP UTT 5|Football Stadium|TBSSpec|2020/07/02|
 ---

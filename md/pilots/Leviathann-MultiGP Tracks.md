@@ -10,7 +10,7 @@
 |75|MultiGP 2018 RQ|Football Stadium|Solleva|2020/05/28|
 |61|MultiGP 2017 RF|Football Stadium|Mode2Ghost|2020/04/11|
 |28|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Mode2Ghost|2021/04/30|
-|16|MultiGP IO 2019 World Cup|Empty Scene Day|Mode2Ghost|2020/05/05|
+|27|Mayhem 22 by SFPV|Empty Scene Day|CarbiXZero|2022/04/02|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -23,7 +23,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 15 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -40,4 +40,3 @@
 |MultiGP UTT 6|Football Stadium|
 |Mayhem Dawn till Dusk|Empty Scene Day|
 |Mayhem 2021 By YAWESOME|Empty Scene Day|
-|Mayhem 22 by SFPV|Empty Scene Day|

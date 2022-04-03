@@ -9,7 +9,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |136|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/12/12|
-|151|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/23|
+|152|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/23|
 |140|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/06/02|
 |105|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/06/01|
 |101|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/06/12|
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |99|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2020/08/05|
 |96|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2020/08/13|
-|73|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
+|74|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

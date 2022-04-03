@@ -1,14 +1,14 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|31|MultiGP High Voltage|Football Stadium|Mode2Ghost|2020/09/28|
 |32|MGP2018IORookie|Empty Scene Day|Mode2Ghost|2020/11/03|
+|32|MultiGP High Voltage|Football Stadium|Mode2Ghost|2020/09/28|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |124|MultiGP 2018 RF|Empty Scene Day|Mode2Ghost|2021/01/17|
-|178|2020 Canadian MultiGP Series|Football Stadium|Mode2Ghost|2020/11/03|
+|179|2020 Canadian MultiGP Series|Football Stadium|Mode2Ghost|2020/11/03|
 |166|MultiGP 2020 Global Qualifier|Empty Scene Day|Mode2Ghost|2020/12/05|
 |132|MultiGP IO 2019 Team|Empty Scene Day|Mode2Ghost|2020/05/20|
 ---
@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |132|MultiGP IO 2019 Team|Empty Scene Day|Mode2Ghost|2020/05/20|
-|61|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/09/28|
+|62|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/09/28|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

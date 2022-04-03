@@ -2,13 +2,13 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |14|MultiGP UTT 5|Football Stadium|KareareaTalon|2020/04/13|
-|25|MultiGP High Voltage|Football Stadium|KareareaTalon|2020/04/12|
+|26|MultiGP High Voltage|Football Stadium|KareareaTalon|2020/04/12|
 |28|MGP2018IOIntermediate|Empty Scene Day|KareareaTalon|2020/07/31|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|78|MGP2018IOWorldCup|Empty Scene Day|KareareaTalon|2020/08/02|
+|79|MGP2018IOWorldCup|Empty Scene Day|KareareaTalon|2020/08/02|
 |59|MultiGP 2018 RF|Empty Scene Day|KareareaTalon|2020/08/02|
 |132|MultiGP 2019 Sport Championships|Football Stadium|KareareaTalon|2020/04/12|
 |106|MultiGP IO 2019 World Cup|Empty Scene Day|KareareaTalon|2020/08/04|

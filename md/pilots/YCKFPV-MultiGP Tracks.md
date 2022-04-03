@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |168|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2021/07/05|
 |161|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/06/07|
-|98|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/06/17|
+|99|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/06/17|
 |92|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2021/05/17|
 |72|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/05/17|
 |174|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2021/05/17|
@@ -29,7 +29,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 7 tracks without data (200+ or not in leaderboard)
+### 6 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |2020 Canadian MultiGP Series|Football Stadium|
@@ -38,4 +38,3 @@
 |MultiGP 2021 Global Qualifier|Football Stadium|
 |Mayhem Dawn till Dusk|Empty Scene Day|
 |Mayhem 2021 By YAWESOME|Empty Scene Day|
-|Mayhem 22 by SFPV|Empty Scene Day|

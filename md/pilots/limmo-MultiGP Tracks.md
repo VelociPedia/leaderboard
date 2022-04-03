@@ -2,13 +2,13 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |34|MultiGP Round 2 FNL|Sports Hall|Five33Switchback|2022/02/12|
-|87|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/12/28|
+|88|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/06/13|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |191|MultiGP IO 2019 Team|Empty Scene Day|SingularitumV5|2021/09/24|
-|160|MGP2018IOWorldCup|Empty Scene Day|SingularitumV5|2021/08/08|
+|161|MGP2018IOWorldCup|Empty Scene Day|SingularitumV5|2021/08/08|
 |125|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/11/13|
 |113|MultiGPIOSpec2018|Empty Scene Day|SingularitumV5|2021/10/01|
 ---
@@ -16,16 +16,16 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |193|MGP2018IORookie|Empty Scene Day|Yakuza|2020/08/30|
-|108|MGP2018IOTeam|Empty Scene Day|Yakuza|2020/08/31|
+|109|MGP2018IOTeam|Empty Scene Day|Yakuza|2020/08/31|
 ---
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |88|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/06/13|
 |157|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/12/31|
-|167|MultiGP High Voltage|Football Stadium|TBSSpec|2021/01/01|
+|168|MultiGP High Voltage|Football Stadium|TBSSpec|2021/01/01|
 ---
-### 15 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2017 RF|Football Stadium|
@@ -41,5 +41,4 @@
 |2021 MultiGP Champs Track 2|Empty Scene Day|
 |MultiGP 2021 Global Qualifier|Football Stadium|
 |MultiGP Tsunami|Football Stadium|
-|Mayhem 2021 By YAWESOME|Empty Scene Day|
 |Mayhem 22 by SFPV|Empty Scene Day|

@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |14|MultiGP Round 2 FNL|Sports Hall|Five33Switchback|2020/11/27|
-|16|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/11/29|
-|21|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/06/22|
+|17|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/11/29|
+|22|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/06/22|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

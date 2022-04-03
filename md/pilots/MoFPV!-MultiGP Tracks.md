@@ -11,7 +11,7 @@
 |152|MultiGP-Championships-2019|Empty Scene Day|CarbiXZero|2022/03/04|
 |123|MultiGPIOSpec2018|Empty Scene Day|Five33SwitchbackExp|2021/10/20|
 |119|MultiGP 2018 RF|Empty Scene Day|CarbiXZero|2022/03/04|
-|106|MGP2018IOWorldCup|Empty Scene Day|CarbiXZero|2022/03/03|
+|107|MGP2018IOWorldCup|Empty Scene Day|CarbiXZero|2022/03/03|
 |175|MultiGP 2017 RF|Football Stadium|CarbiXZero|2022/03/04|
 ---
 ### Oldest 3 personal best
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |164|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33SwitchbackExp|2021/10/20|
 |123|MultiGPIOSpec2018|Empty Scene Day|Five33SwitchbackExp|2021/10/20|
-|100|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/11/20|
+|101|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/11/20|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

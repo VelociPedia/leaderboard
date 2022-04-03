@@ -2,14 +2,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |16|MultiGP UTT 5|Football Stadium|Ossa|2021/06/27|
-|17|MultiGP High Voltage|Football Stadium|Ossa|2021/07/08|
-|25|MultiGP Tsunami|Football Stadium|Ossa|2021/07/30|
+|18|MultiGP High Voltage|Football Stadium|Ossa|2021/07/08|
+|26|MultiGP Tsunami|Football Stadium|Ossa|2021/07/30|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |191|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
-|143|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
+|144|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
 |121|MultiGP 2018 RF|Empty Scene Day|Ossa|2021/06/27|
 |90|MultiGPIOSpec2018|Empty Scene Day|Ossa|2021/06/26|
 |150|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|

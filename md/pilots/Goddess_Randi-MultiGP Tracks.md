@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |18|MultiGP UTT 5|Football Stadium|Rooster|2021/02/23|
-|52|MultiGP Bessel Run|Football Stadium|Rooster|2021/01/09|
+|53|MultiGP Bessel Run|Football Stadium|Rooster|2021/01/09|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -15,8 +15,8 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|52|MultiGP Bessel Run|Football Stadium|Rooster|2021/01/09|
-|71|MultiGP High Voltage|Football Stadium|Rooster|2021/01/09|
+|53|MultiGP Bessel Run|Football Stadium|Rooster|2021/01/09|
+|72|MultiGP High Voltage|Football Stadium|Rooster|2021/01/09|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

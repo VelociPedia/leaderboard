@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |15|MultiGP Round 2 FNL|Sports Hall|Five33Switchback|2021/02/02|
 |16|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/08/03|
-|21|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2022/01/31|
+|22|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2022/01/31|
 |26|MultiGP UTT 5|Football Stadium|TBSOblivion|2020/10/19|
 |31|MultiGP UTT 6|Football Stadium|Five33Switchback|2020/09/24|
 ---
@@ -21,11 +21,11 @@
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|67|MultiGP High Voltage|Football Stadium|ArchAngelOrange|2020/09/05|
+|68|MultiGP High Voltage|Football Stadium|ArchAngelOrange|2020/09/05|
 |31|MultiGP UTT 6|Football Stadium|Five33Switchback|2020/09/24|
 |84|MultiGP UTT 1|Football Stadium|TBSOblivion|2020/10/19|
 |26|MultiGP UTT 5|Football Stadium|TBSOblivion|2020/10/19|
-|67|MultiGP Bessel Run|Football Stadium|TBSOblivion|2020/10/31|
+|68|MultiGP Bessel Run|Football Stadium|TBSOblivion|2020/10/31|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

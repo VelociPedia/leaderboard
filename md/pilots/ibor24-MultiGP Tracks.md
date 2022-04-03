@@ -1,7 +1,7 @@
 ### Best 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|6|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/09/05|
+|7|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/09/05|
 |8|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/07/27|
 |8|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/09/06|
 |11|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/06/06|
@@ -10,11 +10,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |92|MultiGP 2018 RF|Empty Scene Day|TinyHawk|2020/12/26|
-|144|2020 Canadian MultiGP Series|Football Stadium|TwigXL3|2021/08/28|
+|145|2020 Canadian MultiGP Series|Football Stadium|TwigXL3|2021/08/28|
 |134|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/12/17|
 |108|MultiGP IO 2019 World Cup|Empty Scene Day|TBSSpec|2021/07/24|
+|106|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
 |102|MultiGP 2018 RQ|Football Stadium|TinyHawk|2021/01/09|
-|95|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -27,9 +27,9 @@
 ### 10 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|16|Mayhem 2021 By YAWESOME|Empty Scene Day|TBSSpec|2022/04/01|
-|95|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
-|43|Mayhem Dawn till Dusk|Empty Scene Day|TBSSpec|2021/12/21|
+|25|Mayhem 2021 By YAWESOME|Empty Scene Day|TBSSpec|2022/04/01|
+|106|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
+|44|Mayhem Dawn till Dusk|Empty Scene Day|TBSSpec|2021/12/21|
 |27|MGP2018IOIntermediate|Empty Scene Day|TBSSpec|2021/07/26|
 |47|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/07/22|
 |134|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/12/17|

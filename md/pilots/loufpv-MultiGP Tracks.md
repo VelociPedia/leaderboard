@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |1|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/09/16|
-|6|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/01|
 |9|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/31|
+|9|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/01|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,7 +18,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |139|MultiGP-Championships-2019|Empty Scene Day|Velocity|2020/04/28|
-|59|MultiGP High Voltage|Football Stadium|Velocity|2020/04/28|
+|60|MultiGP High Voltage|Football Stadium|Velocity|2020/04/28|
 |114|MultiGP IO 2019 Team|Empty Scene Day|Velocity|2020/04/28|
 ---
 ### 1 tracks where TBS SPEC quad was used

@@ -1,7 +1,7 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|Mayhem Dawn till Dusk|Empty Scene Day|Mode2Ghost|2021/05/01|
+|21|Mayhem Dawn till Dusk|Empty Scene Day|Mode2Ghost|2021/05/01|
 |24|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2022/01/14|
 |24|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2021/05/27|
 ---
@@ -18,7 +18,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |84|MultiGP_2019_Qualifier_Spec|Empty Scene Day|BMSJS-1|2020/12/30|
-|60|MultiGP UTT 6|Football Stadium|BMSJS-1|2021/01/18|
+|61|MultiGP UTT 6|Football Stadium|BMSJS-1|2021/01/18|
 |66|MGP2018IOTeam|Empty Scene Day|BMSJS-1|2021/02/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
