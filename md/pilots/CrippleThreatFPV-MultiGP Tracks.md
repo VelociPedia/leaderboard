@@ -18,7 +18,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |28|MultiGP UTT 1|Football Stadium|Ossa|2021/06/12|
-|86|MGP2018IOTeam|Empty Scene Day|Ossa|2021/06/23|
+|87|MGP2018IOTeam|Empty Scene Day|Ossa|2021/06/23|
 |108|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
 ---
 ### 1 tracks where TBS SPEC quad was used

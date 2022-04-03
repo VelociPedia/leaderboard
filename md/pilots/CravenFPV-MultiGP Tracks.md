@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |15|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/11|
-|24|MGP2018IORookie|Empty Scene Day|Mode2Ghost|2020/04/06|
+|25|MGP2018IORookie|Empty Scene Day|Mode2Ghost|2020/04/06|
 |34|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2020/05/23|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
@@ -18,7 +18,7 @@
 |:---:|:---|:---|:---:|:---:|
 |114|Mayhem Dawn till Dusk|Empty Scene Day|Mode2Ghost|2020/04/05|
 |111|MGP2018IOIntermediate|Empty Scene Day|Mode2Ghost|2020/04/05|
-|116|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
+|117|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

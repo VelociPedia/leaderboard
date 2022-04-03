@@ -10,13 +10,13 @@
 |84|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2022/01/29|
 |62|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2022/01/27|
 |179|MultiGP 2017 RF|Football Stadium|Five33Switchback|2022/01/01|
-|170|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/20|
+|171|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/20|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |97|MultiGP Round 2 FNL|Sports Hall|Five33Switchback|2021/11/22|
-|120|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/12/12|
+|121|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/12/12|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

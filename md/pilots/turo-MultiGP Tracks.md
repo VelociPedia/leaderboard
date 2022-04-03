@@ -1,8 +1,8 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|32|MGP2018IORookie|Empty Scene Day|Mode2Ghost|2020/11/03|
 |32|MultiGP High Voltage|Football Stadium|Mode2Ghost|2020/09/28|
+|33|MGP2018IORookie|Empty Scene Day|Mode2Ghost|2020/11/03|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

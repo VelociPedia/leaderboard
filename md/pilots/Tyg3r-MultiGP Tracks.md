@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |84|MultiGP_2019_Qualifier_Spec|Empty Scene Day|BMSJS-1|2020/12/30|
 |61|MultiGP UTT 6|Football Stadium|BMSJS-1|2021/01/18|
-|66|MGP2018IOTeam|Empty Scene Day|BMSJS-1|2021/02/03|
+|68|MGP2018IOTeam|Empty Scene Day|BMSJS-1|2021/02/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

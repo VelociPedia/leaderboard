@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |173|MultiGP IO 2019 Team|Empty Scene Day|SingularitumV5|2020/04/16|
+|166|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
 |161|MultiGP 2018 RF|Empty Scene Day|SingularitumV5|2020/04/23|
-|161|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
 |159|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2020/04/08|
 ---
 ### Oldest 2 personal best
@@ -21,8 +21,8 @@
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|55|Mayhem 2021 By YAWESOME|Empty Scene Day|TBSSpec|2022/04/01|
-|161|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
+|63|Mayhem 2021 By YAWESOME|Empty Scene Day|TBSSpec|2022/04/01|
+|166|Mayhem 22 by SFPV|Empty Scene Day|TBSSpec|2022/03/29|
 ---
 ### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

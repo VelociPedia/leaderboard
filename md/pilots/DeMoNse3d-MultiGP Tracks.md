@@ -45,7 +45,7 @@
 |19|MultiGP Tsunami|Football Stadium|TBSSpec|2021/06/16|
 |199|MultiGP UTT 5|Football Stadium|TBSSpec|2020/04/18|
 ---
-### 10 tracks without data (200+ or not in leaderboard)
+### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MGP2018IOIntermediate|Empty Scene Day|
@@ -57,4 +57,3 @@
 |MultiGP UTT 1|Football Stadium|
 |MultiGP UTT 6|Football Stadium|
 |Mayhem Dawn till Dusk|Empty Scene Day|
-|Mayhem 2021 By YAWESOME|Empty Scene Day|

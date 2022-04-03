@@ -17,7 +17,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |146|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/05/24|
-|108|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/05/24|
+|109|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/05/24|
 |95|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/07/05|
 ---
 ### 1 tracks where TBS SPEC quad was used

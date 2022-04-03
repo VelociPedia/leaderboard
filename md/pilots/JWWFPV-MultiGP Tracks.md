@@ -2,9 +2,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |20|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/10/10|
-|36|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/10/10|
+|37|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/10/10|
 |37|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/10/10|
-|56|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2021/09/02|
+|58|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2021/09/02|
 ---
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

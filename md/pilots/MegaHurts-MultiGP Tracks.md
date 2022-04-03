@@ -22,7 +22,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |70|2020 Canadian MultiGP Series|Football Stadium|TBSSpec|2021/09/11|
-|52|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2020/10/02|
+|53|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2020/10/02|
 |58|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/02/03|
 ---
 ### 14 tracks without data (200+ or not in leaderboard)

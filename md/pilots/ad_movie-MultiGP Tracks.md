@@ -16,14 +16,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |63|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
-|124|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
+|125|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
 ---
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |95|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
 |63|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
-|124|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
+|125|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
 |44|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/06/09|
 ---
 ### 14 tracks without data (200+ or not in leaderboard)

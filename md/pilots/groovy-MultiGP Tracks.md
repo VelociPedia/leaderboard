@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |10|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/02/11|
-|26|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/24|
 |26|MultiGP UTT 1|Football Stadium|Five33Switchback|2021/02/11|
+|27|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/11/24|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
