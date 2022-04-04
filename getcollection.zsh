@@ -144,7 +144,7 @@ while read pilot ; do
         worsetracks=$(($ntrack/4))
         oldesttracks=$(($ntrack/6))
         
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -n --key="3" | head -n $besttracks)
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -V --key="3" | head -n $besttracks)
         echo -e "### Best $besttracks $collection TRACKS ranks" > "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
@@ -152,7 +152,7 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
 
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -rn --key="3" | head -n $worsetracks)
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -rV --key="3" | head -n $worsetracks)
         echo -e "---\n### Worse $worsetracks $collection TRACKS ranks" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
@@ -160,7 +160,7 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
 
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," --key="8" | head -n $oldesttracks)
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -V --key="8" | head -n $oldesttracks)
         echo -e "---\n### Oldest $oldesttracks personal best" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
@@ -177,7 +177,7 @@ while read pilot ; do
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
         
-        a=$(grep "NO_DATA$" <<< $pilot_data)
+	a=$(grep "NO_DATA$" <<< $pilot_data)
         n=$(wc -l <<< $a)
         echo -e "---\n### $n tracks without data (200+ or not in leaderboard)" >> "$outputfile"
         echo -e "|TRACK|SCENE|" >> "$outputfile"

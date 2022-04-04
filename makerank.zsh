@@ -54,7 +54,7 @@ while read pilot ; do
     finalpilot=$(echo -e "$finalpilot\n$pilot,$n")
     done <<< $pilotslist
     
-finalpilot=$(sort -nr --field-separator="," --key="2" <<< $finalpilot)
+finalpilot=$(sort -Vr --field-separator="," --key="2" <<< $finalpilot)
 finalpilots=$(sed '/\n/d' <<< $finalpilot | sed '/^[[:space:]]*$/d')
 
 
@@ -124,11 +124,11 @@ elif [ "$sortby" = "index" ] ; then nsort=4 ; calcdelta="index"
   #list=$(sort --field-separator="," -k2,2rn -k4,4n <<< $list)    # Sort by N Track completed, then by indextime
   
   if [ "$sortby" = "time" ]  ; then nsort=3 ; calcdelta="sum"
-      summaxrank=$(sort --field-separator="," -k2,2rn -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
+      summaxrank=$(sort --field-separator="," -k2,2rV -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
 elif [ "$sortby" = "index" ] ; then nsort=4 ; calcdelta="index"
-      summaxrank=$(sort --field-separator="," -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
+      summaxrank=$(sort --field-separator="," -k${nsort},${nsort}V <<< $list | head -n 1 | cut -d , -f${nsort})
   else nsort=3 ; calcdelta="sum"
-      summaxrank=$(sort --field-separator="," -k2,2rn -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
+      summaxrank=$(sort --field-separator="," -k2,2rV -k${nsort},${nsort}n <<< $list | head -n 1 | cut -d , -f${nsort})
   fi
   
   
@@ -144,7 +144,7 @@ while IFS="," read -r pilot n sum index spec ; do
   samerank=$(((($n))-(($previousn))))  
   
    
-    
+   
 if [ "$sortby" = "index" ] ; then
       calcudelta=$index
       delta=$(bc <<< "scale=3 ; $calcudelta - $summaxrank")
@@ -185,4 +185,4 @@ done <<< $list
   
   
   dataoutputfile="$ranking_dir/$collection.csv"
-  echo "$datanewlist" | sed '/^[[:space:]]*$/d' | sort --field-separator="," -k2,2rn -k3,3n > "$dataoutputfile"
+  echo "$datanewlist" | sed '/^[[:space:]]*$/d' | sort --field-separator="," -k2,2rV -k3,3V > "$dataoutputfile"
