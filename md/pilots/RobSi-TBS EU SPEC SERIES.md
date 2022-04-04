@@ -13,18 +13,18 @@
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|200|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/11/20|
 |192|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/04/21|
+|191|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/18|
 |177|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/10/07|
 |176|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2020/11/03|
-|138|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2021/12/04|
-|133|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|CarbiXZero|2020/04/06|
-|124|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/11/23|
-|200|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/11/20|
-|191|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/18|
 |176|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/12/17|
 |175|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/09/16|
 |174|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/12/20|
 |166|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/10/03|
+|153|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/11/04|
+|150|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/12/17|
+|147|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|CarbiXZero|2020/04/06|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -1,6 +1,6 @@
 ### RCTech.de EU SPEC SERIES 02 RANKING
 *7 tracks included from [collections/RCTech.de EU SPEC SERIES 02.csv](/collections/RCTech.de%20EU%20SPEC%20SERIES%2002.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|OliHawk|100.814|0 / 7|397.001 s||
 |2|DirtyMuffin|101.028|0 / 7|397.786 s|+.785|

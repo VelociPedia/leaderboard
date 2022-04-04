@@ -15,7 +15,6 @@
 ### Worse 15 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|45|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/01/27|
 |112|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/05/13|
 |94|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |92|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/15|
@@ -30,6 +29,7 @@
 |72|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
 |72|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |70|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
+|68|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/04|
 ---
 ### Oldest 10 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

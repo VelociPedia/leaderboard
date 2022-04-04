@@ -10,13 +10,13 @@
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|148|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/14|
 |135|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/24|
+|123|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/14|
 |122|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/02|
 |121|VRL Season 8 Track 2|Drift Track|Chief|2021/11/19|
 |114|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/12/28|
-|103|VRL Season 8 Track 3|Night Factory 2|SniperX|2022/02/19|
-|82|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2020/05/10|
-|80|VRL 7 Track 1|Future Hangar|Five33Switchback|2020/10/28|
+|110|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2021/04/07|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

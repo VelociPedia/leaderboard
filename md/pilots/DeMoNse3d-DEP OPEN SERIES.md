@@ -10,11 +10,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |183|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/12|
-|110|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
-|96|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/10|
-|77|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/09|
-|54|DEP Open Series 5 Race 7|Football Stadium|SniperX|2021/12/24|
 |131|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/06|
+|111|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
+|110|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
+|103|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/10/28|
+|96|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/10|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

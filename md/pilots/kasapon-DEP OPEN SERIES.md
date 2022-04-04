@@ -3,15 +3,15 @@
 |:---:|:---|:---|:---:|:---:|
 |65|DEP Open Series 5 Race 4|Football Stadium|SkyXKiller|2021/12/08|
 |73|DEP Open Series 5 Race 6|Football Stadium|SkyXKiller|2021/12/21|
-|95|DEP Open Series 6 Race 1|Football Stadium|SkyXKiller|2022/03/08|
+|79|DEP Open Series 5 Race 7|Football Stadium|SkyXKiller|2021/12/25|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|176|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/03/22|
 |169|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2021/01/09|
 |160|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/01|
 |157|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/19|
-|147|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/04/27|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

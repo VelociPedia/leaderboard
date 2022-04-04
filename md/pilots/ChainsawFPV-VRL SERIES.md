@@ -1,11 +1,11 @@
 ### Best 5 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|81|VRL Season 4 Track 3|Basketball Stadium|SniperX|2021/12/13|
-|102|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/07/13|
 |21|VRL S5 TRACK 3|Bando|Five33Switchback|2021/09/13|
 |31|VRL SEASON 5 TRACK 6|Dynamic Weather|Five33Switchback|2021/07/04|
 |32|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2021/07/06|
+|33|VRL-Season-4-Track-4|Dynamic Weather|SniperX|2022/03/08|
+|41|VRL Season 4 Track 1|Dynamic Weather|SniperX|2022/03/08|
 ---
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -17,7 +17,7 @@
 |114|VRL Season 8 Track 6|Night Factory 2|SniperX|2022/01/02|
 |108|VRL Season 8 Track 5|Dynamic Weather|SniperX|2021/12/17|
 |104|VRL Season 8 Championships|Dynamic Weather|SniperX|2022/02/06|
-|97|VRL Season 8 Track 1|Office Complex|Five33Switchback|2021/10/22|
+|102|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/07/13|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

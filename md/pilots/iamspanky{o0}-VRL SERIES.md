@@ -1,13 +1,13 @@
 ### Best 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|6|VRL6 Downtown Loop|Dynamic Weather|CarbiXZero|2020/04/28|
+|9|VRL S5 TRACK 3|Bando|CarbiXZero|2020/05/13|
+|9|VRL_Season_4_Track_6|Dynamic Weather|Solleva|2020/05/09|
 |10|VRL-Season-4-Track-4|Dynamic Weather|Solleva|2020/05/09|
+|10|VRL6 Crash Site|Dynamic Weather|CarbiXZero|2020/04/28|
 |11|VRL Season 3 Track 3|Empty Scene Day|CarbiXZero|2020/05/18|
-|12|VRL S5 TRACK 2|Dynamic Weather|CarbiXZero|2020/05/13|
-|16|VRL S5 Track 1|Dynamic Weather|CarbiXZero|2020/05/13|
-|20|VRL Season 4 Track 3|Basketball Stadium|Solleva|2020/05/09|
-|39|VRL Season 3 Track 2|Empty Scene Day|Solleva|2020/05/08|
-|39|VRL Season 3 Track 1|Empty Scene Day|Solleva|2020/05/08|
+|11|VRL SEASON 5 TRYOUTS|Dynamic Weather|CarbiXZero|2020/05/18|
 ---
 ### Worse 11 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -19,10 +19,10 @@
 |149|VRL 7 Track 1|Future Hangar|Ossa|2020/10/30|
 |142|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/01/25|
 |125|VRL SEASON 6 TRYOUTS|Dynamic Weather|Ossa|2020/09/14|
+|109|VRL 7 Track 3|Dynamic Weather|Ossa|2020/11/19|
 |94|VRL Season 8 Track 4|DynamicPoly|Five33Switchback|2022/01/18|
 |93|VRL 7 Track 2|Future Hangar Empty|Ossa|2020/11/06|
 |86|VRL Season 8 Track 6|Night Factory 2|Five33Switchback|2022/01/11|
-|85|VRL Season 8 Track 1|Office Complex|Five33Switchback|2021/10/28|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -1,6 +1,6 @@
 ### VRL SERIES 03 RANKING
 *6 tracks included from [collections/VRL SERIES 03.csv](/collections/VRL%20SERIES%2003.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DracFPV|100.916|0 / 6|454.388 s||
 |2|DirtyMuffin|101.283|0 / 6|456.836 s|+2.448|

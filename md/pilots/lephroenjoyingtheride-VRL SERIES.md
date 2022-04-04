@@ -9,13 +9,13 @@
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|66|VRL SEASON 8 TRACK 7|Dynamic Weather|CarbiXZero|2022/01/22|
+|59|VRL 7 Track 1|Future Hangar|Ossa|2020/10/30|
+|59|VRL 7 Race 4|Dynamic Weather|SingularitumV5|2020/11/30|
 |53|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/11|
+|53|VRL 7 Track 3|Dynamic Weather|SingularitumV5|2020/11/20|
+|50|VRL 7 Track 5|Dynamic Weather|SingularitumV5|2020/12/11|
 |49|VRL Season 8 Track 4|DynamicPoly|CarbiXZero|2021/12/08|
-|40|VRL6 Tunnel Vision|Dynamic Weather|SingularitumV5|2020/04/14|
-|33|VRL6 Kenerator|Dynamic Weather|SingularitumV5|2020/04/24|
-|33|VRL Season 8 Track 6|Night Factory 2|CarbiXZero|2022/01/03|
-|25|VRL SEASON 5 TRACK 8|Industrial Wasteland|SingularitumV5|2020/07/24|
-|25|VRL Season 8 Track 1|Office Complex|MadLite|2021/11/12|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

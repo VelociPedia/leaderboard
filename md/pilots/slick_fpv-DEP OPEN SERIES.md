@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |80|DEP Open Series 4 Race 2|Football Stadium|Ossa|2021/04/10|
-|65|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/24|
 |71|DEP Open Series 5 Race 6|Football Stadium|Five33Switchback|2021/12/16|
+|65|DEP Open Series 5 Race 7|Football Stadium|Five33Switchback|2021/12/24|
 |59|DEP Open Series 4 Race 3|Football Stadium|Ossa|2021/04/21|
 ---
 ### Oldest 2 personal best

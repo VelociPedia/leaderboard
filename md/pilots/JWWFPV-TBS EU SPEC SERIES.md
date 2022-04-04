@@ -15,16 +15,16 @@
 |:---:|:---|:---|:---:|:---:|
 |195|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2021/08/28|
 |187|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/08/13|
-|175|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
-|167|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
-|166|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2021/11/13|
-|161|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2022/01/08|
-|157|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/06|
-|113|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/08/28|
-|105|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/08/28|
 |185|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
 |178|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/28|
+|175|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
 |171|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
+|167|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
+|167|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2022/03/08|
+|167|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/10/08|
+|166|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2021/11/13|
+|162|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/11/28|
+|161|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2022/01/08|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -11,9 +11,9 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|178|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/05/19|
 |187|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/07/07|
 |183|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/08/10|
+|178|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/05/19|
 |143|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2020/07/08|
 |142|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2021/02/13|
 |138|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|

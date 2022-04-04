@@ -15,8 +15,6 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |172|TBS EU Spec Series 5 Race 4|Football Stadium|Mode2Ghost|2020/08/06|
-|60|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
-|48|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Mode2Ghost|2020/05/18|
 |168|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/12/23|
 |163|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/11/12|
 |152|TBS EU Spec Series 4 Race 2|Empty Scene Day|Mode2Ghost|2020/05/15|
@@ -28,6 +26,8 @@
 |136|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/05/21|
 |120|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |111|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Mode2Ghost|2020/09/15|
+|111|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
+|110|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/11|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

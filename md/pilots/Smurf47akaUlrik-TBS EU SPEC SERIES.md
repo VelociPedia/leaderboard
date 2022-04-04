@@ -18,7 +18,6 @@
 |:---:|:---|:---|:---:|:---:|
 |149|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/02/01|
 |147|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/12|
-|87|TBS EU Spec Series 4 Race 3|IndoorGoKart|CarbiXZero|2020/05/29|
 |131|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2020/04/28|
 |109|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/06/17|
 |102|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/28|
@@ -26,6 +25,7 @@
 |99|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/19|
 |95|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2020/09/11|
 |88|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/02/07|
+|87|TBS EU Spec Series 4 Race 3|IndoorGoKart|CarbiXZero|2020/05/29|
 |80|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/02/01|
 |79|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/15|
 |79|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/15|

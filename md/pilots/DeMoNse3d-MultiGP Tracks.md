@@ -8,11 +8,11 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|144|2021 MultiGP Champs Track 1|Empty Scene Day|TBSSpec|2021/10/20|
-|96|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/12/21|
 |199|MultiGP UTT 5|Football Stadium|TBSSpec|2020/04/18|
 |178|2020 Canadian MultiGP Series|Football Stadium|TBSSpec|2021/12/31|
 |152|MultiGP High Voltage|Football Stadium|TBSSpec|2020/04/18|
+|148|MultiGP 2020 Global Qualifier|Empty Scene Day|TBSSpec|2021/06/08|
+|147|MultiGP Bessel Run|Football Stadium|TBSSpec|2020/04/18|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -1,12 +1,12 @@
 ### VRL SERIES 07 RANKING
 *8 tracks included from [collections/VRL SERIES 07.csv](/collections/VRL%20SERIES%2007.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|BURAK|98.975|0 / 8|659.419 s||
 |2|HQThunder|100.450|0 / 8|668.981 s|+9.562|
 |3|SWEEPER|100.975|0 / 8|673.047 s|+13.628|
 |4|ATAKAN|101.087|0 / 8|673.790 s|+14.371|
-|5|Dogcom1380mah|101.862|0 / 8|679.044 s|+19.625|
+|5|Leviathann|101.862|0 / 8|679.044 s|+19.625|
 |6|QF1Propsicle|102.262|0 / 8|681.844 s|+22.425|
 |7|PapiAJ|102.262|0 / 8|681.899 s|+22.480|
 |8|クマシャンプ|102.200|0 / 8|682.016 s|+22.597|

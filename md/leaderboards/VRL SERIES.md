@@ -1,6 +1,6 @@
 ### VRL SERIES RANKING
 *51 tracks included from [collections/VRL SERIES.csv](/collections/VRL%20SERIES.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|PaulEFPV|107.812|0 / 47|4615.169 s|+6.912|
 |2|frteskesc|150.428|0 / 46|6382.326 s|+49.528|

@@ -1,8 +1,8 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|9|2021 MultiGP Champs Track 1|Empty Scene Day|||
 |1|2020 MultiGP Champs presented by RDQ|Football Stadium|Ossa|2022/01/12|
+|2|MultiGP 2020 Global Qualifier|Empty Scene Day|Mode2Ghost|2021/02/14|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES 10 RANKING
 *9 tracks included from [collections/TBS EU SPEC SERIES 10.csv](/collections/TBS%20EU%20SPEC%20SERIES%2010.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|Kosta|102.700|6 / 9|497.437 s||
 |2|FPVFPVINEEDTOGETFASTER|109.155|4 / 9|526.266 s|+28.829|

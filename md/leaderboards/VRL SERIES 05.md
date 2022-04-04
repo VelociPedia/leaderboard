@@ -1,6 +1,6 @@
 ### VRL SERIES 05 RANKING
 *10 tracks included from [collections/VRL SERIES 05.csv](/collections/VRL%20SERIES%2005.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DirtyMuffin|97.380|0 / 10|865.136 s||
 |2|DracFPV|100.900|1 / 10|899.940 s|+34.804|

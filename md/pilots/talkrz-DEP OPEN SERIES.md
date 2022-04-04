@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |69|DEP Open Series 6 Race 1|Football Stadium|TBSSpec|2022/03/06|
-|103|DEP Open Series 4 Race 5|Football Stadium|CarbiXZero|2022/03/08|
-|119|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/09/25|
+|88|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
+|94|DEP Open Series 3 Race 6|Football Stadium|CarbiXZero|2022/03/10|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

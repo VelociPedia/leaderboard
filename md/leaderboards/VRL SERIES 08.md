@@ -1,6 +1,6 @@
 ### VRL SERIES 08 RANKING
 *9 tracks included from [collections/VRL SERIES 08.csv](/collections/VRL%20SERIES%2008.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|gMan&lt;3|102.544|0 / 9|899.500 s||
 |2|SIMDorukFPV|108.422|0 / 9|948.289 s|+48.789|
@@ -69,7 +69,7 @@
 |65|ROBO__FPV|299.814|7 / 7|2073.786 s|+1455.484|
 |66|geek_fpv|106.100|0 / 6|543.657 s||
 |67|ETERNAL☆FrSkyyler|105.500|0 / 6|560.359 s|+16.702|
-|68|Dogcom1380mah|100.433|0 / 6|561.296 s|+17.639|
+|68|Leviathann|100.433|0 / 6|561.296 s|+17.639|
 |69|SIMRaiToR|112.900|0 / 6|633.023 s|+89.366|
 |70|Simfiddykal|117.333|0 / 6|647.432 s|+103.775|
 |71|TBSLehan|130.950|0 / 6|673.203 s|+129.546|

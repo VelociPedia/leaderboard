@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES 09 RANKING
 *9 tracks included from [collections/TBS EU SPEC SERIES 09.csv](/collections/TBS%20EU%20SPEC%20SERIES%2009.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|EuLeR|103.366|3 / 9|505.332 s||
 |2|ATAKAN|104.888|8 / 9|512.052 s|+6.720|

@@ -13,18 +13,18 @@
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|148|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/02/15|
-|135|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2021/02/07|
-|125|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/01/22|
-|121|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/02/11|
 |182|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
 |169|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/02/13|
 |166|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/03/10|
 |156|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/12|
 |153|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/03/06|
 |152|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/25|
+|148|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/02/15|
 |139|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
+|135|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2021/02/07|
 |135|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
+|134|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/01/17|
+|130|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/01/23|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

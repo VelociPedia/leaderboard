@@ -1,6 +1,6 @@
 ### VRL SERIES 06 RANKING
 *9 tracks included from [collections/VRL SERIES 06.csv](/collections/VRL%20SERIES%2006.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DirtyMuffin|100.100|0 / 9|877.931 s||
 |2|TCNMGrower|122.055|0 / 9|1071.551 s|+193.620|

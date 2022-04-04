@@ -6,21 +6,21 @@
 |3|VRL S5 Track 1|Dynamic Weather|Chief|2022/01/20|
 |3|VRL S5 TRACK 2|Dynamic Weather|Solleva|2021/09/02|
 |5|VRL S5 TRACK 4|Empty Scene Day|Chief|2022/01/18|
-|9|VRL S5 TRACK 5|Dynamic Weather|Solleva|2020/07/11|
+|8|VRL S5 TRACK 3|Bando|Solleva|2021/01/10|
 ---
 ### Worse 10 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|129|VRL Season 3 Track 1|Empty Scene Day|Chief|2022/01/21|
+|86|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/23|
 |83|VRL Season 8 Championships|Dynamic Weather|Chief|2022/02/17|
+|78|VRL 7 Race 4|Dynamic Weather|Solleva|2020/11/23|
+|68|VRL 7 Track 1|Future Hangar|Ossa|2020/10/30|
 |67|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/30|
-|52|VRL Season 8 Track 5|Dynamic Weather|Chief|2021/12/17|
-|50|VRL Season 8 Track 1|Office Complex|Solleva|2021/11/12|
-|45|VRL SEASON 5 TRACK 8|Industrial Wasteland|Solleva|2020/07/12|
-|44|VRL Season 8 Track 4|DynamicPoly|Chief|2021/12/10|
-|43|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
-|42|VRL Season 8 Track 6|Night Factory 2|Chief|2022/01/15|
-|41|VRL6 Extermination|Dynamic Weather|SlamNasty|2020/04/11|
-|39|VRL Season 3 Track 4|Empty Scene Day|Solleva|2020/12/27|
+|63|VRL 7 Track 5|Dynamic Weather|Solleva|2020/12/08|
+|61|VRL Season 8 Track 2|Drift Track|Solleva|2021/11/16|
+|57|VRL 7 Track 2|Future Hangar Empty|Solleva|2020/11/12|
+|57|VRL6 Championships|Dynamic Weather|SlamNasty|2020/05/03|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -14,18 +14,18 @@
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|147|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|73|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
-|51|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |155|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
+|147|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |132|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/10/29|
 |79|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
 |76|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
+|73|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |66|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
 |64|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |54|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
 |53|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
 |52|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
+|51|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |45|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
 ### Oldest 9 personal best

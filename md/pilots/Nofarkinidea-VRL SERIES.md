@@ -1,25 +1,25 @@
 ### Best 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|16|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2020/11/07|
-|44|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2020/09/12|
 |6|VRL-Season-4-Tryouts|Dynamic Weather|Five33Switchback|2020/11/05|
-|75|VRL Season 4 Track 3|Basketball Stadium|KareareaTalon|2020/05/07|
-|80|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2020/09/10|
-|89|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2020/09/11|
+|11|VRL SEASON 5 TRACK 7|IndoorGoKart|KareareaTalon|2020/06/22|
+|12|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2020/11/09|
+|13|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2020/11/15|
+|16|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2020/11/07|
+|16|VRL Season 4 Track 1|Dynamic Weather|Five33Switchback|2020/11/06|
 ---
 ### Worse 9 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |198|VRL 7 Track 1|Future Hangar|Five33Switchback|2020/11/02|
+|156|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/21|
 |139|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/12/02|
 |132|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/03|
+|89|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2020/09/11|
 |87|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2020/11/23|
 |83|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/20|
 |81|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2020/11/12|
-|67|VRL6 Tunnel Vision|Dynamic Weather|Five33Switchback|2020/11/29|
-|59|VRL S5 TRACK 3|Bando|KareareaTalon|2020/06/12|
-|53|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2020/09/14|
+|80|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2020/09/10|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

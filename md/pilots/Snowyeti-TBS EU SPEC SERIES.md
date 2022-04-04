@@ -15,14 +15,14 @@
 |188|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/08/26|
 |181|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/12|
 |181|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/24|
+|180|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/02/04|
 |173|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/15|
 |167|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2021/09/22|
-|133|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/11|
-|121|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/10|
-|99|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|MadLite|2021/08/25|
-|180|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/02/04|
 |166|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/02/20|
 |165|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
+|162|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/07/08|
+|162|TBS EU Spec Series 7 Final|Empty Scene Day|TBSOblivion|2021/03/12|
+|154|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/08/27|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

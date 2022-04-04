@@ -14,17 +14,17 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |193|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/10|
-|188|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/23|
-|132|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/01/14|
-|100|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/11/26|
-|92|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |189|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/14|
+|188|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/23|
 |180|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/11/15|
 |176|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/04/08|
 |175|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/23|
 |161|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/01/10|
 |145|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |143|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|
+|142|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/05/13|
+|140|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/19|
+|136|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2022/01/10|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

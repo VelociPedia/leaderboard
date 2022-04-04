@@ -1,6 +1,6 @@
 ### DEP OPEN SERIES 05 RANKING
 *7 tracks included from [collections/DEP OPEN SERIES 05.csv](/collections/DEP%20OPEN%20SERIES%2005.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|EuLeR|97.514|0 / 7|437.757 s||
 |2|geek_fpv|98.985|0 / 7|444.581 s|+6.824|

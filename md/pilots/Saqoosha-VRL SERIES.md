@@ -1,11 +1,11 @@
 ### Best 5 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|4|VRL Season 3 Track 6|Empty Scene Day|TBSSpec|2022/01/24|
+|4|VRL SEASON 5 TRACK 7|IndoorGoKart|TBSSpec|2022/01/30|
 |7|VRL Season 3 Track 5|Empty Scene Day|TBSSpec|2022/01/24|
 |7|VRL SEASON 5 TRACK 6|Dynamic Weather|TBSSpec|2022/01/30|
 |8|VRL S5 TRACK 2|Dynamic Weather|TBSSpec|2022/01/20|
-|12|VRL Season 4 Track 7|Dynamic Weather|TBSSpec|2022/01/29|
-|16|VRL Season 4 Track 3|Basketball Stadium|TBSSpec|2022/02/02|
 ---
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -13,11 +13,11 @@
 |162|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/05|
 |158|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/16|
 |146|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2022/01/26|
+|123|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/13|
 |103|VRL Season 4 Track 2|Bando|TBSSpec|2022/02/01|
+|95|VRL 7 Track 5|Dynamic Weather|Ossa|2020/12/08|
 |94|VRL Season 3 Track 4|Empty Scene Day|TBSSpec|2022/01/24|
 |93|VRL Season 8 Track 1|Office Complex|TBSSpec|2021/11/01|
-|93|VRL Season 8 Track 3|Night Factory 2|TBSSpec|2021/11/26|
-|75|VRL Season 8 Track 2|Drift Track|TBSSpec|2021/11/16|
 ---
 ### Oldest 5 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

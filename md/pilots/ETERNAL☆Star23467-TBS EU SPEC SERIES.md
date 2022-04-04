@@ -16,9 +16,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |196|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2020/05/25|
+|161|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/07/30|
 |114|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/05/25|
 |107|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/02|
-|161|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/07/30|
 |95|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/05/25|
 |95|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2021/02/25|
 |82|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/06/03|

@@ -8,9 +8,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |146|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
-|112|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2021/12/31|
-|101|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2021/12/15|
 |133|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/12/23|
+|130|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/12/11|
+|122|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

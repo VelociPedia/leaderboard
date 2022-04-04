@@ -10,7 +10,7 @@
 |179|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/17|
 |152|DEP Open Series 4 Race 2|Football Stadium|SingularitumV5|2021/05/05|
 |144|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/03/01|
-|111|DEP Open Series 4 Race 4|Football Stadium|SingularitumV5|2021/05/03|
+|115|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/03/07|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

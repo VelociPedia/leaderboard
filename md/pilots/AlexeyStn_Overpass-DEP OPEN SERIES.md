@@ -7,9 +7,9 @@
 ### Worse 3 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|127|DEP Open Series 3 Race 5|Football Stadium|CarbiXZero|2021/04/22|
 |94|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/10/19|
 |84|DEP Open Series 2 Race 7|Football Stadium|CarbiXZero|2021/03/28|
-|77|DEP Open Series 3 Race 6|Football Stadium|CarbiXZero|2021/05/18|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

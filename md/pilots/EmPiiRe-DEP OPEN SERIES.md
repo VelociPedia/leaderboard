@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |162|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2022/02/24|
-|116|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2022/01/16|
-|115|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2022/01/06|
+|138|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2022/01/16|
+|118|DEP Open Series 4 Race 7|Football Stadium|CarbiXZero|2022/01/13|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

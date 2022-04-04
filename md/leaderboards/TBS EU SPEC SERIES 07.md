@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES 07 RANKING
 *8 tracks included from [collections/TBS EU SPEC SERIES 07.csv](/collections/TBS%20EU%20SPEC%20SERIES%2007.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|EuLeR|103.862|1 / 8|503.348 s||
 |2|Kosta|103.862|3 / 8|503.501 s|+.153|
@@ -87,7 +87,7 @@
 |83|SWEEPER|93.333|0 / 6|338.090 s||
 |84|antonig|108.116|0 / 6|395.250 s|+57.160|
 |85|MARAHUTE|110.483|0 / 6|406.504 s|+68.414|
-|86|Dogcom1380mah|111.050|1 / 6|407.042 s|+68.952|
+|86|Leviathann|111.050|1 / 6|407.042 s|+68.952|
 |87|longcat|116.533|6 / 6|427.389 s|+89.299|
 |88|DracFPV|119.566|6 / 6|428.906 s|+90.816|
 |89|wiz|122.266|0 / 6|440.478 s|+102.388|

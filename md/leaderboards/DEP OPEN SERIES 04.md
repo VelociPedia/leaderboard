@@ -1,6 +1,6 @@
 ### DEP OPEN SERIES 04 RANKING
 *7 tracks included from [collections/DEP OPEN SERIES 04.csv](/collections/DEP%20OPEN%20SERIES%2004.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|BURAK|97.442|0 / 7|424.991 s||
 |2|CharlieMorry|101.214|0 / 7|442.472 s|+17.481|

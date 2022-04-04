@@ -12,15 +12,15 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |200|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
-|177|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/10|
-|153|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
-|128|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |198|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/26|
 |178|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
+|177|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/10|
 |174|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |172|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |169|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |157|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
+|153|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
+|143|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/17|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -8,11 +8,11 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|80|MGP2018IOWorldCup|Empty Scene Day|KareareaTalon|2020/08/02|
-|59|MultiGP 2018 RF|Empty Scene Day|KareareaTalon|2020/08/02|
 |133|MultiGP 2019 Sport Championships|Football Stadium|KareareaTalon|2020/04/12|
 |106|MultiGP IO 2019 World Cup|Empty Scene Day|KareareaTalon|2020/08/04|
 |99|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
+|84|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
+|84|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2020/10/07|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

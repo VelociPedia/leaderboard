@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |187|DEP Open Series 4 Race 6|Football Stadium|CarbiXZero|2021/05/25|
-|130|DEP Open Series 6 Race 2|Football Stadium|SniperX|2022/03/22|
 |131|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/03/04|
+|130|DEP Open Series 6 Race 2|Football Stadium|SniperX|2022/03/22|
 |103|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/07|
 ---
 ### Oldest 2 personal best

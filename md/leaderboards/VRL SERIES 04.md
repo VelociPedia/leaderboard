@@ -1,6 +1,6 @@
 ### VRL SERIES 04 RANKING
 *9 tracks included from [collections/VRL SERIES 04.csv](/collections/VRL%20SERIES%2004.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DirtyMuffin|99.288|0 / 9|909.995 s||
 |2|Nofarkinidea|138.133|0 / 9|1254.132 s|+344.137|

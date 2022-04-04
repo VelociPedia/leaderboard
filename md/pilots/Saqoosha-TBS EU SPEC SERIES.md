@@ -17,7 +17,6 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |194|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/04|
-|49|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/17|
 |187|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/24|
 |139|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/10|
 |124|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/07|
@@ -33,6 +32,7 @@
 |89|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/21|
 |84|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/05|
 |83|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/26|
+|82|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/09/06|
 ---
 ### Oldest 11 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

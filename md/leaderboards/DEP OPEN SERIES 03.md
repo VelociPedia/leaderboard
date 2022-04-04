@@ -1,6 +1,6 @@
 ### DEP OPEN SERIES 03 RANKING
 *7 tracks included from [collections/DEP OPEN SERIES 03.csv](/collections/DEP%20OPEN%20SERIES%2003.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|EuLeR|100.785|0 / 7|444.420 s||
 |2|mv|103.028|1 / 7|454.437 s|+10.017|

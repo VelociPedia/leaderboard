@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES 04 RANKING
 *7 tracks included from [collections/TBS EU SPEC SERIES 04.csv](/collections/TBS%20EU%20SPEC%20SERIES%2004.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DirtyMuffin|101.114|0 / 7|500.713 s||
 |2|OliHawk|103.285|0 / 7|512.628 s|+11.915|

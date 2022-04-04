@@ -1,26 +1,26 @@
 ### Best 6 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|77|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/10/06|
 |79|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2021/10/03|
 |82|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2022/03/28|
 |92|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/01/04|
 |97|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/27|
 |98|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/10/27|
-|102|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/13|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|190|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/08|
-|167|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/12/11|
-|116|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2021/10/03|
-|102|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/10/03|
-|77|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/10/06|
 |193|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/02|
+|190|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/08|
 |172|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/13|
 |171|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/27|
 |170|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/10|
+|167|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/12/11|
 |167|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/12/13|
+|165|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/09/03|
+|157|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/12/26|
+|148|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2022/01/05|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

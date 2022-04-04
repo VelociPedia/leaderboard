@@ -1,21 +1,21 @@
 ### Best 4 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|42|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2022/01/16|
-|79|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2021/12/31|
-|84|VRL Season 4 Track 3|Basketball Stadium|Five33Switchback|2022/01/22|
-|106|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/12/29|
+|24|VRL Season 4 Track 1|Dynamic Weather|Five33Switchback|2022/01/22|
+|25|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2021/12/23|
+|25|VRL6 Crash Site|Dynamic Weather|Five33Switchback|2022/01/23|
+|26|VRL Season 3 Track 6|Empty Scene Day|Five33Switchback|2022/01/19|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |200|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2022/02/01|
 |191|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/12/20|
+|159|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2022/03/17|
 |154|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/01/07|
 |149|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/12/22|
 |109|VRL Season 8 Track 5|Dynamic Weather|Five33Switchback|2022/01/07|
-|105|VRL Season 8 Track 1|Office Complex|Five33Switchback|2022/01/07|
-|91|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2021/12/16|
+|106|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/12/29|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

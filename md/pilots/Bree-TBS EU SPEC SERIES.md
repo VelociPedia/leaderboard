@@ -16,23 +16,23 @@
 ### Worse 17 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|182|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/27|
-|177|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2021/07/01|
-|169|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/08/20|
-|169|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2022/02/07|
-|158|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/12/21|
-|156|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2022/02/07|
-|155|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/12/21|
-|129|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2022/01/06|
-|122|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2022/02/04|
-|98|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2022/02/04|
-|96|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2022/02/06|
 |188|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/05/04|
 |183|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/27|
 |183|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/12/21|
+|182|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/27|
 |182|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/12/21|
 |181|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/12/20|
+|177|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2021/07/01|
 |174|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/12/20|
+|169|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/08/20|
+|169|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2022/02/07|
+|169|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/12/20|
+|166|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/12/21|
+|165|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/05/20|
+|160|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/12/20|
+|158|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/12/21|
+|158|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/12/21|
+|156|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2022/02/07|
 ---
 ### Oldest 11 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

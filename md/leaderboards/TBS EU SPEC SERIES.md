@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES RANKING
 *71 tracks included from [collections/TBS EU SPEC SERIES.csv](/collections/TBS%20EU%20SPEC%20SERIES.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|Bree|143.645|42 / 71|6121.727 s|+42.049|
 |2|mv|110.960|51 / 69|4637.343 s|+9.364|

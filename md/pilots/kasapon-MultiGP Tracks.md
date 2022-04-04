@@ -8,10 +8,10 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|58|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/07/20|
 |185|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/07/21|
 |137|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2021/03/04|
 |125|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/07/17|
+|99|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/07/12|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

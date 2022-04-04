@@ -13,8 +13,8 @@
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|134|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/06/28|
 |145|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/06|
+|134|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/06/28|
 |113|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/06/28|
 |108|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
 |97|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2020/09/28|

@@ -1,12 +1,12 @@
 ### Best 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|112|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2022/02/08|
 |34|VRL SEASON 5 TRACK 7|IndoorGoKart|Five33Switchback|2022/02/09|
 |49|VRL S5 TRACK 4|Empty Scene Day|Five33Switchback|2021/12/18|
 |49|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2021/12/15|
 |52|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2021/10/27|
 |55|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2021/12/15|
+|56|VRL SEASON 8 TRYOUTS|RedValley|Shocker|2021/10/10|
 ---
 ### Worse 9 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

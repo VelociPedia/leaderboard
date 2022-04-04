@@ -1,10 +1,10 @@
 ### Best 4 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|22|VRL Season 3 Track 3|Empty Scene Day|AcrobotTruX-R197|2020/12/26|
-|53|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/01/02|
-|78|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
 |13|VRL-Season-4-Tryouts|Dynamic Weather|AcrobotTruX-R197|2020/09/07|
+|22|VRL Season 3 Track 3|Empty Scene Day|AcrobotTruX-R197|2020/12/26|
+|23|VRL Season 4 Championship|Football Stadium|Five33Switchback|2021/01/23|
+|25|VRL_Season_4_Track_6|Dynamic Weather|TBSOblivion|2020/07/04|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -13,8 +13,8 @@
 |125|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 |99|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
 |83|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
+|78|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
 |62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
-|57|VRL Season 3 Track 5|Empty Scene Day|TBSOblivion|2020/07/01|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

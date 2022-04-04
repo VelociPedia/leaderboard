@@ -2,9 +2,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |26|VRL Season 3 Track 3|Empty Scene Day|TwigXL3|2022/03/16|
-|49|VRL Season 3 Track 5|Empty Scene Day|Ragg-e200h|2022/03/16|
-|113|VRL Season 3 Track 1|Empty Scene Day|Ragg-e200h|2022/03/16|
-|116|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
+|26|VRL6 Downtown Loop|Dynamic Weather|Ragg-e200h|2022/03/20|
+|33|VRL Season 4 Track 2|Bando|TwigXL3|2022/03/16|
+|33|VRL SEASON 5 TRACK 7|IndoorGoKart|Ragg-e200h|2022/03/14|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -14,7 +14,7 @@
 |157|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
 |122|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 |120|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
-|103|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TwigXL3|2022/03/14|
+|116|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -14,11 +14,11 @@
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|200|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/30|
 |176|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/27|
 |176|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|LethalConception|2020/05/15|
-|169|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/01/02|
-|200|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/30|
 |175|TBS EU Spec Series 4 Race 2|Empty Scene Day|LethalConception|2020/05/15|
+|169|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/01/02|
 |157|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/09/16|
 |103|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/02/06|
 |99|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/09|

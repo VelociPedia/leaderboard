@@ -12,15 +12,15 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |186|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/04|
-|158|TBS EU Spec Series 9 Race 7|NEC Birmingham|DJI|2021/11/10|
-|65|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/06|
 |172|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/14|
+|158|TBS EU Spec Series 9 Race 7|NEC Birmingham|DJI|2021/11/10|
 |153|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|DJI|2022/01/23|
 |132|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/26|
 |130|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/01/29|
 |123|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/05|
 |114|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/09|
 |105|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/25|
+|105|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/24|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

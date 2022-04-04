@@ -13,13 +13,13 @@
 |:---:|:---|:---|:---:|:---:|
 |199|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/09|
 |193|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/07/23|
+|192|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
+|179|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 |176|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
 |172|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
 |171|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
+|165|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/05|
 |161|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/07/13|
-|161|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/01/12|
-|192|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
-|179|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

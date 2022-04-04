@@ -15,13 +15,13 @@
 |194|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2020/12/14|
 |177|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/12/20|
 |164|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/08/27|
-|94|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2020/12/22|
 |141|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/07|
 |139|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/02|
 |136|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/10/25|
 |134|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/02|
 |130|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/12/14|
 |124|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/12/14|
+|120|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/14|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

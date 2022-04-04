@@ -1,6 +1,6 @@
 ### TBS EU SPEC SERIES 08 RANKING
 *9 tracks included from [collections/TBS EU SPEC SERIES 08.csv](/collections/TBS%20EU%20SPEC%20SERIES%2008.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|DirtyMuffin|103.388|0 / 9|544.730 s||
 |2|BURAK|106.122|8 / 9|558.870 s|+14.140|

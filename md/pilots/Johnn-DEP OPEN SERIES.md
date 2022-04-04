@@ -9,8 +9,8 @@
 |:---:|:---|:---|:---:|:---:|
 |186|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/10|
 |116|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/12|
-|86|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/19|
 |108|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/07|
+|96|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2020/12/03|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -17,11 +17,10 @@
 |:---:|:---|:---|:---:|:---:|
 |198|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/25|
 |166|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/03/17|
-|132|TBS EU Spec Series 5 FINAL|Dynamic Weather|Solleva|2021/01/04|
-|79|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/07/10|
 |157|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/22|
 |150|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/17|
 |134|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/04/19|
+|132|TBS EU Spec Series 5 FINAL|Dynamic Weather|Solleva|2021/01/04|
 |128|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/07/10|
 |119|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/31|
 |97|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/03/17|
@@ -30,6 +29,7 @@
 |90|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/24|
 |87|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/11|
 |85|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
+|84|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/25|
 ---
 ### Oldest 10 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

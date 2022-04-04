@@ -12,11 +12,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |200|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2021/07/27|
+|180|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/07/13|
 |179|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/18|
+|160|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/09/10|
 |159|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/07/27|
 |159|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/11/29|
-|180|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/07/13|
-|160|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/09/10|
 |147|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/09/08|
 |142|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/12/02|
 |119|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/09/16|

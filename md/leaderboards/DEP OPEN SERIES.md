@@ -1,6 +1,6 @@
 ### DEP OPEN SERIES RANKING
 *27 tracks included from [collections/DEP OPEN SERIES.csv](/collections/DEP%20OPEN%20SERIES.csv)*
-|RANK|PILOT|INDEX|SPEC|TIME|DELTA|
+|RANK|PILOT|INDEX|TBSSPEC|TIME|DELTA|
 |:---:|:---|:---:|:---:|:---:|---:|
 |1|FPVFPVINEEDTOGETFASTER|111.251|0 / 27|1893.394 s|+14.235|
 |2|Darksilver|126.522|11 / 27|2159.490 s|+29.506|

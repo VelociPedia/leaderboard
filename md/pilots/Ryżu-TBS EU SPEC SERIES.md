@@ -11,8 +11,6 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|53|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
-|52|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/04/09|
 |163|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/14|
 |133|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/02/10|
 |131|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
@@ -21,6 +19,8 @@
 |98|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |97|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/02|
 |91|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|90|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
+|88|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/04|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

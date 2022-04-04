@@ -9,9 +9,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |156|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2022/01/21|
-|109|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/08/14|
-|93|MGP2018IOWorldCup|Empty Scene Day|Five33Switchback|2022/01/21|
-|75|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2022/01/21|
+|154|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
+|152|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/11/15|
+|129|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2022/01/21|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
