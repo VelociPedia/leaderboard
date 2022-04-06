@@ -8,16 +8,16 @@
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|84|DEP Open Series 4 Race 7|Football Stadium|Mode2Ghost|2021/06/18|
+|85|DEP Open Series 4 Race 7|Football Stadium|Mode2Ghost|2021/06/18|
 |82|DEP Open Series 4 Race 6|Football Stadium|Mode2Ghost|2021/06/08|
-|78|DEP Open Series 4 Race 5|Football Stadium|Mode2Ghost|2021/05/15|
+|79|DEP Open Series 4 Race 5|Football Stadium|Mode2Ghost|2021/05/15|
 |70|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/05/09|
 |41|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/03/29|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|17|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2020/11/18|
+|18|DEP Spec Series 1 Race 5|Football Stadium|Mode2Ghost|2020/11/18|
 |15|DEP Open Series 2 Race 1|Dynamic Weather|Mode2Ghost|2020/12/21|
 |20|DEP Open Series 3 Race 2|Football Stadium|Mode2Ghost|2021/03/15|
 ---

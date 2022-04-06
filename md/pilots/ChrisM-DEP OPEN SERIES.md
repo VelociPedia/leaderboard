@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |14|DEP Open Series 4 Race 4|Football Stadium|CarbiXZero|2021/05/12|
-|15|DEP Open Series 5 Race 5|Football Stadium|CarbiXZero|2021/12/03|
+|16|DEP Open Series 4 Race 7|Football Stadium|Five33Switchback|2021/05/26|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |164|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2021/11/24|
 |158|DEP Open Series 5 Race 3|Football Stadium|Five33Switchback|2021/11/25|
-|76|DEP Open Series 5 Race 1|Football Stadium|Five33Switchback|2021/11/24|
+|77|DEP Open Series 5 Race 1|Football Stadium|Five33Switchback|2021/11/24|
 |68|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/03/10|
 |64|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/03|
 |62|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/03/17|

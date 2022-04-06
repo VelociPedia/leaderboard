@@ -8,27 +8,27 @@
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|94|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/12/22|
-|90|DEP Open Series 6 Race 1|Football Stadium|Mode2Ghost|2022/03/09|
-|87|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
+|95|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/12/22|
+|91|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
+|91|DEP Open Series 6 Race 1|Football Stadium|Mode2Ghost|2022/03/09|
 |80|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|72|DEP Open Series 5 Race 6|Football Stadium|Mode2Ghost|2021/12/22|
+|73|DEP Open Series 5 Race 6|Football Stadium|Mode2Ghost|2021/12/22|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |80|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
 |39|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/10|
-|57|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
+|58|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
 ---
 ### 6 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |80|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|57|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
+|58|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/25|
 |66|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/26|
-|94|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/12/22|
-|87|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
+|95|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/12/22|
+|91|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/02|
 |19|DEP Open Series 6 Race 2|Football Stadium|TBSSpec|2022/03/10|
 ---
 ### 6 tracks without data (200+ or not in leaderboard)

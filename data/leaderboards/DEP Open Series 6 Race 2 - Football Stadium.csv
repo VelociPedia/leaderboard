@@ -17,6 +17,7 @@
 82.588,BARONGFPV,Italy,Five33Switchback,2022/03/27
 83.944,BMSThomas,Australia,BMSJS-1,2022/03/14
 84.406,MX_BIGRAMON,Germany,TBSSpec,2022/03/10
+84.962,mojofpv,Germany,Five33Switchback,2022/04/05
 85.707,baraktal,Israel,Five33Switchback,2022/03/12
 86.115,RIVALSbigspeed,UnitedStates,Five33Switchback,2022/03/18
 86.396,chogeRINTGF,Spain,Five33Switchback,2022/03/16
@@ -37,8 +38,7 @@
 98.379,BlueWolfTFS,Poland,Five33Switchback,2022/03/09
 99.190,Gafannen,Slovakia,Five33Switchback,2022/03/09
 99.798,FRNScorb,Germany,SniperX,2022/03/21
-100.063,mojofpv,Germany,Five33Switchback,2022/03/16
-101.232,クマシャンプ,UnitedStates,Mode2Ghost,2022/03/19
+101.232,クマシャンプ―,UnitedStates,Mode2Ghost,2022/03/19
 101.420,propcounter,Germany,Five33Switchback,2022/03/09
 102.336,ETERNAL☆GOODVIBES,UnitedKingdom,PantherMM,2022/03/10
 102.804,LOSLobo,Hungary,TBSSpec,2022/03/22
@@ -46,6 +46,7 @@
 102.861,Arras,Spain,Five33Switchback,2022/03/25
 103.392,wapfpv,Philippines,Five33Switchback,2022/03/23
 103.900,ad_movie,Poland,Five33Switchback,2022/03/15
+104.382,SWEEPER,CzechRepublic,Five33Switchback,2022/04/05
 104.820,Fiorix,Italy,Five33Switchback,2022/03/09
 105.982,DAFFPV,Sweden,Chief,2022/03/09
 106.200,obeny,Poland,Five33Switchback,2022/03/24
@@ -54,6 +55,7 @@
 107.446,NotSure,UnitedKingdom,TBSSpec,2022/03/12
 107.540,OrigDragon,UnitedStates,TBSSpec,2022/03/12
 107.780,frteskesc,Germany,Five33Switchback,2022/03/10
+108.286,EmPiiRe,Germany,Five33Switchback,2022/03/31
 108.468,UnderTheRadar,Canada,Five33Switchback,2022/03/18
 108.520,mcrakus,Poland,TBSSpec,2022/03/09
 109.109,Avalt180,France,SniperX,2022/03/09
@@ -68,12 +70,11 @@
 115.470,ChainsawFPV,UnitedStates,SniperX,2022/03/11
 115.574,AdamWu,China,Five33Switchback,2022/03/16
 116.265,tillyFPV,UnitedStates,TBSSpec,2022/03/15
-116.375,EmPiiRe,Germany,Five33Switchback,2022/03/25
+117.102,ArvinFPV,Germany,Ossa,2022/04/02
 117.499,MorbidFPV,UnitedStates,TBSSpec,2022/03/17
 117.855,cap01_fpv,Germany,Five33Switchback,2022/03/20
 118.394,geordil,UnitedStates,TBSSpec,2022/03/17
 118.483,GPW,France,TBSOblivion,2022/03/10
-120.058,ArvinFPV,Germany,Ossa,2022/03/16
 120.146,mikemendes715,Belgium,Five33Switchback,2022/03/23
 120.303,Difo_96,Italy,Five33Switchback,2022/03/22
 120.681,Lo123,Austria,Five33Switchback,2022/03/09
@@ -132,6 +133,7 @@
 213.914,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 215.433,Crusher72,Canada,TBSSpec,2022/03/19
 222.897,roma_fpv,Spain,Five33Switchback,2022/03/09
+229.790,pathos,Unknown,Five33Switchback,2022/04/06
 230.030,K3_FPV,Finland,TBSSpec,2022/03/17
 233.193,GrOiLL,Germany,Five33Switchback,2022/03/11
 234.797,ErraziBProductionS,UnitedStates,Five33SwitchbackExp,2022/03/12

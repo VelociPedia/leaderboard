@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |6|DEP Open Series 2 Race 1|Dynamic Weather|Ossa|2021/08/12|
 |12|DEP Open Series 2 Race 7|Football Stadium|Ossa|2021/03/17|
-|13|DEP Open Series 5 Race 5|Football Stadium|Ossa|2021/12/09|
+|14|DEP Open Series 5 Race 5|Football Stadium|Ossa|2021/12/09|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,7 +16,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|27|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2020/10/21|
+|29|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2020/10/21|
 |74|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/15|
 |34|DEP Open Series 3 Race 2|Football Stadium|Ossa|2021/02/16|
 ---

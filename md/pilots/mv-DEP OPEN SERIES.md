@@ -9,7 +9,7 @@
 ### Worse 6 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|63|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
+|65|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
 |40|DEP Open Series 2 Race 1|Dynamic Weather|CarbiXZero|2021/12/13|
 |37|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
 |34|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/10/27|
@@ -20,7 +20,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |37|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
-|63|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
+|65|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
 |16|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/10/19|
 |34|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/10/27|
 ---
@@ -32,7 +32,7 @@
 |17|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/02/23|
 |16|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/10/19|
 |34|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/10/27|
-|63|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
+|65|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/10/18|
 ---
 ### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -9,8 +9,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |116|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
-|97|DEP Open Series 4 Race 1|Football Stadium|Solleva|2021/04/06|
-|62|DEP Open Series 4 Race 5|Football Stadium|Solleva|2021/04/29|
+|98|DEP Open Series 4 Race 1|Football Stadium|Solleva|2021/04/06|
+|63|DEP Open Series 4 Race 5|Football Stadium|Solleva|2021/04/29|
 |56|DEP Open Series 3 Race 6|Football Stadium|Solleva|2021/03/11|
 |55|DEP Open Series 4 Race 7|Football Stadium|Solleva|2021/11/16|
 ---

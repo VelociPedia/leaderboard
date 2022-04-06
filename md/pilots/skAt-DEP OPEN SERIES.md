@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |171|DEP Open Series 2 Race 1|Dynamic Weather|LethalConception|2022/03/01|
-|105|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/01/29|
-|91|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/25|
+|106|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/01/29|
+|92|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/25|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -20,10 +20,10 @@
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|105|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/01/29|
+|106|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/01/29|
 |47|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/07|
-|66|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/06|
-|91|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/25|
+|67|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/06|
+|92|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/25|
 ---
 ### 13 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

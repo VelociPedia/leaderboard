@@ -9,14 +9,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |118|DEP Open Series 4 Race 3|Football Stadium|Ossa|2021/07/07|
-|110|DEP Open Series 5 Race 6|Football Stadium|Ossa|2021/12/25|
+|111|DEP Open Series 5 Race 6|Football Stadium|Ossa|2021/12/25|
 |108|DEP Open Series 4 Race 2|Football Stadium|Ossa|2021/04/07|
 |98|DEP Open Series 3 Race 7|Football Stadium|Ossa|2021/07/21|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|55|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2020/11/08|
+|57|DEP Spec Series 1 Race 5|Football Stadium|Ossa|2020/11/08|
 |53|DEP Open Series 3 Race 2|Football Stadium|Ossa|2021/02/10|
 |108|DEP Open Series 4 Race 2|Football Stadium|Ossa|2021/04/07|
 ---
