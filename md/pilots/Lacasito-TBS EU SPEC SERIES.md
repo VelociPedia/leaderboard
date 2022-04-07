@@ -13,7 +13,7 @@
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
+|96|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |70|TBS EU Spec Series 9 Race 2|Dynamic Weather|Mode2Ghost|2021/10/01|
 |55|TBS EU Spec Season 5 Race 1|Football Stadium|Mode2Ghost|2021/03/06|
 |52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
@@ -37,7 +37,7 @@
 |5|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Mode2Ghost|2020/06/12|
 |47|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |35|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
-|95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
+|96|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 ---
 ### 9 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,9 +48,9 @@
 |33|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |47|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |35|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
-|95|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
+|96|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/27|
-|24|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
+|25|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 ---
 ### 19 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

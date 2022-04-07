@@ -23,8 +23,8 @@
 |40|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |37|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/17|
 |37|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
+|35|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |35|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/03|
-|34|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,18 +48,18 @@
 |18|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/13|
 |15|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/02/20|
 |157|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/11|
-|12|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/21|
+|13|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/21|
 |18|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |59|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/15|
 |20|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/08|
 |14|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
-|33|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
+|34|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
 |40|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
-|21|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/14|
+|22|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/14|
 |44|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/06|
 |37|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/17|
 |49|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
-|34|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
+|35|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |54|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/30|
 |33|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/16|
 |20|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|

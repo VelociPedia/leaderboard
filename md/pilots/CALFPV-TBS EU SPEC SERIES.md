@@ -3,10 +3,10 @@
 |:---:|:---|:---|:---:|:---:|
 |35|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/10/28|
 |36|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/07|
-|42|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/05/19|
+|43|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/05/19|
 |46|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/10/22|
 |54|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/10/26|
-|54|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/09/24|
+|57|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/09/24|
 |61|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2020/11/13|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
@@ -14,25 +14,25 @@
 |:---:|:---|:---|:---:|:---:|
 |158|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|
 |156|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/21|
+|153|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/23|
 |153|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/11|
-|151|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/23|
-|145|TBS EU Spec Series 4 Race 2|Empty Scene Day|CarbiXZero|2020/05/15|
+|146|TBS EU Spec Series 4 Race 2|Empty Scene Day|CarbiXZero|2020/05/15|
 |115|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/24|
-|113|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/03/22|
+|115|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/03/22|
 |110|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/15|
+|104|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/02|
 |103|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|CarbiXZero|2020/04/14|
 |103|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/09/08|
-|103|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2020/10/12|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |103|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|CarbiXZero|2020/04/14|
-|145|TBS EU Spec Series 4 Race 2|Empty Scene Day|CarbiXZero|2020/05/15|
-|97|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
+|146|TBS EU Spec Series 4 Race 2|Empty Scene Day|CarbiXZero|2020/05/15|
+|98|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
 |65|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2020/06/15|
-|75|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/16|
-|102|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/02|
+|79|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/06/16|
+|104|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/02|
 |158|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|
 ---
 ### 14 tracks where TBS SPEC quad was used
@@ -40,12 +40,12 @@
 |:---:|:---|:---|:---:|:---:|
 |75|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/17|
 |70|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/15|
-|91|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/17|
+|92|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/17|
 |103|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/09/08|
-|92|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/09/08|
-|89|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/10/14|
-|151|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/23|
-|113|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/03/22|
+|94|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/09/08|
+|90|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/10/14|
+|153|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/23|
+|115|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/03/22|
 |115|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/24|
 |79|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/09/30|
 |85|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/09/30|

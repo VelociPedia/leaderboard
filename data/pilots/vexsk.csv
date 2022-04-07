@@ -46,13 +46,13 @@ MultiGP UTT 5,Football Stadium,999,999.999,vexsk,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,vexsk,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,12,61.945,vexsk,Germany,Five33Switchback,2022/01/23
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,8,59.973,vexsk,Germany,Five33Switchback,2022/01/23
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,10,51.811,vexsk,Germany,Five33Switchback,2022/02/07
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,11,51.811,vexsk,Germany,Five33Switchback,2022/02/07
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,8,55.801,vexsk,Germany,Five33Switchback,2021/09/19
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,14,58.252,vexsk,Germany,Five33Switchback,2021/09/18
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,32,68.629,vexsk,Germany,Five33Switchback,2020/06/02
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,8,61.933,vexsk,Germany,Five33Switchback,2022/03/13
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,55,77.250,vexsk,Germany,CarbiXZero,2020/06/25
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,10,54.009,vexsk,Germany,Five33Switchback,2021/08/19
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,12,54.009,vexsk,Germany,Five33Switchback,2021/08/19
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,11,63.457,vexsk,Germany,Five33Switchback,2020/06/03
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,26,74.458,vexsk,Germany,TBSSpec,2020/07/14
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,88,112.324,vexsk,Germany,Five33Switchback,2020/06/04
@@ -68,10 +68,10 @@ TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,28,80.862,vexsk,Germany,TBSSpec,2021/09/30
-TBS EU Spec Series 4 Race 2,Empty Scene Day,11,59.527,vexsk,Germany,Five33Switchback,2021/10/09
+TBS EU Spec Series 4 Race 2,Empty Scene Day,12,59.527,vexsk,Germany,Five33Switchback,2021/10/09
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,vexsk,NO_DATA
-TBS EU Spec Series 4 Race 4,Empty Scene Day,52,82.277,vexsk,Germany,TBSSpec,2020/10/29
-TBS EU Spec Series 4 Race 5,Dynamic Weather,33,84.593,vexsk,Germany,CarbiXZero,2020/06/17
+TBS EU Spec Series 4 Race 4,Empty Scene Day,53,82.277,vexsk,Germany,TBSSpec,2020/10/29
+TBS EU Spec Series 4 Race 5,Dynamic Weather,35,84.593,vexsk,Germany,CarbiXZero,2020/06/17
 TBS EU Spec Series 4 Race 7,Football Stadium,11,62.499,vexsk,Germany,Five33Switchback,2022/01/24
 TBS EU Spec Series 5 FINAL,Dynamic Weather,51,85.216,vexsk,Germany,TBSSpec,2020/09/10
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,49,79.520,vexsk,Germany,TBSSpec,2020/09/10
@@ -81,12 +81,12 @@ TBS EU Spec Series 5 Race 5,NEC Birmingham,34,68.891,vexsk,Germany,TBSSpec,2020/
 TBS EU Spec Series 5 Race 6,Dynamic Weather,192,95.684,vexsk,Germany,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,96,85.975,vexsk,Germany,TBSSpec,2020/08/27
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,vexsk,NO_DATA
-TBS EU Spec Series 6 Losers Final,Football Stadium,64,74.082,vexsk,Germany,TBSSpec,2020/11/28
+TBS EU Spec Series 6 Losers Final,Football Stadium,65,74.082,vexsk,Germany,TBSSpec,2020/11/28
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,12,62.660,vexsk,Germany,Five33Switchback,2022/02/02
 TBS EU Spec Series 6 Race 2,Empty Scene Day,117,77.140,vexsk,Germany,TBSSpec,2020/10/03
 TBS EU Spec Series 6 Race 4,NEC Birmingham,36,65.810,vexsk,Germany,TBSSpec,2020/11/01
 TBS EU Spec Series 6 Race 5,Dynamic Weather,54,85.616,vexsk,Germany,TBSSpec,2020/11/05
-TBS EU Spec Series 6 Race 6,Empty Scene Day,1,64.713,vexsk,Germany,Five33Switchback,2021/10/08
+TBS EU Spec Series 6 Race 6,Empty Scene Day,2,64.713,vexsk,Germany,Five33Switchback,2021/10/08
 TBS EU Spec Series 6 Race 7,Empty Scene Day,103,61.340,vexsk,Germany,TBSSpec,2020/11/29
 TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 7 Race 1,Football Stadium,168,83.387,vexsk,Germany,TBSSpec,2021/01/16
@@ -103,7 +103,7 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,18,57.057,vexsk,Germany,Five33Switchback,2021/09/05
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,vexsk,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,22,59.037,vexsk,Germany,Five33Switchback,2021/09/29
+TBS EU Spec Series 8 Race 6,Football Stadium,23,59.037,vexsk,Germany,Five33Switchback,2021/09/29
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,vexsk,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,vexsk,NO_DATA

@@ -6,20 +6,20 @@ DEP Open Series 4 Race 5,Football Stadium,51,64.822,Ryżu,Poland,Five33Switchbac
 DEP Open Series 4 Race 6,Football Stadium,38,65.958,Ryżu,Poland,Five33Switchback,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,Ryżu,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,80,89.977,Ryżu,Poland,TBSSpec,2020/04/30
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,88,76.573,Ryżu,Poland,TBSSpec,2020/04/14
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,90,76.573,Ryżu,Poland,TBSSpec,2020/04/14
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,67,74.200,Ryżu,Poland,TBSSpec,2020/04/14
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,Ryżu,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,31,69.456,Ryżu,Poland,TBSSpec,2020/04/11
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,50,69.583,Ryżu,Poland,TBSSpec,2020/04/10
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,51,69.583,Ryżu,Poland,TBSSpec,2020/04/10
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,49,76.056,Ryżu,Poland,TBSSpec,2020/04/10
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,37,75.197,Ryżu,Poland,TBSSpec,2020/04/10
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,42,73.403,Ryżu,Poland,TBSSpec,2020/04/16
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,70,68.008,Ryżu,Poland,TBSSpec,2020/04/10
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,31,69.923,Ryżu,Poland,TBSSpec,2020/04/10
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,74,68.008,Ryżu,Poland,TBSSpec,2020/04/10
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,32,69.923,Ryżu,Poland,TBSSpec,2020/04/10
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,35,80.439,Ryżu,Poland,TBSSpec,2020/04/10
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,52,103.426,Ryżu,Poland,Five33Switchback,2020/04/09
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,59,78.092,Ryżu,Poland,TBSSpec,2020/04/09
-TBS EU Spec Season 5 Race 1,Football Stadium,163,69.288,Ryżu,Poland,TBSSpec,2020/07/14
+TBS EU Spec Season 5 Race 1,Football Stadium,165,69.288,Ryżu,Poland,TBSSpec,2020/07/14
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,Ryżu,NO_DATA
@@ -32,9 +32,9 @@ TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,55,86.418,Ryżu,Poland,TBSSpec,2020/06/25
 TBS EU Spec Series 4 Race 2,Empty Scene Day,116,73.848,Ryżu,Poland,TBSSpec,2020/05/14
 TBS EU Spec Series 4 Race 3,IndoorGoKart,53,106.945,Ryżu,Poland,TBSSpec,2020/05/21
-TBS EU Spec Series 4 Race 4,Empty Scene Day,62,83.329,Ryżu,Poland,TBSSpec,2020/06/03
-TBS EU Spec Series 4 Race 5,Dynamic Weather,68,92.354,Ryżu,Poland,TBSSpec,2020/06/04
-TBS EU Spec Series 4 Race 7,Football Stadium,98,78.089,Ryżu,Poland,TBSSpec,2020/06/18
+TBS EU Spec Series 4 Race 4,Empty Scene Day,63,83.329,Ryżu,Poland,TBSSpec,2020/06/03
+TBS EU Spec Series 4 Race 5,Dynamic Weather,72,92.354,Ryżu,Poland,TBSSpec,2020/06/04
+TBS EU Spec Series 4 Race 7,Football Stadium,100,78.089,Ryżu,Poland,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,71,89.997,Ryżu,Poland,TBSSpec,2020/09/15
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 5 Race 3,Dynamic Weather,57,75.960,Ryżu,Poland,TBSSpec,2020/07/23
@@ -42,7 +42,7 @@ TBS EU Spec Series 5 Race 4,Football Stadium,77,86.272,Ryżu,Poland,TBSSpec,2020
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,31,65.486,Ryżu,Poland,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,79,82.541,Ryżu,Poland,TBSSpec,2020/08/27
-TBS EU Spec Series 6 Final,Empty Scene Day,90,88.875,Ryżu,Poland,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Final,Empty Scene Day,92,88.875,Ryżu,Poland,TBSSpec,2020/12/03
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,85,74.650,Ryżu,Poland,TBSSpec,2020/09/24
 TBS EU Spec Series 6 Race 2,Empty Scene Day,131,77.846,Ryżu,Poland,TBSSpec,2020/10/01
@@ -53,7 +53,7 @@ TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 7 Final,Empty Scene Day,88,77.938,Ryżu,Poland,Five33Switchback,2021/03/04
 TBS EU Spec Series 7 Race 1,Football Stadium,91,74.067,Ryżu,Poland,TBSSpec,2021/01/07
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,Ryżu,NO_DATA
-TBS EU Spec Series 7 Race 3,Empty Scene Day,84,75.789,Ryżu,Poland,CarbiXZero,2021/01/27
+TBS EU Spec Series 7 Race 3,Empty Scene Day,85,75.789,Ryżu,Poland,CarbiXZero,2021/01/27
 TBS EU Spec Series 7 Race 4,Empty Scene Day,97,73.871,Ryżu,Poland,Five33Switchback,2021/02/02
 TBS EU Spec Series 7 Race 5,IndoorGoKart,133,82.074,Ryżu,Poland,Five33Switchback,2021/02/10
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,Ryżu,NO_DATA
@@ -63,7 +63,7 @@ TBS EU Spec Series 8 Losers Final,Dynamic Weather,38,59.084,Ryżu,Poland,Five33S
 TBS EU Spec Series 8 Race 1,Dynamic Weather,66,79.658,Ryżu,Poland,Five33Switchback,2021/03/23
 TBS EU Spec Series 8 Race 2,Empty Scene Night,52,77.103,Ryżu,Poland,Five33Switchback,2021/04/06
 TBS EU Spec Series 8 Race 3,Football Stadium,34,60.313,Ryżu,Poland,Five33Switchback,2021/04/28
-TBS EU Spec Series 8 Race 4,Empty Scene Day,66,79.264,Ryżu,Poland,Five33Switchback,2021/05/14
+TBS EU Spec Series 8 Race 4,Empty Scene Day,67,79.264,Ryżu,Poland,Five33Switchback,2021/05/14
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,Ryżu,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,69,75.860,Ryżu,Poland,Five33Switchback,2021/06/17

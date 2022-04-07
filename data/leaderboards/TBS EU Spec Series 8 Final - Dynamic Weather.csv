@@ -1,6 +1,6 @@
 60.353,SWEEPER,CzechRepublic,Five33Switchback,2021/07/02
 63.691,BMSThomas,Australia,BMSJS-1,2021/07/11
-64.056,クマシャンプ,UnitedStates,Mode2Ghost,2021/07/03
+64.056,クマシャンプ―,UnitedStates,Mode2Ghost,2021/07/03
 64.552,skAve,Germany,Five33Switchback,2021/07/08
 64.630,OliHawk,France,Yakuza,2022/02/22
 64.734,Pugli,Brazil,Five33Switchback,2021/07/11
@@ -28,6 +28,7 @@
 73.569,Hsl_Fpv,Brazil,Ossa,2021/07/12
 73.602,PapiAJ,UnitedStates,TBSSpec,2021/07/08
 73.940,Kappe,Italy,Five33Switchback,2021/07/10
+74.197,BigRod,Portugal,Five33Switchback,2022/04/03
 74.230,zy0nfpv,Brazil,Five33Switchback,2021/07/11
 75.057,SmokyFPV,UnitedKingdom,TBSSpec,2021/07/01
 75.520,RCSwix_QT,RussianFederation,TBSSpec,2021/07/01
@@ -45,7 +46,6 @@
 79.383,Gafannen,Slovakia,Five33Switchback,2021/07/02
 79.407,BearmanFPV,UnitedKingdom,TBSSpec,2021/07/01
 79.789,KarachoFPV,Austria,Five33Switchback,2021/07/08
-80.054,BigRod,Portugal,Five33Switchback,2021/07/07
 80.167,DorukFPV,Turkey,TBSSpec,2021/07/01
 80.283,Saqoosha,Japan,TBSSpec,2021/07/08
 80.684,OrangutanFPV,UnitedKingdom,TBSSpec,2021/07/01
@@ -101,6 +101,7 @@
 95.609,RobSi,Slovenia,Five33Switchback,2021/12/04
 95.614,DanfloFPV,Spain,Five33Switchback,2021/07/16
 95.673,Bubbows,UnitedKingdom,TBSSpec,2021/07/08
+95.697,AronHall,Iceland,TBSSpec,2022/03/30
 96.387,mcrakus,Poland,TBSSpec,2021/07/08
 97.114,KOCFPV,Turkey,TBSSpec,2021/07/14
 97.531,TMAD,UnitedStates,TBSSpec,2021/07/07
@@ -153,6 +154,7 @@
 112.076,Klatuu,Germany,TBSSpec,2021/07/05
 112.430,BoosiveFPV,UnitedKingdom,Five33Switchback,2021/07/14
 112.996,Rocket,Canada,Five33Switchback,2022/02/15
+113.483,MoFPV!,UnitedStates,CarbiXZero,2022/04/02
 114.093,Airftis,UnitedKingdom,Five33Switchback,2021/08/09
 115.624,thiiron,Finland,TBSSpec,2021/10/15
 115.627,NotSure,UnitedKingdom,TBSSpec,2021/07/03
@@ -196,5 +198,3 @@
 134.102,MxUm,France,LethalConception,2021/07/10
 135.871,427FPV,Colombia,TBSSpec,2021/08/08
 136.397,MichaelK,UnitedStates,Five33Switchback,2021/07/11
-136.417,ad_movie,Poland,TBSSpec,2021/07/07
-136.726,Frequency_Fpv,UnitedStates,LethalConception,2021/07/03

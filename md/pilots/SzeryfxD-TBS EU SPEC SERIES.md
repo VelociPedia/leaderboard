@@ -7,57 +7,57 @@
 |67|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/03/07|
 |68|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/11|
 |68|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/12|
-|69|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
+|70|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
 |70|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/04/06|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|182|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
-|169|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/02/13|
+|183|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
+|170|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/02/13|
 |166|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/03/10|
 |156|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/12|
 |153|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/03/06|
 |152|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/25|
 |148|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/02/15|
-|139|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
+|140|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
+|136|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/01/17|
+|136|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |135|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2021/02/07|
-|135|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
-|134|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/01/17|
-|130|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/01/23|
+|132|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/01/23|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|134|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/01/17|
-|182|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
+|136|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/01/17|
+|183|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/18|
 |125|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/01/22|
-|130|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/01/23|
+|132|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/01/23|
 |119|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/01/25|
 |152|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/25|
-|112|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/26|
+|113|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/26|
 |126|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2021/02/04|
 ---
 ### 39 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|124|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/03/14|
+|125|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/03/14|
 |58|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
-|80|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/03/14|
-|130|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
-|69|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
+|83|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/03/14|
+|131|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
+|70|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
 |86|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
 |59|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
 |68|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/11|
-|121|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/02/11|
-|169|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/02/13|
+|125|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/02/11|
+|170|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/02/13|
 |93|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/02/14|
 |125|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2021/02/15|
 |148|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2021/02/15|
-|107|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2021/02/17|
+|108|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2021/02/17|
 |67|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/03/07|
-|72|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/12/23|
-|87|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/03/08|
+|74|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/12/23|
+|88|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/03/08|
 |118|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/03/06|
 |166|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/03/10|
 |68|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/12|
@@ -72,13 +72,13 @@
 |102|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |70|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/04/06|
 |103|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/30|
-|81|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/14|
+|83|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/14|
 |83|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/06/18|
 |97|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/14|
 |107|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/16|
-|135|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
+|136|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |104|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/01|
-|139|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
+|140|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/05|
 |121|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/13|
 ---
 ### 23 tracks without data (200+ or not in leaderboard)

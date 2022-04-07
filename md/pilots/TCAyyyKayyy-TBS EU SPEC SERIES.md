@@ -12,28 +12,28 @@
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|TBS EU Spec Series 8 Race 3|Football Stadium|Ossa|2021/04/29|
-|81|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
+|192|TBS EU Spec Series 8 Race 3|Football Stadium|Ossa|2021/04/29|
+|82|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
 |80|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
 |68|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/04/16|
 |60|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/07/09|
-|58|TBS EU Spec Series 9 Race 1|Football Stadium|Ossa|2021/09/10|
-|45|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/02/03|
-|43|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/05/07|
+|59|TBS EU Spec Series 9 Race 1|Football Stadium|Ossa|2021/09/10|
+|47|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/02/03|
+|45|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/05/07|
+|44|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |42|TBS EU Spec Series 5 Race 3|Dynamic Weather|CarbiXZero|2020/07/28|
-|41|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
-|37|TBS EU Spec Series 8 Final|Dynamic Weather|Ossa|2021/07/03|
+|38|TBS EU Spec Series 8 Final|Dynamic Weather|Ossa|2021/07/03|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |68|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/04/16|
-|43|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/05/07|
+|45|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/05/07|
 |7|TBS EU Spec Series 4 Race 3|IndoorGoKart|CarbiXZero|2020/05/29|
-|81|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
-|41|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
+|82|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
+|44|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |36|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|CarbiXZero|2020/06/06|
-|34|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
+|36|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
 ---
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
