@@ -13,8 +13,8 @@
 |134|DEP Open Series 3 Race 4|Football Stadium|BMSJS-1|2021/03/01|
 |127|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/23|
 |107|DEP Open Series 4 Race 5|Football Stadium|BMSJS-1|2021/05/05|
+|106|DEP Open Series 2 Race 7|Football Stadium|BMSJS-1|2021/03/22|
 |106|DEP Open Series 2 Race 1|Dynamic Weather|BMSJS-1|2020/12/08|
-|105|DEP Open Series 2 Race 7|Football Stadium|BMSJS-1|2021/03/22|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

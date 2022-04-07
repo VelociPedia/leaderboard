@@ -7,7 +7,7 @@
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|74|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/04/11|
+|75|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/04/11|
 |57|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
 |42|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/02/25|
 |40|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|

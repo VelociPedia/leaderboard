@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |40|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/07/06|
-|42|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/09/16|
+|43|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/09/16|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |94|DEP Open Series 6 Race 2|Football Stadium|Five33Switchback|2022/03/16|
 |95|DEP Open Series 6 Race 1|Football Stadium|Five33Switchback|2022/03/16|
-|115|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2022/01/17|
+|116|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2022/01/17|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,7 +16,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|162|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/02|
+|165|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/02|
 |188|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/12/04|
 |136|DEP Open Series 5 Race 7|Football Stadium|Ossa|2021/12/24|
 ---

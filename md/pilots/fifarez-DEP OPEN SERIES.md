@@ -15,7 +15,7 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|147|DEP Spec Series 1 Race 5|Football Stadium|LilBastard|2021/05/05|
+|148|DEP Spec Series 1 Race 5|Football Stadium|LilBastard|2021/05/05|
 |130|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/12/21|
 ---
 ### 1 tracks where TBS SPEC quad was used

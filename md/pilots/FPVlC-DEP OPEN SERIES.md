@@ -22,7 +22,7 @@
 |135|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/05|
 |149|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/12/01|
 |106|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/12/01|
-|114|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/12/01|
+|115|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/12/01|
 ---
 ### 22 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -36,7 +36,7 @@
 |118|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2022/01/10|
 |162|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2022/01/16|
 |163|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2022/01/16|
-|121|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2022/01/20|
+|122|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2022/01/20|
 |111|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2022/01/22|
 |90|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2022/01/23|
 |101|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2022/01/24|
@@ -45,10 +45,10 @@
 |135|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/05|
 |149|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/12/01|
 |106|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/12/01|
-|143|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/03|
+|146|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/03|
 |132|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/19|
 |90|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2021/12/22|
-|114|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/12/01|
+|115|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2021/12/01|
 ---
 ### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

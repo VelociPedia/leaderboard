@@ -17,7 +17,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|91|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/04/17|
+|92|DEP Open Series 4 Race 2|Football Stadium|BMSJS-1|2021/04/17|
 |109|DEP Open Series 4 Race 3|Football Stadium|BMSJS-1|2021/04/17|
 |130|DEP Open Pop-Up 2|Dynamic Weather|BMSJS-1|2021/07/06|
 ---

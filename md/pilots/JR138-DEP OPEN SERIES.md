@@ -21,7 +21,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |78|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/12/20|
-|96|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/20|
+|98|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/20|
 |95|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/20|
 |72|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2021/12/31|
 ---

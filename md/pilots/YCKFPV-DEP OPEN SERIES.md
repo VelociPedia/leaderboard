@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |85|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2022/02/10|
 |86|DEP Open Series 5 Race 6|Football Stadium|SniperX|2021/12/25|
-|94|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2022/02/10|
+|95|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2022/02/10|
 ---
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

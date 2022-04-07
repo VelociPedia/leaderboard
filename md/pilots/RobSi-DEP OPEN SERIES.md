@@ -17,7 +17,7 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|134|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/11|
+|135|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/11|
 |117|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2020/12/05|
 |157|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/02/18|
 ---
@@ -25,7 +25,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |148|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/10/24|
-|117|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/10/25|
+|118|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/10/25|
 ---
 ### 5 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

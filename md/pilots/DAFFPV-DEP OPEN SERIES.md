@@ -13,7 +13,7 @@
 |147|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/04|
 |138|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/05|
 |121|DEP Open Series 2 Race 1|Dynamic Weather|Chief|2022/01/23|
-|119|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/08|
+|120|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/08|
 |117|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2021/03/17|
 ---
 ### Oldest 4 personal best

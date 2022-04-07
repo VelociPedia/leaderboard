@@ -8,17 +8,17 @@
 ### Worse 5 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|110|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
 |110|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
-|109|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
 |94|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/11|
+|85|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/02/14|
 |84|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/11/18|
-|84|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/02/14|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |94|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/11|
-|109|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
+|110|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
 |82|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/06/09|
 ---
 ### 22 tracks where TBS SPEC quad was used
@@ -26,18 +26,18 @@
 |:---:|:---|:---|:---:|:---:|
 |110|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/06/30|
 |30|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2022/03/09|
-|84|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/02/14|
+|85|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/02/14|
 |38|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/02/13|
 |52|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
 |56|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/12/26|
 |52|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2022/01/15|
 |74|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2022/02/24|
 |82|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/06/09|
-|109|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
+|110|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/05/26|
 |56|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/09|
 |94|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/11|
 |84|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/11/18|
-|78|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/06/10|
+|79|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/06/10|
 |60|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2022/02/22|
 |67|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/17|
 |51|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2022/02/11|

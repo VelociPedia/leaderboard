@@ -24,7 +24,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |82|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2022/02/26|
-|111|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2022/01/15|
+|112|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2022/01/15|
 |73|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2022/01/18|
 |129|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/12/29|
 |121|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2022/01/15|

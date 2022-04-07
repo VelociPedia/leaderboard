@@ -17,7 +17,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |154|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|147|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
+|148|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
 |149|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/28|
 ---
 ### 19 tracks where TBS SPEC quad was used
@@ -25,7 +25,7 @@
 |:---:|:---|:---|:---:|:---:|
 |101|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/11/28|
 |154|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|147|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
+|148|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
 |112|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/04/20|
 |107|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/11/03|
 |155|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/11/05|
@@ -39,7 +39,7 @@
 |153|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/01|
 |142|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/24|
 |109|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/24|
-|112|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/12|
+|116|DEP Open Series 5 Race 5|Football Stadium|TBSSpec|2021/12/12|
 |128|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2022/02/06|
 |120|DEP Open Series 5 Race 7|Football Stadium|TBSSpec|2022/02/08|
 ---

@@ -10,7 +10,7 @@
 |:---:|:---|:---|:---:|:---:|
 |192|DEP Open Series 5 Race 3|Football Stadium|Five33Switchback|2021/11/17|
 |129|DEP Open Series 3 Race 3|Karting Track|Ossa|2021/03/03|
-|112|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
+|113|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
 |94|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
 ---
 ### Oldest 3 personal best
@@ -27,7 +27,7 @@
 |89|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2021/03/03|
 |76|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/03/10|
 |94|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/03/31|
-|112|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
+|113|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/21|
 |44|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/29|
 |63|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/09/13|
 |55|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/11/03|

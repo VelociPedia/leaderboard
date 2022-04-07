@@ -26,9 +26,9 @@
 |40|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/18|
 |81|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/30|
 |64|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/03|
-|60|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
+|61|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
 |94|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/24|
-|77|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/14|
+|78|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/14|
 |65|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/06/04|
 |68|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/29|
 |45|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/02|

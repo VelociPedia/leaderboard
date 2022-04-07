@@ -31,7 +31,7 @@
 |30|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/06/22|
 |31|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/03|
 |62|DEP Open Series 4 Race 5|Football Stadium|TBSSpec|2021/05/04|
-|45|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/25|
+|46|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/25|
 |48|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/06/07|
 |56|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/12/28|
 ---
