@@ -12,13 +12,13 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|195|TBS EU Spec Series 6 Race 6|Empty Scene Day|SniperX|2022/02/13|
+|196|TBS EU Spec Series 6 Race 6|Empty Scene Day|SniperX|2022/02/13|
 |194|TBS EU Spec Series 5 Race 5|NEC Birmingham|SniperX|2022/02/12|
+|185|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/11/14|
 |184|TBS EU Spec Series 7 Final|Empty Scene Day|SniperX|2022/02/13|
-|184|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/11/14|
 |184|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/03/20|
 |183|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/09/26|
-|180|TBS EU Spec Series 7 Race 5|IndoorGoKart|SniperX|2022/02/13|
+|181|TBS EU Spec Series 7 Race 5|IndoorGoKart|SniperX|2022/02/13|
 |179|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/05/16|
 |178|TBS EU Spec Series 4 Race 5|Dynamic Weather|SniperX|2022/02/12|
 |177|TBS EU Spec Series 7 Race 7|Empty Scene Day|SniperX|2022/02/13|
@@ -27,10 +27,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |151|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/04/14|
-|169|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
+|173|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
 |168|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Mode2Ghost|2020/04/18|
 |87|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
-|135|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
+|137|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
 |123|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/06/07|
 |104|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
 ---
@@ -39,7 +39,7 @@
 |:---:|:---|:---|:---:|:---:|
 |104|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
 |87|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
-|135|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
+|137|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
 |123|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/06/07|
 ---
 ### 29 tracks without data (200+ or not in leaderboard)

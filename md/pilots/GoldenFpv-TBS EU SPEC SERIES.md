@@ -1,12 +1,13 @@
-### Best 6 TBS EU SPEC SERIES TRACKS ranks
+### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |34|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/04/03|
 |40|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/27|
 |45|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/20|
 |56|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/12/26|
-|58|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
+|60|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
 |64|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
+|65|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/03|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -20,24 +21,25 @@
 |147|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
 |144|TBS EU Spec Series 9 Race 4|Football Stadium|BMSJS-1|2021/10/02|
 |143|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/09/18|
-|140|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
+|141|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
 ---
-### Oldest 6 personal best
+### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |143|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/09/18|
 |199|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
-|140|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
+|141|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|
 |144|TBS EU Spec Series 9 Race 4|Football Stadium|BMSJS-1|2021/10/02|
-|78|RCTech.de EU Spec Series 2 Race 1|Football Stadium|BMSJS-1|2021/10/04|
+|79|RCTech.de EU Spec Series 2 Race 1|Football Stadium|BMSJS-1|2021/10/04|
 |172|TBS EU Spec Series 4 Race 7|Football Stadium|BMSJS-1|2021/10/05|
+|121|TBS EU Spec Series 9 Race 5|Empty Scene Day|BMSJS-1|2021/10/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 29 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -61,10 +63,8 @@
 |TBS EU Spec Series 7 Race 5|IndoorGoKart|
 |TBS EU Spec Series 7 Race 7|Empty Scene Day|
 |TBS EU Spec Series 8 Race 1|Dynamic Weather|
-|TBS EU Spec Series 8 Race 2|Empty Scene Night|
 |TBS EU Spec Series 8 Race 4|Empty Scene Day|
 |TBS EU Spec Series 8 Race 5|Future Hangar Empty|
-|TBS EU Spec Series 8 Race 7|Empty Scene Day|
 |TBS EU Spec Series 8 Losers Final|Dynamic Weather|
 |TBS EU Spec Series 9 Race 1|Football Stadium|
 |TBS EU Spec Series 9 Race 2|Dynamic Weather|

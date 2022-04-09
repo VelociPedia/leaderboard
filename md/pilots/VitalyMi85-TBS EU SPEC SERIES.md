@@ -4,7 +4,7 @@
 |77|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/10/06|
 |79|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2021/10/03|
 |82|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2022/03/28|
-|92|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/01/04|
+|93|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/01/04|
 |97|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/27|
 |98|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/10/27|
 ---
@@ -13,13 +13,13 @@
 |:---:|:---|:---|:---:|:---:|
 |195|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/02|
 |191|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/08|
+|173|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/27|
 |173|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/13|
-|172|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/01/27|
 |170|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/10|
 |170|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/12/13|
 |167|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/12/11|
 |166|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/09/03|
-|158|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/12/26|
+|159|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/12/26|
 |148|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2022/01/05|
 ---
 ### Oldest 6 personal best
@@ -30,7 +30,7 @@
 |129|TBS EU Spec Series 9 Race 1|Football Stadium|Five33Switchback|2021/09/11|
 |130|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2021/09/18|
 |79|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2021/10/03|
-|102|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/10/03|
+|107|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/10/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

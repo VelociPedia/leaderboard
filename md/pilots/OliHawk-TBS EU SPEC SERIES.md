@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |1|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Yakuza|2022/03/17|
 |1|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Yakuza|2022/03/16|
-|1|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Yakuza|2022/03/15|
+|2|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Yakuza|2022/03/15|
 |2|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Yakuza|2022/03/17|
 |3|TBS EU Spec Series 6 Race 6|Empty Scene Day|Yakuza|2022/02/19|
 |4|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Yakuza|2022/03/17|
@@ -18,8 +18,8 @@
 |24|EU Spec Season 4 Race 1|Football Stadium|LethalConception|2021/01/07|
 |23|TBS EU Spec Series 10 Race 2|Empty Scene Day|Yakuza|2022/02/15|
 |20|TBS EU Spec Series 9 Final|Dynamic Weather|Yakuza|2022/02/23|
+|15|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 4 Race 5|Dynamic Weather|Yakuza|2022/02/14|
-|14|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 9 Race 5|Empty Scene Day|Yakuza|2022/02/26|
 |14|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Yakuza|2022/03/16|
 |13|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Yakuza|2022/03/15|
@@ -36,7 +36,7 @@
 |6|TBS EU Spec Series 10 Race 1|Football Stadium|Yakuza|2021/12/06|
 |4|TBS EU Spec Series 5 Race 4|Football Stadium|Yakuza|2021/12/18|
 |8|TBS EU Spec Series 4 FINAL|Dynamic Weather|Yakuza|2022/02/14|
-|14|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
+|15|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
 |6|TBS EU Spec Series 4 Race 3|IndoorGoKart|Yakuza|2022/02/14|
 |9|TBS EU Spec Series 4 Race 4|Empty Scene Day|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 4 Race 5|Dynamic Weather|Yakuza|2022/02/14|

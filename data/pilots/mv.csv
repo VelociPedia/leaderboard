@@ -36,13 +36,13 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,80,70.084,mv,Eston
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,28,82.612,mv,Estonia,TBSSpec,2021/11/13
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,19,56.080,mv,Estonia,TBSSpec,2021/12/12
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,13,63.293,mv,Estonia,TBSSpec,2022/01/05
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,24,65.678,mv,Estonia,TBSSpec,2021/12/11
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,23,64.439,mv,Estonia,TBSSpec,2021/12/10
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,46,57.756,mv,Estonia,TBSSpec,2021/12/08
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,26,65.678,mv,Estonia,TBSSpec,2021/12/11
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,24,64.439,mv,Estonia,TBSSpec,2021/12/10
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,47,57.756,mv,Estonia,TBSSpec,2021/12/08
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,4,53.670,mv,Estonia,TBSSpec,2021/12/09
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,8,55.603,mv,Estonia,TBSSpec,2021/12/09
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,1,54.699,mv,Estonia,CarbiXZero,2022/01/15
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,7,61.650,mv,Estonia,TBSSpec,2021/12/10
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,8,61.650,mv,Estonia,TBSSpec,2021/12/10
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,22,69.484,mv,Estonia,TBSSpec,2021/12/12
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,24,58.006,mv,Estonia,TBSSpec,2021/12/11
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,12,63.728,mv,Estonia,TBSSpec,2021/12/11
@@ -60,7 +60,7 @@ TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,23,55.261,mv,Estonia,TBSSpec,2022/0
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,mv,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,21,67.721,mv,Estonia,TBSSpec,2022/02/03
 TBS EU Spec Series 4 FINAL,Dynamic Weather,15,76.648,mv,Estonia,TBSSpec,2021/11/25
-TBS EU Spec Series 4 Race 2,Empty Scene Day,18,60.726,mv,Estonia,TBSSpec,2021/12/02
+TBS EU Spec Series 4 Race 2,Empty Scene Day,19,60.726,mv,Estonia,TBSSpec,2021/12/02
 TBS EU Spec Series 4 Race 3,IndoorGoKart,11,91.125,mv,Estonia,TBSSpec,2021/11/11
 TBS EU Spec Series 4 Race 4,Empty Scene Day,17,75.665,mv,Estonia,TBSSpec,2022/02/03
 TBS EU Spec Series 4 Race 5,Dynamic Weather,15,80.514,mv,Estonia,TBSSpec,2022/02/03
@@ -75,7 +75,7 @@ TBS EU Spec Series 5 Race 7,IndoorGoKart,16,69.822,mv,Estonia,TBSSpec,2022/01/19
 TBS EU Spec Series 6 Final,Empty Scene Day,28,78.312,mv,Estonia,TBSSpec,2021/10/01
 TBS EU Spec Series 6 Losers Final,Football Stadium,25,68.447,mv,Estonia,TBSSpec,2021/10/11
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,8,60.924,mv,Estonia,CarbiXZero,2022/03/21
-TBS EU Spec Series 6 Race 2,Empty Scene Day,27,67.471,mv,Estonia,CarbiXZero,2021/11/09
+TBS EU Spec Series 6 Race 2,Empty Scene Day,28,67.471,mv,Estonia,CarbiXZero,2021/11/09
 TBS EU Spec Series 6 Race 4,NEC Birmingham,17,61.824,mv,Estonia,TBSSpec,2021/10/12
 TBS EU Spec Series 6 Race 5,Dynamic Weather,33,80.994,mv,Estonia,CarbiXZero,2021/04/29
 TBS EU Spec Series 6 Race 6,Empty Scene Day,8,69.303,mv,Estonia,TBSSpec,2022/01/08
@@ -89,7 +89,7 @@ TBS EU Spec Series 7 Race 5,IndoorGoKart,24,69.043,mv,Estonia,TBSSpec,2021/12/18
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,60,72.353,mv,Estonia,TBSSpec,2021/02/14
 TBS EU Spec Series 7 Race 7,Empty Scene Day,70,80.991,mv,Estonia,TBSSpec,2021/02/20
 TBS EU Spec Series 8 Final,Dynamic Weather,42,78.377,mv,Estonia,TBSSpec,2021/07/01
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,42,59.454,mv,Estonia,TBSSpec,2022/01/09
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,43,59.454,mv,Estonia,TBSSpec,2022/01/09
 TBS EU Spec Series 8 Race 1,Dynamic Weather,72,80.212,mv,Estonia,TBSSpec,2021/03/25
 TBS EU Spec Series 8 Race 2,Empty Scene Night,45,76.429,mv,Estonia,TBSSpec,2021/03/25
 TBS EU Spec Series 8 Race 3,Football Stadium,17,56.885,mv,Estonia,TBSSpec,2021/11/11

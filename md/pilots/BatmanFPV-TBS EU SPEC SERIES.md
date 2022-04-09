@@ -17,7 +17,7 @@
 |174|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |174|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |169|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
-|157|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
+|158|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |153|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |144|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/17|
 |144|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/27|
@@ -30,11 +30,12 @@
 |128|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |199|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/26|
 |144|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/27|
-|139|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/02|
+|140|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/02|
 ---
-### 40 tracks where TBS SPEC quad was used
+### 41 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|105|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2022/04/08|
 |134|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/26|
 |54|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/03/01|
 |59|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
@@ -51,18 +52,18 @@
 |180|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/10|
 |144|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/27|
 |128|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
-|139|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/02|
+|140|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/02|
 |199|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/26|
 |178|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |174|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |174|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
-|137|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
+|138|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
 |122|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/18|
 |83|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/12|
-|122|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
-|157|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
-|87|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|
-|131|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
+|123|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
+|158|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
+|88|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|
+|132|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |144|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/17|
 |81|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/21|
 |132|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/06/04|
@@ -72,16 +73,15 @@
 |115|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/21|
 |110|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/25|
 |99|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/01|
-|119|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/19|
+|120|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/19|
 |92|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
 |78|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/03|
 ---
-### 31 tracks without data (200+ or not in leaderboard)
+### 30 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
 |RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|
-|RCTech.de EU Spec Series 2 Race 1|Football Stadium|
 |RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|
 |RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|
 |RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|

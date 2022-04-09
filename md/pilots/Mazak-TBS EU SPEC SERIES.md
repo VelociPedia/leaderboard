@@ -12,22 +12,22 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |100|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
-|67|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/11|
-|47|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
+|68|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/11|
+|50|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
 |44|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/25|
 |44|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/10/14|
 |44|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |43|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
-|42|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/20|
+|43|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/20|
 |40|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/06|
 |36|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/18|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|25|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|CarbiXZero|2020/04/05|
+|26|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|CarbiXZero|2020/04/05|
 |10|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|CarbiXZero|2020/04/05|
-|47|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
+|50|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
 |19|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/04/08|
 |18|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2020/04/08|
 |15|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
@@ -36,10 +36,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |30|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/03|
-|47|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
+|50|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/04/08|
 |19|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/04/08|
 |18|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2020/04/08|
-|14|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/16|
+|15|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/16|
 |17|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |40|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/06|
 |15|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
@@ -47,7 +47,7 @@
 |16|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/11|
 |100|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
 |27|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/07/09|
-|30|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/21|
+|31|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/21|
 |17|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/28|
 |29|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/05/28|
 |31|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/11|
@@ -60,11 +60,11 @@
 |22|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/06|
 |17|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/30|
 |44|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/10/14|
-|67|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/11|
+|68|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/11|
 |12|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/05|
 |7|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/06|
-|17|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/16|
-|42|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/20|
+|18|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/16|
+|43|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/20|
 |43|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |36|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/18|
 |29|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/16|

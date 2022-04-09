@@ -17,7 +17,7 @@ Formula FLow I,Empty Scene Day,50,59.950,PacoTeamCanadaFPV,Canada,Chief,2022/03/
 Formula Flow II,Empty Scene Day,50,93.327,PacoTeamCanadaFPV,Canada,Chief,2022/03/12
 Formula Flow III,Empty Scene Day,48,136.621,PacoTeamCanadaFPV,Canada,Chief,2022/03/12
 Formula Flow IV,Empty Scene Day,32,127.258,PacoTeamCanadaFPV,Canada,Chief,2022/03/12
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,61,72.677,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/08
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,64,72.677,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/08
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,PacoTeamCanadaFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
@@ -28,7 +28,7 @@ RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,N
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,79,69.066,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/08
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,65,105.225,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/06
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,67,105.225,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/06
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,54,77.422,PacoTeamCanadaFPV,Canada,TBSSpec,2020/04/11
 TBS EU Spec Season 5 Race 1,Football Stadium,174,69.708,PacoTeamCanadaFPV,Canada,TBSSpec,2020/07/14
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,27,73.668,PacoTeamCanadaFPV,Canada,TBSSpec,2022/02/19
@@ -41,9 +41,9 @@ TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,155,92.413,PacoTeamCanadaFPV,Canada
 TBS EU Spec Series 10 Race 6,Large Carpark,11,33.270,PacoTeamCanadaFPV,Canada,TBSSpec,2022/01/28
 TBS EU Spec Series 10 Race 7,Football Stadium,104,86.274,PacoTeamCanadaFPV,Canada,TBSSpec,2022/02/06
 TBS EU Spec Series 4 FINAL,Dynamic Weather,50,85.897,PacoTeamCanadaFPV,Canada,TBSSpec,2020/06/27
-TBS EU Spec Series 4 Race 2,Empty Scene Day,67,68.168,PacoTeamCanadaFPV,Canada,TBSSpec,2020/05/24
+TBS EU Spec Series 4 Race 2,Empty Scene Day,68,68.168,PacoTeamCanadaFPV,Canada,TBSSpec,2020/05/24
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,PacoTeamCanadaFPV,NO_DATA
-TBS EU Spec Series 4 Race 4,Empty Scene Day,44,80.889,PacoTeamCanadaFPV,Canada,TBSSpec,2020/06/02
+TBS EU Spec Series 4 Race 4,Empty Scene Day,45,80.889,PacoTeamCanadaFPV,Canada,TBSSpec,2020/06/02
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,83,75.635,PacoTeamCanadaFPV,Canada,TBSSpec,2020/06/23
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,PacoTeamCanadaFPV,NO_DATA
@@ -56,7 +56,7 @@ TBS EU Spec Series 5 Race 7,IndoorGoKart,51,76.630,PacoTeamCanadaFPV,Canada,TBSS
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,PacoTeamCanadaFPV,NO_DATA
-TBS EU Spec Series 6 Race 2,Empty Scene Day,91,74.789,PacoTeamCanadaFPV,Canada,TBSSpec,2020/10/12
+TBS EU Spec Series 6 Race 2,Empty Scene Day,92,74.789,PacoTeamCanadaFPV,Canada,TBSSpec,2020/10/12
 TBS EU Spec Series 6 Race 4,NEC Birmingham,91,84.033,PacoTeamCanadaFPV,Canada,TBSSpec,2020/10/31
 TBS EU Spec Series 6 Race 5,Dynamic Weather,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
@@ -70,7 +70,7 @@ TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,PacoTeamCanadaFPV,NO_DATA
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,54,61.839,PacoTeamCanadaFPV,Canada,TBSSpec,2021/07/02
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,55,61.839,PacoTeamCanadaFPV,Canada,TBSSpec,2021/07/02
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,PacoTeamCanadaFPV,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,PacoTeamCanadaFPV,NO_DATA

@@ -1,6 +1,6 @@
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,thehenker,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,thehenker,NO_DATA
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,58,72.028,thehenker,Germany,Five33Switchback,2020/09/22
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,60,72.028,thehenker,Germany,Five33Switchback,2020/09/22
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,thehenker,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,thehenker,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,thehenker,NO_DATA
@@ -10,7 +10,7 @@ RCTech_de EU Spec Series 3 Final,Empty Scene Day,23,69.863,thehenker,Germany,TBS
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,52,62.914,thehenker,Germany,TBSSpec,2020/04/14
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,thehenker,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,thehenker,NO_DATA
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,35,97.000,thehenker,Germany,TBSSpec,2020/04/08
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,37,97.000,thehenker,Germany,TBSSpec,2020/04/08
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,35,73.802,thehenker,Germany,TBSSpec,2020/04/14
 TBS EU Spec Season 5 Race 1,Football Stadium,127,66.639,thehenker,Germany,TBSSpec,2020/07/09
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,thehenker,NO_DATA
@@ -23,9 +23,9 @@ TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,thehenker,NO_DATA
-TBS EU Spec Series 4 Race 2,Empty Scene Day,49,66.833,thehenker,Germany,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 2,Empty Scene Day,50,66.833,thehenker,Germany,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 3,IndoorGoKart,39,99.202,thehenker,Germany,TBSSpec,2020/05/21
-TBS EU Spec Series 4 Race 4,Empty Scene Day,47,81.068,thehenker,Germany,TBSSpec,2020/06/18
+TBS EU Spec Series 4 Race 4,Empty Scene Day,48,81.068,thehenker,Germany,TBSSpec,2020/06/18
 TBS EU Spec Series 4 Race 5,Dynamic Weather,53,88.495,thehenker,Germany,TBSSpec,2020/06/04
 TBS EU Spec Series 4 Race 7,Football Stadium,75,74.384,thehenker,Germany,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,37,80.896,thehenker,Germany,TBSSpec,2020/09/10
@@ -41,21 +41,21 @@ TBS EU Spec Series 6 Race 1,Future Hangar Empty,50,70.426,thehenker,Germany,TBSS
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,12,73.239,thehenker,Germany,TBSSpec,2020/11/05
-TBS EU Spec Series 6 Race 6,Empty Scene Day,29,74.922,thehenker,Germany,TBSSpec,2020/11/12
-TBS EU Spec Series 6 Race 7,Empty Scene Day,62,58.559,thehenker,Germany,TBSSpec,2020/11/19
+TBS EU Spec Series 6 Race 6,Empty Scene Day,31,74.922,thehenker,Germany,TBSSpec,2020/11/12
+TBS EU Spec Series 6 Race 7,Empty Scene Day,63,58.559,thehenker,Germany,TBSSpec,2020/11/19
 TBS EU Spec Series 7 Final,Empty Scene Day,42,70.600,thehenker,Germany,TBSSpec,2021/03/04
 TBS EU Spec Series 7 Race 1,Football Stadium,59,69.830,thehenker,Germany,TBSSpec,2021/01/07
 TBS EU Spec Series 7 Race 2,Empty Scene Day,46,69.070,thehenker,Germany,TBSSpec,2021/01/14
 TBS EU Spec Series 7 Race 3,Empty Scene Day,54,72.746,thehenker,Germany,TBSSpec,2021/01/21
 TBS EU Spec Series 7 Race 4,Empty Scene Day,55,70.329,thehenker,Germany,TBSSpec,2021/01/28
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,thehenker,NO_DATA
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,155,89.570,thehenker,Germany,TBSSpec,2021/02/11
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,156,89.570,thehenker,Germany,TBSSpec,2021/02/11
 TBS EU Spec Series 7 Race 7,Empty Scene Day,26,70.568,thehenker,Germany,TBSSpec,2021/02/19
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,96,83.595,thehenker,Germany,TBSSpec,2021/03/27
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,thehenker,NO_DATA
-TBS EU Spec Series 8 Race 3,Football Stadium,49,61.909,thehenker,Germany,TBSSpec,2021/04/22
+TBS EU Spec Series 8 Race 3,Football Stadium,50,61.909,thehenker,Germany,TBSSpec,2021/04/22
 TBS EU Spec Series 8 Race 4,Empty Scene Day,73,80.207,thehenker,Germany,TBSSpec,2021/05/06
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,thehenker,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,thehenker,NO_DATA

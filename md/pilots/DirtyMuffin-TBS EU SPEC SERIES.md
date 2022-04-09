@@ -7,9 +7,9 @@
 |2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |2|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/08/03|
 |3|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/08/02|
-|3|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/08/02|
 |3|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/07|
 |3|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2020/12/01|
+|3|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/31|
 ---
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -17,7 +17,7 @@
 |25|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
 |25|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
-|21|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
+|22|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |20|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |19|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
 |16|TBS EU Spec Series 10 Race 1|Football Stadium|Five33Switchback|2021/12/03|
@@ -40,7 +40,7 @@
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |10|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/08/02|
-|6|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/08/02|
+|7|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/08/02|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
