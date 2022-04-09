@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |196|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2021/08/24|
-|127|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/09/03|
+|128|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/09/03|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

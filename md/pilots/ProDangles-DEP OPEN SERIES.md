@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |49|DEP Open Series 3 Race 6|Football Stadium|Ossa|2021/07/20|
-|53|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/07/21|
 |53|DEP Open Series 3 Race 2|Football Stadium|Ossa|2021/02/10|
+|54|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/07/21|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -12,7 +12,7 @@
 |83|DEP Open Series 4 Race 6|Football Stadium|Mode2Ghost|2021/06/08|
 |79|DEP Open Series 4 Race 5|Football Stadium|Mode2Ghost|2021/05/15|
 |71|DEP Open Series 4 Race 2|Football Stadium|Mode2Ghost|2021/05/09|
-|41|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/03/29|
+|42|DEP Open Series 3 Race 1|Football Stadium|Mode2Ghost|2021/03/29|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |91|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
 |75|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
-|70|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
+|71|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -21,7 +21,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |91|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2021/02/17|
-|70|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
+|71|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2022/01/23|
 |75|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2022/01/25|
 ---
 ### 13 tracks without data (200+ or not in leaderboard)

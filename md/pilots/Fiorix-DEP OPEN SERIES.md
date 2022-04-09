@@ -11,15 +11,15 @@
 |:---:|:---|:---|:---:|:---:|
 |163|DEP Open Series 3 Race 4|Football Stadium|Five33Switchback|2021/08/16|
 |153|DEP Open Series 4 Race 7|Football Stadium|Five33Switchback|2021/05/26|
-|149|DEP Open Series 5 Race 1|Football Stadium|Ossa|2021/10/28|
-|146|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/10/29|
+|150|DEP Open Series 5 Race 1|Football Stadium|Ossa|2021/10/28|
+|147|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/10/29|
 |143|DEP Open Series 4 Race 5|Football Stadium|Five33Switchback|2021/04/28|
 |140|DEP Open Series 4 Race 6|Football Stadium|Five33Switchback|2021/05/12|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|135|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/10|
+|136|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/10|
 |133|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/03/31|
 |131|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/07|
 |143|DEP Open Series 4 Race 5|Football Stadium|Five33Switchback|2021/04/28|

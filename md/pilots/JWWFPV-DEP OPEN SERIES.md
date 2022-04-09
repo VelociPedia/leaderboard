@@ -11,7 +11,7 @@
 |194|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
 |193|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2021/05/19|
 |174|DEP Open Series 3 Race 3|Karting Track|Five33Switchback|2021/03/29|
-|155|DEP Open Series 4 Race 3|Football Stadium|TBSOblivion|2021/08/06|
+|156|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/08/18|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

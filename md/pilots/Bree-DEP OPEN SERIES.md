@@ -20,7 +20,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |83|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/07/01|
-|71|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/06|
+|72|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/06|
 |87|DEP Open Series 4 Race 3|Football Stadium|Five33Switchback|2021/12/24|
 |88|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2022/02/08|
 ---

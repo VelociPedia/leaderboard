@@ -12,7 +12,7 @@
 |46|DEP Open Series 3 Race 7|Football Stadium|BMSJS-1|2021/03/28|
 |45|DEP Open Series 3 Race 5|Football Stadium|BMSJS-1|2021/08/02|
 |40|DEP Open Series 3 Race 6|Football Stadium|BMSJS-1|2021/08/04|
-|39|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/12/15|
+|40|DEP Open Series 3 Race 1|Football Stadium|Ossa|2021/12/15|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

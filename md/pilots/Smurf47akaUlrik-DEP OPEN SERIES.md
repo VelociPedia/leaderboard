@@ -25,7 +25,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |60|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/11/22|
-|52|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/04/07|
+|53|DEP Open Series 3 Race 1|Football Stadium|TBSSpec|2022/04/07|
 |45|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/02/10|
 |51|DEP Open Series 3 Race 4|Football Stadium|TBSSpec|2021/11/22|
 |32|DEP Open Series 3 Race 5|Football Stadium|TBSSpec|2022/01/24|

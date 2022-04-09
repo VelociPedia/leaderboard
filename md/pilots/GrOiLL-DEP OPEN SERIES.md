@@ -10,7 +10,7 @@
 |199|DEP Open Series 3 Race 7|Football Stadium|SkyXKiller|2022/03/21|
 |199|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/04/18|
 |197|DEP Open Series 4 Race 1|Football Stadium|SkyXKiller|2021/10/17|
-|193|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2021/11/10|
+|194|DEP Open Series 5 Race 2|Football Stadium|Five33Switchback|2021/11/10|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

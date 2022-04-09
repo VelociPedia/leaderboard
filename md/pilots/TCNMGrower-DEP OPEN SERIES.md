@@ -18,7 +18,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |42|DEP Open Series 2 Race 1|Dynamic Weather|Solleva|2020/12/07|
-|47|DEP Open Series 3 Race 1|Football Stadium|Solleva|2021/02/04|
+|48|DEP Open Series 3 Race 1|Football Stadium|Solleva|2021/02/04|
 |116|DEP Open Series 3 Race 2|Football Stadium|Solleva|2021/02/11|
 ---
 ### 1 tracks where TBS SPEC quad was used

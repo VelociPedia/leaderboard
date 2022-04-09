@@ -8,16 +8,16 @@
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|92|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/05|
+|93|DEP Open Series 5 Race 5|Football Stadium|Five33Switchback|2021/12/05|
 |62|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/04|
 |56|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/24|
-|54|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/04|
+|55|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/04|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |13|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2020/10/10|
-|54|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/04|
+|55|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/04|
 |29|DEP Open Series 3 Race 2|Football Stadium|Five33Switchback|2021/02/10|
 ---
 ### 2 tracks where TBS SPEC quad was used

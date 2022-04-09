@@ -9,8 +9,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |196|DEP Open Series 3 Race 7|Football Stadium|Five33Switchback|2022/01/16|
+|189|DEP Open Series 4 Race 7|Football Stadium|SniperX|2022/01/18|
 |188|DEP Open Pop-Up 2|Dynamic Weather|Five33Switchback|2021/12/04|
-|188|DEP Open Series 4 Race 7|Football Stadium|SniperX|2022/01/18|
 |185|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2022/01/17|
 ---
 ### Oldest 3 personal best

@@ -11,7 +11,7 @@
 |:---:|:---|:---|:---:|:---:|
 |179|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2021/01/01|
 |135|DEP Open Series 4 Race 1|Football Stadium|Five33Switchback|2021/04/09|
-|122|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/21|
+|123|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/21|
 |112|DEP Open Series 2 Race 1|Dynamic Weather|Five33Switchback|2021/10/12|
 |108|DEP Open Series 4 Race 2|Football Stadium|Five33Switchback|2021/04/08|
 |97|DEP Open Series 3 Race 6|Football Stadium|Five33Switchback|2021/12/05|
@@ -20,7 +20,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |179|DEP Spec Series 1 Race 5|Football Stadium|Five33Switchback|2021/01/01|
-|122|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/21|
+|123|DEP Open Series 3 Race 1|Football Stadium|Five33Switchback|2021/02/21|
 |87|DEP Open Series 3 Race 5|Football Stadium|Five33Switchback|2021/03/16|
 |62|DEP Open Series 2 Race 7|Football Stadium|Five33Switchback|2021/03/19|
 ---

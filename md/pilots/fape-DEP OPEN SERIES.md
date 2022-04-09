@@ -8,7 +8,7 @@
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|196|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/11/05|
+|197|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/11/05|
 |187|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/07|
 |162|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/24|
 |159|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/16|
@@ -17,7 +17,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |154|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|148|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
+|149|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
 |149|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/28|
 ---
 ### 19 tracks where TBS SPEC quad was used
@@ -25,7 +25,7 @@
 |:---:|:---|:---|:---:|:---:|
 |101|DEP Open Pop-Up 2|Dynamic Weather|TBSSpec|2021/11/28|
 |154|DEP Open Series 2 Race 1|Dynamic Weather|TBSSpec|2020/12/03|
-|148|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
+|149|DEP Open Series 2 Race 7|Football Stadium|TBSSpec|2021/03/28|
 |112|DEP Open Series 3 Race 2|Football Stadium|TBSSpec|2021/04/20|
 |107|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/11/03|
 |155|DEP Open Series 3 Race 6|Football Stadium|TBSSpec|2021/11/05|
@@ -34,8 +34,8 @@
 |159|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/16|
 |121|DEP Open Series 4 Race 4|Football Stadium|TBSSpec|2021/05/24|
 |162|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/24|
-|196|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/11/05|
-|131|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/11/01|
+|197|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/11/05|
+|132|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/11/01|
 |153|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/01|
 |142|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/24|
 |109|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/24|
