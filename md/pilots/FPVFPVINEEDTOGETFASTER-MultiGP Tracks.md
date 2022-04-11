@@ -9,17 +9,17 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |109|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/09/22|
-|66|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2022/01/08|
+|67|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2022/01/08|
 |65|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/11/28|
-|56|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2022/01/11|
+|59|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2022/01/11|
 |52|MultiGP Round 2 FNL|Sports Hall|Five33Switchback|2022/01/24|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|34|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/09/06|
+|35|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/09/06|
 |23|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/09/17|
-|15|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/09/18|
+|16|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/09/18|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

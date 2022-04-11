@@ -2,21 +2,21 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |9|MultiGP 2018 RF|Empty Scene Day|Mode2Ghost|2021/09/06|
-|23|Mayhem 22 by SFPV|Empty Scene Day|SniperX|2022/03/28|
+|25|MultiGP Tsunami|Football Stadium|Velocity|2020/08/04|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|96|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/17|
-|88|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/17|
+|97|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/17|
+|89|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/17|
 |83|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2020/05/19|
 |70|2020 Canadian MultiGP Series|Football Stadium|TBSSpec|2021/09/11|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|88|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/17|
-|96|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/17|
+|89|MGP2018IORookie|Empty Scene Day|Five33Switchback|2020/04/17|
+|97|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/17|
 ---
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

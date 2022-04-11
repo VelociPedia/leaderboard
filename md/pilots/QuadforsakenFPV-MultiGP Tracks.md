@@ -8,18 +8,18 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|174|MultiGP Tsunami|Football Stadium|LilBastard|2020/07/07|
-|145|MultiGP 2017 RF|Football Stadium|LilBastard|2020/07/11|
+|175|MultiGP Tsunami|Football Stadium|LilBastard|2020/07/07|
+|146|MultiGP 2017 RF|Football Stadium|LilBastard|2020/07/11|
 |141|MultiGP IO 2019 World Cup|Empty Scene Day|LilBastard|2021/02/20|
 |123|MultiGP_2019_Qualifier_Large|Dynamic Weather|LilBastard|2020/06/26|
-|120|MultiGP 2018 RQ|Football Stadium|LilBastard|2020/07/11|
+|121|MultiGP-Championships-2019|Empty Scene Day|LilBastard|2020/07/05|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |116|MultiGP 2018 RF|Empty Scene Day|LilBastard|2020/05/12|
 |123|MultiGP_2019_Qualifier_Large|Dynamic Weather|LilBastard|2020/06/26|
-|118|MultiGP-Championships-2019|Empty Scene Day|LilBastard|2020/07/05|
+|121|MultiGP-Championships-2019|Empty Scene Day|LilBastard|2020/07/05|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

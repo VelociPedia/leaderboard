@@ -8,8 +8,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |81|MultiGP 2021 Global Qualifier|Football Stadium|TBSSpec|2021/04/17|
-|58|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2020/11/08|
-|45|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2022/02/02|
+|62|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2020/11/08|
+|48|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2022/02/02|
 |41|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2020/07/06|
 ---
 ### Oldest 2 personal best
@@ -21,14 +21,14 @@
 ### 6 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|58|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2020/11/08|
+|62|2020 MultiGP Champs presented by RDQ|Football Stadium|TBSSpec|2020/11/08|
 |17|MultiGP 2018 RQ|Football Stadium|TBSSpec|2020/08/30|
 |8|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSSpec|2020/07/12|
 |41|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2020/07/06|
 |22|MultiGP 2020 Global Qualifier|Empty Scene Day|TBSSpec|2020/07/09|
 |81|MultiGP 2021 Global Qualifier|Football Stadium|TBSSpec|2021/04/17|
 ---
-### 15 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -45,4 +45,3 @@
 |MultiGP UTT 5|Football Stadium|
 |MultiGP UTT 6|Football Stadium|
 |Mayhem Dawn till Dusk|Empty Scene Day|
-|Mayhem 2021 By YAWESOME|Empty Scene Day|

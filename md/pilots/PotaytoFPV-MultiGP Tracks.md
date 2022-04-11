@@ -1,22 +1,22 @@
 ### Best 2 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|7|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/29|
+|9|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/29|
 |14|MGP2018IOTeam|Empty Scene Day|TBSSpec|2021/02/28|
 ---
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|167|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/14|
-|164|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
-|145|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/01/06|
-|137|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/04/14|
+|168|MultiGP Tsunami|Football Stadium|Five33Switchback|2020/04/14|
+|165|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
+|147|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/01/06|
+|138|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/04/14|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|102|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2020/04/14|
-|164|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
+|104|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2020/04/14|
+|165|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2020/04/14|
 ---
 ### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

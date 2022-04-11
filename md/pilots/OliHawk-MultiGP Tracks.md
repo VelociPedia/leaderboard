@@ -8,18 +8,18 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|91|2020 MultiGP Champs presented by RDQ|Football Stadium|LethalConception|2021/01/04|
 |71|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/03/27|
-|47|2021 MultiGP Champs Track 1|Empty Scene Day|Yakuza|2021/11/26|
 |41|MultiGP IO 2019 World Cup|Empty Scene Day|LethalConception|2021/01/12|
+|19|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
 |18|MGP2018IOWorldCup|Empty Scene Day|LethalConception|2021/01/11|
+|15|2021 MultiGP Champs Track 1|Empty Scene Day|Yakuza|2022/04/11|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|91|2020 MultiGP Champs presented by RDQ|Football Stadium|LethalConception|2021/01/04|
 |9|MGP2018IORookie|Empty Scene Day|LethalConception|2021/01/11|
 |10|MGP2018IOTeam|Empty Scene Day|LethalConception|2021/01/11|
+|18|MGP2018IOWorldCup|Empty Scene Day|LethalConception|2021/01/11|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

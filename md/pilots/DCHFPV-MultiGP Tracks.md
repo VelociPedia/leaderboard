@@ -2,24 +2,24 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |20|MultiGP UTT 5|Football Stadium|Five33Switchback|2020/04/23|
-|56|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/04/23|
+|57|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/04/23|
 |60|MultiGP UTT 6|Football Stadium|Five33Switchback|2020/04/23|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|185|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/08|
+|186|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/04/08|
 |178|MultiGP IO 2019 World Cup|Empty Scene Day|TBSOblivion|2020/04/07|
-|153|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
-|146|MultiGP IO 2019 Team|Empty Scene Day|TBSOblivion|2020/04/07|
-|139|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/09/12|
+|156|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
+|147|MultiGP IO 2019 Team|Empty Scene Day|TBSOblivion|2020/04/07|
+|141|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/09/12|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |126|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2020/04/07|
 |109|MultiGP_2019_Qualifier_Spec|Empty Scene Day|TBSOblivion|2020/04/07|
-|153|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
+|156|MultiGP-Championships-2019|Empty Scene Day|TBSOblivion|2020/04/07|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

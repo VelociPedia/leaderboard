@@ -12,15 +12,15 @@
 |160|MultiGP 2016 RF|Football Stadium|TBSSpec|2020/07/25|
 |62|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/05/16|
 |43|MultiGP UTT 1|Football Stadium|TBSSpec|2020/07/01|
-|41|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
+|42|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
 |32|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2020/07/02|
 |32|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
-|25|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/01/14|
+|27|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/01/14|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|41|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
+|42|MultiGP Bessel Run|Football Stadium|Five33Switchback|2020/06/30|
 |12|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/06/30|
 |32|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2020/07/01|
 |23|MultiGP Tsunami|Football Stadium|TBSSpec|2020/07/01|

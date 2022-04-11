@@ -8,17 +8,17 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|189|MultiGP IO 2019 Team|Empty Scene Day|Mode2Ghost|2020/04/06|
+|190|MultiGP IO 2019 Team|Empty Scene Day|Mode2Ghost|2020/04/06|
 |165|MultiGP 2016 RF|Football Stadium|Mode2Ghost|2020/04/06|
+|118|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
 |118|MultiGP UTT 6|Football Stadium|Mode2Ghost|2020/04/05|
-|117|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |114|Mayhem Dawn till Dusk|Empty Scene Day|Mode2Ghost|2020/04/05|
-|111|MGP2018IOIntermediate|Empty Scene Day|Mode2Ghost|2020/04/05|
-|117|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
+|113|MGP2018IOIntermediate|Empty Scene Day|Mode2Ghost|2020/04/05|
+|118|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2020/04/05|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

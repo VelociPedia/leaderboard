@@ -9,9 +9,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |191|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
-|150|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|
-|144|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
-|131|MultiGP 2018 RQ|Football Stadium|Ossa|2021/07/27|
+|153|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|
+|147|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
+|132|MultiGP 2018 RQ|Football Stadium|Ossa|2021/07/27|
 |121|MultiGP 2018 RF|Empty Scene Day|Ossa|2021/06/27|
 ---
 ### Oldest 3 personal best
@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |28|MultiGP UTT 1|Football Stadium|Ossa|2021/06/12|
 |87|MGP2018IOTeam|Empty Scene Day|Ossa|2021/06/23|
-|108|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
+|110|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

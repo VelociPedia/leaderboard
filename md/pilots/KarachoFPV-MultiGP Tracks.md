@@ -7,10 +7,10 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|188|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2020/07/24|
-|163|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/04/08|
+|189|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2020/07/24|
+|164|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/04/08|
 |116|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/04/08|
-|104|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2020/07/24|
+|106|MultiGP-Championships-2019|Empty Scene Day|Mode2Ghost|2020/07/31|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -9,10 +9,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |194|MultiGP 2016 RF|Football Stadium|KareareaTalon|2020/06/18|
-|186|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/11/03|
+|187|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/11/03|
 |186|MultiGP IO 2019 World Cup|Empty Scene Day|KareareaTalon|2020/06/18|
-|167|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/28|
-|144|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2022/02/23|
+|169|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/28|
+|146|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2022/02/23|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

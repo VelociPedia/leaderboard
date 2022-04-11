@@ -9,25 +9,25 @@
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|193|2021 MultiGP Champs Track 2|Empty Scene Day|CarbiXZero|2022/01/04|
-|183|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/09/22|
-|150|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
-|145|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
-|142|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
+|195|2021 MultiGP Champs Track 2|Empty Scene Day|CarbiXZero|2022/01/04|
+|186|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/09/22|
+|153|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
+|148|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
+|143|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
 |139|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/09/22|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|92|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/04/21|
-|145|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
-|64|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/04/21|
-|142|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
+|93|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/04/21|
+|148|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
+|65|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/04/21|
+|143|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|150|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
+|153|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
 ---
 ### 7 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

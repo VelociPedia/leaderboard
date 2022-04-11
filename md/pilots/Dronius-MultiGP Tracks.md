@@ -8,17 +8,17 @@
 ### Worse 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|132|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2022/02/11|
-|104|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/22|
-|100|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2020/08/18|
+|133|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2022/02/11|
+|105|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/22|
+|102|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2020/08/18|
 |73|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/11/08|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|104|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/22|
-|24|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2020/08/07|
-|100|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2020/08/18|
+|105|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/22|
+|25|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2020/08/07|
+|102|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2020/08/18|
 ---
 ### 5 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
