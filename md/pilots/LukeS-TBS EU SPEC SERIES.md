@@ -3,23 +3,23 @@
 |:---:|:---|:---|:---:|:---:|
 |44|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2021/11/06|
 |60|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|64|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
-|67|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/10/29|
+|65|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
+|68|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/10/29|
 |68|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2022/02/01|
-|73|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2022/02/02|
+|75|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2022/02/02|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |193|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/03/26|
-|190|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/03/09|
-|178|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/27|
+|191|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/03/09|
+|179|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/27|
 |176|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/05/24|
 |175|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/03/28|
 |168|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/22|
-|165|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/03/08|
+|167|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/03/08|
 |160|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/05/24|
-|151|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/08|
+|152|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/08|
 |149|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2020/12/03|
 ---
 ### Oldest 6 personal best
@@ -28,27 +28,27 @@
 |138|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/05/24|
 |176|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/05/24|
 |160|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/05/24|
-|178|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/27|
-|147|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/09/14|
+|179|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/27|
+|148|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/09/14|
 |149|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2020/12/03|
 ---
 ### 15 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|64|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
+|65|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/15|
 |93|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/15|
 |168|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/22|
 |75|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
 |99|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/09|
-|125|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/25|
+|126|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/25|
 |60|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|78|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/09|
-|73|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2022/02/02|
+|82|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/09|
+|75|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2022/02/02|
 |90|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2022/02/02|
-|107|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2022/01/27|
-|95|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2022/01/31|
+|108|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2022/01/27|
+|96|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2022/01/31|
 |68|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2022/02/01|
-|96|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2022/02/01|
+|97|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2022/02/01|
 |108|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2022/01/09|
 ---
 ### 30 tracks without data (200+ or not in leaderboard)

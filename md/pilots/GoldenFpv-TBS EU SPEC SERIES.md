@@ -1,24 +1,24 @@
 ### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|34|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/04/03|
+|36|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/04/03|
 |40|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/27|
 |45|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/20|
 |56|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2021/12/26|
-|60|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
+|61|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2022/01/18|
 |64|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/26|
-|65|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/03|
+|67|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2022/01/03|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |199|TBS EU Spec Series 7 Race 1|Football Stadium|BMSJS-1|2021/09/19|
-|190|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
+|191|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2022/01/10|
 |188|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/22|
 |172|TBS EU Spec Series 4 Race 7|Football Stadium|BMSJS-1|2021/10/05|
-|156|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/02/27|
-|152|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/12/26|
-|147|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
+|158|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/02/27|
+|153|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/12/26|
+|148|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2022/02/12|
 |144|TBS EU Spec Series 9 Race 4|Football Stadium|BMSJS-1|2021/10/02|
 |143|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/09/18|
 |141|TBS EU Spec Series 8 Race 3|Football Stadium|BMSJS-1|2021/09/19|

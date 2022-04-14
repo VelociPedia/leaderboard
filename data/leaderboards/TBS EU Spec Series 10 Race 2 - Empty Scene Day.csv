@@ -31,9 +31,10 @@
 62.784,OLDETERNAL☆YAYOU,France,TBSSpec,2022/01/06
 62.852,IonFPV,India,TBSSpec,2021/12/13
 63.377,TFFYCryson,Germany,TBSSpec,2021/12/09
+63.385,Bree,France,Five33Switchback,2022/04/14
 63.501,antonig,Bulgaria,TBSSpec,2022/01/19
 63.612,ejectfpv865,UnitedStates,Ossa,2021/12/14
-63.797,lephroenjoyingtheride,Germany,TBSSpec,2021/12/09
+63.797,lephro,Germany,TBSSpec,2021/12/09
 64.042,WerdnaFPV,Singapore,TBSSpec,2021/12/10
 64.292,slick_fpv,UnitedStates,Five33Switchback,2021/12/15
 64.551,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/28
@@ -58,14 +59,16 @@
 68.511,Bubbows,UnitedKingdom,TBSSpec,2021/12/12
 68.534,saft57,Sweden,TBSSpec,2021/12/09
 68.543,BlueWolfTFS,Poland,TBSSpec,2021/12/09
-68.559,violent_fpv,Germany,Five33Switchback,2022/01/27
+68.559,XBViolinFPV,Germany,Five33Switchback,2022/01/27
 68.660,DeMoNse3d,Mexico,TBSSpec,2021/12/12
+68.799,thefpvdoctor,Slovakia,Five33Switchback,2022/04/14
 68.927,Eugy01_Overpass,RussianFederation,Mode2Ghost,2021/12/11
 69.012,skAt,France,TBSSpec,2022/01/18
 69.198,baraktal,Israel,TBSSpec,2021/12/18
 69.463,PaliXander,RussianFederation,Five33Switchback,2021/12/11
 69.675,Baton,RussianFederation,TBSSpec,2021/12/09
 69.820,wapfpv,Philippines,Five33Switchback,2021/12/19
+70.022,Martin071,CzechRepublic,Five33Switchback,2022/04/10
 70.061,SemperFly,UnitedStates,Chief,2022/01/28
 70.117,tillyFPV,UnitedStates,TBSSpec,2021/12/12
 70.258,sabj_DroneBand,Belarus,TBSSpec,2021/12/09
@@ -78,7 +81,6 @@
 71.746,FRNScorb,Germany,Five33Switchback,2021/12/10
 71.890,mcrakus,Poland,TBSSpec,2021/12/09
 72.661,Shinofpv,Italy,TBSSpec,2021/12/09
-72.832,thefpvdoctor,Slovakia,Five33Switchback,2022/02/23
 72.976,XIAOGUANFPV,China,Five33Switchback,2021/12/23
 73.189,Carb_,UnitedKingdom,Five33Switchback,2021/12/16
 73.222,razbri,UnitedKingdom,TBSSpec,2021/12/12
@@ -95,7 +97,6 @@
 75.806,Warp9,UnitedStates,TBSSpec,2021/12/27
 75.921,Snowyeti,Norway,TBSSpec,2022/01/26
 76.054,bilaals,UnitedKingdom,TBSSpec,2021/12/14
-76.134,Bree,France,TBSSpec,2021/12/09
 76.214,Owl77,RussianFederation,TBSSpec,2021/12/11
 76.473,DAFFPV,Sweden,Chief,2021/12/18
 77.084,Oshe,DominicanRepublic,TBSSpec,2021/12/09
@@ -104,7 +105,6 @@
 77.705,Lo123,Austria,TBSSpec,2021/12/09
 77.885,AndyDreadFPV,UnitedStates,Five33Switchback,2022/02/24
 77.922,ChainsawFPV,UnitedStates,SniperX,2021/12/11
-79.052,Martin071,CzechRepublic,Five33Switchback,2021/12/26
 79.262,Moto,Australia,Five33Switchback,2022/02/15
 79.396,JamesSherriff,UnitedKingdom,TBSOblivion,2021/12/14
 79.720,bigFuzz,Italy,Ossa,2022/04/05
@@ -114,7 +114,7 @@
 80.670,DRKfpv,France,Five33Switchback,2021/12/16
 80.725,BSV,RussianFederation,Five33Switchback,2021/12/14
 80.932,RobSi,Slovenia,Five33Switchback,2021/12/21
-81.065,cbleehk,HongKong,Five33Switchback,2022/02/18
+81.065,bonfpv,HongKong,Five33Switchback,2022/02/18
 81.182,ANZPO,UnitedStates,TBSSpec,2022/02/09
 81.206,Syncopath,Slovenia,CarbiXZero,2021/12/16
 81.294,VitalyMi85,RussianFederation,Five33Switchback,2021/12/10
@@ -123,6 +123,7 @@
 81.456,Grif,UnitedStates,TBSSpec,2021/12/10
 81.760,GarnChef,Germany,TBSOblivion,2022/02/10
 81.913,DrChabFPVQE,Canada,TBSSpec,2021/12/22
+82.081,Wizard_,UnitedKingdom,TBSSpec,2022/04/14
 82.250,JacuzziJay,Australia,BMSJS-1,2022/02/15
 82.277,MoFPV!,UnitedStates,CarbiXZero,2022/03/22
 82.372,Rocket,Canada,Five33Switchback,2022/02/06
@@ -157,7 +158,6 @@
 91.426,Burkan,UnitedKingdom,TBSSpec,2022/01/11
 92.315,kasapon,Japan,SkyXKiller,2021/12/13
 92.392,SolInvictus,Hungary,SkyXKiller,2021/12/10
-92.583,Wizard_,UnitedKingdom,TBSSpec,2022/01/02
 92.704,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/21
 93.650,MakoPL,Poland,TBSSpec,2021/12/17
 93.752,SilkJamFPV,UnitedStates,Five33Switchback,2022/02/24

@@ -21,9 +21,9 @@
 |15|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 4 Race 5|Dynamic Weather|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 9 Race 5|Empty Scene Day|Yakuza|2022/02/26|
+|14|TBS EU Spec Series 9 Race 3|Empty Scene Day|Yakuza|2022/02/25|
 |14|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Yakuza|2022/03/16|
 |13|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Yakuza|2022/03/15|
-|13|TBS EU Spec Series 9 Race 3|Empty Scene Day|Yakuza|2022/02/25|
 |13|TBS EU Spec Season 5 Race 1|Football Stadium|Yakuza|2022/02/15|
 |12|TBS EU Spec Series 7 Final|Empty Scene Day|Yakuza|2022/02/21|
 |11|TBS EU Spec Series 6 Final|Empty Scene Day|Yakuza|2022/02/18|

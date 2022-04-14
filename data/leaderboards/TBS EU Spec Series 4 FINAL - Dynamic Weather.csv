@@ -39,8 +39,10 @@
 82.934,SIMSFPV,UnitedStates,TBSSpec,2020/06/25
 83.202,TDogfpv,UnitedStates,Ossa,2021/06/22
 83.519,SIMSlicefpv,UnitedStates,TBSSpec,2020/06/28
+83.571,PaliXander,RussianFederation,Five33Switchback,2022/04/10
 83.632,Lacasito,Spain,Mode2Ghost,2020/09/18
-83.848,lephroenjoyingtheride,Germany,TBSSpec,2020/06/25
+83.744,Bree,France,Five33Switchback,2022/04/13
+83.848,lephro,Germany,TBSSpec,2020/06/25
 84.195,SmokyFPV,UnitedKingdom,TBSSpec,2020/06/25
 84.614,WerdnaFPV,Singapore,TBSSpec,2021/10/13
 84.638,Pukka_fpv,UnitedKingdom,TBSSpec,2022/01/05
@@ -101,6 +103,7 @@
 95.357,Agro,Lithuania,Five33Switchback,2020/06/25
 95.548,jfkfpv,UnitedStates,TBSSpec,2020/07/03
 96.046,Thumbs17,UnitedStates,Mode2Ghost,2020/07/05
+96.051,NotSure,UnitedKingdom,Five33Switchback,2022/04/10
 96.340,Ouroboros,UnitedStates,TBSSpec,2020/08/30
 96.891,Holzii_FPV,Germany,CarbiXZero,2020/06/30
 97.286,zy0nfpv,Brazil,Five33Switchback,2020/07/12
@@ -126,7 +129,6 @@
 101.640,Locke_FPV_,Germany,Five33Switchback,2020/07/01
 101.759,stogie,UnitedStates,Five33Switchback,2022/02/15
 102.106,CravenFPV,UnitedStates,Five33Switchback,2021/06/29
-102.413,Bree,France,TBSSpec,2022/01/06
 102.525,kcken,UnitedKingdom,TBSSpec,2020/11/26
 102.636,iamD_C,India,Five33Switchback,2021/12/10
 102.703,rafifly,France,Five33Switchback,2022/01/06
@@ -151,6 +153,7 @@
 106.464,Dezz,Ukraine,TBSSpec,2022/02/03
 107.155,thefpvdoctor,Slovakia,Five33Switchback,2022/03/11
 107.184,NANOFPV,CostaRica,TBSSpec,2020/06/29
+107.199,ANT,RussianFederation,CarbiXZero,2022/04/10
 107.475,DmytroAvdosiev,Ukraine,Strix,2022/02/04
 107.521,wapfpv,Philippines,TBSSpec,2020/08/31
 107.675,orokusaki,Serbia,Five33Switchback,2021/08/24
@@ -180,6 +183,7 @@
 110.941,ale0890,CostaRica,TBSSpec,2021/08/20
 111.019,jchgmad,Spain,Five33Switchback,2020/06/29
 111.251,DroneMacleod,Hungary,TBSSpec,2021/09/30
+111.300,SAS,RussianFederation,CarbiXZero,2022/04/11
 111.315,ROBO__FPV,Poland,TBSSpec,2020/10/06
 111.468,FALK_FPVTeamFPV24Racing,Germany,BMSJS-1,2020/11/22
 111.508,KrypticMind,Germany,Five33Switchback,2020/07/04
@@ -194,7 +198,3 @@
 113.349,FPReaper,Denmark,Five33Switchback,2020/07/04
 113.367,BadSpeed,Finland,Ossa,2020/10/29
 113.541,dbr,Australia,Five33Switchback,2020/07/18
-113.551,TrollFPV,Norway,TBSSpec,2021/04/02
-113.665,alexfmn,Ukraine,Five33Switchback,2022/02/04
-113.702,NotSure,UnitedKingdom,TBSSpec,2021/12/13
-113.830,aleix_fpv,Spain,PandaCavity,2021/09/05
