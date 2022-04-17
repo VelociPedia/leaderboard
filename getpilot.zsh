@@ -95,7 +95,7 @@ if [ "$makecollectionpilots" = "1" ]   ; then
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
 
-        a=$(grep ",TBSSpec," <<< $pilot_data | sort --field-separator="," --key="1")
+        a=$(grep ",TBSSpec," <<< $pilot_data | sort --field-separator="," -V --key="1")
         n=$(wc -l <<< $a)
         echo -e "---\n### $n tracks where TBS SPEC quad was used" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
