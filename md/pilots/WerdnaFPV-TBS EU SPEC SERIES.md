@@ -12,27 +12,27 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|82|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/11/15|
+|83|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/11/15|
 |58|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
 |56|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/28|
 |55|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
 |54|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/10|
 |51|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/11/17|
-|47|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
-|45|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2021/02/08|
+|48|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
+|46|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Five33Switchback|2021/02/08|
 |39|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/06|
 |38|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/05/05|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|82|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/11/15|
+|83|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/11/15|
 |51|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/11/17|
-|25|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/11/19|
+|26|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/11/19|
 |22|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2020/11/19|
 |21|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/11/20|
 |55|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/05|
-|29|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/02/06|
+|30|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/02/06|
 ---
 ### 10 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -41,7 +41,7 @@
 |38|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/10|
 |37|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/19|
 |30|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/19|
-|47|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
+|48|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
 |13|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/03/01|
 |32|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/10/08|
 |56|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/28|

@@ -1,6 +1,7 @@
 ### Best 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|3|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2022/04/16|
 |5|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/01/23|
 |5|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2022/03/19|
 |7|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2022/01/08|
@@ -10,8 +11,7 @@
 |8|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/22|
 |8|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/10/16|
 |10|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/25|
-|10|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2022/04/03|
-|11|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2022/02/14|
+|11|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2022/04/03|
 ---
 ### Worse 17 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,10 +28,10 @@
 |72|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/19|
 |68|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/13|
 |66|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/12/04|
-|62|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/09/29|
+|63|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/09/29|
 |57|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2022/01/08|
 |55|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2021/11/13|
-|53|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/06|
+|55|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2022/01/06|
 |52|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/06/06|
 ---
 ### Oldest 11 personal best

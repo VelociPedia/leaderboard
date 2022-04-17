@@ -4,18 +4,18 @@
 |1|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/12/22|
 |1|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/23|
 |1|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2020/08/29|
-|2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |2|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/08/03|
 |3|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/08/02|
 |3|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/07|
+|3|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |3|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2020/12/01|
 |3|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/31|
 ---
 ### Worse 14 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|26|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |25|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
-|25|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
 |22|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |20|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
@@ -36,9 +36,9 @@
 |9|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/07/10|
 |6|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/14|
 |20|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
-|25|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
+|26|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
-|2|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
+|3|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|
 |11|RCTech.de EU Spec Series 2 Final|Empty Scene Day|Five33Switchback|2020/08/02|
 |7|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/08/02|
 ---

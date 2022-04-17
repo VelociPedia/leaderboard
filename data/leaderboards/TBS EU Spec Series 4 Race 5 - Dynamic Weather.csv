@@ -12,8 +12,10 @@
 76.928,BMSweb,Australia,SingularitumV5,2020/06/07
 77.056,Kosta,Germany,SingularitumV5,2020/06/05
 77.295,OliHawk,France,Yakuza,2022/02/14
+77.805,MegaHurts,UnitedStates,SniperX,2022/04/15
 80.514,mv,Estonia,TBSSpec,2022/02/03
 80.734,ATAKAN,Turkey,TBSSpec,2021/04/05
+80.785,Barnyard,UnitedStates,Five33Switchback,2022/04/15
 81.095,Singularity,Spain,TBSSpec,2020/07/30
 81.193,HQThunder,Spain,TBSSpec,2020/06/24
 81.241,ad_movie,Poland,Five33Switchback,2022/01/30
@@ -45,7 +47,6 @@
 86.873,TCNMGrower,UnitedStates,TBSSpec,2021/09/02
 87.106,SwEnglishFPV,Sweden,TBSSpec,2020/06/04
 87.423,Saqoosha,Japan,TBSSpec,2020/06/18
-87.493,Barnyard,UnitedStates,Five33Switchback,2021/10/11
 87.623,cuxx,Germany,TBSSpec,2020/06/05
 87.668,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/07/15
 87.750,SmokyFPV,UnitedKingdom,TBSSpec,2020/06/04
@@ -58,7 +59,6 @@
 89.563,SpeedSloth,UnitedKingdom,TBSSpec,2020/06/06
 89.715,PotaytoFPV,UnitedStates,TBSSpec,2021/07/21
 90.000,MX_BIGRAMON,Germany,TBSSpec,2022/02/03
-90.062,MegaHurts,UnitedStates,Five33Switchback,2021/04/15
 90.242,ReSp4wN,Netherlands,TBSSpec,2020/06/04
 90.355,TCGundren_Fpv,Switzerland,TBSSpec,2020/10/22
 90.497,alvaritono55,Spain,TBSOblivion,2020/07/03
@@ -112,10 +112,12 @@
 98.256,AliB㋡,UnitedKingdom,TBSSpec,2020/06/04
 98.878,Eugy01_Overpass,RussianFederation,CarbiXZero,2020/12/16
 99.574,DeMoNse3d,Mexico,TBSSpec,2021/11/02
+99.912,AZ2019,China,CarbiXZero,2022/04/17
 100.041,radikal,Singapore,CarbiXZero,2020/06/09
 100.042,scooby_doo,Latvia,TBSSpec,2020/08/19
 100.397,ejectfpv865,UnitedStates,CarbiXZero,2020/06/17
 100.562,BearmanFPV,UnitedKingdom,Five33Switchback,2020/06/07
+100.664,JWWFPV,UnitedStates,Five33Switchback,2022/04/15
 100.809,ForkMaster,Latvia,Five33Switchback,2021/04/15
 100.993,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
 101.120,ort,RussianFederation,Five33Switchback,2020/12/16
@@ -124,6 +126,7 @@
 101.894,WeeklyPlayer1,Poland,TBSSpec,2020/06/09
 102.013,kulka,Lithuania,Five33Switchback,2021/01/31
 102.152,Falko_FPV,Germany,Five33Switchback,2021/01/02
+102.389,Solace,Canada,TwigXL3,2022/04/15
 102.497,SzeryfxD,Poland,TBSSpec,2021/02/11
 102.723,chetian,UnitedStates,Five33Switchback,2020/06/07
 102.822,pmalaia,Portugal,TBSSpec,2020/06/16
@@ -195,6 +198,3 @@
 117.618,m1ke,UnitedKingdom,TBSSpec,2020/06/10
 118.598,LupiFPV,UnitedKingdom,TBSSpec,2020/06/04
 118.638,NicoFPV,Germany,TBSSpec,2021/01/27
-119.508,Cee_FPV,UnitedStates,TBSSpec,2020/08/17
-120.062,ShakenBake,UnitedStates,Five33Switchback,2020/08/05
-120.207,Sibo_fpv,UnitedKingdom,Mode2Ghost,2020/06/14
