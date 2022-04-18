@@ -6,7 +6,7 @@
 |19|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/04|
 |23|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |25|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
-|26|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
+|27|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -45,12 +45,12 @@
 |19|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/04|
 |31|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/04|
 |34|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/05|
-|41|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|26|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
+|43|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
+|28|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |28|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
 |25|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |66|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/27|
-|34|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
+|35|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |36|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |39|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
 |31|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
@@ -67,7 +67,7 @@
 |27|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
 |44|TBS EU Spec Series 8 Race 6|Football Stadium|TBSSpec|2021/11/11|
 |63|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/10|
-|49|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
+|50|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/11|
 |55|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/12|
 |49|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
 |41|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|

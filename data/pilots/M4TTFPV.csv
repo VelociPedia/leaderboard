@@ -17,14 +17,14 @@ TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,60,80.033,M4TTFPV,United
 TBS EU Spec Series 10 Losers Final,Football Stadium,130,73.295,M4TTFPV,UnitedKingdom,TBSSpec,2022/02/17
 TBS EU Spec Series 10 Race 1,Football Stadium,81,67.291,M4TTFPV,UnitedKingdom,TBSSpec,2021/12/02
 TBS EU Spec Series 10 Race 2,Empty Scene Day,58,67.918,M4TTFPV,UnitedKingdom,TBSSpec,2021/12/09
-TBS EU Spec Series 10 Race 3,Night Factory 2,54,73.444,M4TTFPV,UnitedKingdom,TBSSpec,2021/12/16
-TBS EU Spec Series 10 Race 4,Dynamic Weather,42,66.557,M4TTFPV,UnitedKingdom,TBSSpec,2022/01/06
+TBS EU Spec Series 10 Race 3,Night Factory 2,55,73.444,M4TTFPV,UnitedKingdom,TBSSpec,2021/12/16
+TBS EU Spec Series 10 Race 4,Dynamic Weather,43,66.557,M4TTFPV,UnitedKingdom,TBSSpec,2022/01/06
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,48,61.029,M4TTFPV,UnitedKingdom,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,37,42.813,M4TTFPV,UnitedKingdom,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,89,80.110,M4TTFPV,UnitedKingdom,TBSSpec,2022/02/03
 TBS EU Spec Series 4 FINAL,Dynamic Weather,142,104.020,M4TTFPV,UnitedKingdom,TBSSpec,2020/06/25
 TBS EU Spec Series 4 Race 2,Empty Scene Day,151,76.979,M4TTFPV,UnitedKingdom,TBSSpec,2020/05/14
-TBS EU Spec Series 4 Race 3,IndoorGoKart,71,112.467,M4TTFPV,UnitedKingdom,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 3,IndoorGoKart,72,112.467,M4TTFPV,UnitedKingdom,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,85,87.209,M4TTFPV,UnitedKingdom,TBSSpec,2020/05/28
 TBS EU Spec Series 4 Race 5,Dynamic Weather,90,95.431,M4TTFPV,UnitedKingdom,TBSSpec,2020/06/04
 TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,M4TTFPV,NO_DATA
@@ -33,7 +33,7 @@ TBS EU Spec Series 5 Losers Final,Dynamic Weather,60,82.324,M4TTFPV,UnitedKingdo
 TBS EU Spec Series 5 Race 3,Dynamic Weather,70,77.347,M4TTFPV,UnitedKingdom,TBSSpec,2020/07/23
 TBS EU Spec Series 5 Race 4,Football Stadium,85,86.675,M4TTFPV,UnitedKingdom,TBSSpec,2020/07/30
 TBS EU Spec Series 5 Race 5,NEC Birmingham,88,80.695,M4TTFPV,UnitedKingdom,TBSSpec,2020/08/06
-TBS EU Spec Series 5 Race 6,Dynamic Weather,72,73.736,M4TTFPV,UnitedKingdom,TBSSpec,2020/08/20
+TBS EU Spec Series 5 Race 6,Dynamic Weather,74,73.736,M4TTFPV,UnitedKingdom,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,77,82.354,M4TTFPV,UnitedKingdom,TBSSpec,2020/08/27
 TBS EU Spec Series 6 Final,Empty Scene Day,149,96.780,M4TTFPV,UnitedKingdom,TBSSpec,2020/12/03
 TBS EU Spec Series 6 Losers Final,Football Stadium,82,76.927,M4TTFPV,UnitedKingdom,TBSSpec,2020/11/26
@@ -51,7 +51,7 @@ TBS EU Spec Series 7 Race 4,Empty Scene Day,152,79.969,M4TTFPV,UnitedKingdom,TBS
 TBS EU Spec Series 7 Race 5,IndoorGoKart,90,76.332,M4TTFPV,UnitedKingdom,TBSSpec,2021/02/04
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,116,79.976,M4TTFPV,UnitedKingdom,TBSSpec,2021/02/11
 TBS EU Spec Series 7 Race 7,Empty Scene Day,100,85.129,M4TTFPV,UnitedKingdom,TBSSpec,2021/02/18
-TBS EU Spec Series 8 Final,Dynamic Weather,59,83.554,M4TTFPV,UnitedKingdom,TBSSpec,2021/07/01
+TBS EU Spec Series 8 Final,Dynamic Weather,60,83.554,M4TTFPV,UnitedKingdom,TBSSpec,2021/07/01
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,M4TTFPV,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,91,82.958,M4TTFPV,UnitedKingdom,TBSSpec,2021/03/18
 TBS EU Spec Series 8 Race 2,Empty Scene Night,68,80.109,M4TTFPV,UnitedKingdom,TBSSpec,2021/03/25
@@ -64,8 +64,8 @@ TBS EU Spec Series 9 Final,Dynamic Weather,111,74.063,M4TTFPV,UnitedKingdom,TBSS
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,64,67.959,M4TTFPV,UnitedKingdom,TBSSpec,2021/11/04
 TBS EU Spec Series 9 Race 1,Football Stadium,120,69.173,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/09
 TBS EU Spec Series 9 Race 2,Dynamic Weather,111,64.837,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/16
-TBS EU Spec Series 9 Race 3,Empty Scene Day,98,69.183,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/23
+TBS EU Spec Series 9 Race 3,Empty Scene Day,99,69.183,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/23
 TBS EU Spec Series 9 Race 4,Football Stadium,98,78.110,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/30
 TBS EU Spec Series 9 Race 5,Empty Scene Day,95,72.295,M4TTFPV,UnitedKingdom,TBSSpec,2021/10/07
 TBS EU Spec Series 9 Race 6,Empty Scene Day,76,75.962,M4TTFPV,UnitedKingdom,TBSSpec,2021/10/28
-TBS EU Spec Series 9 Race 7,NEC Birmingham,75,75.061,M4TTFPV,UnitedKingdom,TBSSpec,2021/10/28
+TBS EU Spec Series 9 Race 7,NEC Birmingham,76,75.061,M4TTFPV,UnitedKingdom,TBSSpec,2021/10/28

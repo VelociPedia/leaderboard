@@ -29,8 +29,8 @@
 |97|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/12/10|
 |93|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/03/14|
 |91|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2022/01/30|
+|87|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/29|
 |87|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/07/17|
-|86|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/29|
 ---
 ### Oldest 10 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -44,7 +44,7 @@
 |93|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/03/14|
 |117|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/05/20|
 |55|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/05/23|
-|64|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/07/15|
+|65|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/07/15|
 ---
 ### 11 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -59,7 +59,7 @@
 |44|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/10/08|
 |111|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/16|
 |113|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/22|
-|86|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/29|
+|87|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/29|
 ---
 ### 7 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |1|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/12/22|
-|1|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/23|
 |1|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2020/08/29|
+|2|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2020/08/23|
 |2|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/08/03|
 |3|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/08/02|
 |3|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/07|

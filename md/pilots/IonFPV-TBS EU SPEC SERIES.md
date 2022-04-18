@@ -5,14 +5,14 @@
 |9|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2022/02/14|
 |11|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2022/02/08|
 |14|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2022/02/15|
-|15|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/10|
 |16|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/02/16|
 |17|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2022/02/10|
+|17|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/10|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|190|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
+|191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
 |189|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
 |162|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
 |127|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2022/02/15|
@@ -32,7 +32,7 @@
 |162|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
 |189|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/08/02|
-|190|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
+|191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
 |118|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/09/15|
 ---
 ### 45 tracks where TBS SPEC quad was used
@@ -50,8 +50,8 @@
 |25|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |11|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2022/02/08|
 |38|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/03|
-|190|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
-|15|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/10|
+|191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
+|17|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/10|
 |41|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2021/11/11|
 |19|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2022/02/12|
 |46|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/07/07|

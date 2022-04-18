@@ -16,9 +16,9 @@
 |129|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/12/03|
 |100|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2022/02/09|
 |95|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2022/02/09|
-|83|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2022/02/09|
+|84|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2022/02/09|
 |79|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2022/02/09|
-|70|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
+|71|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
 |69|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2022/02/09|
 ---
 ### Oldest 6 personal best
@@ -27,14 +27,14 @@
 |134|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/12|
 |143|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/11/28|
 |129|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/12/03|
-|70|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
+|71|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
 |54|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/12/10|
 |22|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2021/12/24|
 ---
 ### 9 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|70|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
+|71|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
 |55|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/02/05|
 |25|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2022/02/04|
 |21|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2022/02/04|

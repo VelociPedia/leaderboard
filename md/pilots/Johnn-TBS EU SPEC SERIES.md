@@ -3,7 +3,7 @@
 |:---:|:---|:---|:---:|:---:|
 |27|TBS EU Spec Series 5 Race 7|IndoorGoKart|Mode2Ghost|2021/05/01|
 |44|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/11|
-|52|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
+|53|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |53|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/11|
 |54|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |58|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/15|
@@ -37,7 +37,7 @@
 ### 21 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|52|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
+|53|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |143|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/02|
 |112|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/05/05|
 |69|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/07|
@@ -45,7 +45,7 @@
 |97|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/07|
 |69|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/12|
 |99|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
-|58|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
+|59|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/08|
 |76|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/28|
 |98|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/21|
 |58|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/24|

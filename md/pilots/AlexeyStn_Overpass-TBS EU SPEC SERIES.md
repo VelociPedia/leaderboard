@@ -33,7 +33,7 @@
 |124|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |20|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/06/03|
 |22|EU Spec Season 4 Race 1|Football Stadium|CarbiXZero|2020/06/17|
-|30|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
+|31|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/07/04|
 ---
 ### 12 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

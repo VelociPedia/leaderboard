@@ -4,7 +4,7 @@
 |47|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/11/13|
 |78|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/19|
 |79|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|Five33Switchback|2020/10/01|
-|91|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/15|
+|92|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/15|
 |95|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2022/02/15|
 |96|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|CarbiXZero|2020/04/06|
 |100|TBS EU Spec Series 10 Race 4|Dynamic Weather|Five33Switchback|2022/01/08|
@@ -39,10 +39,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |133|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/11/23|
-|115|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/11/23|
+|116|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/11/23|
 |142|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/11/23|
 |129|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/11/23|
-|127|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/23|
+|128|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/23|
 ---
 ### 24 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

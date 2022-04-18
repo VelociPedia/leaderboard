@@ -42,7 +42,7 @@
 |65|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |51|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |79|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/02/02|
-|81|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
+|82|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |28|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |58|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |113|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/05|
@@ -60,7 +60,7 @@
 |110|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
 |80|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |78|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
-|63|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|64|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 28 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

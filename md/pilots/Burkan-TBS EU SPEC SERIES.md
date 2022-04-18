@@ -3,12 +3,12 @@
 |:---:|:---|:---|:---:|:---:|
 |1|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/06/30|
 |1|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/06/23|
-|2|TBS EU Spec Series 5 Race 6|Dynamic Weather|CarbiXZero|2020/08/24|
 |2|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/11/29|
-|2|TBS EU Spec Series 5 FINAL|Dynamic Weather|CarbiXZero|2020/09/12|
 |3|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|CarbiXZero|2020/09/20|
+|3|TBS EU Spec Series 5 Race 6|Dynamic Weather|CarbiXZero|2020/08/24|
 |3|TBS EU Spec Series 5 Race 7|IndoorGoKart|CarbiXZero|2020/10/16|
 |3|TBS EU Spec Series 6 Race 5|Dynamic Weather|CarbiXZero|2020/11/15|
+|4|TBS EU Spec Series 4 Race 7|Football Stadium|CarbiXZero|2020/10/18|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -35,7 +35,7 @@
 |63|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/15|
 |19|TBS EU Spec Series 5 Race 4|Football Stadium|CarbiXZero|2020/08/03|
 |14|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
-|2|TBS EU Spec Series 5 Race 6|Dynamic Weather|CarbiXZero|2020/08/24|
+|3|TBS EU Spec Series 5 Race 6|Dynamic Weather|CarbiXZero|2020/08/24|
 |22|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/08|
 ---
 ### 33 tracks where TBS SPEC quad was used

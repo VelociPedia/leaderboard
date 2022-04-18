@@ -6,9 +6,9 @@
 |42|TBS EU Spec Series 10 Race 7|Football Stadium|Five33Switchback|2022/02/04|
 |46|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/01/21|
 |47|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/11|
-|52|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/19|
+|53|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2021/12/19|
 |57|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/05/22|
-|61|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/03|
+|62|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/03|
 ---
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -6,7 +6,7 @@
 |69|RCTech.de EU Spec Series 2 Final|Empty Scene Day|BMSJS-1|2022/01/15|
 |74|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Five33Switchback|2022/02/22|
 |74|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/03/11|
-|85|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/02/06|
+|86|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/02/06|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
