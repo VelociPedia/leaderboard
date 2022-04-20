@@ -2,6 +2,8 @@
 
 all: tbs dep vrl multigp maionhigh ddr22 wtt formula
 
+misc: formula qr21 ddr22 tdrf22 wtt
+
 clean:
 	rm data/pilots/*
 	rm data/ranking/*
