@@ -3,6 +3,7 @@
 25.351,NeonFPV,UnitedStates,Five33Switchback,2022/04/20
 25.588,Kosta,Germany,Five33Switchback,2022/04/18
 25.946,00Hyper,UnitedStates,Velocity,2022/04/17
+26.613,LEVI,UnitedStates,CarbiXZero,2022/04/23
 26.747,skAve,Germany,Five33Switchback,2022/04/21
 27.044,MARV_FPV,Liechtenstein,Five33Switchback,2022/04/21
 27.580,MuYaHoFPV,Korea,Five33Switchback,2022/04/22
@@ -61,6 +62,7 @@
 34.557,Gugs,UnitedStates,Five33Switchback,2022/04/17
 34.717,thefpvdoctor,Slovakia,Five33Switchback,2022/04/18
 34.824,M4TTFPV,UnitedKingdom,SniperX,2022/04/19
+34.991,bennymack,UnitedStates,Five33Switchback,2022/04/23
 34.995,TriBull,UnitedKingdom,TBSSpec,2022/04/15
 35.070,LOSLobo,Hungary,TBSSpec,2022/04/17
 35.307,kordets,Finland,TBSSpec,2022/04/16
@@ -88,7 +90,6 @@
 37.833,AndyDreadFPV,UnitedStates,Five33Switchback,2022/04/23
 37.871,mojofpv,Germany,Five33Switchback,2022/04/14
 37.975,FireFux,Austria,Five33Switchback,2022/04/15
-38.114,bennymack,UnitedStates,MadLite,2022/04/23
 38.141,ChainsawFPV,UnitedStates,SniperX,2022/04/22
 38.147,JumpinJakeFPV,UnitedStates,Five33Switchback,2022/04/22
 38.193,stogie,UnitedStates,Five33Switchback,2022/04/19
@@ -103,6 +104,7 @@
 39.461,Lo123,Austria,Five33Switchback,2022/04/13
 39.613,GetSum,UnitedStates,Five33Switchback,2022/04/23
 39.617,Dragony,Switzerland,Five33Switchback,2022/04/20
+39.649,talkrz,Unknown,Five33Switchback,2022/04/23
 39.787,Mrbillbill,Canada,MadLite,2022/04/15
 39.875,RoflcopterStL,UnitedStates,Five33Switchback,2022/04/21
 39.909,Bercik11palcow,Poland,Five33Switchback,2022/04/19
@@ -113,13 +115,13 @@
 40.687,seajaye,UnitedStates,Five33Switchback,2022/04/17
 40.737,Roland,Estonia,CarbiXZero,2022/04/20
 40.947,JClops,UnitedStates,TwigXL3,2022/04/17
+41.762,fabiofpv,Spain,Five33Switchback,2022/04/23
 41.764,Lucky22,UnitedStates,Five33Switchback,2022/04/22
+41.894,NaZze,Finland,TBSSpec,2022/04/23
 42.034,Gegiq,UnitedKingdom,TBSSpec,2022/04/18
 42.115,UnderTheRadar,Canada,CarbiXZero,2022/04/23
-42.143,talkrz,Unknown,Five33Switchback,2022/04/21
 42.321,AdamWu,China,Five33Switchback,2022/04/21
 42.336,HobbyQFPV,Indonesia,Five33Switchback,2022/04/15
-42.462,NaZze,Finland,TBSSpec,2022/04/23
 42.522,luis09d,CostaRica,Five33Switchback,2022/04/22
 42.587,nozty,Philippines,Yakuza,2022/04/20
 42.709,blitzer,UnitedStates,Five33Switchback,2022/04/13
@@ -156,9 +158,11 @@
 46.374,Masterz,Thailand,TBSSpec,2022/04/21
 46.392,cap01_fpv,Germany,Five33Switchback,2022/04/14
 46.828,Tasty,UnitedStates,DiatoneGTB339,2022/04/23
+46.910,masap,Japan,Five33Switchback,2022/04/23
 46.956,VIMANA7,Unknown,DiatoneGTB339,2022/04/17
 47.154,yrrbay,UnitedKingdom,TBSSpec,2022/04/19
 47.274,Sibo_fpv,UnitedKingdom,Five33Switchback,2022/04/22
+47.336,AronHall,Iceland,Velocity,2022/04/23
 47.468,SparQlee,Lithuania,Five33Switchback,2022/04/21
 47.477,JWWFPV,UnitedStates,Five33Switchback,2022/04/13
 48.297,PepperFPV,Thailand,TBSSpec,2022/04/19
@@ -181,6 +185,7 @@
 51.190,AyeP,UnitedStates,Five33Switchback,2022/04/22
 51.276,CptSumTingWong,Germany,TwigXL3,2022/04/17
 51.728,LuiGiFPV,CostaRica,Five33Switchback,2022/04/15
+52.099,SonnFPV,Israel,Five33Switchback,2022/04/23
 52.264,SpencerDfpv,UnitedStates,TBSSpec,2022/04/17
 52.675,Landair,UnitedStates,SingularitumV5,2022/04/15
 52.797,Tehllama,UnitedStates,Five33Switchback,2022/04/19
@@ -192,9 +197,4 @@
 53.928,DragonFlyte,UnitedStates,Five33Switchback,2022/04/22
 54.024,Kaymen,UnitedStates,Yakuza,2022/04/19
 54.136,BabaFPV,UnitedKingdom,Five33Switchback,2022/04/14
-54.330,SonnFPV,Israel,Five33Switchback,2022/04/14
 55.180,VitalyMi85,RussianFederation,Five33Switchback,2022/04/14
-55.181,iamspanky{o0},UnitedStates,Five33Switchback,2022/04/20
-55.622,CeeKay,NewZealand,BMSJS-1,2022/04/17
-55.875,ChrisFPV,Germany,LilBastard,2022/04/19
-56.081,May_Day,UnitedStates,TwigXL3,2022/04/20
