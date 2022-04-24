@@ -13,7 +13,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |194|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
-|169|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/16|
+|170|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/16|
 |130|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
 |121|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/03|
 |105|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/29|
@@ -31,7 +31,7 @@
 |11|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/06/03|
 |92|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/06/04|
 |62|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2020/06/04|
-|37|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/17|
+|38|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/17|
 |56|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/06/25|
 |69|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/07/01|
 ---
@@ -39,8 +39,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |69|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/07/01|
-|26|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/07/14|
-|29|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/09/30|
+|27|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/07/14|
+|30|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/09/30|
 |55|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/10/29|
 |54|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |50|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
@@ -54,7 +54,7 @@
 |36|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/11/01|
 |54|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |105|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/29|
-|169|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/16|
+|170|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/16|
 |130|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
 |53|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/25|
 ---

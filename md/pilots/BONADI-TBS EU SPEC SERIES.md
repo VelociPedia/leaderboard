@@ -11,10 +11,10 @@
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
+|199|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2021/12/06|
 |197|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/07/23|
+|183|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 |182|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
-|182|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 |174|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
 |174|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
 |167|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/05|
@@ -26,8 +26,8 @@
 |:---:|:---|:---|:---:|:---:|
 |182|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/06/29|
 |174|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/07/01|
-|99|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/07/01|
-|182|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
+|100|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2021/07/01|
+|183|TBS EU Spec Series 6 Race 6|Empty Scene Day|Five33Switchback|2021/07/07|
 |174|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/07|
 |128|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/07/10|
 ---

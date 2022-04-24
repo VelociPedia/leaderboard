@@ -35,7 +35,7 @@
 |103|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/12/23|
 |64|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/12/23|
 |110|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/12/29|
-|60|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/12/30|
+|61|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/12/30|
 |101|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/01/05|
 |72|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/07|
 |60|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2021/01/07|

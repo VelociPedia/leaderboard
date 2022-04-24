@@ -13,8 +13,8 @@
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|195|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/18|
-|188|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
+|196|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/18|
+|189|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |186|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
 |185|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/07/15|
 |176|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
@@ -23,7 +23,7 @@
 |158|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/08/18|
 |158|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/25|
 |153|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/25|
-|138|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2021/09/16|
+|139|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2021/09/16|
 |135|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/05|
 |130|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
 ---
@@ -31,7 +31,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |185|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/07/15|
-|188|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
+|189|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |167|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/08/12|
 |66|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |71|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|

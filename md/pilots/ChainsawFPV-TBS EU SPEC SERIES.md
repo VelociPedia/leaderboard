@@ -6,7 +6,7 @@
 |87|TBS EU Spec Series 10 Losers Final|Football Stadium|SniperX|2022/02/12|
 |91|TBS EU Spec Series 10 Race 7|Football Stadium|SniperX|2022/02/09|
 |107|TBS EU Spec Series 10 Race 2|Empty Scene Day|SniperX|2021/12/11|
-|112|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|SniperX|2022/02/18|
+|113|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|SniperX|2022/02/18|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -43,7 +43,7 @@
 |195|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
 |141|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/14|
 |153|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
-|137|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
+|138|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
 |168|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/03|
 |133|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/15|
 |118|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/15|

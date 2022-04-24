@@ -21,11 +21,11 @@
 |108|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/02|
 |100|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2021/05/23|
 |99|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/09/29|
-|91|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
+|92|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
 |89|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2021/05/04|
 |83|TBS EU Spec Series 5 FINAL|Dynamic Weather|Five33Switchback|2021/10/16|
 |83|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/11/12|
-|72|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/19|
+|73|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/19|
 |68|TBS EU Spec Series 7 Race 7|Empty Scene Day|Five33Switchback|2021/07/13|
 |66|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/12/04|
 |63|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/09/29|
@@ -42,7 +42,7 @@
 |100|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2021/05/23|
 |126|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2021/05/23|
 |54|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2021/06/06|
-|91|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
+|92|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/06/24|
 |46|TBS EU Spec Series 8 Race 3|Football Stadium|Five33Switchback|2021/06/28|
 |47|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/02|
 |43|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2021/07/07|

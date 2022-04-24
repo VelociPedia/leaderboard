@@ -25,10 +25,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |160|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/01|
-|78|TBS EU Spec Series 7 Race 1|Football Stadium|Ossa|2021/01/15|
+|79|TBS EU Spec Series 7 Race 1|Football Stadium|Ossa|2021/01/15|
 |89|TBS EU Spec Series 7 Race 2|Empty Scene Day|Ossa|2021/01/24|
 |104|TBS EU Spec Series 7 Race 3|Empty Scene Day|Ossa|2021/01/25|
-|81|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
+|82|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/02/03|
 |43|TBS EU Spec Series 7 Race 5|IndoorGoKart|Ossa|2021/02/10|
 ---
 ### 1 tracks where TBS SPEC quad was used

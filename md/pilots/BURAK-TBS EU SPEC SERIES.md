@@ -18,28 +18,28 @@
 |152|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |134|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/10/29|
 |82|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
-|79|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
+|80|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
 |74|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |69|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
 |65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |56|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
 |55|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |55|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
-|52|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
-|45|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|53|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
+|46|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |82|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
-|52|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
+|53|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
 |38|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|SingularitumV5|2020/05/18|
 |155|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
 |55|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |74|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |69|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
 |43|TBS EU Spec Series 5 FINAL|Dynamic Weather|SingularitumV5|2020/09/13|
-|79|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
+|80|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
 ---
 ### 40 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -50,7 +50,7 @@
 |4|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |12|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |9|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
-|25|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/03/26|
+|26|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/03/26|
 |74|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |56|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
 |14|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/04/13|
@@ -61,7 +61,7 @@
 |13|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/03|
 |65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |38|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/06/29|
-|45|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|46|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |40|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |43|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |43|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|

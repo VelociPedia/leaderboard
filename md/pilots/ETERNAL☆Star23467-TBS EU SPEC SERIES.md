@@ -64,7 +64,7 @@
 |58|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/06/01|
 |107|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/02|
 |21|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/12/02|
-|35|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/12/02|
+|36|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/12/02|
 |163|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/07/30|
 |31|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/12/03|
 |40|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/10/15|
@@ -82,7 +82,7 @@
 |20|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |43|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/30|
 |39|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
-|32|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/03/02|
+|33|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/03/02|
 |24|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/03/03|
 |37|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/03/03|
 |37|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/03/04|

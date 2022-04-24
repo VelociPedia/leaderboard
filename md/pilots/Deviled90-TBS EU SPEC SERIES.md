@@ -31,7 +31,7 @@
 |118|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |117|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/11/24|
 |113|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/01/05|
-|98|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/08|
+|99|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/01/08|
 |102|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2021/01/17|
 ---
 ### 24 tracks where TBS SPEC quad was used

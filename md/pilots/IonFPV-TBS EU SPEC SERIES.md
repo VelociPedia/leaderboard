@@ -13,15 +13,15 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
-|189|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
-|162|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
+|190|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
+|163|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
 |127|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2022/02/15|
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/08/02|
+|118|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/10/01|
 |118|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/09/15|
-|117|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/10/01|
-|115|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/09/21|
+|116|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/09/21|
 |98|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/07/11|
-|94|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/02|
+|95|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/02|
 |80|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/10/31|
 ---
 ### Oldest 7 personal best
@@ -29,8 +29,8 @@
 |:---:|:---|:---|:---:|:---:|
 |46|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/07/07|
 |98|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/07/11|
-|162|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
-|189|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
+|163|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
+|190|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/08/02|
 |191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
 |118|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/09/15|
@@ -38,7 +38,7 @@
 ### 45 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|94|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/02|
+|95|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/02/02|
 |25|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |18|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/16|
 |35|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/14|
@@ -49,19 +49,19 @@
 |6|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
 |25|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |11|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2022/02/08|
-|38|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/03|
+|39|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/11/03|
 |191|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/08/17|
 |17|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/02/10|
 |41|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2021/11/11|
 |19|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2022/02/12|
 |46|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/07/07|
-|189|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
+|190|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/08/02|
 |126|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/08/02|
 |37|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/11/02|
-|117|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/10/01|
+|118|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/10/01|
 |127|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2022/02/15|
-|162|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
-|115|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/09/21|
+|163|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/07/13|
+|116|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/09/21|
 |14|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2022/02/15|
 |75|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/12/01|
 |9|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2022/02/14|

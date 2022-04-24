@@ -6,7 +6,7 @@
 |52|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/31|
 |63|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/28|
 |64|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2022/03/29|
-|65|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2022/04/10|
+|66|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2022/04/10|
 |68|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2022/04/05|
 |71|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2022/04/10|
 ---
@@ -50,7 +50,7 @@
 |100|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/02/28|
 |96|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/28|
 |80|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/10|
-|110|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/30|
+|111|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/30|
 |52|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/31|
 |113|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/10|
 |141|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2022/03/08|

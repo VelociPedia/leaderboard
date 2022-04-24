@@ -24,7 +24,7 @@
 |33|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
 |31|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |31|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
-|26|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|27|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -57,7 +57,7 @@
 |16|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |40|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |33|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
-|26|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|27|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |19|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
 |24|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
 |31|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|

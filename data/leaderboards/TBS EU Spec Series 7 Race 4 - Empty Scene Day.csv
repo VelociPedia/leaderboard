@@ -62,6 +62,7 @@
 70.662,JuhtiPuhti,Finland,TBSSpec,2021/01/28
 70.767,HQBatuFPV,Germany,TBSSpec,2021/02/01
 70.842,SmokyFPV,UnitedKingdom,TBSSpec,2021/02/01
+70.918,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2022/04/23
 71.207,Mroowa,Poland,TBSSpec,2021/01/28
 71.210,loufpv,UnitedStates,Five33Switchback,2021/03/30
 71.301,wiz,Unknown,Five33Switchback,2021/01/29
@@ -104,7 +105,7 @@
 74.287,Johnn,Denmark,TBSSpec,2021/01/31
 74.450,LeoOnFire,Italy,Five33Switchback,2021/01/30
 74.576,LEVI,UnitedStates,Mode2Ghost,2021/02/16
-75.036,WeeklyPlayer1,Poland,TBSSpec,2021/01/31
+75.036,Brookeet,Poland,TBSSpec,2021/01/31
 75.048,Falke_PV,Germany,TBSSpec,2021/01/28
 75.174,Aleksi15,Finland,TBSSpec,2021/02/09
 75.354,Fellstar,UnitedStates,TBSSpec,2021/01/31
@@ -129,7 +130,6 @@
 77.442,OrangutanFPV,UnitedKingdom,TBSSpec,2021/02/06
 77.475,bigFuzz,Italy,Five33Switchback,2021/02/08
 77.555,PacoTeamCanadaFPV,Canada,Ossa,2021/01/29
-77.612,AlexeyStn_Overpass,RussianFederation,TBSSpec,2021/01/28
 77.679,MFF,Argentina,Mode2Ghost,2021/02/01
 77.847,NelisFPV,Netherlands,TBSSpec,2021/02/02
 77.912,ForkMaster,Latvia,TBSSpec,2021/01/28
@@ -182,6 +182,7 @@
 85.793,tisha_BeAir,Belarus,TBSSpec,2021/01/28
 85.966,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/08/15
 86.079,fpvsensei,UnitedStates,TBSSpec,2021/05/16
+86.127,SAS,RussianFederation,CarbiXZero,2022/04/23
 86.207,ROMIZ,Italy,Five33Switchback,2021/02/08
 86.248,seajaye,UnitedStates,Five33Switchback,2022/01/04
 86.266,Lexa_S_Overpass,RussianFederation,TBSSpec,2021/01/28
@@ -197,4 +198,3 @@
 87.715,VitalyMi85,RussianFederation,Five33Switchback,2022/04/09
 88.350,scooby_doo,Latvia,TBSSpec,2021/01/28
 88.730,Paynefull,UnitedKingdom,TBSSpec,2021/01/28
-88.823,Gegiq,UnitedKingdom,Five33Switchback,2021/12/11
