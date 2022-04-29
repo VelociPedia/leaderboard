@@ -16,7 +16,7 @@
 |:---:|:---|:---|:---:|:---:|
 |35|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2021/02/07|
 |24|EU Spec Season 4 Race 1|Football Stadium|LethalConception|2021/01/07|
-|23|TBS EU Spec Series 10 Race 2|Empty Scene Day|Yakuza|2022/02/15|
+|24|TBS EU Spec Series 10 Race 2|Empty Scene Day|Yakuza|2022/02/15|
 |20|TBS EU Spec Series 9 Final|Dynamic Weather|Yakuza|2022/02/23|
 |15|TBS EU Spec Series 4 Race 2|Empty Scene Day|Yakuza|2022/02/14|
 |14|TBS EU Spec Series 4 Race 5|Dynamic Weather|Yakuza|2022/02/14|

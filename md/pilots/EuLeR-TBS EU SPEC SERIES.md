@@ -46,11 +46,11 @@
 |:---:|:---|:---|:---:|:---:|
 |21|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/16|
 |19|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
-|30|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
-|22|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
-|15|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/20|
-|23|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
-|20|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/16|
+|31|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|23|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
+|16|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/20|
+|24|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
+|21|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/16|
 |45|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/28|
 |60|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/09/09|
 |57|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/10/04|

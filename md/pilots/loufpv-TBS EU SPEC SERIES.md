@@ -20,14 +20,14 @@
 |129|TBS EU Spec Series 7 Race 6|Future Hangar Empty|Five33Switchback|2021/04/10|
 |110|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/12/29|
 |103|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/12/23|
+|101|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2021/04/15|
 |101|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/01/05|
-|100|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2021/04/15|
 |89|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/22|
 |87|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
 |83|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2021/04/22|
 |81|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
 |76|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/10/11|
-|72|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/07|
+|73|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/07|
 ---
 ### Oldest 9 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -37,9 +37,9 @@
 |110|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/12/29|
 |61|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/12/30|
 |101|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/01/05|
-|72|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/07|
+|73|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/01/07|
 |60|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2021/01/07|
-|51|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/01/15|
+|52|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/01/15|
 |89|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/22|
 ---
 ### 13 tracks where TBS SPEC quad was used

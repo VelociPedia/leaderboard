@@ -13,7 +13,6 @@
 ### Worse 12 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|200|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
 |123|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/08|
 |93|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
 |47|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/15|
@@ -25,6 +24,7 @@
 |31|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/11|
 |31|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/06/24|
 |27|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|26|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/03|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -35,8 +35,8 @@
 |13|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |93|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
 |35|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
-|200|TBS EU Spec Series 5 Race 3|Dynamic Weather|SingularitumV5|2020/08/02|
 |13|TBS EU Spec Series 5 Race 4|Football Stadium|SingularitumV5|2020/08/02|
+|123|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/08|
 ---
 ### 40 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -44,7 +44,7 @@
 |7|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |11|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/17|
 |23|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/16|
-|25|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/03|
+|26|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/02/03|
 |13|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/16|
 |3|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |7|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
@@ -82,7 +82,7 @@
 |9|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/04|
 |6|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
-### 22 tracks without data (200+ or not in leaderboard)
+### 23 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |RCTech.de EU Spec Series 2 Final|Empty Scene Day|
@@ -99,6 +99,7 @@
 |RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|
 |TBS EU Spec Series 4 FINAL|Dynamic Weather|
 |TBS EU Spec Season 5 Race 1|Football Stadium|
+|TBS EU Spec Series 5 Race 3|Dynamic Weather|
 |TBS EU Spec Series 5 Race 5|NEC Birmingham|
 |TBS EU Spec Series 5 Race 7|IndoorGoKart|
 |TBS EU Spec Series 5 FINAL|Dynamic Weather|

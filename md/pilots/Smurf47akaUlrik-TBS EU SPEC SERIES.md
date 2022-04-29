@@ -8,7 +8,7 @@
 |18|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2022/01/24|
 |19|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Five33Switchback|2020/09/25|
 |20|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2022/04/22|
-|20|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/09/07|
+|21|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2020/09/07|
 |23|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |27|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2020/12/03|
 |28|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/18|
@@ -62,19 +62,19 @@
 |28|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/18|
 |30|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |49|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/06|
-|40|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/28|
+|41|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2022/01/28|
 |48|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/20|
-|40|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
-|33|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
+|41|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
+|34|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |23|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|37|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/04|
+|38|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/04|
 |93|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/02/07|
 |41|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2022/04/12|
 |57|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/07|
 |64|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
 |59|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/11|
 |57|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/19|
-|44|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/05|
+|45|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/05|
 |51|TBS EU Spec Series 8 Losers Final|Dynamic Weather|TBSSpec|2021/07/01|
 |61|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/18|
 |49|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/25|

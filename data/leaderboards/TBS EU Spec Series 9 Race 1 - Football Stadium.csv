@@ -53,6 +53,7 @@
 58.586,Smurf47akaUlrik,Denmark,TBSSpec,2021/09/15
 58.629,TiltedFPV,UnitedStates,TBSSpec,2021/09/09
 58.879,JuhtiPuhti,Finland,TBSSpec,2021/09/12
+58.942,RIVALSMixedSignals,UnitedStates,TBSSpec,2022/04/28
 59.168,skAt,France,TBSSpec,2021/09/09
 59.232,slick_fpv,UnitedStates,Five33Switchback,2021/09/16
 59.234,Johnn,Denmark,TBSSpec,2021/09/15
@@ -73,13 +74,12 @@
 60.625,TFFYCryson,Germany,TBSSpec,2021/09/09
 60.796,SubToJBoxFPV,UnitedStates,Ossa,2021/09/22
 60.944,SnakecityDK,Denmark,Five33Switchback,2021/09/30
-61.309,RIVALSMixedSignals,UnitedStates,TBSSpec,2021/11/19
 61.874,GPW,France,TBSSpec,2021/09/10
+61.962,Dronius,Ukraine,Five33Switchback,2022/04/29
 61.994,TriBull,UnitedKingdom,TBSSpec,2021/09/14
 62.058,Ninjakat,Unknown,Mode2Ghost,2021/09/19
 62.274,BlueWolfTFS,Poland,TBSSpec,2021/09/09
 62.756,Bashikami,Italy,TBSSpec,2021/09/09
-62.786,Dronius,Ukraine,Five33Switchback,2021/11/28
 62.970,saft57,Sweden,TBSSpec,2021/09/09
 63.009,DeMoNse3d,Mexico,TBSSpec,2021/09/12
 63.068,AliB㋡,UnitedKingdom,TBSSpec,2021/09/09
@@ -118,6 +118,7 @@
 69.023,DAFFPV,Sweden,TBSSpec,2021/09/10
 69.138,Bubbows,UnitedKingdom,TBSSpec,2021/12/05
 69.173,M4TTFPV,UnitedKingdom,TBSSpec,2021/09/09
+69.315,HegeFPV,Hungary,Five33Switchback,2022/04/27
 69.433,HQBatuFPV,Germany,TBSSpec,2021/09/09
 69.575,FanZ,France,Five33Switchback,2021/09/11
 69.590,Bercik11palcow,Poland,Five33Switchback,2021/09/19
@@ -158,6 +159,7 @@
 75.811,Mano,Netherlands,Five33Switchback,2021/09/21
 76.336,Wizard_,UnitedKingdom,TBSSpec,2022/04/13
 76.448,EmPiiRe,Germany,TBSSpec,2021/10/14
+76.539,DmytroAvdosiev,Ukraine,Five33Switchback,2022/04/29
 76.634,TMAD,UnitedStates,TBSSpec,2021/10/07
 76.843,TITOO,Brazil,Five33Switchback,2021/09/19
 77.009,MattMaxx,UnitedStates,SkyXKiller,2021/10/12
@@ -165,6 +167,7 @@
 77.632,NicoFPV,Germany,TBSSpec,2021/12/19
 77.696,talkrz,Unknown,Five33Switchback,2021/09/12
 78.094,KiloFoxtrot,UnitedStates,TBSSpec,2021/11/11
+78.573,FalconTeamUA,Ukraine,TBSVendetta,2022/04/29
 79.082,MakoPL,Poland,TBSSpec,2021/09/17
 79.181,Agro,Lithuania,TBSSpec,2021/09/12
 79.287,Brombeer,Netherlands,Five33Switchback,2021/09/18
@@ -177,7 +180,7 @@
 80.176,RobSi,Slovenia,Five33Switchback,2021/09/16
 80.695,VELNS,Latvia,LethalConception,2022/03/15
 81.300,Moto,Australia,Five33Switchback,2021/09/16
-81.828,propcounter,Germany,Five33Switchback,2021/09/23
+81.828,Heartbrokenboi,Germany,Five33Switchback,2021/09/23
 82.385,geordil,UnitedStates,TBSSpec,2022/04/01
 82.880,Rocket,Canada,Five33Switchback,2022/02/19
 83.127,seajaye,UnitedStates,Five33Switchback,2021/09/14
@@ -195,6 +198,3 @@
 85.001,FEATHERSFPV,UnitedKingdom,TBSSpec,2021/09/11
 85.066,RustyRobotBits,UnitedStates,Five33Switchback,2021/09/14
 85.238,ImpactFPV,UnitedKingdom,TBSSpec,2021/09/17
-85.288,ZDZ,UnitedStates,Five33Switchback,2021/10/14
-85.315,LOSLobo,Hungary,TBSSpec,2021/09/12
-85.667,MatzeLions,Germany,Five33Switchback,2021/12/23

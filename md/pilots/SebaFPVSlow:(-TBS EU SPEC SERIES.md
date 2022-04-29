@@ -11,8 +11,8 @@
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|164|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
 |160|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
-|159|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
 |139|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/12/31|
 |125|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/19|
 |75|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/07|
@@ -25,7 +25,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |75|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/07|
-|159|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
+|164|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
 |13|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/04/09|
 |58|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/10|
 |40|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
@@ -35,7 +35,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |37|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2020/07/02|
-|159|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
+|164|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/04/09|
 |13|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/04/09|
 |75|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/07|
 |58|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/10|
@@ -53,7 +53,7 @@
 |40|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/10|
 |45|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/17|
 |40|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/21|
-|36|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/02|
+|37|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/02|
 |31|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/23|
 |56|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/13|
 |39|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/06/03|

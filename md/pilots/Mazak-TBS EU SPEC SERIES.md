@@ -48,13 +48,13 @@
 |104|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
 |29|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/07/09|
 |34|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/21|
-|17|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/28|
+|18|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/28|
 |31|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/05/28|
-|34|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/11|
+|35|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/11|
 |46|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/25|
 |25|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |17|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
-|27|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/06|
+|28|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/08/06|
 |8|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/10|
 |15|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |22|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/06|

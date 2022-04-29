@@ -2,11 +2,11 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |19|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|29|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/07|
+|30|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/07|
 |31|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
-|31|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|32|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |32|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
-|38|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
+|39|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -41,13 +41,13 @@
 |32|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |31|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |46|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
-|50|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
+|51|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/09|
 |96|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
-|29|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/07|
-|38|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
+|30|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/07|
+|39|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |19|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|31|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
-|62|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2022/02/03|
+|32|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|63|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2022/02/03|
 |142|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/07/30|
 |58|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/04/08|
 |101|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|

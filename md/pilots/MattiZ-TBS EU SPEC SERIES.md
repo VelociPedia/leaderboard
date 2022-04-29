@@ -2,41 +2,41 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |49|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/03/03|
-|54|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/04/02|
+|55|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|Five33Switchback|2022/04/02|
 |66|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |69|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/14|
-|70|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/04|
-|70|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|
+|71|TBS EU Spec Series 9 Race 6|Empty Scene Day|Five33Switchback|2021/11/04|
 |71|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
+|73|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|
 |79|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2022/02/13|
 ---
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|196|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/18|
-|189|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
-|186|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
+|197|TBS EU Spec Series 7 Race 1|Football Stadium|CarbiXZero|2021/01/18|
+|190|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
+|187|TBS EU Spec Series 6 Losers Final|Football Stadium|CarbiXZero|2020/12/02|
 |185|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/07/15|
 |176|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
 |167|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/08/12|
-|161|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2021/08/16|
+|162|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2021/08/16|
+|159|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/25|
 |158|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2021/08/18|
-|158|TBS EU Spec Series 6 Race 1|Future Hangar Empty|CarbiXZero|2020/09/25|
-|153|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/25|
+|154|TBS EU Spec Series 7 Race 4|Empty Scene Day|Five33Switchback|2022/03/25|
 |139|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2021/09/16|
-|135|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/05|
+|137|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/05|
 |130|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |185|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/07/15|
-|189|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
+|190|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/08/02|
 |167|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/08/12|
 |66|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|SingularitumV5|2020/08/18|
 |71|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|SingularitumV5|2020/08/19|
 |176|RCTech.de EU Spec Series 2 Final|Empty Scene Day|SingularitumV5|2020/08/20|
-|70|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|
+|73|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|SingularitumV5|2020/08/26|
 |126|TBS EU Spec Series 5 Race 6|Dynamic Weather|SingularitumV5|2020/08/31|
 ---
 ### 1 tracks where TBS SPEC quad was used

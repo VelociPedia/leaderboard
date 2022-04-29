@@ -12,16 +12,16 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|188|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2020/12/18|
+|189|TBS EU Spec Series 4 Race 2|Empty Scene Day|Five33Switchback|2020/12/18|
 |162|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
 |157|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/24|
 |154|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/02/18|
-|136|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|137|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |135|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/02/18|
 |131|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSOblivion|2020/11/06|
 |125|TBS EU Spec Series 4 Race 7|Football Stadium|TBSOblivion|2020/11/10|
 |121|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSOblivion|2020/11/10|
-|119|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/01/27|
+|119|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Chief|2022/04/04|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -43,10 +43,10 @@
 |33|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/01/27|
 |84|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/01/27|
 |77|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/18|
-|58|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/23|
+|59|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/23|
 |115|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/11/24|
 |162|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
-|136|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|137|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |135|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/02/18|
 |154|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/02/18|
 |65|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2021/01/26|

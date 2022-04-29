@@ -14,6 +14,7 @@
 66.328,Burkan,UnitedKingdom,TBSSpec,2020/08/06
 66.376,HQThunder,Spain,TBSSpec,2020/08/31
 66.399,Gafannen,Slovakia,Five33Switchback,2022/02/14
+66.856,Bree,France,Five33Switchback,2022/04/29
 66.901,Saqoosha,Japan,TBSSpec,2022/01/08
 67.047,TCGundren_Fpv,Switzerland,TBSSpec,2021/03/11
 67.279,geek_fpv,Italy,Five33Switchback,2020/08/13
@@ -66,7 +67,6 @@
 75.379,Messi,Italy,CarbiXZero,2020/08/18
 75.659,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/08/23
 75.695,Ninjakat,Unknown,Five33Switchback,2020/12/10
-75.831,Bree,France,Five33Switchback,2022/02/14
 75.957,HQBatuFPV,Germany,Mode2Ghost,2020/08/19
 76.009,AliB㋡,UnitedKingdom,TBSSpec,2020/08/06
 76.121,skAt,France,TBSSpec,2020/08/20
@@ -101,9 +101,11 @@
 83.009,saft57,Sweden,TBSSpec,2020/08/20
 83.431,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2021/07/06
 83.726,FuzeJM,UnitedKingdom,TBSSpec,2021/08/20
+83.848,stogie,UnitedStates,TwigXL3,2022/04/24
 84.830,bigFuzz,Italy,TBSSpec,2020/08/18
 84.832,fabiofpv,Spain,SingularitumV5,2020/08/14
 84.834,MattiZ,Germany,Five33Switchback,2022/02/14
+85.280,Fastodon,UnitedStates,Five33Switchback,2022/04/25
 85.539,zy0nfpv,Brazil,Five33Switchback,2020/09/20
 85.604,SzeryfxD,Poland,TBSSpec,2021/02/17
 85.659,GruffFPV,UnitedKingdom,TBSSpec,2020/08/06
@@ -121,7 +123,6 @@
 88.180,NailedUPTeamCanadaFPV,Canada,TBSSpec,2020/08/08
 88.449,DAFFPV,Sweden,Five33Switchback,2021/06/07
 88.804,JWREN,UnitedKingdom,Five33Switchback,2020/08/19
-88.898,stogie,UnitedStates,TwigXL3,2022/04/23
 89.037,kcken,UnitedKingdom,TBSSpec,2020/08/18
 89.269,FpvBerci,Hungary,SlamNasty,2020/08/11
 89.354,jccon234,Taiwan,Yakuza,2020/09/03
@@ -197,4 +198,3 @@
 105.517,ANZPO,UnitedStates,TBSSpec,2021/02/13
 105.521,CorsarioPE,Peru,Solleva,2020/09/16
 105.755,LeadFingers,UnitedStates,TBSSpec,2021/01/27
-106.463,broken,Netherlands,Five33Switchback,2020/08/22

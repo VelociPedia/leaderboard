@@ -17,12 +17,12 @@
 |81|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/03/01|
 |69|RCTech_de EU Spec Series 3 Final|Empty Scene Day|CarbiXZero|2020/04/16|
 |63|TBS EU Spec Series 4 FINAL|Dynamic Weather|CarbiXZero|2020/07/09|
-|59|TBS EU Spec Series 9 Race 1|Football Stadium|Ossa|2021/09/10|
+|60|TBS EU Spec Series 9 Race 1|Football Stadium|Ossa|2021/09/10|
 |50|TBS EU Spec Series 6 Race 6|Empty Scene Day|Ossa|2021/02/03|
 |47|RCTech.de EU Spec Series 2 Race 1|Football Stadium|CarbiXZero|2020/05/07|
 |45|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |44|TBS EU Spec Series 5 Race 3|Dynamic Weather|CarbiXZero|2020/07/28|
-|39|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
+|40|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -33,7 +33,7 @@
 |84|TBS EU Spec Series 4 Race 4|Empty Scene Day|CarbiXZero|2020/05/29|
 |45|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|CarbiXZero|2020/06/06|
 |38|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|CarbiXZero|2020/06/06|
-|39|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
+|40|TBS EU Spec Series 4 Race 5|Dynamic Weather|CarbiXZero|2020/06/11|
 ---
 ### 3 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
