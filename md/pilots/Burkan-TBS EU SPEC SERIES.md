@@ -31,7 +31,7 @@
 |:---:|:---|:---|:---:|:---:|
 |28|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |52|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
-|21|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/30|
+|23|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/30|
 |63|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/15|
 |19|TBS EU Spec Series 5 Race 4|Football Stadium|CarbiXZero|2020/08/03|
 |14|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
@@ -42,7 +42,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |52|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
-|21|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/30|
+|23|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/30|
 |28|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |17|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/18|
 |19|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/13|

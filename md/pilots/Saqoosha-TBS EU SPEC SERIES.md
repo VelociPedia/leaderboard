@@ -2,9 +2,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |5|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2022/01/13|
-|11|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/15|
-|13|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2022/01/09|
-|13|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2021/09/22|
+|13|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/15|
+|15|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2022/01/09|
+|16|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2021/09/22|
 |17|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2022/01/14|
 |18|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2022/01/08|
 |19|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/11/06|
@@ -54,19 +54,19 @@
 |:---:|:---|:---|:---:|:---:|
 |194|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/04|
 |66|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2022/01/11|
-|13|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2022/01/09|
+|15|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2022/01/09|
 |60|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2022/01/08|
-|59|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2022/01/08|
+|61|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2022/01/08|
 |19|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/11/06|
 |27|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/08|
 |5|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2022/01/13|
-|11|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/15|
+|13|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/15|
 |17|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2022/01/14|
-|13|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2021/09/22|
+|16|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2021/09/22|
 |71|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2022/01/14|
 |22|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2022/01/15|
 |20|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2022/01/15|
-|53|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/01/16|
+|54|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/01/16|
 |36|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/21|
 |24|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/11|
 |85|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/05|
@@ -86,7 +86,7 @@
 |18|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2022/01/08|
 |83|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/09/06|
 |108|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/04|
-|61|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/29|
+|62|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/11/29|
 |84|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/26|
 |142|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/10|
 |38|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/10/30|

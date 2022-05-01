@@ -21,11 +21,11 @@
 |72|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/27|
 |70|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/08|
 |63|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2020/08/17|
-|62|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2020/10/02|
+|63|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2020/10/02|
 |61|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/10|
 |60|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/02|
+|60|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/07|
 |59|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/31|
-|59|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/26|
 ---
 ### Oldest 8 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -48,7 +48,7 @@
 |60|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/02|
 |104|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/06|
 |46|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/10|
-|59|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/07|
+|60|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/07|
 |59|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/17|
 |45|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/24|
 |93|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|

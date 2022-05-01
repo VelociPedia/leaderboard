@@ -1,9 +1,9 @@
 ### Best 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|9|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/08/21|
+|12|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/08/21|
 |32|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
-|32|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
+|33|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |36|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/20|
 |36|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 |42|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/01|
@@ -51,7 +51,7 @@
 |200|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/11|
 |79|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/06/02|
 |188|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/04/08|
-|32|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
+|33|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |42|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2022/01/01|
 |65|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |119|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/05/11|

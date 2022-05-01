@@ -19,8 +19,8 @@
 |133|TBS EU Spec Series 7 Race 4|Empty Scene Day|Ossa|2021/01/29|
 |123|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/05/05|
 |116|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/09|
+|109|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/06|
 |109|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/25|
-|108|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/06|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -44,7 +44,7 @@
 |27|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/19|
 |39|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/03|
 |11|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
-|108|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/06|
+|109|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/06|
 |53|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/27|
 |71|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/24|
 |46|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/02|
@@ -53,7 +53,7 @@
 |88|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/03|
 |38|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/08|
 |52|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/24|
-|51|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/30|
+|52|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/30|
 |95|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/12|
 |93|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2020/10/31|
 |43|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|

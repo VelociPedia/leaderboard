@@ -1,7 +1,7 @@
 ### Best 8 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|41|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/04/12|
+|42|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/04/12|
 |45|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2021/04/21|
 |49|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2021/04/22|
 |50|TBS EU Spec Series 8 Final|Dynamic Weather|Five33Switchback|2021/07/08|
@@ -16,8 +16,8 @@
 |186|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/01/09|
 |162|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2021/04/21|
 |159|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/09|
-|147|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Mode2Ghost|2020/07/08|
-|147|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/04/14|
+|149|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Mode2Ghost|2020/07/08|
+|149|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/04/14|
 |142|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2021/02/01|
 |142|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/11/05|
 |136|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2020/10/03|
@@ -31,7 +31,7 @@
 |:---:|:---|:---|:---:|:---:|
 |124|TBS EU Spec Series 4 Race 5|Dynamic Weather|Mode2Ghost|2020/06/11|
 |81|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Mode2Ghost|2020/07/06|
-|147|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Mode2Ghost|2020/07/08|
+|149|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Mode2Ghost|2020/07/08|
 |136|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2020/10/03|
 |142|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2020/11/05|
 |129|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2020/11/25|

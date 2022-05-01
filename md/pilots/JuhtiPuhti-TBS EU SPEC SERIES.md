@@ -26,7 +26,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |42|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
-|40|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
+|42|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |57|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
 |68|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |20|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/06/04|
@@ -36,7 +36,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |57|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
-|40|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
+|42|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |42|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/09|
 |107|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/09|
 |41|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/03/14|
@@ -46,14 +46,14 @@
 |32|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2020/06/04|
 |36|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/05|
 |43|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
-|28|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
+|29|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |29|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2020/09/10|
 |25|TBS EU Spec Series 5 Race 3|Dynamic Weather|TBSSpec|2020/07/23|
 |67|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/08/27|
-|35|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
-|36|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
+|36|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
+|37|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |39|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
-|31|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
+|32|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/02|
 |42|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |93|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |62|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/16|

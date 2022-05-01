@@ -4,7 +4,7 @@
 |26|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/10/06|
 |33|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/01/27|
 |36|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/04/22|
-|38|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/02/10|
+|39|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/02/10|
 |45|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/20|
 |48|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/07|
 |49|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/05/05|
@@ -20,8 +20,8 @@
 |135|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2021/02/18|
 |131|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSOblivion|2020/11/06|
 |125|TBS EU Spec Series 4 Race 7|Football Stadium|TBSOblivion|2020/11/10|
+|122|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/01/27|
 |121|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSOblivion|2020/11/10|
-|119|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Chief|2022/04/04|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -37,8 +37,8 @@
 ### 30 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|53|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/04/28|
-|119|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/01/27|
+|54|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|TBSSpec|2021/04/28|
+|122|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/01/27|
 |49|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/05/05|
 |33|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/01/27|
 |84|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/01/27|

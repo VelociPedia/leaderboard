@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |70|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2021/08/11|
-|77|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/10/16|
+|81|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/10/16|
 |82|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2021/10/08|
 |87|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2021/08/11|
 |89|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/08/31|
@@ -17,8 +17,8 @@
 |191|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2021/08/13|
 |186|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
 |185|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/28|
+|179|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
 |179|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
-|176|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
 |169|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
 |169|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2022/03/08|
 |169|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/10/08|
@@ -32,9 +32,9 @@
 |160|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/04/06|
 |132|TBS EU Spec Series 8 Race 5|Future Hangar Empty|Five33Switchback|2021/06/01|
 |186|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
-|122|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/07/12|
+|123|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/07/12|
 |179|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
-|111|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/07/21|
+|114|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/07/21|
 |106|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/07/28|
 |145|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/08/05|
 ---
@@ -42,10 +42,10 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |179|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/07/20|
-|111|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/07/21|
+|114|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/07/21|
 |70|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|TBSSpec|2021/08/11|
 |87|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2021/08/11|
-|176|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
+|179|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
 |114|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/08/11|
 |105|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2021/08/28|
 |116|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/08/28|

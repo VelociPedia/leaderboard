@@ -16,9 +16,9 @@
 |195|TBS EU Spec Series 5 Race 5|NEC Birmingham|SniperX|2022/02/12|
 |186|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/09/26|
 |186|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/03/20|
+|185|TBS EU Spec Series 7 Final|Empty Scene Day|SniperX|2022/02/13|
 |185|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/11/14|
 |184|TBS EU Spec Series 4 Race 5|Dynamic Weather|SniperX|2022/02/12|
-|184|TBS EU Spec Series 7 Final|Empty Scene Day|SniperX|2022/02/13|
 |183|TBS EU Spec Series 4 Race 2|Empty Scene Day|SniperX|2022/02/12|
 |181|TBS EU Spec Series 7 Race 5|IndoorGoKart|SniperX|2022/02/13|
 |179|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/05/16|
@@ -26,18 +26,18 @@
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|152|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/04/14|
+|155|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2020/04/14|
 |175|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Five33Switchback|2020/04/14|
-|169|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Mode2Ghost|2020/04/18|
+|172|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Mode2Ghost|2020/04/18|
 |87|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
 |138|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
 |125|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/06/07|
-|108|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
+|113|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
 ---
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|108|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
+|113|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|TBSSpec|2020/06/08|
 |87|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|TBSSpec|2020/06/07|
 |138|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/06/07|
 |125|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/06/07|

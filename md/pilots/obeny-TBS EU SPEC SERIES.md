@@ -16,7 +16,7 @@
 |193|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2021/12/13|
 |187|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/07/06|
 |178|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/06/24|
-|176|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/07/13|
+|177|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/07/13|
 |160|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/07/19|
 |153|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/08/09|
 |146|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2022/01/02|
@@ -29,7 +29,7 @@
 |:---:|:---|:---|:---:|:---:|
 |178|TBS EU Spec Series 8 Race 4|Empty Scene Day|Five33Switchback|2021/06/24|
 |187|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2021/07/06|
-|176|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/07/13|
+|177|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/07/13|
 |114|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Five33Switchback|2021/07/17|
 |160|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2021/07/19|
 |197|TBS EU Spec Series 6 Losers Final|Football Stadium|Five33Switchback|2021/08/03|

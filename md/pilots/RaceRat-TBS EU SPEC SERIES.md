@@ -35,7 +35,7 @@
 ### 41 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|118|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/03/30|
+|121|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/03/30|
 |71|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
 |95|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/06|
 |93|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|

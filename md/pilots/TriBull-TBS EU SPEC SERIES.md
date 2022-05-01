@@ -28,8 +28,8 @@
 |118|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/02/25|
 |115|TBS EU Spec Series 4 Race 4|Empty Scene Day|TBSSpec|2021/05/20|
 |109|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2021/02/04|
+|109|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/05/20|
 |109|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/05|
-|108|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/13|
 ---
 ### Oldest 10 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -50,7 +50,7 @@
 |:---:|:---|:---|:---:|:---:|
 |93|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2021/04/12|
 |101|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/10/07|
-|106|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/05/20|
+|109|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/05/20|
 |172|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2021/04/22|
 |155|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2021/09/07|
 |74|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|

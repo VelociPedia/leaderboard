@@ -59,7 +59,7 @@
 |80|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
 |81|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |68|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
-|55|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
+|56|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
 |39|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |96|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |65|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|

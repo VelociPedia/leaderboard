@@ -6,15 +6,15 @@
 |3|TBS EU Spec Series 9 Race 5|Empty Scene Day|CarbiXZero|2021/10/10|
 |3|TBS EU Spec Series 6 Race 1|Future Hangar Empty|SingularitumV5|2020/10/05|
 |4|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
-|4|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|SingularitumV5|2021/03/24|
 |4|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/18|
 |4|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |5|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
+|5|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|SingularitumV5|2021/03/24|
 ---
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|155|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
+|158|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
 |153|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |134|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/10/29|
 |83|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
@@ -23,8 +23,8 @@
 |69|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
 |65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |56|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
+|56|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
 |55|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
-|55|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
 |53|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
 |46|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 ---
@@ -34,7 +34,7 @@
 |83|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
 |53|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|SingularitumV5|2020/05/17|
 |38|RCTech.de EU Spec Series 2 Race 5|IndoorGoKart|SingularitumV5|2020/05/18|
-|155|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
+|158|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
 |55|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |74|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |69|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
@@ -56,7 +56,7 @@
 |14|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/04/13|
 |134|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/10/29|
 |21|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/06/29|
-|30|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
+|31|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
 |4|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |13|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/03|
 |65|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|

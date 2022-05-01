@@ -1,8 +1,8 @@
 ### Best 8 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|59|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
 |60|TBS EU Spec Series 10 Race 3|Night Factory 2|TBSSpec|2021/12/22|
+|61|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
 |66|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/04|
 |69|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/03/07|
 |69|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/12|
@@ -42,7 +42,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |130|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/03/14|
-|59|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
+|61|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/03/14|
 |84|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2021/03/14|
 |133|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/12|
 |70|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/07|
@@ -63,7 +63,7 @@
 |69|TBS EU Spec Series 6 Race 4|NEC Birmingham|TBSSpec|2021/03/12|
 |77|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2021/03/13|
 |102|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/12/11|
-|131|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
+|132|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |156|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/03/06|
 |158|TBS EU Spec Series 7 Race 6|Future Hangar Empty|TBSSpec|2021/02/12|
 |106|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|

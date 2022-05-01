@@ -17,7 +17,7 @@
 |77|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |74|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
 |63|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
-|61|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/09/22|
+|62|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/09/22|
 |61|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |56|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
 ---
@@ -27,14 +27,14 @@
 |38|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/08|
 |53|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/04/14|
 |37|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/14|
-|24|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
+|26|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |53|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/21|
 |40|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 ---
 ### 33 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|24|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
+|26|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |53|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|TBSSpec|2020/04/14|
 |38|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/08|
 |37|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|TBSSpec|2020/04/14|
@@ -47,7 +47,7 @@
 |40|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2020/09/10|
 |47|TBS EU Spec Series 5 Race 4|Football Stadium|TBSSpec|2020/07/30|
 |30|TBS EU Spec Series 5 Race 5|NEC Birmingham|TBSSpec|2020/08/06|
-|37|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
+|38|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|
 |35|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2020/12/03|
 |51|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |12|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|

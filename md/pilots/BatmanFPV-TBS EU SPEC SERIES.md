@@ -36,7 +36,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |108|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2022/04/08|
-|134|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/26|
+|137|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/01/26|
 |55|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/03/01|
 |60|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |91|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2021/12/02|
@@ -45,7 +45,7 @@
 |107|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |79|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/01/28|
 |57|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
-|97|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
+|98|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |86|TBS EU Spec Series 5 Losers Final|Dynamic Weather|TBSSpec|2021/08/31|
 |171|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/08/20|
 |153|TBS EU Spec Series 5 Race 7|IndoorGoKart|TBSSpec|2020/08/27|

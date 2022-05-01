@@ -1,15 +1,15 @@
 ### Best 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Yakuza|2022/03/17|
 |1|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|Yakuza|2022/03/16|
+|2|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Yakuza|2022/03/17|
 |2|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Yakuza|2022/03/15|
 |2|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Yakuza|2022/03/17|
 |3|TBS EU Spec Series 6 Race 6|Empty Scene Day|Yakuza|2022/02/19|
-|4|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Yakuza|2022/03/17|
 |4|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Yakuza|2022/03/17|
 |5|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Yakuza|2022/03/15|
 |5|TBS EU Spec Series 5 Race 5|NEC Birmingham|Yakuza|2022/02/16|
+|5|RCTech_de EU Spec Series 3 Final|Empty Scene Day|Yakuza|2022/03/17|
 ---
 ### Worse 13 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

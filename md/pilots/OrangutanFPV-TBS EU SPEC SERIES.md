@@ -1,7 +1,7 @@
 ### Best 8 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|51|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
+|53|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |54|TBS EU Spec Series 8 Final|Dynamic Weather|TBSSpec|2021/07/01|
 |64|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/05/20|
 |64|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/06/28|
@@ -43,7 +43,7 @@
 |:---:|:---|:---|:---:|:---:|
 |87|RCTech.de EU Spec Series 2 Final|Empty Scene Day|TBSSpec|2021/06/02|
 |181|RCTech.de EU Spec Series 2 Race 1|Football Stadium|TBSSpec|2021/04/08|
-|51|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
+|53|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2021/01/11|
 |98|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/07/15|
 |167|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2022/01/10|
 |77|TBS EU Spec Series 10 Race 2|Empty Scene Day|TBSSpec|2021/12/14|
@@ -67,7 +67,7 @@
 |110|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/19|
 |143|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/19|
 |147|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
-|115|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2022/01/10|
+|116|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2022/01/10|
 |107|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/14|
 |101|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/15|
 |146|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/05/13|

@@ -2,18 +2,18 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |69|TBS EU Spec Series 8 Race 5|Future Hangar Empty|BMSJS-1|2021/05/23|
-|69|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/12/11|
 |70|RCTech.de EU Spec Series 2 Final|Empty Scene Day|BMSJS-1|2022/01/15|
+|73|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/12/11|
 |74|TBS EU Spec Series 6 Race 1|Future Hangar Empty|Five33Switchback|2022/02/22|
-|74|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/03/11|
-|86|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/02/06|
+|77|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/03/11|
+|87|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2021/02/06|
 ---
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |197|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2022/02/08|
 |196|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/12/26|
-|188|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2022/03/26|
+|189|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2022/03/26|
 |187|TBS EU Spec Series 7 Race 2|Empty Scene Day|Five33Switchback|2022/04/17|
 |177|TBS EU Spec Series 8 Race 6|Football Stadium|BMSJS-1|2021/07/24|
 |173|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/12/08|
@@ -27,7 +27,7 @@
 |:---:|:---|:---|:---:|:---:|
 |109|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|Five33Switchback|2020/10/19|
 |173|RCTech.de EU Spec Series 3 Race 3|Empty Scene Day|Five33Switchback|2020/12/08|
-|69|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/12/11|
+|73|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2020/12/11|
 |157|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2020/12/12|
 |101|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|Five33Switchback|2020/12/24|
 |196|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/12/26|

@@ -16,7 +16,7 @@
 |123|TBS EU Spec Series 5 Losers Final|Dynamic Weather|SingularitumV5|2020/09/08|
 |93|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/30|
 |47|TBS EU Spec Series 4 Race 2|Empty Scene Day|SingularitumV5|2020/05/15|
-|43|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/06/30|
+|44|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/06/30|
 |40|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |37|TBS EU Spec Series 8 Race 7|Empty Scene Day|TBSSpec|2021/06/14|
 |35|TBS EU Spec Series 4 Race 7|Football Stadium|SingularitumV5|2020/06/26|
@@ -52,7 +52,7 @@
 |17|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2021/04/05|
 |4|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2021/06/29|
 |15|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/06/29|
-|43|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/06/30|
+|44|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2021/06/30|
 |5|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/11|
 |16|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |40|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
