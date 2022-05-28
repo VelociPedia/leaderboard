@@ -1,29 +1,32 @@
-### Best 2 MultiGP Tracks TRACKS ranks
+### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|80|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/12/11|
-|83|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2022/01/02|
+|36|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/05/27|
+|38|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/27|
+|70|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/22|
 ---
-### Worse 4 MultiGP Tracks TRACKS ranks
+### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|147|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
-|133|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/12/23|
-|132|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/12/11|
-|122|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
+|174|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/22|
+|149|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
+|137|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/12/23|
+|136|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/12/11|
+|127|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
 ---
-### Oldest 2 personal best
+### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|100|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/12/10|
-|147|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
+|106|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/12/10|
+|149|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
+|127|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 15 tracks without data (200+ or not in leaderboard)
+### 19 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2017 RF|Football Stadium|
@@ -37,7 +40,11 @@
 |2021 MultiGP Champs Track 1|Empty Scene Day|
 |2021 MultiGP Champs Track 2|Empty Scene Day|
 |MultiGP 2021 Global Qualifier|Football Stadium|
+|MultiGP 2022 Global Qualifier|Dynamic Weather|
+|2022 MultiGP IO Freedom Spec|Dynamic Weather|
+|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
+|2022 MultiGP IO Micro|Countryside|
+|MGP Ice Rink Race 2022|Empty Scene Day|
 |MultiGP Bessel Run|Football Stadium|
 |MultiGP Round 2 FNL|Sports Hall|
-|Mayhem 2021 By YAWESOME|Empty Scene Day|
-|Mayhem 22 by SFPV|Empty Scene Day|
+|MGP UTT Remix|Empty Scene Day|

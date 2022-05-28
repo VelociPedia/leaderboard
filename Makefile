@@ -63,6 +63,8 @@ vrl:
 multigp:
 	./getcollection.zsh "MultiGP Tracks.csv"
 	./makerank.zsh "MultiGP Tracks.csv"
+	./getcollection.zsh "MGP2022.csv"
+	./makerank.zsh "MGP2022.csv"
 
 quadrivals:
 	./getcollection.zsh "QuadRivals.csv"
