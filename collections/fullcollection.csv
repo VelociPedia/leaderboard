@@ -6,6 +6,12 @@
 2020 MultiGP Champs presented by RDQ,Football Stadium
 2021 MultiGP Champs Track 1,Empty Scene Day
 2021 MultiGP Champs Track 2,Empty Scene Day
+2022 MultiGP IO Freedom Spec,Dynamic Weather
+2022 MultiGP IO Intermediate,Dynamic Weather
+2022 MultiGP IO Mega Class by SFPV,Dynamic Weather
+2022 MultiGP IO Micro,Countryside
+2022 MultiGP IO Team,Dynamic Weather
+2022 MultiGP IO World Cup,Dynamic Weather
 25th Nov Pop Up Spec,Night Factory 2
 3D Championship 2016,Countryside
 5G Vista HDZero Drone Race,Football Stadium
@@ -97,6 +103,7 @@ B-track 1,Dynamic Weather
 Cali Clash 2.0 - The Smash Factory,Empty Scene Day
 California Clash,Empty Scene Day
 Camp Noical - Triple Training,Empty Scene Day
+Cant See the Wood for the Trees,Dynamic Weather
 Canyon Lands,PolyWorld
 CA Speed Challenge Qualifier Finals,Basketball Stadium
 Castle Shake Down,River2
@@ -126,6 +133,7 @@ CTF Shoothouse,Empty PolyWorld
 CTF Underground Rats,Empty PolyWorld
 CTF Westworld,PolyWorld
 Dance_Party,NightClub
+DCS-v2-2022 Aichtal,Football Stadium
 DDR Dutch Technical Madness,Empty Scene Day
 DDR Holy ground track 1,Empty Scene Day
 DDR Holy ground track 2,Empty Scene Day
@@ -134,6 +142,7 @@ DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day
 DDR Race Series - Track 4 by Boner fpv march,Empty Scene Day
 DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day
+DDR Race Series - Track 6 by ControllFPV fpv may,Empty Scene Day
 DEP Open Pop-Up 2,Dynamic Weather
 DEP Open Series 2 Race 1,Dynamic Weather
 DEP Open Series 2 Race 7,Football Stadium
@@ -192,6 +201,7 @@ DZNJ_MicroRip_19,NEC Birmingham
 Emmets_night_at_the_factory,Night Factory 2
 EQ Field Run,Countryside
 EU Spec - Doom Dive Dome,Empty Scene Day
+EU Spec Sand Storm,Future Hangar Empty
 EU Spec Season 4 Race 1,Football Stadium
 Factory fun,Night Factory 2
 FAI Race of Drones Oulu 2020,Dynamic Weather
@@ -220,6 +230,7 @@ Freestyle Fort,Empty PolyWorld
 Freestyle,Island
 Freestyle,Night Factory 2
 Freestyle,Office Complex
+Freestyle Poly Castle,DynamicPoly
 Freestyle,RedValley
 Freestyle_Tower_of_Magical_Power,Dynamic Weather
 from Dusk till Dawn,Dynamic Weather
@@ -302,6 +313,7 @@ KFT_FUNRACE_2018,Empty Scene Day
 Kill Zone,Football Stadium
 KLG Team Race,Dynamic Weather
 Kumos_Purgatory,Dynamic Weather
+LaxtonFPV BQE - 1 2022,Empty Scene Day
 Laxton FPV July 2020,Empty Scene Day
 Laxton-June-2019,Empty Scene Day
 Lebach Final Event,Countryside
@@ -337,7 +349,9 @@ MGP2018IOIntermediate,Empty Scene Day
 MGP2018IORookie,Empty Scene Day
 MGP2018IOTeam,Empty Scene Day
 MGP2018IOWorldCup,Empty Scene Day
+MGP Ice Rink Race 2022,Empty Scene Day
 MGP Madness 2021,Football Stadium
+MGP UTT Remix,Empty Scene Day
 MicroBando,Bando
 Micro bando,Dynamic Weather
 MICROGYM,Sports Hall
@@ -372,6 +386,7 @@ MultiGP Tsunami,Football Stadium
 MultiGP UTT 1,Football Stadium
 MultiGP UTT 5,Football Stadium
 MultiGP UTT 6,Football Stadium
+nAdibFPV Neon Factory,Night Factory 2
 NBD Micro Series Race 6,River2
 NBD Micro Series Race 7,Basketball Stadium
 NBD MICRO SERIES RACE 8,Bando
@@ -478,6 +493,8 @@ Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day
 Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day
 Quad Rivals Airport,Empty Scene Day
 Quad Rivals Dive It,Countryside
 Quad Rivals Karting Track,IndoorGoKart
@@ -493,6 +510,7 @@ Quad Rivals Trainer Level 4 DW,Dynamic Weather
 Quad Rivals Weave,Empty Scene Day
 Quad Rivals Welborn,Empty Scene Day
 Quad Rivals Who Works DW,Dynamic Weather
+quads in space,DynamicPoly
 Quarantine Masters Week 1 Q2,Football Stadium
 Quarantine Masters Week 1 Q3,Dynamic Weather
 Quarantine Masters Week 3 Q1,NEC Birmingham
@@ -516,8 +534,15 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham
 Rebound_one,Basketball Stadium
+ReddingFPVs castle pylons,River2
+ReddingFPVs DroneD,Dynamic Weather
+ReddingFPVs MGP track 3,Dynamic Weather
+ReddingFPVs MGP track 4,Empty Scene Day
+ReddingFPVs Ripper 4,Empty Scene Day
+ReddingFPVs Sundial bridge freestyle,River2
 Reddings Castle,Dynamic Weather
 Reddings forest,Dynamic Weather
+ReddingsFPVs Sundial Bridge,River2
 Reddings jungle,Dynamic Weather
 Reddings Koala Frog Clash,Dynamic Weather
 Reddings MGP track 2,Dynamic Weather
@@ -623,6 +648,7 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart
 TBS EU Spec Series 10 Race 6,Large Carpark
 TBS EU Spec Series 10 Race 7,Football Stadium
+TBS EU Spec Series 11 Race 1,Dynamic Weather
 TBS EU Spec Series 4 FINAL,Dynamic Weather
 TBS EU Spec Series 4 Race 2,Empty Scene Day
 TBS EU Spec Series 4 Race 3,IndoorGoKart
@@ -887,6 +913,7 @@ Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather
 Week 16 TT - CM18 by Chris M,Football Stadium
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night
