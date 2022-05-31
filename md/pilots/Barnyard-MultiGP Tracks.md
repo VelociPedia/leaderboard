@@ -27,7 +27,7 @@
 |101|2020 Canadian MultiGP Series|Football Stadium|TBSSpec|2021/09/11|
 |79|MultiGPIOSpec2018|Empty Scene Day|TBSSpec|2020/12/12|
 ---
-### 18 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -43,7 +43,6 @@
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
 |2022 MultiGP IO Team|Dynamic Weather|
-|2022 MultiGP IO World Cup|Dynamic Weather|
 |MGP Ice Rink Race 2022|Empty Scene Day|
 |MultiGP Round 2 FNL|Sports Hall|
 |MGP UTT Remix|Empty Scene Day|

@@ -12,7 +12,7 @@
 |37|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/12/06|
 |15|MultiGP 2020 Global Qualifier|Empty Scene Day|Ossa|2020/09/29|
 |12|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2022/02/24|
-|10|MultiGP-Championships-2019|Empty Scene Day|SingularitumV5|2020/05/08|
+|11|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/05/30|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -27,7 +27,7 @@
 |4|MultiGP 2016 RF|Football Stadium|TBSSpec|2021/02/02|
 |5|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/02/02|
 ---
-### 19 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP_2019_Qualifier_Large|Dynamic Weather|
@@ -36,11 +36,9 @@
 |2021 MultiGP Champs Track 1|Empty Scene Day|
 |MultiGP 2021 Global Qualifier|Football Stadium|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
-|2022 MultiGP IO Freedom Spec|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
 |2022 MultiGP IO Team|Dynamic Weather|
-|2022 MultiGP IO World Cup|Dynamic Weather|
 |MGP Ice Rink Race 2022|Empty Scene Day|
 |MultiGP High Voltage|Football Stadium|
 |MultiGP Tsunami|Football Stadium|

@@ -1,7 +1,7 @@
 ### Best 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|2022 MultiGP IO Intermediate|Dynamic Weather|Velocity|2022/05/26|
+|1|2022 MultiGP IO Freedom Spec|Dynamic Weather|Velocity|2022/05/26|
 ---
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

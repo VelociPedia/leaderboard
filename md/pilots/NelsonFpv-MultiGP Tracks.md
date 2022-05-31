@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |19|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/06/21|
-|24|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2020/09/29|
+|25|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2020/09/29|
 |31|MGP2018IOTeam|Empty Scene Day|Five33Switchback|2021/06/12|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
@@ -17,14 +17,14 @@
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|104|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2020/08/05|
-|100|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2020/08/13|
-|79|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
+|105|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2020/08/05|
+|101|MultiGP Round 2 FNL|Sports Hall|Mode2Ghost|2020/08/13|
+|80|MultiGP Bessel Run|Football Stadium|Mode2Ghost|2020/08/14|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|24|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2020/09/29|
+|25|MultiGP-Championships-2019|Empty Scene Day|TBSSpec|2020/09/29|
 ---
 ### 18 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

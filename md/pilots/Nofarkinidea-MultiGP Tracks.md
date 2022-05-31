@@ -1,7 +1,7 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|15|MultiGP UTT 5|Football Stadium|KareareaTalon|2020/04/13|
+|16|MultiGP UTT 5|Football Stadium|KareareaTalon|2020/04/13|
 |29|MultiGP Round 2 FNL|Sports Hall|KareareaTalon|2020/07/02|
 |30|MGP2018IOIntermediate|Empty Scene Day|KareareaTalon|2020/07/31|
 ---
@@ -11,15 +11,15 @@
 |137|MultiGP 2019 Sport Championships|Football Stadium|KareareaTalon|2020/04/12|
 |109|MultiGP IO 2019 World Cup|Empty Scene Day|KareareaTalon|2020/08/04|
 |103|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
-|91|MultiGP-Championships-2019|Empty Scene Day|KareareaTalon|2020/08/06|
-|88|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2020/10/07|
+|92|MultiGP-Championships-2019|Empty Scene Day|KareareaTalon|2020/08/06|
+|89|MultiGP_2019_Qualifier_Large|Dynamic Weather|Five33Switchback|2020/10/07|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |42|MultiGP 2016 RF|Football Stadium|KareareaTalon|2020/04/10|
 |103|MultiGP 2017 RF|Football Stadium|KareareaTalon|2020/04/10|
-|86|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
+|87|MultiGP 2018 RQ|Football Stadium|KareareaTalon|2020/04/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

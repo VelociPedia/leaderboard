@@ -1,7 +1,7 @@
 ### Best 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|3|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|Five33Switchback|2022/05/27|
+|1|2022 MultiGP IO Intermediate|Dynamic Weather|Chief|2022/05/29|
 ---
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,8 +18,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 2 tracks without data (200+ or not in leaderboard)
+### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|2022 MultiGP IO Intermediate|Dynamic Weather|
-|2022 MultiGP IO World Cup|Dynamic Weather|
+|||

@@ -1,24 +1,24 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|16|2022 MultiGP IO Freedom Spec|Dynamic Weather|Five33Switchback|2022/05/27|
-|29|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/05/27|
-|34|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/12/12|
+|32|2022 MultiGP IO Freedom Spec|Dynamic Weather|Five33Switchback|2022/05/27|
+|36|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/12/12|
+|38|MGP2018IOTeam|Empty Scene Day|Five33Switchback|2022/04/24|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|167|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2022/01/21|
+|168|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2022/01/21|
 |162|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/11/15|
-|161|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
-|134|MGP Ice Rink Race 2022|Empty Scene Day|Five33Switchback|2022/05/09|
-|134|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/12/12|
+|162|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
+|137|MGP Ice Rink Race 2022|Empty Scene Day|Five33Switchback|2022/05/09|
+|135|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/12/12|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |70|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/07/03|
-|161|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
+|162|MultiGP Tsunami|Football Stadium|Five33Switchback|2021/08/01|
 |59|Mayhem Dawn till Dusk|Empty Scene Day|TBSSpec|2021/08/06|
 ---
 ### 2 tracks where TBS SPEC quad was used
@@ -27,7 +27,7 @@
 |59|Mayhem Dawn till Dusk|Empty Scene Day|TBSSpec|2021/08/06|
 |105|MGP2018IORookie|Empty Scene Day|TBSSpec|2021/08/06|
 ---
-### 18 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -44,7 +44,6 @@
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
-|2022 MultiGP IO Team|Dynamic Weather|
 |MultiGP UTT 1|Football Stadium|
 |MultiGP UTT 5|Football Stadium|
 |MGP UTT Remix|Empty Scene Day|

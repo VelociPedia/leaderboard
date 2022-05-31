@@ -27,9 +27,9 @@
 |99|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
 |65|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
 |129|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
-|44|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/06/09|
+|45|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/06/09|
 ---
-### 19 tracks without data (200+ or not in leaderboard)
+### 18 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -39,7 +39,6 @@
 |MGP2018IOWorldCup|Empty Scene Day|
 |MultiGP IO 2019 Team|Empty Scene Day|
 |2022 MultiGP IO Freedom Spec|Dynamic Weather|
-|2022 MultiGP IO Intermediate|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
 |2022 MultiGP IO World Cup|Dynamic Weather|

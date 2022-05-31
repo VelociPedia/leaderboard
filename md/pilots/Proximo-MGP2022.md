@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|73|MGP Ice Rink Race 2022|Empty Scene Day|Five33Switchback|2022/05/07|
+|97|2022 MultiGP IO Freedom Spec|Dynamic Weather|Five33Switchback|2022/05/27|
 ---
 ### Oldest 0 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

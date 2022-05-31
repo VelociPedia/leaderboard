@@ -1,8 +1,8 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|37|MultiGP UTT 5|Football Stadium|Mode2Ghost|2020/10/04|
-|46|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/11/02|
+|38|MultiGP UTT 5|Football Stadium|Mode2Ghost|2020/10/04|
+|48|MultiGP High Voltage|Football Stadium|Five33Switchback|2020/11/02|
 |55|MultiGP UTT 6|Football Stadium|Five33Switchback|2020/11/10|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
@@ -11,14 +11,14 @@
 |200|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2020/11/26|
 |155|MultiGP 2017 RF|Football Stadium|Mode2Ghost|2020/10/18|
 |147|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2021/03/15|
-|129|MultiGP 2018 RQ|Football Stadium|Mode2Ghost|2020/10/20|
-|122|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/03/20|
+|130|MultiGP 2018 RQ|Football Stadium|Mode2Ghost|2020/10/20|
+|123|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/03/20|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|81|MultiGP 2016 RF|Football Stadium|Mode2Ghost|2020/08/22|
-|37|MultiGP UTT 5|Football Stadium|Mode2Ghost|2020/10/04|
+|82|MultiGP 2016 RF|Football Stadium|Mode2Ghost|2020/08/22|
+|38|MultiGP UTT 5|Football Stadium|Mode2Ghost|2020/10/04|
 |155|MultiGP 2017 RF|Football Stadium|Mode2Ghost|2020/10/18|
 ---
 ### 1 tracks where TBS SPEC quad was used

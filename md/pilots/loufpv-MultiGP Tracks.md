@@ -9,19 +9,19 @@
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|149|MultiGP-Championships-2019|Empty Scene Day|Velocity|2020/04/28|
+|150|MultiGP-Championships-2019|Empty Scene Day|Velocity|2020/04/28|
 |138|MultiGP 2020 Global Qualifier|Empty Scene Day|Five33Switchback|2022/02/02|
 |128|MultiGP 2018 RF|Empty Scene Day|Velocity|2020/04/30|
-|115|MultiGP IO 2019 Team|Empty Scene Day|Velocity|2020/04/28|
+|116|MultiGP IO 2019 Team|Empty Scene Day|Velocity|2020/04/28|
 |112|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/03/29|
 |111|MultiGPIOSpec2018|Empty Scene Day|Five33Switchback|2021/09/08|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|149|MultiGP-Championships-2019|Empty Scene Day|Velocity|2020/04/28|
-|66|MultiGP High Voltage|Football Stadium|Velocity|2020/04/28|
-|115|MultiGP IO 2019 Team|Empty Scene Day|Velocity|2020/04/28|
+|150|MultiGP-Championships-2019|Empty Scene Day|Velocity|2020/04/28|
+|67|MultiGP High Voltage|Football Stadium|Velocity|2020/04/28|
+|116|MultiGP IO 2019 Team|Empty Scene Day|Velocity|2020/04/28|
 |57|MultiGP UTT 6|Football Stadium|Velocity|2020/04/28|
 ---
 ### 1 tracks where TBS SPEC quad was used
@@ -29,7 +29,7 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 15 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2018 RQ|Football Stadium|
@@ -42,7 +42,6 @@
 |2022 MultiGP IO Intermediate|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
-|2022 MultiGP IO World Cup|Dynamic Weather|
 |MultiGP Round 2 FNL|Sports Hall|
 |MultiGP Tsunami|Football Stadium|
 |MultiGP UTT 5|Football Stadium|

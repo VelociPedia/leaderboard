@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|91|2022 MultiGP IO Team|Dynamic Weather|Five33SwitchbackExp|2022/05/28|
+|130|2022 MultiGP IO World Cup|Dynamic Weather|Five33SwitchbackExp|2022/05/30|
 ---
 ### Oldest 0 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

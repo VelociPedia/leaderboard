@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|23|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/03/28|
+|34|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/05/27|
 ---
 ### Oldest 0 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,11 +16,10 @@
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|13|2022 MultiGP IO Freedom Spec|Dynamic Weather|TBSSpec|2022/05/27|
+|21|2022 MultiGP IO Freedom Spec|Dynamic Weather|TBSSpec|2022/05/27|
 ---
-### 3 tracks without data (200+ or not in leaderboard)
+### 2 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
-|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |MGP Ice Rink Race 2022|Empty Scene Day|

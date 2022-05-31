@@ -18,9 +18,8 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 3 tracks without data (200+ or not in leaderboard)
+### 2 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |2022 MultiGP IO Freedom Spec|Dynamic Weather|
-|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Team|Dynamic Weather|

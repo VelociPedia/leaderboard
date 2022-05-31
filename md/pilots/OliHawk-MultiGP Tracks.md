@@ -8,11 +8,11 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|74|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2021/03/27|
 |42|MultiGP IO 2019 World Cup|Empty Scene Day|LethalConception|2021/01/12|
-|20|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
+|21|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
 |18|MGP2018IOWorldCup|Empty Scene Day|LethalConception|2021/01/11|
 |14|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/30|
+|12|2020 MultiGP Champs presented by RDQ|Football Stadium|Yakuza|2022/04/11|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

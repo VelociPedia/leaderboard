@@ -1,9 +1,9 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|36|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/05/27|
-|38|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/27|
+|54|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/27|
 |70|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/22|
+|83|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/12/11|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -12,14 +12,14 @@
 |149|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
 |137|MultiGP UTT 6|Football Stadium|Five33Switchback|2021/12/23|
 |136|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/12/11|
-|127|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
+|129|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |106|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/12/10|
 |149|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/12/10|
-|127|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
+|129|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/12/10|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
