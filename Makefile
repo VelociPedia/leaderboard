@@ -1,8 +1,8 @@
 .PHONY: tbs dep vrl multigp quadrivals rookies maionhigh boners wtt ddr22 formula
 
-all: tbs dep vrl multigp maionhigh ddr22 wtt formula
+all: tbs dep vrl multigp maionhigh ddr22 wtt formula quadrivals
 
-misc: formula qr21 ddr22 tdrf22 wtt
+misc: formula qr22 ddr22 tdrf22 wtt
 
 clean:
 	rm data/pilots/*
@@ -31,6 +31,8 @@ tbs:
 	./makerank.zsh "TBS EU SPEC SERIES 09.csv"
 	./getcollection.zsh "TBS EU SPEC SERIES 10.csv"
 	./makerank.zsh "TBS EU SPEC SERIES 10.csv"
+	./getcollection.zsh "TBS EU SPEC SERIES 11.csv"
+	./makerank.zsh "TBS EU SPEC SERIES 11.csv"
 
 dep:
 	./getcollection.zsh "DEP OPEN SERIES.csv"
@@ -73,6 +75,10 @@ quadrivals:
 qr21:
 	./getcollection.zsh "QRivals21.csv"
 	./makerank.zsh "QRivals21.csv"
+	
+qr22:
+	./getcollection.zsh "QRivals22.csv"
+	./makerank.zsh "QRivals22.csv"
 
 rookies:
 	./getcollection.zsh "Rookies Tracks.csv"
