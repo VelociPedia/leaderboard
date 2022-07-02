@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|151|MGP Ice Rink Race 2022|Empty Scene Day|Five33Switchback|2022/05/03|
+|194|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/06/08|
 ---
 ### Oldest 0 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,8 +18,9 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 2 tracks without data (200+ or not in leaderboard)
+### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
+|2022 MultiGP IO World Cup|Dynamic Weather|
 |Mayhem 22 by SFPV|Empty Scene Day|

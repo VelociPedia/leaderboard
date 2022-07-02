@@ -1,7 +1,7 @@
 ### Best 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/10/10|
+|21|MGP2018IORookie|Empty Scene Day|Five33Switchback|2021/10/10|
 |38|MGP2018IOIntermediate|Empty Scene Day|Five33Switchback|2021/10/10|
 |38|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/10/10|
 |59|MGP2018IOTeam|Empty Scene Day|Mode2Ghost|2021/09/02|
@@ -9,25 +9,25 @@
 ### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|190|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/09/22|
-|158|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
-|157|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
-|144|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
-|143|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/09/22|
-|133|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/05/20|
+|196|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2021/09/22|
+|163|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
+|161|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
+|146|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
+|146|MultiGP 2019 Sport Championships|Football Stadium|Five33Switchback|2021/09/22|
+|136|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2021/05/20|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|97|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/04/21|
-|157|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
+|99|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/04/21|
+|161|MultiGP-Championships-2019|Empty Scene Day|Five33Switchback|2021/04/21|
 |72|MultiGP High Voltage|Football Stadium|Five33Switchback|2021/04/21|
-|144|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
+|146|MultiGP IO 2019 Team|Empty Scene Day|Five33Switchback|2021/04/21|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|158|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
+|163|MGP2018IOWorldCup|Empty Scene Day|TBSSpec|2021/05/18|
 ---
 ### 16 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

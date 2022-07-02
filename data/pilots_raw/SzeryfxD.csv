@@ -15,15 +15,15 @@ DEP Open Series 4 Race 4,Football Stadium,92.296,SzeryfxD,Poland,TBSSpec,2021/05
 DEP Open Series 4 Race 5,Football Stadium,72.290,SzeryfxD,Poland,TBSSpec,2021/05/03
 DEP Open Series 4 Race 6,Football Stadium,72.324,SzeryfxD,Poland,TBSSpec,2022/03/17
 DEP Open Series 4 Race 7,Football Stadium,81.428,SzeryfxD,Poland,TBSSpec,2021/06/08
-DEP Open Series 5 Race 1,Football Stadium,999.999,SzeryfxD,NO_DATA
-DEP Open Series 5 Race 2,Football Stadium,999.999,SzeryfxD,NO_DATA
+DEP Open Series 5 Race 1,Football Stadium,68.998,SzeryfxD,Poland,TBSSpec,2022/05/07
+DEP Open Series 5 Race 2,Football Stadium,111.324,SzeryfxD,Poland,TBSSpec,2022/05/21
 DEP Open Series 5 Race 3,Football Stadium,999.999,SzeryfxD,NO_DATA
 DEP Open Series 5 Race 4,Football Stadium,96.920,SzeryfxD,Poland,TBSSpec,2021/12/02
 DEP Open Series 5 Race 5,Football Stadium,101.129,SzeryfxD,Poland,TBSSpec,2021/12/03
 DEP Open Series 5 Race 6,Football Stadium,74.887,SzeryfxD,Poland,TBSSpec,2021/12/16
 DEP Open Series 5 Race 7,Football Stadium,107.552,SzeryfxD,Poland,TBSSpec,2021/12/22
-DEP Open Series 6 Race 1,Football Stadium,999.999,SzeryfxD,NO_DATA
-DEP Open Series 6 Race 2,Football Stadium,999.999,SzeryfxD,NO_DATA
+DEP Open Series 6 Race 1,Football Stadium,81.299,SzeryfxD,Poland,TBSSpec,2022/05/03
+DEP Open Series 6 Race 2,Football Stadium,102.407,SzeryfxD,Poland,TBSSpec,2022/05/05
 DEP Spec Series 1 Race 5,Football Stadium,106.885,SzeryfxD,Poland,Five33Switchback,2021/01/18
 EU Spec Season 4 Race 1,Football Stadium,999.999,SzeryfxD,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,SzeryfxD,NO_DATA
@@ -49,6 +49,10 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,71.498,SzeryfxD,Poland,TBSSpec,2022
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,SzeryfxD,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,SzeryfxD,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,SzeryfxD,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,SzeryfxD,NO_DATA
+TBS EU Spec Series 11 Race 2,Countryside,999.999,SzeryfxD,NO_DATA
+TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,SzeryfxD,NO_DATA
+TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,SzeryfxD,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,102.981,SzeryfxD,Poland,Five33Switchback,2021/02/07
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,SzeryfxD,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,SzeryfxD,NO_DATA

@@ -2,24 +2,24 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |18|MGP2018IOIntermediate|Empty Scene Day|Chief|2022/04/03|
-|23|MGP2018IORookie|Empty Scene Day|Five33Switchback|2022/04/03|
-|26|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/10/10|
+|24|MGP2018IORookie|Empty Scene Day|Five33Switchback|2022/04/03|
+|28|MultiGP UTT 5|Football Stadium|Five33Switchback|2021/10/10|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|141|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2022/03/28|
-|115|MultiGP-Championships-2019|Empty Scene Day|Mode2Ghost|2022/04/13|
-|103|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Mode2Ghost|2022/04/13|
-|101|MultiGP IO 2019 World Cup|Empty Scene Day|Mode2Ghost|2022/04/13|
-|97|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/10/09|
+|142|MultiGP_2019_Qualifier_Large|Dynamic Weather|Mode2Ghost|2022/03/28|
+|119|MultiGP-Championships-2019|Empty Scene Day|Mode2Ghost|2022/04/13|
+|105|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Mode2Ghost|2022/04/13|
+|104|MultiGP IO 2019 World Cup|Empty Scene Day|Mode2Ghost|2022/04/13|
+|101|MGP Ice Rink Race 2022|Empty Scene Day|Five33Switchback|2022/05/30|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|94|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/10/09|
-|89|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/10/09|
-|97|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/10/09|
+|98|MultiGP 2016 RF|Football Stadium|Five33Switchback|2021/10/09|
+|90|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/10/09|
+|99|MultiGP 2018 RQ|Football Stadium|Five33Switchback|2021/10/09|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

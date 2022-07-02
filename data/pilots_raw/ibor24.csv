@@ -4,7 +4,7 @@
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,ibor24,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,130.309,ibor24,Switzerland,TwigXL3,2022/05/27
 2022 MultiGP IO Intermediate,Dynamic Weather,999.999,ibor24,NO_DATA
-2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,30.573,ibor24,Switzerland,Ossa,2022/05/27
+2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,29.712,ibor24,Switzerland,CarbiXZero,2022/06/03
 2022 MultiGP IO Micro,Countryside,999.999,ibor24,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,78.131,ibor24,Switzerland,TwigXL3,2022/05/26
 2022 MultiGP IO World Cup,Dynamic Weather,999.999,ibor24,NO_DATA
@@ -19,7 +19,7 @@ DEP Open Series 2 Race 7,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,100.429,ibor24,Switzerland,TBSSpec,2021/08/31
-DEP Open Series 3 Race 4,Football Stadium,89.259,ibor24,Switzerland,Five33Switchback,2021/02/25
+DEP Open Series 3 Race 4,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,97.563,ibor24,Switzerland,Five33Switchback,2021/05/17
 DEP Open Series 3 Race 6,Football Stadium,999.999,ibor24,NO_DATA
 DEP Open Series 3 Race 7,Football Stadium,113.340,ibor24,Switzerland,TBSSpec,2021/07/06
@@ -98,7 +98,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,73.810,ibor24,Switzerland,TBSS
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,ibor24,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,ibor24,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999.999,ibor24,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,70.591,ibor24,Switzerland,TBSSpec,2022/03/21
+TBS EU Spec Season 5 Race 1,Football Stadium,999.999,ibor24,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,98.053,ibor24,Switzerland,TBSSpec,2022/02/18
 TBS EU Spec Series 10 Losers Final,Football Stadium,62.324,ibor24,Switzerland,TBSSpec,2022/03/21
 TBS EU Spec Series 10 Race 1,Football Stadium,72.140,ibor24,Switzerland,TBSSpec,2022/03/22
@@ -108,8 +108,12 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,84.124,ibor24,Switzerland,TBSSpec,2
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,68.768,ibor24,Switzerland,TBSSpec,2022/03/22
 TBS EU Spec Series 10 Race 6,Large Carpark,48.552,ibor24,Switzerland,TinyHawk,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,89.191,ibor24,Switzerland,TBSSpec,2022/02/13
+TBS EU Spec Series 11 Race 1,Dynamic Weather,79.901,ibor24,Switzerland,TwigXL3,2022/06/03
+TBS EU Spec Series 11 Race 2,Countryside,80.405,ibor24,Switzerland,TwigXL3,2022/06/13
+TBS EU Spec Series 11 Race 3,Dynamic Weather,89.147,ibor24,Switzerland,TBSSpec,2022/06/20
+TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,108.177,ibor24,Switzerland,TBSSpec,2021/12/04
-TBS EU Spec Series 4 Race 2,Empty Scene Day,82.067,ibor24,Switzerland,TBSSpec,2022/04/01
+TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,97.688,ibor24,Switzerland,Five33Switchback,2021/09/11

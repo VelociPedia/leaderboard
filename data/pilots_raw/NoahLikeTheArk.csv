@@ -7,18 +7,18 @@ DEP Open Pop-Up 2,Dynamic Weather,89.593,NoahLikeTheArk,UnitedStates,Five33Switc
 DEP Open Series 2 Race 1,Dynamic Weather,73.625,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/08
 DEP Open Series 2 Race 7,Football Stadium,125.632,NoahLikeTheArk,UnitedStates,TBSSpec,2022/04/05
 DEP Open Series 3 Race 1,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,129.372,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/12
+DEP Open Series 3 Race 2,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,109.283,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/08
 DEP Open Series 3 Race 4,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,143.536,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/07
 DEP Open Series 3 Race 7,Football Stadium,124.990,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/04
 DEP Open Series 4 Race 1,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 4 Race 2,Football Stadium,150.943,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/14
+DEP Open Series 4 Race 2,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 4 Race 4,Football Stadium,145.765,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/04/29
+DEP Open Series 4 Race 4,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 4 Race 6,Football Stadium,106.546,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/14
+DEP Open Series 4 Race 6,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 5 Race 1,Football Stadium,78.869,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/28
 DEP Open Series 5 Race 2,Football Stadium,114.894,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/10
@@ -60,6 +60,15 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,88.256,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/05
 TBS EU Spec Series 10 Race 7,Football Stadium,111.344,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/08
+TBS EU Spec Series 8 Final,Dynamic Weather,106.673,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/02
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,85.962,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/01
+TBS EU Spec Series 8 Race 1,Dynamic Weather,999.999,NoahLikeTheArk,NO_DATA
+TBS EU Spec Series 8 Race 2,Empty Scene Night,999.999,NoahLikeTheArk,NO_DATA
+TBS EU Spec Series 8 Race 3,Football Stadium,84.829,NoahLikeTheArk,UnitedStates,TBSSpec,2022/05/02
+TBS EU Spec Series 8 Race 4,Empty Scene Day,103.464,NoahLikeTheArk,UnitedStates,TBSSpec,2022/05/02
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,74.646,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/21
+TBS EU Spec Series 8 Race 6,Football Stadium,999.999,NoahLikeTheArk,NO_DATA
+TBS EU Spec Series 8 Race 7,Empty Scene Day,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,93.663,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/05
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,999.999,NoahLikeTheArk,NO_DATA

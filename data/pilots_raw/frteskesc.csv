@@ -2,6 +2,13 @@
 2020 MultiGP Champs presented by RDQ,Football Stadium,999.999,frteskesc,NO_DATA
 2021 MultiGP Champs Track 1,Empty Scene Day,999.999,frteskesc,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,68.002,frteskesc,Germany,Five33Switchback,2022/01/22
+2022 MultiGP Canadian Series by DCH FPV,Countryside,47.083,frteskesc,Germany,Five33Switchback,2022/06/02
+2022 MultiGP IO Freedom Spec,Dynamic Weather,90.569,frteskesc,Germany,Five33Switchback,2022/06/01
+2022 MultiGP IO Intermediate,Dynamic Weather,58.577,frteskesc,Germany,Five33Switchback,2022/06/01
+2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,frteskesc,NO_DATA
+2022 MultiGP IO Micro,Countryside,999.999,frteskesc,NO_DATA
+2022 MultiGP IO Team,Dynamic Weather,69.570,frteskesc,Germany,Five33Switchback,2022/06/06
+2022 MultiGP IO World Cup,Dynamic Weather,79.621,frteskesc,Germany,Five33Switchback,2022/06/02
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,62.539,frteskesc,Germany,Five33Switchback,2021/12/04
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,60.283,frteskesc,Germany,Five33Switchback,2022/01/03
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,71.472,frteskesc,Germany,Five33Switchback,2022/02/04
@@ -46,6 +53,8 @@ MGP2018IOIntermediate,Empty Scene Day,34.453,frteskesc,Germany,Five33Switchback,
 MGP2018IORookie,Empty Scene Day,20.892,frteskesc,Germany,Five33Switchback,2020/12/28
 MGP2018IOTeam,Empty Scene Day,52.116,frteskesc,Germany,Five33Switchback,2021/04/03
 MGP2018IOWorldCup,Empty Scene Day,999.999,frteskesc,NO_DATA
+MGP Ice Rink Race 2022,Empty Scene Day,73.315,frteskesc,Germany,Five33Switchback,2022/05/08
+MGP UTT Remix,Empty Scene Day,999.999,frteskesc,NO_DATA
 MultiGP 2016 RF,Football Stadium,999.999,frteskesc,NO_DATA
 MultiGP 2017 RF,Football Stadium,57.225,frteskesc,Germany,Five33Switchback,2021/10/09
 MultiGP 2018 RF,Empty Scene Day,999.999,frteskesc,NO_DATA
@@ -55,6 +64,7 @@ MultiGP_2019_Qualifier_Spec,Empty Scene Day,78.294,frteskesc,Germany,Five33Switc
 MultiGP 2019 Sport Championships,Football Stadium,999.999,frteskesc,NO_DATA
 MultiGP 2020 Global Qualifier,Empty Scene Day,999.999,frteskesc,NO_DATA
 MultiGP 2021 Global Qualifier,Football Stadium,999.999,frteskesc,NO_DATA
+MultiGP 2022 Global Qualifier,Dynamic Weather,35.944,frteskesc,Germany,Five33Switchback,2022/04/19
 MultiGP Bessel Run,Football Stadium,37.001,frteskesc,Germany,SingularitumV5,2020/05/24
 MultiGP-Championships-2019,Empty Scene Day,999.999,frteskesc,NO_DATA
 MultiGP High Voltage,Football Stadium,35.045,frteskesc,Germany,SingularitumV5,2020/09/28
@@ -99,9 +109,13 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,80.203,frteskesc,Germany,Five33Swit
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,60.501,frteskesc,Germany,Five33Switchback,2022/01/21
 TBS EU Spec Series 10 Race 6,Large Carpark,41.646,frteskesc,Germany,Five33Switchback,2022/01/28
 TBS EU Spec Series 10 Race 7,Football Stadium,71.135,frteskesc,Germany,Five33Switchback,2022/02/04
+TBS EU Spec Series 11 Race 1,Dynamic Weather,70.159,frteskesc,Germany,Five33Switchback,2022/06/09
+TBS EU Spec Series 11 Race 2,Countryside,67.395,frteskesc,Germany,Five33Switchback,2022/06/13
+TBS EU Spec Series 11 Race 3,Dynamic Weather,90.299,frteskesc,Germany,Five33Switchback,2022/06/19
+TBS EU Spec Series 11 Race 5,Dynamic Weather,71.349,frteskesc,Germany,Five33Switchback,2022/06/23
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,76.349,frteskesc,Germany,Five33Switchback,2021/04/28
-TBS EU Spec Series 4 Race 3,IndoorGoKart,157.608,frteskesc,Germany,SingularitumV5,2020/05/23
+TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,78.544,frteskesc,Germany,Five33Switchback,2022/01/21
@@ -114,11 +128,11 @@ TBS EU Spec Series 5 Race 6,Dynamic Weather,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,108.237,frteskesc,Germany,SingularitumV5,2020/09/06
 TBS EU Spec Series 6 Final,Empty Scene Day,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,frteskesc,NO_DATA
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,90.555,frteskesc,Germany,TBSSpec,2020/10/01
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,109.734,frteskesc,Germany,Five33Switchback,2020/11/06
-TBS EU Spec Series 6 Race 6,Empty Scene Day,98.813,frteskesc,Germany,Five33Switchback,2020/11/15
+TBS EU Spec Series 6 Race 6,Empty Scene Day,999.999,frteskesc,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,68.086,frteskesc,Germany,Five33Switchback,2021/01/31
 TBS EU Spec Series 7 Final,Empty Scene Day,99.269,frteskesc,Germany,Five33Switchback,2021/03/06
 TBS EU Spec Series 7 Race 1,Football Stadium,999.999,frteskesc,NO_DATA
@@ -131,7 +145,7 @@ TBS EU Spec Series 7 Race 7,Empty Scene Day,101.547,frteskesc,Germany,Five33Swit
 TBS EU Spec Series 8 Final,Dynamic Weather,84.182,frteskesc,Germany,Five33Switchback,2021/07/03
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,68.647,frteskesc,Germany,Five33Switchback,2021/06/25
 TBS EU Spec Series 8 Race 1,Dynamic Weather,93.320,frteskesc,Germany,Five33Switchback,2021/03/19
-TBS EU Spec Series 8 Race 2,Empty Scene Night,105.596,frteskesc,Germany,Five33Switchback,2021/03/26
+TBS EU Spec Series 8 Race 2,Empty Scene Night,79.982,frteskesc,Germany,Five33Switchback,2022/06/25
 TBS EU Spec Series 8 Race 3,Football Stadium,74.211,frteskesc,Germany,Five33Switchback,2021/04/23
 TBS EU Spec Series 8 Race 4,Empty Scene Day,86.336,frteskesc,Germany,Five33Switchback,2021/05/07
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,60.531,frteskesc,Germany,Five33Switchback,2021/05/22

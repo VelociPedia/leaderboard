@@ -1,26 +1,25 @@
-### Best 0 MGP2022 TRACKS ranks
+### Best 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-||||||
+|26|2022 MultiGP Canadian Series by DCH FPV|Countryside|Five33Switchback|2022/06/11|
 ---
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|75|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/22|
+|140|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/27|
 ---
-### Oldest 0 personal best
+### Oldest 1 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-||||||
+|85|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/22|
 ---
-### 1 tracks where TBS SPEC quad was used
+### 2 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|70|MGP Ice Rink Race 2022|Empty Scene Day|TBSSpec|2022/05/15|
+|67|2022 MultiGP IO Freedom Spec|Dynamic Weather|TBSSpec|2022/07/01|
+|80|MGP Ice Rink Race 2022|Empty Scene Day|TBSSpec|2022/05/15|
 ---
-### 3 tracks without data (200+ or not in leaderboard)
+### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|2022 MultiGP IO Freedom Spec|Dynamic Weather|
-|2022 MultiGP IO Team|Dynamic Weather|
 |Mayhem 22 by SFPV|Empty Scene Day|

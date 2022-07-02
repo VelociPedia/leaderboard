@@ -1,17 +1,17 @@
-### Best 0 MGP2022 TRACKS ranks
+### Best 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-||||||
+|17|2022 MultiGP Canadian Series by DCH FPV|Countryside|Five33Switchback|2022/06/14|
 ---
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|63|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/17|
+|93|2022 MultiGP IO Team|Dynamic Weather|Five33Switchback|2022/05/31|
 ---
-### Oldest 0 personal best
+### Oldest 1 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-||||||
+|60|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

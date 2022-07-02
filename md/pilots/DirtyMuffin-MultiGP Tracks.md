@@ -10,8 +10,8 @@
 ### Worse 8 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|39|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/15|
-|29|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/27|
+|42|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/15|
+|30|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/27|
 |20|2020 MultiGP Champs presented by RDQ|Football Stadium|Five33Switchback|2020/12/22|
 |15|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/11/03|
 |13|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/02|

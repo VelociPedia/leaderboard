@@ -1,35 +1,32 @@
-### Best 4 MultiGP Tracks TRACKS ranks
+### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |30|MGP2018IOTeam|Empty Scene Day|Five33Switchback|2022/05/09|
-|42|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/06/21|
-|45|MultiGP Bessel Run|Football Stadium|Five33Switchback|2021/09/20|
+|43|MultiGP 2018 RF|Empty Scene Day|Five33Switchback|2021/06/21|
 |46|Mayhem 2021 By YAWESOME|Empty Scene Day|Five33Switchback|2022/04/09|
 ---
-### Worse 6 MultiGP Tracks TRACKS ranks
+### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|192|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/25|
-|181|MultiGP 2022 Global Qualifier|Dynamic Weather|Five33Switchback|2022/04/19|
-|163|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/10/28|
-|148|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/29|
-|145|2022 MultiGP IO Team|Dynamic Weather|Five33Switchback|2022/05/27|
-|117|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/29|
+|198|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/25|
+|177|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/06/05|
+|166|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2021/10/28|
+|149|2021 MultiGP Champs Track 2|Empty Scene Day|Five33Switchback|2021/10/29|
+|132|2022 MultiGP IO Team|Dynamic Weather|Five33Switchback|2022/06/23|
 ---
-### Oldest 4 personal best
+### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|54|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2020/07/20|
-|192|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/25|
-|83|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/10/12|
-|69|Mayhem Dawn till Dusk|Empty Scene Day|Five33Switchback|2021/02/20|
+|55|MultiGP_2019_Qualifier_Spec|Empty Scene Day|Five33Switchback|2020/07/20|
+|198|2020 Canadian MultiGP Series|Football Stadium|Five33Switchback|2020/07/25|
+|84|MultiGP 2017 RF|Football Stadium|Five33Switchback|2020/10/12|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 16 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -38,6 +35,7 @@
 |2020 MultiGP Champs presented by RDQ|Football Stadium|
 |MultiGP 2020 Global Qualifier|Empty Scene Day|
 |MultiGP 2021 Global Qualifier|Football Stadium|
+|MultiGP 2022 Global Qualifier|Dynamic Weather|
 |2022 MultiGP IO Freedom Spec|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|

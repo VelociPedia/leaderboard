@@ -1,25 +1,25 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|7|2022 MultiGP IO Micro|Countryside|TwigXL3|2022/05/30|
-|10|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|Yakuza|2022/05/30|
-|35|MGP2018IORookie|Empty Scene Day|TBSOblivion|2021/01/31|
+|11|2022 MultiGP IO Micro|Countryside|TwigXL3|2022/05/30|
+|13|2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|Yakuza|2022/05/30|
+|36|MGP2018IORookie|Empty Scene Day|TBSOblivion|2021/01/31|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|138|MultiGP 2022 Global Qualifier|Dynamic Weather|Yakuza|2022/04/28|
-|107|2020 Canadian MultiGP Series|Football Stadium|Yakuza|2022/04/15|
-|102|2021 MultiGP Champs Track 1|Empty Scene Day|Chief|2022/02/26|
-|101|2020 MultiGP Champs presented by RDQ|Football Stadium|Yakuza|2022/04/15|
-|101|MultiGP 2017 RF|Football Stadium|Five33Switchback|2021/09/30|
+|162|MultiGP 2022 Global Qualifier|Dynamic Weather|Yakuza|2022/04/28|
+|157|2022 MultiGP IO World Cup|Dynamic Weather|Yakuza|2022/05/30|
+|111|2020 Canadian MultiGP Series|Football Stadium|Yakuza|2022/04/15|
+|105|2021 MultiGP Champs Track 1|Empty Scene Day|Chief|2022/02/26|
+|104|2020 MultiGP Champs presented by RDQ|Football Stadium|Yakuza|2022/04/15|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|58|MultiGP 2016 RF|Football Stadium|TBSOblivion|2021/01/30|
+|59|MultiGP 2016 RF|Football Stadium|TBSOblivion|2021/01/30|
 |55|MGP2018IOIntermediate|Empty Scene Day|TBSOblivion|2021/01/31|
-|35|MGP2018IORookie|Empty Scene Day|TBSOblivion|2021/01/31|
+|36|MGP2018IORookie|Empty Scene Day|TBSOblivion|2021/01/31|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

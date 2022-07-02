@@ -8,28 +8,28 @@
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|193|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/05|
-|163|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2022/02/18|
-|151|MultiGP 2021 Global Qualifier|Football Stadium|Five33Switchback|2022/05/11|
-|129|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
-|115|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/03/22|
+|196|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/05|
+|180|2022 MultiGP IO World Cup|Dynamic Weather|Five33Switchback|2022/06/01|
+|169|MultiGP IO 2019 World Cup|Empty Scene Day|Five33Switchback|2022/02/18|
+|132|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
+|120|2021 MultiGP Champs Track 1|Empty Scene Day|Five33Switchback|2022/03/22|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|65|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
-|129|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
-|99|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
+|68|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
+|132|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
+|101|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
 ---
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|99|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
-|65|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
-|129|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
-|45|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/06/09|
+|101|MultiGP 2017 RF|Football Stadium|TBSSpec|2021/05/19|
+|68|MultiGP 2018 RF|Empty Scene Day|TBSSpec|2021/05/16|
+|132|MultiGP 2019 Sport Championships|Football Stadium|TBSSpec|2021/05/16|
+|46|MultiGP Round 2 FNL|Sports Hall|TBSSpec|2021/06/09|
 ---
-### 18 tracks without data (200+ or not in leaderboard)
+### 17 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2016 RF|Football Stadium|
@@ -41,7 +41,6 @@
 |2022 MultiGP IO Freedom Spec|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
-|2022 MultiGP IO World Cup|Dynamic Weather|
 |MultiGP Bessel Run|Football Stadium|
 |MultiGP High Voltage|Football Stadium|
 |MultiGP Tsunami|Football Stadium|

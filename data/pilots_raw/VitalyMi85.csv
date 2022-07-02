@@ -4,9 +4,9 @@
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,VitalyMi85,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 2022 MultiGP IO Intermediate,Dynamic Weather,999.999,VitalyMi85,NO_DATA
-2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,VitalyMi85,NO_DATA
-2022 MultiGP IO Micro,Countryside,999.999,VitalyMi85,NO_DATA
-2022 MultiGP IO Team,Dynamic Weather,999.999,VitalyMi85,NO_DATA
+2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,52.515,VitalyMi85,RussianFederation,Five33Switchback,2022/06/05
+2022 MultiGP IO Micro,Countryside,105.880,VitalyMi85,RussianFederation,Five33Switchback,2022/06/05
+2022 MultiGP IO Team,Dynamic Weather,96.916,VitalyMi85,RussianFederation,Five33Switchback,2022/06/05
 2022 MultiGP IO World Cup,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,79.229,VitalyMi85,RussianFederation,Five33Switchback,2021/12/01
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,72.537,VitalyMi85,RussianFederation,Five33Switchback,2022/01/10
@@ -37,7 +37,7 @@ DEP Open Series 5 Race 4,Football Stadium,117.707,VitalyMi85,RussianFederation,F
 DEP Open Series 5 Race 5,Football Stadium,93.137,VitalyMi85,RussianFederation,Five33Switchback,2021/12/11
 DEP Open Series 5 Race 6,Football Stadium,81.885,VitalyMi85,RussianFederation,Five33Switchback,2022/02/22
 DEP Open Series 5 Race 7,Football Stadium,115.200,VitalyMi85,RussianFederation,Five33Switchback,2021/12/25
-DEP Open Series 6 Race 1,Football Stadium,126.537,VitalyMi85,RussianFederation,Five33Switchback,2022/03/05
+DEP Open Series 6 Race 1,Football Stadium,92.206,VitalyMi85,RussianFederation,Five33Switchback,2022/05/02
 DEP Open Series 6 Race 2,Football Stadium,134.446,VitalyMi85,RussianFederation,Five33Switchback,2022/03/10
 DEP Spec Series 1 Race 5,Football Stadium,111.434,VitalyMi85,RussianFederation,Five33Switchback,2022/01/18
 EU Spec Season 4 Race 1,Football Stadium,999.999,VitalyMi85,NO_DATA
@@ -86,7 +86,7 @@ Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,103.679
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,83.977,VitalyMi85,RussianFederation,Five33Switchback,2022/03/27
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,113.492,VitalyMi85,RussianFederation,Five33Switchback,2022/03/27
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,VitalyMi85,NO_DATA
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,VitalyMi85,NO_DATA
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,93.923,VitalyMi85,RussianFederation,Five33Switchback,2022/05/06
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,VitalyMi85,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,84.144,VitalyMi85,RussianFederation,Five33Switchback,2022/03/28
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,84.984,VitalyMi85,RussianFederation,Five33Switchback,2021/12/09
@@ -100,22 +100,26 @@ RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,VitalyMi85,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,90.599,VitalyMi85,RussianFederation,Five33Switchback,2022/02/27
-TBS EU Spec Series 10 Losers Final,Football Stadium,75.165,VitalyMi85,RussianFederation,Five33Switchback,2022/02/11
+TBS EU Spec Series 10 Losers Final,Football Stadium,67.018,VitalyMi85,RussianFederation,Five33Switchback,2022/06/06
 TBS EU Spec Series 10 Race 1,Football Stadium,73.122,VitalyMi85,RussianFederation,Five33Switchback,2021/12/13
 TBS EU Spec Series 10 Race 2,Empty Scene Day,81.294,VitalyMi85,RussianFederation,Five33Switchback,2021/12/10
 TBS EU Spec Series 10 Race 3,Night Factory 2,89.763,VitalyMi85,RussianFederation,Five33Switchback,2021/12/17
 TBS EU Spec Series 10 Race 4,Dynamic Weather,93.701,VitalyMi85,RussianFederation,Five33Switchback,2022/01/10
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,78.681,VitalyMi85,RussianFederation,Five33Switchback,2022/01/22
 TBS EU Spec Series 10 Race 6,Large Carpark,93.752,VitalyMi85,RussianFederation,Five33Switchback,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,123.730,VitalyMi85,RussianFederation,Five33Switchback,2022/02/08
+TBS EU Spec Series 10 Race 7,Football Stadium,999.999,VitalyMi85,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,92.762,VitalyMi85,RussianFederation,Five33Switchback,2022/05/28
+TBS EU Spec Series 11 Race 2,Countryside,92.403,VitalyMi85,RussianFederation,Five33Switchback,2022/06/11
+TBS EU Spec Series 11 Race 3,Dynamic Weather,108.125,VitalyMi85,RussianFederation,Five33Switchback,2022/06/17
+TBS EU Spec Series 11 Race 5,Dynamic Weather,86.800,VitalyMi85,RussianFederation,Five33Switchback,2022/06/24
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,114.734,VitalyMi85,RussianFederation,Five33Switchback,2021/10/06
 TBS EU Spec Series 4 Race 4,Empty Scene Day,94.513,VitalyMi85,RussianFederation,Five33Switchback,2021/10/06
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999.999,VitalyMi85,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,85.475,VitalyMi85,RussianFederation,Five33Switchback,2021/09/03
-TBS EU Spec Series 5 FINAL,Dynamic Weather,999.999,VitalyMi85,NO_DATA
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,95.145,VitalyMi85,RussianFederation,Five33Switchback,2022/01/05
+TBS EU Spec Series 5 FINAL,Dynamic Weather,104.174,VitalyMi85,RussianFederation,Five33Switchback,2022/06/21
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,94.128,VitalyMi85,RussianFederation,Five33Switchback,2022/06/21
 TBS EU Spec Series 5 Race 3,Dynamic Weather,87.266,VitalyMi85,RussianFederation,Five33Switchback,2021/12/11
 TBS EU Spec Series 5 Race 4,Football Stadium,105.571,VitalyMi85,RussianFederation,Five33Switchback,2021/12/11
 TBS EU Spec Series 5 Race 5,NEC Birmingham,91.625,VitalyMi85,RussianFederation,Five33Switchback,2022/01/04

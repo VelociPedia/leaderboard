@@ -1,11 +1,11 @@
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
-DEP Open Series 3 Race 3,Karting Track,85,94.950,SwEnglishFPV,Sweden,Five33Switchback,2021/03/17
-DEP Open Series 3 Race 4,Football Stadium,45,60.646,SwEnglishFPV,Sweden,CarbiXZero,2021/02/24
-DEP Open Series 3 Race 5,Football Stadium,82,84.876,SwEnglishFPV,Sweden,CarbiXZero,2021/03/10
-DEP Open Series 3 Race 6,Football Stadium,54,95.443,SwEnglishFPV,Sweden,Five33Switchback,2021/03/12
-DEP Open Series 3 Race 7,Football Stadium,59,88.110,SwEnglishFPV,Sweden,Five33Switchback,2021/03/17
-EU Spec Season 4 Race 1,Football Stadium,49,85.492,SwEnglishFPV,Sweden,TBSSpec,2020/05/06
+DEP Open Series 3 Race 3,Karting Track,89,94.950,SwEnglishFPV,Sweden,Five33Switchback,2021/03/17
+DEP Open Series 3 Race 4,Football Stadium,47,60.646,SwEnglishFPV,Sweden,CarbiXZero,2021/02/24
+DEP Open Series 3 Race 5,Football Stadium,86,84.876,SwEnglishFPV,Sweden,CarbiXZero,2021/03/10
+DEP Open Series 3 Race 6,Football Stadium,56,95.443,SwEnglishFPV,Sweden,Five33Switchback,2021/03/12
+DEP Open Series 3 Race 7,Football Stadium,60,88.110,SwEnglishFPV,Sweden,Five33Switchback,2021/03/17
+EU Spec Season 4 Race 1,Football Stadium,53,85.492,SwEnglishFPV,Sweden,TBSSpec,2020/05/06
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,SwEnglishFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,SwEnglishFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
@@ -15,11 +15,11 @@ RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,SwEnglishFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,SwEnglishFPV,NO_DATA
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,39,72.256,SwEnglishFPV,Sweden,TBSSpec,2020/04/21
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999,999.999,SwEnglishFPV,NO_DATA
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,35,69.365,SwEnglishFPV,Sweden,TBSSpec,2020/05/08
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,19,72.633,SwEnglishFPV,Sweden,TBSSpec,2020/05/10
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,51,69.365,SwEnglishFPV,Sweden,TBSSpec,2020/05/08
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,20,72.633,SwEnglishFPV,Sweden,TBSSpec,2020/05/10
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,SwEnglishFPV,NO_DATA
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,184,109.089,SwEnglishFPV,Sweden,TBSSpec,2020/04/23
-TBS EU Spec Season 5 Race 1,Football Stadium,180,69.844,SwEnglishFPV,Sweden,TBSSpec,2020/07/30
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,188,109.089,SwEnglishFPV,Sweden,TBSSpec,2020/04/23
+TBS EU Spec Season 5 Race 1,Football Stadium,188,69.844,SwEnglishFPV,Sweden,TBSSpec,2020/07/30
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
@@ -29,33 +29,33 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,65,87.942,SwEnglishFPV,Sweden,TBSSpec,2020/07/02
-TBS EU Spec Series 4 Race 2,Empty Scene Day,64,67.573,SwEnglishFPV,Sweden,TBSSpec,2020/05/18
-TBS EU Spec Series 4 Race 3,IndoorGoKart,26,94.558,SwEnglishFPV,Sweden,TBSSpec,2020/05/23
-TBS EU Spec Series 4 Race 4,Empty Scene Day,53,81.946,SwEnglishFPV,Sweden,TBSSpec,2020/05/28
-TBS EU Spec Series 4 Race 5,Dynamic Weather,50,87.106,SwEnglishFPV,Sweden,TBSSpec,2020/06/04
+TBS EU Spec Series 4 FINAL,Dynamic Weather,66,87.942,SwEnglishFPV,Sweden,TBSSpec,2020/07/02
+TBS EU Spec Series 4 Race 2,Empty Scene Day,67,67.573,SwEnglishFPV,Sweden,TBSSpec,2020/05/18
+TBS EU Spec Series 4 Race 3,IndoorGoKart,28,94.558,SwEnglishFPV,Sweden,TBSSpec,2020/05/23
+TBS EU Spec Series 4 Race 4,Empty Scene Day,55,81.946,SwEnglishFPV,Sweden,TBSSpec,2020/05/28
+TBS EU Spec Series 4 Race 5,Dynamic Weather,51,87.106,SwEnglishFPV,Sweden,TBSSpec,2020/06/04
 TBS EU Spec Series 4 Race 7,Football Stadium,51,72.241,SwEnglishFPV,Sweden,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,39,76.120,SwEnglishFPV,Sweden,TBSSpec,2020/09/03
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,56,80.759,SwEnglishFPV,Sweden,TBSSpec,2020/08/20
-TBS EU Spec Series 5 Race 5,NEC Birmingham,25,67.960,SwEnglishFPV,Sweden,TBSSpec,2020/08/19
-TBS EU Spec Series 5 Race 6,Dynamic Weather,40,66.317,SwEnglishFPV,Sweden,TBSSpec,2020/08/20
-TBS EU Spec Series 5 Race 7,IndoorGoKart,50,76.459,SwEnglishFPV,Sweden,TBSSpec,2020/08/27
+TBS EU Spec Series 5 Race 5,NEC Birmingham,26,67.960,SwEnglishFPV,Sweden,TBSSpec,2020/08/19
+TBS EU Spec Series 5 Race 6,Dynamic Weather,42,66.317,SwEnglishFPV,Sweden,TBSSpec,2020/08/20
+TBS EU Spec Series 5 Race 7,IndoorGoKart,51,76.459,SwEnglishFPV,Sweden,TBSSpec,2020/08/27
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,SwEnglishFPV,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,SwEnglishFPV,NO_DATA
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,67,72.435,SwEnglishFPV,Sweden,TBSSpec,2020/11/25
-TBS EU Spec Series 6 Race 2,Empty Scene Day,159,80.547,SwEnglishFPV,Sweden,TBSSpec,2020/12/28
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,68,72.435,SwEnglishFPV,Sweden,TBSSpec,2020/11/25
+TBS EU Spec Series 6 Race 2,Empty Scene Day,162,80.547,SwEnglishFPV,Sweden,TBSSpec,2020/12/28
 TBS EU Spec Series 6 Race 4,NEC Birmingham,35,65.109,SwEnglishFPV,Sweden,TBSSpec,2021/01/28
-TBS EU Spec Series 6 Race 5,Dynamic Weather,68,87.948,SwEnglishFPV,Sweden,TBSSpec,2020/11/13
-TBS EU Spec Series 6 Race 6,Empty Scene Day,42,76.559,SwEnglishFPV,Sweden,TBSSpec,2020/11/19
-TBS EU Spec Series 6 Race 7,Empty Scene Day,81,59.534,SwEnglishFPV,Sweden,TBSSpec,2020/11/25
+TBS EU Spec Series 6 Race 5,Dynamic Weather,69,87.948,SwEnglishFPV,Sweden,TBSSpec,2020/11/13
+TBS EU Spec Series 6 Race 6,Empty Scene Day,43,76.559,SwEnglishFPV,Sweden,TBSSpec,2020/11/19
+TBS EU Spec Series 6 Race 7,Empty Scene Day,84,59.534,SwEnglishFPV,Sweden,TBSSpec,2020/11/25
 TBS EU Spec Series 7 Final,Empty Scene Day,64,74.948,SwEnglishFPV,Sweden,TBSSpec,2021/03/04
 TBS EU Spec Series 7 Race 1,Football Stadium,93,74.045,SwEnglishFPV,Sweden,TBSSpec,2021/01/07
-TBS EU Spec Series 7 Race 2,Empty Scene Day,74,71.842,SwEnglishFPV,Sweden,TBSSpec,2021/01/14
+TBS EU Spec Series 7 Race 2,Empty Scene Day,75,71.842,SwEnglishFPV,Sweden,TBSSpec,2021/01/14
 TBS EU Spec Series 7 Race 3,Empty Scene Day,61,73.550,SwEnglishFPV,Sweden,TBSSpec,2021/02/24
 TBS EU Spec Series 7 Race 4,Empty Scene Day,50,69.598,SwEnglishFPV,Sweden,TBSSpec,2021/01/30
-TBS EU Spec Series 7 Race 5,IndoorGoKart,39,71.237,SwEnglishFPV,Sweden,TBSSpec,2021/02/09
+TBS EU Spec Series 7 Race 5,IndoorGoKart,41,71.237,SwEnglishFPV,Sweden,TBSSpec,2021/02/09
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,45,70.559,SwEnglishFPV,Sweden,TBSSpec,2021/02/11
 TBS EU Spec Series 7 Race 7,Empty Scene Day,24,70.191,SwEnglishFPV,Sweden,TBSSpec,2021/02/23
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,SwEnglishFPV,NO_DATA

@@ -1,25 +1,25 @@
 ### Best 3 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|18|MultiGP UTT 5|Football Stadium|Ossa|2021/06/27|
+|20|MultiGP UTT 5|Football Stadium|Ossa|2021/06/27|
 |21|MultiGP High Voltage|Football Stadium|Ossa|2021/07/08|
 |28|MultiGP Tsunami|Football Stadium|Ossa|2021/07/30|
 ---
 ### Worse 5 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|193|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
-|162|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|
-|161|MGP Ice Rink Race 2022|Empty Scene Day|BMSJS-1|2022/05/11|
-|151|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
-|139|MultiGP 2018 RQ|Football Stadium|Ossa|2021/07/27|
+|199|MultiGP IO 2019 World Cup|Empty Scene Day|Ossa|2021/06/28|
+|178|MGP Ice Rink Race 2022|Empty Scene Day|BMSJS-1|2022/05/11|
+|168|2022 MultiGP IO Freedom Spec|Dynamic Weather|BMSJS-1|2022/06/01|
+|166|MultiGP-Championships-2019|Empty Scene Day|Ossa|2021/06/27|
+|156|MGP2018IOWorldCup|Empty Scene Day|Ossa|2021/08/04|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|28|MultiGP UTT 1|Football Stadium|Ossa|2021/06/12|
+|29|MultiGP UTT 1|Football Stadium|Ossa|2021/06/12|
 |90|MGP2018IOTeam|Empty Scene Day|Ossa|2021/06/23|
-|114|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
+|116|MGP2018IOIntermediate|Empty Scene Day|Ossa|2021/06/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

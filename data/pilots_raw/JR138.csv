@@ -7,7 +7,7 @@
 2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,JR138,NO_DATA
 2022 MultiGP IO Micro,Countryside,999.999,JR138,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,999.999,JR138,NO_DATA
-2022 MultiGP IO World Cup,Dynamic Weather,999.999,JR138,NO_DATA
+2022 MultiGP IO World Cup,Dynamic Weather,66.808,JR138,UnitedStates,Five33Switchback,2022/06/04
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,70.077,JR138,UnitedStates,Five33Switchback,2022/01/19
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,56.749,JR138,UnitedStates,TBSSpec,2022/01/02
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,65.698,JR138,UnitedStates,Five33Switchback,2022/02/05
@@ -16,7 +16,7 @@ DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day,53.932,JR138,Uni
 DEP Open Pop-Up 2,Dynamic Weather,81.709,JR138,UnitedStates,Five33Switchback,2021/07/03
 DEP Open Series 2 Race 1,Dynamic Weather,71.689,JR138,UnitedStates,AcrobotTruX-R197,2020/12/16
 DEP Open Series 2 Race 7,Football Stadium,999.999,JR138,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,71.431,JR138,UnitedStates,Five33Switchback,2021/03/20
+DEP Open Series 3 Race 1,Football Stadium,999.999,JR138,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,112.507,JR138,UnitedStates,Five33Switchback,2021/02/19
 DEP Open Series 3 Race 3,Karting Track,999.999,JR138,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,81.441,JR138,UnitedStates,Five33Switchback,2021/06/20
@@ -59,7 +59,7 @@ MultiGP_2019_Qualifier_Spec,Empty Scene Day,41.747,JR138,UnitedStates,Five33Swit
 MultiGP 2019 Sport Championships,Football Stadium,59.995,JR138,UnitedStates,Five33Switchback,2022/03/10
 MultiGP 2020 Global Qualifier,Empty Scene Day,35.063,JR138,UnitedStates,Five33Switchback,2022/05/15
 MultiGP 2021 Global Qualifier,Football Stadium,37.413,JR138,UnitedStates,Five33Switchback,2021/07/13
-MultiGP 2022 Global Qualifier,Dynamic Weather,33.168,JR138,UnitedStates,Five33Switchback,2022/05/09
+MultiGP 2022 Global Qualifier,Dynamic Weather,32.827,JR138,UnitedStates,Five33Switchback,2022/07/01
 MultiGP Bessel Run,Football Stadium,28.120,JR138,UnitedStates,TBSOblivion,2020/10/31
 MultiGP-Championships-2019,Empty Scene Day,60.800,JR138,UnitedStates,Five33Switchback,2021/08/03
 MultiGP High Voltage,Football Stadium,33.576,JR138,UnitedStates,ArchAngelOrange,2020/09/05
@@ -104,13 +104,13 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,94.349,JR138,UnitedStates,TBSSpec,2
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,JR138,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,49.314,JR138,UnitedStates,Five33Switchback,2022/02/01
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,JR138,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,112.719,JR138,UnitedStates,Five33Switchback,2020/07/03
+TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,JR138,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,JR138,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,127.418,JR138,UnitedStates,Five33Switchback,2021/07/23
 TBS EU Spec Series 4 Race 4,Empty Scene Day,107.460,JR138,UnitedStates,TBSSpec,2020/06/01
 TBS EU Spec Series 4 Race 5,Dynamic Weather,109.759,JR138,UnitedStates,Five33Switchback,2021/03/19
-TBS EU Spec Series 4 Race 7,Football Stadium,89.817,JR138,UnitedStates,Five33Switchback,2020/06/28
-TBS EU Spec Series 5 FINAL,Dynamic Weather,115.489,JR138,UnitedStates,Five33Switchback,2021/03/19
+TBS EU Spec Series 4 Race 7,Football Stadium,999.999,JR138,NO_DATA
+TBS EU Spec Series 5 FINAL,Dynamic Weather,999.999,JR138,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,102.387,JR138,UnitedStates,ArchAngelOrange,2020/09/05
 TBS EU Spec Series 5 Race 3,Dynamic Weather,100.648,JR138,UnitedStates,AcrobotTruX-R197,2020/12/22
 TBS EU Spec Series 5 Race 4,Football Stadium,87.530,JR138,UnitedStates,TBSSpec,2021/12/18

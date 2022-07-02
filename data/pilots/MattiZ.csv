@@ -8,13 +8,13 @@ DEP Open Series 3 Race 4,Football Stadium,118,73.266,MattiZ,Germany,Five33Switch
 DEP Open Series 3 Race 5,Football Stadium,115,92.766,MattiZ,Germany,Five33Switchback,2021/10/01
 DEP Open Series 3 Race 6,Football Stadium,999,999.999,MattiZ,NO_DATA
 DEP Open Series 3 Race 7,Football Stadium,141,113.769,MattiZ,Germany,Five33Switchback,2021/06/09
-DEP Open Series 4 Race 1,Football Stadium,142,107.002,MattiZ,Germany,Five33Switchback,2021/06/08
+DEP Open Series 4 Race 1,Football Stadium,147,107.002,MattiZ,Germany,Five33Switchback,2021/06/08
 DEP Open Series 4 Race 2,Football Stadium,999,999.999,MattiZ,NO_DATA
-DEP Open Series 4 Race 3,Football Stadium,123,86.659,MattiZ,Germany,Five33Switchback,2021/05/29
-DEP Open Series 4 Race 4,Football Stadium,120,113.263,MattiZ,Germany,Five33Switchback,2021/06/16
-DEP Open Series 4 Race 5,Football Stadium,118,76.483,MattiZ,Germany,Five33Switchback,2021/05/03
-DEP Open Series 4 Race 6,Football Stadium,102,78.991,MattiZ,Germany,Five33Switchback,2021/08/19
-DEP Open Series 4 Race 7,Football Stadium,121,82.136,MattiZ,Germany,Five33Switchback,2021/09/01
+DEP Open Series 4 Race 3,Football Stadium,135,86.659,MattiZ,Germany,Five33Switchback,2021/05/29
+DEP Open Series 4 Race 4,Football Stadium,126,113.263,MattiZ,Germany,Five33Switchback,2021/06/16
+DEP Open Series 4 Race 5,Football Stadium,127,76.483,MattiZ,Germany,Five33Switchback,2021/05/03
+DEP Open Series 4 Race 6,Football Stadium,108,78.991,MattiZ,Germany,Five33Switchback,2021/08/19
+DEP Open Series 4 Race 7,Football Stadium,129,82.136,MattiZ,Germany,Five33Switchback,2021/09/01
 DEP Open Series 5 Race 1,Football Stadium,70,67.035,MattiZ,Germany,Five33Switchback,2021/10/30
 DEP Open Series 5 Race 2,Football Stadium,85,86.223,MattiZ,Germany,Five33Switchback,2021/11/05
 DEP Open Series 5 Race 3,Football Stadium,999,999.999,MattiZ,NO_DATA
@@ -23,74 +23,78 @@ DEP Open Series 5 Race 5,Football Stadium,999,999.999,MattiZ,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,MattiZ,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,MattiZ,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,MattiZ,NO_DATA
-EU Spec Season 4 Race 1,Football Stadium,79,89.964,MattiZ,Germany,Five33Switchback,2022/02/13
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,176,88.089,MattiZ,Germany,SingularitumV5,2020/08/20
+EU Spec Season 4 Race 1,Football Stadium,81,89.964,MattiZ,Germany,Five33Switchback,2022/02/13
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,189,88.089,MattiZ,Germany,SingularitumV5,2020/08/20
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,MattiZ,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,190,75.217,MattiZ,Germany,SingularitumV5,2020/08/02
-RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,74,80.595,MattiZ,Germany,SingularitumV5,2020/08/19
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,87,75.897,MattiZ,Germany,Five33Switchback,2021/02/16
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,199,75.217,MattiZ,Germany,SingularitumV5,2020/08/02
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,75,80.595,MattiZ,Germany,SingularitumV5,2020/08/19
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,88,75.897,MattiZ,Germany,Five33Switchback,2021/02/16
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,MattiZ,NO_DATA
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,66,84.721,MattiZ,Germany,SingularitumV5,2020/08/18
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,69,84.721,MattiZ,Germany,SingularitumV5,2020/08/18
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,MattiZ,NO_DATA
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,100,73.721,MattiZ,Germany,CarbiXZero,2020/12/31
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,77,78.134,MattiZ,Germany,SingularitumV5,2020/08/26
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,88,94.992,MattiZ,Germany,Five33Switchback,2021/05/23
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,185,130.883,MattiZ,Germany,SingularitumV5,2020/07/15
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,104,73.721,MattiZ,Germany,CarbiXZero,2020/12/31
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,94,78.134,MattiZ,Germany,SingularitumV5,2020/08/26
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,92,94.992,MattiZ,Germany,Five33Switchback,2021/05/23
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,189,130.883,MattiZ,Germany,SingularitumV5,2020/07/15
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,139,66.961,MattiZ,Germany,Five33Switchback,2021/09/16
+TBS EU Spec Season 5 Race 1,Football Stadium,143,66.961,MattiZ,Germany,Five33Switchback,2021/09/16
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 10 Losers Final,Football Stadium,49,57.436,MattiZ,Germany,Five33Switchback,2022/03/03
-TBS EU Spec Series 10 Race 1,Football Stadium,89,69.236,MattiZ,Germany,Five33Switchback,2021/12/04
-TBS EU Spec Series 10 Race 2,Empty Scene Day,93,75.170,MattiZ,Germany,Five33Switchback,2021/12/27
-TBS EU Spec Series 10 Race 3,Night Factory 2,99,84.446,MattiZ,Germany,Five33Switchback,2021/12/18
-TBS EU Spec Series 10 Race 4,Dynamic Weather,90,75.797,MattiZ,Germany,Five33Switchback,2022/01/23
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,55,62.675,MattiZ,Germany,Five33Switchback,2022/04/02
+TBS EU Spec Series 10 Losers Final,Football Stadium,58,57.436,MattiZ,Germany,Five33Switchback,2022/03/03
+TBS EU Spec Series 10 Race 1,Football Stadium,93,69.236,MattiZ,Germany,Five33Switchback,2021/12/04
+TBS EU Spec Series 10 Race 2,Empty Scene Day,95,75.170,MattiZ,Germany,Five33Switchback,2021/12/27
+TBS EU Spec Series 10 Race 3,Night Factory 2,101,84.446,MattiZ,Germany,Five33Switchback,2021/12/18
+TBS EU Spec Series 10 Race 4,Dynamic Weather,97,75.797,MattiZ,Germany,Five33Switchback,2022/01/23
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,57,62.675,MattiZ,Germany,Five33Switchback,2022/04/02
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,57,70.879,MattiZ,Germany,Five33Switchback,2022/06/08
+TBS EU Spec Series 11 Race 2,Countryside,999,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 11 Race 3,Dynamic Weather,102,139.419,MattiZ,Germany,Five33Switchback,2022/06/22
+TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 4 Race 4,Empty Scene Day,167,102.546,MattiZ,Germany,SingularitumV5,2020/08/12
-TBS EU Spec Series 4 Race 5,Dynamic Weather,86,95.084,MattiZ,Germany,Five33Switchback,2022/04/01
+TBS EU Spec Series 4 Race 4,Empty Scene Day,172,102.546,MattiZ,Germany,SingularitumV5,2020/08/12
+TBS EU Spec Series 4 Race 5,Dynamic Weather,87,95.084,MattiZ,Germany,Five33Switchback,2022/04/01
 TBS EU Spec Series 4 Race 7,Football Stadium,93,76.686,MattiZ,Germany,Five33Switchback,2022/04/05
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,137,98.307,MattiZ,Germany,SingularitumV5,2020/09/05
-TBS EU Spec Series 5 Race 3,Dynamic Weather,162,98.318,MattiZ,Germany,Five33Switchback,2021/08/16
-TBS EU Spec Series 5 Race 4,Football Stadium,158,101.851,MattiZ,Germany,Five33Switchback,2021/08/18
-TBS EU Spec Series 5 Race 5,NEC Birmingham,107,84.834,MattiZ,Germany,Five33Switchback,2022/02/14
-TBS EU Spec Series 5 Race 6,Dynamic Weather,126,83.823,MattiZ,Germany,SingularitumV5,2020/08/31
-TBS EU Spec Series 5 Race 7,IndoorGoKart,123,91.360,MattiZ,Germany,SingularitumV5,2020/09/01
-TBS EU Spec Series 6 Final,Empty Scene Day,104,89.796,MattiZ,Germany,Five33Switchback,2022/04/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,187,94.753,MattiZ,Germany,CarbiXZero,2020/12/02
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,159,84.976,MattiZ,Germany,CarbiXZero,2020/09/25
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,139,98.307,MattiZ,Germany,SingularitumV5,2020/09/05
+TBS EU Spec Series 5 Race 3,Dynamic Weather,165,98.318,MattiZ,Germany,Five33Switchback,2021/08/16
+TBS EU Spec Series 5 Race 4,Football Stadium,160,101.851,MattiZ,Germany,Five33Switchback,2021/08/18
+TBS EU Spec Series 5 Race 5,NEC Birmingham,110,84.834,MattiZ,Germany,Five33Switchback,2022/02/14
+TBS EU Spec Series 5 Race 6,Dynamic Weather,132,83.823,MattiZ,Germany,SingularitumV5,2020/08/31
+TBS EU Spec Series 5 Race 7,IndoorGoKart,124,91.360,MattiZ,Germany,SingularitumV5,2020/09/01
+TBS EU Spec Series 6 Final,Empty Scene Day,107,89.796,MattiZ,Germany,Five33Switchback,2022/04/03
+TBS EU Spec Series 6 Losers Final,Football Stadium,189,94.753,MattiZ,Germany,CarbiXZero,2020/12/02
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,161,84.976,MattiZ,Germany,CarbiXZero,2020/09/25
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,126,90.842,MattiZ,Germany,Five33Switchback,2021/08/05
 TBS EU Spec Series 6 Race 5,Dynamic Weather,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 6 Race 6,Empty Scene Day,82,80.744,MattiZ,Germany,Five33Switchback,2022/04/03
-TBS EU Spec Series 6 Race 7,Empty Scene Day,90,60.317,MattiZ,Germany,Five33Switchback,2021/09/08
+TBS EU Spec Series 6 Race 6,Empty Scene Day,84,80.744,MattiZ,Germany,Five33Switchback,2022/04/03
+TBS EU Spec Series 6 Race 7,Empty Scene Day,93,60.317,MattiZ,Germany,Five33Switchback,2021/09/08
 TBS EU Spec Series 7 Final,Empty Scene Day,131,83.901,MattiZ,Germany,Five33Switchback,2021/03/08
-TBS EU Spec Series 7 Race 1,Football Stadium,197,88.364,MattiZ,Germany,CarbiXZero,2021/01/18
+TBS EU Spec Series 7 Race 1,Football Stadium,199,88.364,MattiZ,Germany,CarbiXZero,2021/01/18
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,154,79.979,MattiZ,Germany,Five33Switchback,2022/03/25
-TBS EU Spec Series 7 Race 5,IndoorGoKart,130,81.789,MattiZ,Germany,Five33Switchback,2021/02/08
+TBS EU Spec Series 7 Race 5,IndoorGoKart,131,81.789,MattiZ,Germany,Five33Switchback,2021/02/08
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,118,80.997,MattiZ,Germany,Five33Switchback,2021/02/13
 TBS EU Spec Series 7 Race 7,Empty Scene Day,129,92.194,MattiZ,Germany,Five33Switchback,2021/02/23
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 8 Race 1,Dynamic Weather,122,88.368,MattiZ,Germany,Five33Switchback,2021/03/27
-TBS EU Spec Series 8 Race 2,Empty Scene Night,84,86.234,MattiZ,Germany,Five33Switchback,2021/05/02
-TBS EU Spec Series 8 Race 3,Football Stadium,111,68.941,MattiZ,Germany,Five33Switchback,2021/05/02
+TBS EU Spec Series 8 Race 1,Dynamic Weather,125,88.368,MattiZ,Germany,Five33Switchback,2021/03/27
+TBS EU Spec Series 8 Race 2,Empty Scene Night,85,86.234,MattiZ,Germany,Five33Switchback,2021/05/02
+TBS EU Spec Series 8 Race 3,Football Stadium,112,68.941,MattiZ,Germany,Five33Switchback,2021/05/02
 TBS EU Spec Series 8 Race 4,Empty Scene Day,106,84.766,MattiZ,Germany,Five33Switchback,2021/05/16
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,107,70.108,MattiZ,Germany,Five33Switchback,2021/05/29
 TBS EU Spec Series 8 Race 6,Football Stadium,100,71.995,MattiZ,Germany,Five33Switchback,2022/03/30
 TBS EU Spec Series 8 Race 7,Empty Scene Day,111,82.616,MattiZ,Germany,Five33Switchback,2021/06/21
-TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,MattiZ,NO_DATA
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,90,71.507,MattiZ,Germany,Five33Switchback,2021/11/07
-TBS EU Spec Series 9 Race 1,Football Stadium,113,68.416,MattiZ,Germany,Five33Switchback,2021/12/23
-TBS EU Spec Series 9 Race 2,Dynamic Weather,122,67.110,MattiZ,Germany,Five33Switchback,2021/09/17
+TBS EU Spec Series 9 Final,Dynamic Weather,109,72.715,MattiZ,Germany,Five33Switchback,2022/06/07
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,91,71.465,MattiZ,Germany,Five33Switchback,2022/06/07
+TBS EU Spec Series 9 Race 1,Football Stadium,117,68.416,MattiZ,Germany,Five33Switchback,2021/12/23
+TBS EU Spec Series 9 Race 2,Dynamic Weather,124,67.110,MattiZ,Germany,Five33Switchback,2021/09/17
 TBS EU Spec Series 9 Race 3,Empty Scene Day,92,68.584,MattiZ,Germany,Five33Switchback,2021/09/27
 TBS EU Spec Series 9 Race 4,Football Stadium,108,80.307,MattiZ,Germany,Five33Switchback,2021/10/10
-TBS EU Spec Series 9 Race 5,Empty Scene Day,84,70.814,MattiZ,Germany,Five33Switchback,2021/10/24
-TBS EU Spec Series 9 Race 6,Empty Scene Day,71,74.335,MattiZ,Germany,Five33Switchback,2021/11/04
-TBS EU Spec Series 9 Race 7,NEC Birmingham,69,74.141,MattiZ,Germany,Five33Switchback,2021/11/14
+TBS EU Spec Series 9 Race 5,Empty Scene Day,89,70.814,MattiZ,Germany,Five33Switchback,2021/10/24
+TBS EU Spec Series 9 Race 6,Empty Scene Day,74,74.335,MattiZ,Germany,Five33Switchback,2021/11/04
+TBS EU Spec Series 9 Race 7,NEC Birmingham,70,74.141,MattiZ,Germany,Five33Switchback,2021/11/14

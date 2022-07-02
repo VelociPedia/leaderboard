@@ -1,43 +1,43 @@
-### Best 3 MultiGP Tracks TRACKS ranks
+### Best 4 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |2|MultiGP 2017 RF|Football Stadium|Yakuza|2022/03/25|
 |3|MultiGP 2016 RF|Football Stadium|Yakuza|2022/03/25|
 |3|MGP UTT Remix|Empty Scene Day|CarbiXZero|2022/05/26|
+|4|MultiGP 2018 RQ|Football Stadium|Yakuza|2022/03/25|
 ---
-### Worse 5 MultiGP Tracks TRACKS ranks
+### Worse 6 MultiGP Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |42|MultiGP IO 2019 World Cup|Empty Scene Day|LethalConception|2021/01/12|
-|21|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
+|22|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
 |18|MGP2018IOWorldCup|Empty Scene Day|LethalConception|2021/01/11|
+|18|2022 MultiGP IO World Cup|Dynamic Weather|CarbiXZero|2022/06/11|
+|15|2022 MultiGP IO Team|Dynamic Weather|CarbiXZero|2022/06/11|
 |14|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/30|
-|12|2020 MultiGP Champs presented by RDQ|Football Stadium|Yakuza|2022/04/11|
 ---
-### Oldest 3 personal best
+### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |9|MGP2018IORookie|Empty Scene Day|LethalConception|2021/01/11|
 |10|MGP2018IOTeam|Empty Scene Day|LethalConception|2021/01/11|
 |18|MGP2018IOWorldCup|Empty Scene Day|LethalConception|2021/01/11|
+|22|MultiGP-Championships-2019|Empty Scene Day|LethalConception|2021/01/12|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 17 tracks without data (200+ or not in leaderboard)
+### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP_2019_Qualifier_Spec|Empty Scene Day|
 |MultiGP 2020 Global Qualifier|Empty Scene Day|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
-|2022 MultiGP IO Freedom Spec|Dynamic Weather|
 |2022 MultiGP IO Intermediate|Dynamic Weather|
 |2022 MultiGP IO Mega Class by SFPV|Dynamic Weather|
 |2022 MultiGP IO Micro|Countryside|
-|2022 MultiGP IO Team|Dynamic Weather|
-|2022 MultiGP IO World Cup|Dynamic Weather|
 |MultiGP Bessel Run|Football Stadium|
 |MultiGP High Voltage|Football Stadium|
 |MultiGP Round 2 FNL|Sports Hall|

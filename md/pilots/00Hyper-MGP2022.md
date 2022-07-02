@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|6|MultiGP 2022 Global Qualifier|Dynamic Weather|Velocity|2022/04/17|
+|7|MultiGP 2022 Global Qualifier|Dynamic Weather|Velocity|2022/04/17|
 ---
 ### Oldest 1 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
