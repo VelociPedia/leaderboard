@@ -43,6 +43,7 @@
 50.907,NelsonFpv,Ireland,Five33Switchback,2021/05/24
 51.447,JR138,UnitedStates,Five33Switchback,2021/07/13
 51.750,MichaelFPV,Unknown,SniperX,2021/10/31
+51.759,FitzFPV,Unknown,Five33Switchback,2022/06/25
 52.097,FSN,RussianFederation,Five33Switchback,2020/10/23
 52.296,CondorFPV,UnitedStates,TwigXL3,2021/12/01
 52.435,StDuck,Ukraine,TBSSpec,2020/09/05
@@ -75,7 +76,7 @@
 59.103,TooFly,UnitedStates,Five33Switchback,2020/12/05
 59.115,JR,Sweden,Five33Switchback,2020/11/16
 59.287,Flat_FPVLionsDiepholz,Germany,Five33Switchback,2021/05/12
-59.397,LEVI,UnitedStates,Solleva,2020/05/28
+59.397,EchoLEVI,UnitedStates,Solleva,2020/05/28
 59.438,Maximan,Unknown,TBSSpec,2020/05/30
 59.559,RushFPV,UnitedStates,Five33Switchback,2021/08/22
 59.953,The_herder,UnitedStates,Five33Switchback,2020/04/25
@@ -94,6 +95,7 @@
 61.700,justflyfpv,UnitedKingdom,Five33Switchback,2020/12/30
 61.725,Locke_FPV_,Germany,Five33Switchback,2020/07/08
 61.815,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+61.838,pyro10310,UnitedStates,Five33Switchback,2022/06/21
 61.889,Musilex,Brazil,Five33Switchback,2021/10/09
 61.908,NashtyFPV,UnitedStates,Five33Switchback,2020/05/13
 62.383,krleone_Overpass,Unknown,TBSSpec,2020/10/18
@@ -146,8 +148,10 @@
 70.586,ClaymoreFPV,UnitedStates,Five33Switchback,2020/05/09
 70.695,wrzesium,Poland,TBSSpec,2020/04/26
 70.707,Goddess_Randi,UnitedStates,Rooster,2021/01/20
+70.826,Bumba,Switzerland,HX115,2022/06/20
 71.096,TWG_Lundy,UnitedStates,TBSSpec,2020/09/16
-71.415,AZ2019,China,AstroXSL5,2020/11/01
+71.415,CY1314,China,AstroXSL5,2020/11/01
+71.415,limmo,Germany,Five33Switchback,2022/06/04
 71.417,wsfpv,UnitedKingdom,Five33Switchback,2022/01/24
 71.619,MrBeNb,UnitedKingdom,ArmattanBadger,2021/09/10
 72.033,Falalis,UnitedStates,Five33Switchback,2021/03/08
@@ -173,7 +177,7 @@
 75.163,DiamondDFPV,UnitedStates,Five33Switchback,2020/06/10
 75.176,NextGenFPV,Germany,TBSOblivion,2020/11/02
 75.242,RIVALSDreadPool,UnitedStates,Five33Switchback,2020/06/19
-75.329,NotSure,UnitedKingdom,TBSSpec,2021/07/24
+75.329,NotSure,UnitedStates,TBSSpec,2021/07/24
 75.398,mnowak,Poland,TBSSpec,2020/04/23
 75.576,Crashin2416,UnitedStates,TinyHawk,2021/05/06
 75.672,4Ari,Unknown,Five33Switchback,2021/12/20
@@ -194,7 +198,3 @@
 81.300,Darock,Sweden,Five33Switchback,2021/09/08
 81.378,CCRFPV,UnitedKingdom,Five33Switchback,2020/12/23
 81.668,MatiM,Poland,CarbiXZero,2021/05/20
-81.749,25mW,India,TBSSpec,2021/05/03
-81.814,KimboFPV,Canada,Five33Switchback,2020/04/22
-82.136,DroneMacleod,Hungary,TBSSpec,2021/09/12
-82.457,Grandpafpv,Germany,Five33Switchback,2020/12/26

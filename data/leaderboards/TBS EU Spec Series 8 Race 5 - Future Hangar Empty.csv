@@ -1,7 +1,7 @@
 46.847,Burkan,UnitedKingdom,Five33Switchback,2021/06/30
 47.833,Pugli,Brazil,Five33Switchback,2021/06/06
 48.092,BMSweb,Australia,BMSJS-1,2021/05/27
-49.015,andreas_fpv,Netherlands,Five33Switchback,2021/10/07
+49.015,Sarah,Netherlands,Five33Switchback,2021/10/07
 49.086,antonig,Bulgaria,Five33Switchback,2021/07/14
 49.624,skAve,Germany,Five33Switchback,2021/06/03
 49.910,Gafannen,Slovakia,Five33Switchback,2022/01/08
@@ -28,7 +28,7 @@
 54.982,abcd1234,Japan,Five33Switchback,2021/05/26
 55.126,burffpv,Brazil,Five33Switchback,2021/06/02
 55.381,ETERNAL☆Star23467,Germany,TBSSpec,2021/11/10
-56.067,TCAyyyKayyy,UnitedStates,Ossa,2021/05/24
+56.067,MLDRAyyyKayyy,UnitedStates,Ossa,2021/05/24
 56.121,WerdnaFPV,Singapore,TBSSpec,2021/10/08
 56.445,Hsl_Fpv,Brazil,Five33Switchback,2021/06/04
 56.602,slick_fpv,UnitedStates,Ossa,2021/05/24
@@ -36,7 +36,7 @@
 56.902,SmokyFPV,UnitedKingdom,TBSSpec,2021/05/20
 56.981,Bree,France,Five33Switchback,2022/04/09
 57.128,RCSwix_QT,RussianFederation,TBSSpec,2021/05/20
-57.175,SebaFPVSlow:(,UnitedStates,TBSSpec,2021/06/03
+57.175,SebaFPV,UnitedStates,TBSSpec,2021/06/03
 57.385,lephro,Germany,TBSSpec,2021/05/20
 57.499,KPV,UnitedKingdom,TBSSpec,2021/05/20
 57.836,QF1QTFPV,UnitedStates,TBSSpec,2021/05/20
@@ -45,10 +45,10 @@
 58.732,Ninjakat,Unknown,TBSSpec,2021/05/20
 58.795,Saqoosha,Japan,TBSSpec,2021/05/21
 58.891,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/28
-58.959,TCNMGrower,UnitedStates,TBSSpec,2021/05/29
+58.959,(͡▀̿̿ ͜ʖ͡▀̿̿)Grower,UnitedStates,TBSSpec,2021/05/29
 59.173,MX_BIGRAMON,Germany,TBSSpec,2021/05/24
 59.345,BadSpeed,Finland,TBSSpec,2021/06/02
-59.532,TFFYCryson,Germany,TBSSpec,2021/05/20
+59.532,Cryson,Germany,TBSSpec,2021/05/20
 59.602,TriBull,UnitedKingdom,TBSSpec,2022/01/20
 60.120,Mikrofpv,Spain,KareareaTalon,2021/06/16
 60.346,Smeland_FPV,Norway,Five33Switchback,2021/05/30
@@ -71,7 +71,7 @@
 62.338,Arras,Spain,Five33Switchback,2021/06/16
 62.564,BearmanFPV,UnitedKingdom,TBSSpec,2021/05/20
 62.775,DAFFPV,Sweden,Chief,2022/01/08
-63.027,DorukFPV,Turkey,TBSSpec,2021/06/05
+63.027,DoruK,Turkey,TBSSpec,2021/06/05
 63.096,nwqi,UnitedStates,TBSSpec,2021/05/27
 63.103,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/09
 63.197,j4y,UnitedStates,TBSSpec,2021/10/08
@@ -80,7 +80,7 @@
 63.661,DeMoNse3d,Mexico,TBSSpec,2021/05/23
 63.672,TITOO,Brazil,Five33Switchback,2021/06/05
 63.877,BatmanFPV,UnitedKingdom,TBSSpec,2021/05/21
-64.740,AZ2019,China,CarbiXZero,2021/06/02
+64.740,CY1314,China,CarbiXZero,2021/06/02
 65.255,SzeryfxD,Poland,TBSSpec,2021/06/18
 65.396,ThaisNn,Spain,Five33Switchback,2021/06/17
 65.930,OrigDragon,UnitedStates,TBSSpec,2021/05/28
@@ -103,7 +103,7 @@
 69.702,Nitrotoker,UnitedStates,Five33Switchback,2021/06/26
 69.706,Wizard_,UnitedKingdom,TBSSpec,2022/01/09
 69.955,CerbAirus,Germany,TBSSpec,2021/05/22
-70.003,NotSure,UnitedKingdom,Five33Switchback,2022/01/08
+70.003,NotSure,UnitedStates,Five33Switchback,2022/01/08
 70.108,MattiZ,Germany,Five33Switchback,2021/05/29
 70.497,Tomeroni,Hungary,TBSSpec,2021/05/29
 70.513,TimmiCPV,SouthAfrica,Five33Switchback,2021/06/18
@@ -147,6 +147,7 @@
 80.883,AdamWu,China,Five33Switchback,2021/05/24
 81.281,ThirdEyeFPV,Australia,Five33Switchback,2021/05/27
 81.446,喜洋洋,UnitedKingdom,Five33Switchback,2021/12/17
+82.091,eedok,Canada,TBSSpec,2022/06/25
 82.436,valdodronAitor,Spain,Mode2Ghost,2021/06/15
 82.980,StonxiiFPV,Australia,LilBastard,2021/12/27
 83.159,NelsonFpv,Ireland,TBSSpec,2021/05/22
@@ -156,7 +157,7 @@
 84.058,JamesSherriff,UnitedKingdom,Five33Switchback,2021/06/24
 84.249,Moto,Australia,Five33Switchback,2021/06/17
 84.262,pingar,Spain,CarbiXZero,2021/06/14
-84.459,GrOiLL,Germany,Five33Switchback,2021/05/25
+84.459,=AJ=,Germany,Five33Switchback,2021/05/25
 85.143,jotakafpv,Spain,Five33Switchback,2021/06/14
 85.573,taylor@cclyuncom,Unknown,Five33Switchback,2022/03/18
 85.795,^Baker,UnitedStates,Five33Switchback,2021/05/29
@@ -197,4 +198,3 @@
 97.617,endoplasMa,Colombia,TBSSpec,2021/10/10
 97.625,CosmicFPV,UnitedKingdom,TBSSpec,2021/09/15
 97.727,Gravy,UnitedKingdom,Five33Switchback,2021/06/01
-97.940,TrueyFPV_TheCaptain,Australia,PandaCavity,2021/05/30
