@@ -71,6 +71,10 @@ multigp:
 quadrivals:
 	./getcollection.zsh "QuadRivals.csv"
 	./makerank.zsh "QuadRivals.csv"
+	./getcollection.zsh "QRivals21.csv"
+	./makerank.zsh "QRivals21.csv"
+	./getcollection.zsh "QRivals22.csv"
+	./makerank.zsh "QRivals22.csv"
 	
 qr21:
 	./getcollection.zsh "QRivals21.csv"
