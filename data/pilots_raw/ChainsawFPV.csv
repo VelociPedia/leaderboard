@@ -77,7 +77,7 @@ MultiGP UTT 1,Football Stadium,30.890,ChainsawFPV,UnitedStates,Five33Switchback,
 MultiGP UTT 5,Football Stadium,26.797,ChainsawFPV,UnitedStates,Five33Switchback,2021/03/25
 MultiGP UTT 6,Football Stadium,43.302,ChainsawFPV,UnitedStates,Five33Switchback,2021/03/25
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,110.997,ChainsawFPV,UnitedStates,SniperX,2022/01/13
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,75.831,ChainsawFPV,UnitedStates,Five33Switchback,2021/03/24
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,999.999,ChainsawFPV,NO_DATA
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,999.999,ChainsawFPV,NO_DATA
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,113.634,ChainsawFPV,UnitedStates,Five33Switchback,2021/08/25
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,99.919,ChainsawFPV,UnitedStates,Five33Switchback,2021/05/25
@@ -86,6 +86,22 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,78.084,ChainsawFPV
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,119.401,ChainsawFPV,UnitedStates,Five33Switchback,2021/11/04
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,76.940,ChainsawFPV,UnitedStates,SniperX,2021/12/19
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,98.492,ChainsawFPV,UnitedStates,SniperX,2021/12/27
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,82.201,ChainsawFPV,UnitedStates,SniperX,2022/03/31
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,57.759,ChainsawFPV,UnitedStates,SniperX,2022/04/28
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,98.440,ChainsawFPV,UnitedStates,SniperX,2022/06/03
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,ChainsawFPV,NO_DATA
+Quad Rivals Airport,Empty Scene Day,93.332,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/22
+Quad Rivals Dive It,Countryside,60.875,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/22
+Quad Rivals Karting Track,IndoorGoKart,156.640,ChainsawFPV,UnitedStates,TBSSpec,2021/02/19
+Quad Rivals Ladders from Hell DW,Dynamic Weather,201.940,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/20
+Quad Rivals Lake Murray,Empty Scene Day,79.706,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/20
+Quad Rivals Overpass,Empty Scene Day,120.462,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/20
+Quad Rivals Sept 2019 Track,Castle Sneznik,999.999,ChainsawFPV,NO_DATA
+Quad Rivals Split S,Empty Scene Day,59.029,ChainsawFPV,UnitedStates,CarbiXZero,2021/01/20
+Quad Rivals Team Race,Empty Scene Day,75.183,ChainsawFPV,UnitedStates,Five33Switchback,2021/08/18
+Quad Rivals Weave,Empty Scene Day,61.613,ChainsawFPV,UnitedStates,Five33Switchback,2021/08/25
+Quad Rivals Welborn,Empty Scene Day,75.963,ChainsawFPV,UnitedStates,Five33Switchback,2021/01/30
+Quad Rivals Who Works DW,Dynamic Weather,64.457,ChainsawFPV,UnitedStates,Five33Switchback,2021/08/25
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,ChainsawFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,ChainsawFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,ChainsawFPV,NO_DATA
@@ -160,6 +176,7 @@ TBS EU Spec Series 9 Race 4,Football Stadium,98.145,ChainsawFPV,UnitedStates,TBS
 TBS EU Spec Series 9 Race 5,Empty Scene Day,91.776,ChainsawFPV,UnitedStates,Five33Switchback,2021/10/12
 TBS EU Spec Series 9 Race 6,Empty Scene Day,93.232,ChainsawFPV,UnitedStates,TBSSpec,2021/11/15
 TBS EU Spec Series 9 Race 7,NEC Birmingham,89.072,ChainsawFPV,UnitedStates,TBSSpec,2021/11/15
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,86.411,ChainsawFPV,UnitedStates,SniperX,2022/06/22
 TDRF Dutch nationals indoor race 1,Empty Scene Day,95.187,ChainsawFPV,UnitedStates,SniperX,2022/02/15
 TDRF Dutch nationals indoor race 2,Empty Scene Day,85.175,ChainsawFPV,UnitedStates,SniperX,2022/02/15
 TDRF Dutch nationals indoor race 3,Empty Scene Day,76.406,ChainsawFPV,UnitedStates,SniperX,2022/03/03
@@ -184,7 +201,7 @@ Train Insane- Test1 - MaiOnHigh,Empty Scene Day,999.999,ChainsawFPV,NO_DATA
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,41.355,ChainsawFPV,UnitedStates,SniperX,2021/12/31
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,26.074,ChainsawFPV,UnitedStates,SniperX,2021/12/31
 VRL6 Championships,Dynamic Weather,999.999,ChainsawFPV,NO_DATA
-VRL6 Crash Site,Dynamic Weather,999.999,ChainsawFPV,NO_DATA
+VRL6 Crash Site,Dynamic Weather,326.962,ChainsawFPV,UnitedStates,SniperX,2022/04/25
 VRL6 Downtown Loop,Dynamic Weather,999.999,ChainsawFPV,NO_DATA
 VRL6 Extermination,Dynamic Weather,999.999,ChainsawFPV,NO_DATA
 VRL6 Kenerator,Dynamic Weather,201.423,ChainsawFPV,UnitedStates,Five33Switchback,2021/09/30
@@ -229,7 +246,7 @@ VRL Season 8 Championships,Dynamic Weather,128.933,ChainsawFPV,UnitedStates,Snip
 VRL Season 8 Track 1,Office Complex,214.046,ChainsawFPV,UnitedStates,Five33Switchback,2021/10/22
 VRL Season 8 Track 2,Drift Track,127.299,ChainsawFPV,UnitedStates,Five33Switchback,2021/11/21
 VRL Season 8 Track 3,Night Factory 2,999.999,ChainsawFPV,NO_DATA
-VRL Season 8 Track 4,DynamicPoly,999.999,ChainsawFPV,NO_DATA
+VRL Season 8 Track 4,DynamicPoly,268.487,ChainsawFPV,UnitedStates,SniperX,2022/04/19
 VRL Season 8 Track 5,Dynamic Weather,170.355,ChainsawFPV,UnitedStates,SniperX,2021/12/17
 VRL Season 8 Track 6,Night Factory 2,173.957,ChainsawFPV,UnitedStates,SniperX,2022/01/02
 VRL SEASON 8 TRACK 7,Dynamic Weather,177.169,ChainsawFPV,UnitedStates,SniperX,2022/02/01

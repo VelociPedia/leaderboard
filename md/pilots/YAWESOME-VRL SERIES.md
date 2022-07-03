@@ -1,28 +1,28 @@
 ### Best 4 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|2|VRL S5 TRACK 5|Dynamic Weather|Five33Switchback|2021/11/22|
-|7|VRL S5 TRACK 3|Bando|Five33Switchback|2021/11/11|
+|3|VRL S5 TRACK 5|Dynamic Weather|Five33Switchback|2021/11/22|
+|9|VRL S5 TRACK 3|Bando|Five33Switchback|2021/11/11|
 |16|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2022/01/15|
-|20|VRL_Season_4_Track_6|Dynamic Weather|Ossa|2020/10/19|
+|21|VRL_Season_4_Track_6|Dynamic Weather|Ossa|2020/10/19|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|143|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/28|
+|144|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/28|
+|112|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/20|
 |111|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/16|
-|111|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/20|
+|109|VRL Season 8 Track 4|DynamicPoly|Five33Switchback|2021/12/07|
 |107|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/11/13|
-|101|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
-|100|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/23|
+|102|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|101|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
+|102|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
 |24|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/12|
 |111|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/16|
-|20|VRL_Season_4_Track_6|Dynamic Weather|Ossa|2020/10/19|
+|21|VRL_Season_4_Track_6|Dynamic Weather|Ossa|2020/10/19|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

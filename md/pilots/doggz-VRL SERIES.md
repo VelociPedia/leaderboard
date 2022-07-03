@@ -1,28 +1,28 @@
 ### Best 4 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|13|VRL-Season-4-Tryouts|Dynamic Weather|AcrobotTruX-R197|2020/09/07|
+|14|VRL-Season-4-Tryouts|Dynamic Weather|AcrobotTruX-R197|2020/09/07|
 |22|VRL Season 3 Track 3|Empty Scene Day|AcrobotTruX-R197|2020/12/26|
-|23|VRL Season 4 Championship|Football Stadium|Five33Switchback|2021/01/23|
-|25|VRL_Season_4_Track_6|Dynamic Weather|TBSOblivion|2020/07/04|
+|26|VRL Season 4 Championship|Football Stadium|Five33Switchback|2021/01/23|
+|26|VRL_Season_4_Track_6|Dynamic Weather|TBSOblivion|2020/07/04|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|165|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
-|125|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
-|99|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
-|83|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
-|78|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
-|62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
+|167|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|129|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
+|101|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
+|87|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
+|79|VRL Season 3 Track 2|Empty Scene Day|Mode2Ghost|2021/02/07|
+|67|VRL Season 4 Track 2|Bando|TBSOblivion|2020/06/03|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|36|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
-|165|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|38|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
+|167|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
 |62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
-|125|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
+|129|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

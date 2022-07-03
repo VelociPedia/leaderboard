@@ -77,7 +77,7 @@ MultiGP UTT 5,Football Stadium,999.999,RoflcopterStL,NO_DATA
 MultiGP UTT 6,Football Stadium,41.250,RoflcopterStL,UnitedStates,Five33Switchback,2021/07/03
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,112.657,RoflcopterStL,UnitedStates,Five33Switchback,2022/01/21
 Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,999.999,RoflcopterStL,NO_DATA
-Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,999.999,RoflcopterStL,NO_DATA
+Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,100.347,RoflcopterStL,UnitedStates,Five33Switchback,2022/05/15
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,99.617,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/15
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,89.973,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/28
 Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,107.355,RoflcopterStL,UnitedStates,Five33Switchback,2021/09/21
@@ -85,6 +85,22 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,72.430,RoflcopterS
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,110.900,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/03
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,96.025,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/21
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,86.988,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/28
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,159.173,RoflcopterStL,UnitedStates,Five33Switchback,2022/04/09
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,86.335,RoflcopterStL,UnitedStates,Five33Switchback,2022/04/28
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,118.733,RoflcopterStL,UnitedStates,Five33Switchback,2022/05/30
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,RoflcopterStL,NO_DATA
+Quad Rivals Airport,Empty Scene Day,91.508,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/05
+Quad Rivals Dive It,Countryside,57.357,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/28
+Quad Rivals Karting Track,IndoorGoKart,999.999,RoflcopterStL,NO_DATA
+Quad Rivals Ladders from Hell DW,Dynamic Weather,999.999,RoflcopterStL,NO_DATA
+Quad Rivals Lake Murray,Empty Scene Day,94.511,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/28
+Quad Rivals Overpass,Empty Scene Day,118.994,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/21
+Quad Rivals Sept 2019 Track,Castle Sneznik,999.999,RoflcopterStL,NO_DATA
+Quad Rivals Split S,Empty Scene Day,58.253,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/28
+Quad Rivals Team Race,Empty Scene Day,82.274,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/28
+Quad Rivals Weave,Empty Scene Day,99.405,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/28
+Quad Rivals Welborn,Empty Scene Day,54.216,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/27
+Quad Rivals Who Works DW,Dynamic Weather,70.938,RoflcopterStL,UnitedStates,Five33Switchback,2021/09/20
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,RoflcopterStL,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,95.475,RoflcopterStL,UnitedStates,Five33Switchback,2022/04/08
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,RoflcopterStL,NO_DATA
@@ -116,6 +132,7 @@ TBS EU Spec Series 9 Race 4,Football Stadium,96.756,RoflcopterStL,UnitedStates,F
 TBS EU Spec Series 9 Race 5,Empty Scene Day,87.149,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/09
 TBS EU Spec Series 9 Race 6,Empty Scene Day,103.625,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/19
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999.999,RoflcopterStL,NO_DATA
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,79.080,RoflcopterStL,UnitedStates,Five33Switchback,2022/06/20
 TDRF Dutch nationals indoor race 1,Empty Scene Day,145.952,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/25
 TDRF Dutch nationals indoor race 2,Empty Scene Day,114.581,RoflcopterStL,UnitedStates,Five33Switchback,2022/02/20
 TDRF Dutch nationals indoor race 3,Empty Scene Day,78.545,RoflcopterStL,UnitedStates,Five33Switchback,2022/03/15
@@ -139,7 +156,7 @@ VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,124.007,RoflcopterStL,UnitedStates,Fi
 VRL S5 Track 1,Dynamic Weather,163.106,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL S5 TRACK 2,Dynamic Weather,129.442,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL S5 TRACK 3,Bando,999.999,RoflcopterStL,NO_DATA
-VRL S5 TRACK 4,Empty Scene Day,136.181,RoflcopterStL,UnitedStates,Five33Switchback,2021/11/17
+VRL S5 TRACK 4,Empty Scene Day,96.722,RoflcopterStL,UnitedStates,Five33Switchback,2022/04/01
 VRL S5 TRACK 5,Dynamic Weather,181.524,RoflcopterStL,UnitedStates,Five33Switchback,2021/12/20
 VRL Season 3 Track 1,Empty Scene Day,98.579,RoflcopterStL,UnitedStates,Five33Switchback,2022/01/09
 VRL Season 3 Track 2,Empty Scene Day,999.999,RoflcopterStL,NO_DATA

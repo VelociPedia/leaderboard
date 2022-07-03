@@ -36,6 +36,7 @@ DEP Open Series 5 Race 7,Football Stadium,103.778,MegaHurts,UnitedStates,SniperX
 DEP Open Series 6 Race 1,Football Stadium,62.936,MegaHurts,UnitedStates,SniperX,2022/03/09
 DEP Open Series 6 Race 2,Football Stadium,108.593,MegaHurts,UnitedStates,Velocity,2022/06/04
 DEP Spec Series 1 Race 5,Football Stadium,87.136,MegaHurts,UnitedStates,Five33Switchback,2021/03/03
+DF5,Football Stadium,999.999,MegaHurts,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,75.860,MegaHurts,UnitedStates,Velocity,2022/05/31
 Mayhem 2021 By YAWESOME,Empty Scene Day,999.999,MegaHurts,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,59.456,MegaHurts,UnitedStates,SniperX,2022/03/28
@@ -80,6 +81,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,72.663,MegaHurts,UnitedStates,
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,76.803,MegaHurts,UnitedStates,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,104.995,MegaHurts,UnitedStates,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,68.438,MegaHurts,UnitedStates,TBSSpec,2022/02/05
+ReddingFPVs DroneD,Dynamic Weather,999.999,MegaHurts,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,54.848,MegaHurts,UnitedStates,SniperX,2022/03/05
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,77.901,MegaHurts,UnitedStates,SniperX,2022/06/29
 TBS EU Spec Series 10 Losers Final,Football Stadium,45.740,MegaHurts,UnitedStates,Velocity,2022/05/31
@@ -141,6 +143,11 @@ TBS EU Spec Series 9 Race 4,Football Stadium,69.058,MegaHurts,UnitedStates,TBSSp
 TBS EU Spec Series 9 Race 5,Empty Scene Day,75.790,MegaHurts,UnitedStates,TBSSpec,2021/10/08
 TBS EU Spec Series 9 Race 6,Empty Scene Day,77.167,MegaHurts,UnitedStates,Mode2Ghost,2021/10/30
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999.999,MegaHurts,NO_DATA
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,62.517,MegaHurts,UnitedStates,SniperX,2022/06/29
+TDRF Dutch nationals indoor race 1,Empty Scene Day,50.946,MegaHurts,UnitedStates,TBSSpec,2022/03/11
+TDRF Dutch nationals indoor race 2,Empty Scene Day,999.999,MegaHurts,NO_DATA
+TDRF Dutch nationals indoor race 3,Empty Scene Day,61.740,MegaHurts,UnitedStates,SniperX,2022/03/09
+TDRF Dutch nationals indoor race 4,Empty Scene Day,999.999,MegaHurts,NO_DATA
 VRL6 Championships,Dynamic Weather,125.094,MegaHurts,UnitedStates,Five33Switchback,2020/05/02
 VRL6 Crash Site,Dynamic Weather,999.999,MegaHurts,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999.999,MegaHurts,NO_DATA
@@ -198,7 +205,11 @@ Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,156.174,M
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,79.000,MegaHurts,UnitedStates,SniperX,2022/03/08
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,100.360,MegaHurts,UnitedStates,MadLite,2022/03/24
 Week 16 TT - CM18 by Chris M,Football Stadium,999.999,MegaHurts,NO_DATA
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,60.240,MegaHurts,UnitedStates,Velocity,2022/06/07
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,999.999,MegaHurts,NO_DATA
+Week 20 TT - BDS by ChrisM,Football Stadium,36.900,MegaHurts,UnitedStates,Velocity,2022/06/12
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999.999,MegaHurts,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,81.182,MegaHurts,UnitedStates,SniperX,2022/07/01
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,88.891,MegaHurts,UnitedStates,Mode2Ghost,2022/01/22
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,58.044,MegaHurts,UnitedStates,Chief,2021/11/23
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,999.999,MegaHurts,NO_DATA

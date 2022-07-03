@@ -39,6 +39,32 @@ MultiGP Tsunami,Football Stadium,45,24.014,ReSp4wN,Netherlands,TBSSpec,2020/04/0
 MultiGP UTT 1,Football Stadium,56,33.050,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 MultiGP UTT 5,Football Stadium,23,22.052,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 MultiGP UTT 6,Football Stadium,27,32.586,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,95,57.539,ReSp4wN,Netherlands,TBSSpec,2021/03/25
+Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,70,75.242,ReSp4wN,Netherlands,TBSSpec,2021/04/12
+Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,149,167.031,ReSp4wN,Netherlands,TBSSpec,2021/05/01
+Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals Airport,Empty Scene Day,23,70.018,ReSp4wN,Netherlands,TBSSpec,2020/04/11
+Quad Rivals Dive It,Countryside,29,46.205,ReSp4wN,Netherlands,TBSSpec,2020/04/13
+Quad Rivals Karting Track,IndoorGoKart,999,999.999,ReSp4wN,NO_DATA
+Quad Rivals Ladders from Hell DW,Dynamic Weather,19,102.543,ReSp4wN,Netherlands,TBSSpec,2020/08/24
+Quad Rivals Lake Murray,Empty Scene Day,45,49.147,ReSp4wN,Netherlands,TBSSpec,2020/10/17
+Quad Rivals Overpass,Empty Scene Day,43,82.130,ReSp4wN,Netherlands,TBSSpec,2020/04/27
+Quad Rivals Sept 2019 Track,Castle Sneznik,9,60.711,ReSp4wN,Netherlands,TBSSpec,2020/04/23
+Quad Rivals Split S,Empty Scene Day,26,44.514,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+Quad Rivals Team Race,Empty Scene Day,23,49.255,ReSp4wN,Netherlands,TBSSpec,2020/05/11
+Quad Rivals Weave,Empty Scene Day,23,59.202,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+Quad Rivals Welborn,Empty Scene Day,69,60.079,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+Quad Rivals Who Works DW,Dynamic Weather,26,62.462,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,113,77.254,ReSp4wN,Netherlands,TBSSpec,2020/06/28
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,85,76.837,ReSp4wN,Netherlands,TBSSpec,2020/04/12
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,89,63.001,ReSp4wN,Netherlands,TBSSpec,2020/04/13
@@ -113,10 +139,10 @@ VRL6 Championships,Dynamic Weather,76,104.794,ReSp4wN,Netherlands,TBSSpec,2020/0
 VRL6 Crash Site,Dynamic Weather,20,145.086,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 VRL6 Downtown Loop,Dynamic Weather,12,155.289,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 VRL6 Extermination,Dynamic Weather,72,132.951,ReSp4wN,Netherlands,TBSSpec,2020/04/25
-VRL6 Kenerator,Dynamic Weather,80,153.509,ReSp4wN,Netherlands,TBSSpec,2020/04/25
-VRL6 Meltdown,Dynamic Weather,27,134.549,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL6 Reinforcement,Dynamic Weather,51,154.710,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL6 Tunnel Vision,Dynamic Weather,65,152.507,ReSp4wN,Netherlands,TBSSpec,2020/04/24
+VRL6 Kenerator,Dynamic Weather,81,153.509,ReSp4wN,Netherlands,TBSSpec,2020/04/25
+VRL6 Meltdown,Dynamic Weather,30,134.549,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL6 Reinforcement,Dynamic Weather,52,154.710,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL6 Tunnel Vision,Dynamic Weather,67,152.507,ReSp4wN,Netherlands,TBSSpec,2020/04/24
 VRL 7 Race 4,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL 7 Track 1,Future Hangar,999,999.999,ReSp4wN,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,999,999.999,ReSp4wN,NO_DATA
@@ -124,32 +150,32 @@ VRL 7 Track 3,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,ReSp4wN,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,26,93.563,ReSp4wN,Netherlands,TBSSpec,2020/04/12
-VRL S5 Track 1,Dynamic Weather,35,107.829,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL S5 TRACK 2,Dynamic Weather,19,118.012,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL S5 TRACK 3,Bando,15,112.432,ReSp4wN,Netherlands,TBSSpec,2020/04/28
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,27,93.563,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+VRL S5 Track 1,Dynamic Weather,36,107.829,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL S5 TRACK 2,Dynamic Weather,20,118.012,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL S5 TRACK 3,Bando,17,112.432,ReSp4wN,Netherlands,TBSSpec,2020/04/28
 VRL S5 TRACK 4,Empty Scene Day,12,86.567,ReSp4wN,Netherlands,TBSSpec,2020/04/12
-VRL S5 TRACK 5,Dynamic Weather,23,124.370,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL Season 3 Track 1,Empty Scene Day,87,89.173,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+VRL S5 TRACK 5,Dynamic Weather,25,124.370,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL Season 3 Track 1,Empty Scene Day,95,89.173,ReSp4wN,Netherlands,TBSSpec,2020/04/12
 VRL Season 3 Track 2,Empty Scene Day,36,70.802,ReSp4wN,Netherlands,TBSSpec,2020/07/19
 VRL Season 3 Track 3,Empty Scene Day,36,107.245,ReSp4wN,Netherlands,TBSSpec,2020/04/12
-VRL Season 3 Track 4,Empty Scene Day,37,118.958,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+VRL Season 3 Track 4,Empty Scene Day,38,118.958,ReSp4wN,Netherlands,TBSSpec,2020/04/12
 VRL Season 3 Track 5,Empty Scene Day,59,102.818,ReSp4wN,Netherlands,TBSSpec,2020/04/12
-VRL Season 3 Track 6,Empty Scene Day,19,158.622,ReSp4wN,Netherlands,TBSSpec,2020/04/12
-VRL Season 4 Championship,Football Stadium,16,136.522,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL Season 4 Track 1,Dynamic Weather,31,148.249,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL Season 4 Track 2,Bando,16,112.373,ReSp4wN,Netherlands,TBSSpec,2020/04/19
-VRL Season 4 Track 3,Basketball Stadium,21,69.857,ReSp4wN,Netherlands,TBSSpec,2020/04/20
-VRL-Season-4-Track-4,Dynamic Weather,13,86.138,ReSp4wN,Netherlands,TBSSpec,2020/04/13
+VRL Season 3 Track 6,Empty Scene Day,20,158.622,ReSp4wN,Netherlands,TBSSpec,2020/04/12
+VRL Season 4 Championship,Football Stadium,18,136.522,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL Season 4 Track 1,Dynamic Weather,33,148.249,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL Season 4 Track 2,Bando,18,112.373,ReSp4wN,Netherlands,TBSSpec,2020/04/19
+VRL Season 4 Track 3,Basketball Stadium,27,69.857,ReSp4wN,Netherlands,TBSSpec,2020/04/20
+VRL-Season-4-Track-4,Dynamic Weather,14,86.138,ReSp4wN,Netherlands,TBSSpec,2020/04/13
 VRL_Season_4_Track_5,Coastal,999,999.999,ReSp4wN,NO_DATA
-VRL_Season_4_Track_6,Dynamic Weather,13,112.344,ReSp4wN,Netherlands,TBSSpec,2020/04/13
-VRL Season 4 Track 7,Dynamic Weather,37,123.230,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL-Season-4-Tryouts,Dynamic Weather,14,335.146,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL SEASON 5 TRACK 6,Dynamic Weather,23,113.365,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL_Season_4_Track_6,Dynamic Weather,14,112.344,ReSp4wN,Netherlands,TBSSpec,2020/04/13
+VRL Season 4 Track 7,Dynamic Weather,38,123.230,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL-Season-4-Tryouts,Dynamic Weather,15,335.146,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL SEASON 5 TRACK 6,Dynamic Weather,26,113.365,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,ReSp4wN,NO_DATA
 VRL SEASON 5 TRACK 8,Industrial Wasteland,999,999.999,ReSp4wN,NO_DATA
 VRL SEASON 5 TRYOUTS,Dynamic Weather,28,134.205,ReSp4wN,Netherlands,TBSSpec,2020/04/06
-VRL SEASON 6 TRYOUTS,Dynamic Weather,38,118.549,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL SEASON 6 TRYOUTS,Dynamic Weather,39,118.549,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 VRL Season 7 Championships,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,999,999.999,ReSp4wN,NO_DATA
 VRL Season 8 Track 1,Office Complex,999,999.999,ReSp4wN,NO_DATA

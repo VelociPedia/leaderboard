@@ -3,38 +3,38 @@
 |:---:|:---|:---|:---:|:---:|
 |26|VRL Season 3 Track 3|Empty Scene Day|TwigXL3|2022/03/16|
 |26|VRL6 Downtown Loop|Dynamic Weather|Ragg-e200h|2022/03/20|
-|33|VRL Season 4 Track 2|Bando|TwigXL3|2022/03/16|
-|33|VRL SEASON 5 TRACK 7|IndoorGoKart|Ragg-e200h|2022/03/14|
+|27|VRL-Season-4-Track-4|Dynamic Weather|Ragg-e200h|2022/03/22|
+|35|VRL SEASON 5 TRACK 7|IndoorGoKart|Ragg-e200h|2022/03/14|
 ---
-### Worse 6 VRL SERIES TRACKS ranks
+### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|184|VRL6 Championships|Dynamic Weather|TwigXL3|2022/03/17|
-|158|VRL6 Extermination|Dynamic Weather|Ragg-e200h|2022/03/20|
-|157|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
-|122|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
-|120|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
-|116|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
+|189|VRL6 Championships|Dynamic Weather|TwigXL3|2022/03/17|
+|181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
+|160|VRL6 Extermination|Dynamic Weather|Ragg-e200h|2022/03/20|
+|124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
+|124|VRL Season 3 Track 1|Empty Scene Day|Ragg-e200h|2022/03/16|
+|123|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
+|119|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|157|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
-|120|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
-|87|VRL Season 8 Track 1|Office Complex|TwigXL3|2022/03/03|
-|122|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
+|181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
+|124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
+|88|VRL Season 8 Track 1|Office Complex|TwigXL3|2022/03/03|
+|123|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|120|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
+|124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
 ---
-### 25 tracks without data (200+ or not in leaderboard)
+### 23 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |VRL Season 3 Track 6|Empty Scene Day|
 |VRL-Season-4-Tryouts|Dynamic Weather|
-|VRL-Season-4-Track-4|Dynamic Weather|
 |VRL_Season_4_Track_6|Dynamic Weather|
 |VRL Season 4 Track 7|Dynamic Weather|
 |VRL Season 4 Championship|Football Stadium|
@@ -53,7 +53,6 @@
 |VRL Season 7 Championships|Dynamic Weather|
 |VRL SEASON 8 TRYOUTS|RedValley|
 |VRL Season 8 Track 3|Night Factory 2|
-|VRL Season 8 Track 4|DynamicPoly|
 |VRL Season 8 Track 6|Night Factory 2|
 |VRL SEASON 8 TRACK 7|Dynamic Weather|
 |VRL Season 8 Championships|Dynamic Weather|

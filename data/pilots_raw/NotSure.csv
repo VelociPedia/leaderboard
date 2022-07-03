@@ -41,6 +41,7 @@ DEP Open Series 5 Race 7,Football Stadium,117.751,NotSure,UnitedStates,TBSSpec,2
 DEP Open Series 6 Race 1,Football Stadium,78.164,NotSure,UnitedStates,TBSSpec,2022/03/14
 DEP Open Series 6 Race 2,Football Stadium,107.446,NotSure,UnitedStates,TBSSpec,2022/03/12
 DEP Spec Series 1 Race 5,Football Stadium,999.999,NotSure,NO_DATA
+DF5,Football Stadium,999.999,NotSure,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,NotSure,NO_DATA
 Formula FLow I,Empty Scene Day,58.057,NotSure,UnitedKingdom,Five33Switchback,2022/03/22
 Formula Flow II,Empty Scene Day,82.024,NotSure,UnitedKingdom,Five33Switchback,2022/03/22
@@ -76,16 +77,32 @@ MultiGP Tsunami,Football Stadium,28.431,NotSure,UnitedStates,TBSSpec,2021/07/25
 MultiGP UTT 1,Football Stadium,35.149,NotSure,UnitedStates,TBSSpec,2021/07/25
 MultiGP UTT 5,Football Stadium,25.566,NotSure,UnitedStates,TBSSpec,2021/07/25
 MultiGP UTT 6,Football Stadium,39.915,NotSure,UnitedStates,TBSSpec,2021/07/25
-Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,109.135,NotSure,UnitedKingdom,TBSSpec,2022/01/13
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,50.982,NotSure,UnitedKingdom,Five33Switchback,2022/04/03
-Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,70.827,NotSure,UnitedKingdom,Five33Switchback,2022/04/05
-Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,112.980,NotSure,UnitedKingdom,TBSSpec,2021/07/30
-Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,90.266,NotSure,UnitedKingdom,TBSSpec,2021/07/30
-Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,103.412,NotSure,UnitedKingdom,TBSSpec,2021/07/30
-Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,84.112,NotSure,UnitedKingdom,Five33Switchback,2021/09/28
-Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,97.898,NotSure,UnitedKingdom,TBSSpec,2021/11/01
-Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,78.201,NotSure,UnitedKingdom,TBSSpec,2021/12/21
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,75.883,NotSure,UnitedKingdom,TBSSpec,2022/01/30
+Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,109.135,NotSure,UnitedStates,TBSSpec,2022/01/13
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,50.982,NotSure,UnitedStates,Five33Switchback,2022/04/03
+Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,70.827,NotSure,UnitedStates,Five33Switchback,2022/04/05
+Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,112.980,NotSure,UnitedStates,TBSSpec,2021/07/30
+Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,90.266,NotSure,UnitedStates,TBSSpec,2021/07/30
+Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,103.412,NotSure,UnitedStates,TBSSpec,2021/07/30
+Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,84.112,NotSure,UnitedStates,Five33Switchback,2021/09/28
+Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,97.898,NotSure,UnitedStates,TBSSpec,2021/11/01
+Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,78.201,NotSure,UnitedStates,TBSSpec,2021/12/21
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,75.883,NotSure,UnitedStates,TBSSpec,2022/01/30
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,67.779,NotSure,UnitedStates,Five33Switchback,2022/04/09
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,53.523,NotSure,UnitedStates,Five33Switchback,2022/04/26
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,76.447,NotSure,UnitedStates,Five33Switchback,2022/05/29
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,NotSure,NO_DATA
+Quad Rivals Airport,Empty Scene Day,86.712,NotSure,UnitedStates,TBSSpec,2021/07/30
+Quad Rivals Dive It,Countryside,58.031,NotSure,UnitedStates,TBSSpec,2021/07/31
+Quad Rivals Karting Track,IndoorGoKart,196.862,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Ladders from Hell DW,Dynamic Weather,154.499,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Lake Murray,Empty Scene Day,65.313,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Overpass,Empty Scene Day,93.866,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Sept 2019 Track,Castle Sneznik,999.999,NotSure,NO_DATA
+Quad Rivals Split S,Empty Scene Day,50.631,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Team Race,Empty Scene Day,76.229,NotSure,UnitedStates,TBSSpec,2021/08/01
+Quad Rivals Weave,Empty Scene Day,71.712,NotSure,UnitedStates,TBSSpec,2021/08/02
+Quad Rivals Welborn,Empty Scene Day,63.096,NotSure,UnitedStates,TBSSpec,2021/08/02
+Quad Rivals Who Works DW,Dynamic Weather,77.314,NotSure,UnitedStates,TBSSpec,2021/08/02
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,NotSure,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,77.905,NotSure,UnitedStates,Five33Switchback,2022/06/14
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,57.275,NotSure,UnitedStates,Five33Switchback,2022/04/08
@@ -99,6 +116,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,77.507,NotSure,UnitedStates,Fi
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,NotSure,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,NotSure,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,99.528,NotSure,UnitedStates,TBSSpec,2022/01/30
+ReddingFPVs DroneD,Dynamic Weather,999.999,NotSure,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,64.055,NotSure,UnitedStates,Five33Switchback,2022/04/12
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,81.249,NotSure,UnitedStates,TBSSpec,2022/02/28
 TBS EU Spec Series 10 Losers Final,Football Stadium,67.858,NotSure,UnitedStates,Five33Switchback,2022/02/13
@@ -160,9 +178,10 @@ TBS EU Spec Series 9 Race 4,Football Stadium,77.840,NotSure,UnitedStates,Five33S
 TBS EU Spec Series 9 Race 5,Empty Scene Day,999.999,NotSure,NO_DATA
 TBS EU Spec Series 9 Race 6,Empty Scene Day,72.245,NotSure,UnitedStates,Five33Switchback,2022/05/31
 TBS EU Spec Series 9 Race 7,NEC Birmingham,92.396,NotSure,UnitedStates,TBSSpec,2021/11/03
-TDRF Dutch nationals indoor race 1,Empty Scene Day,88.901,NotSure,UnitedKingdom,Five33Switchback,2022/02/20
-TDRF Dutch nationals indoor race 2,Empty Scene Day,107.817,NotSure,UnitedKingdom,Five33Switchback,2022/02/20
-TDRF Dutch nationals indoor race 3,Empty Scene Day,78.376,NotSure,UnitedKingdom,TBSSpec,2022/03/06
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,77.323,NotSure,UnitedStates,Five33Switchback,2022/06/29
+TDRF Dutch nationals indoor race 1,Empty Scene Day,88.901,NotSure,UnitedStates,Five33Switchback,2022/02/20
+TDRF Dutch nationals indoor race 2,Empty Scene Day,107.817,NotSure,UnitedStates,Five33Switchback,2022/02/20
+TDRF Dutch nationals indoor race 3,Empty Scene Day,78.376,NotSure,UnitedStates,TBSSpec,2022/03/06
 TDRF Dutch nationals indoor race 4,Empty Scene Day,999.999,NotSure,NO_DATA
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,27.375,NotSure,UnitedKingdom,TBSSpec,2022/01/10
 Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,30.031,NotSure,UnitedKingdom,Five33Switchback,2022/02/13
@@ -183,23 +202,27 @@ Train insane - Split-S - MaiOnHigh,Empty Scene Day,21.168,NotSure,UnitedKingdom,
 Train Insane- Test1 - MaiOnHigh,Empty Scene Day,999.999,NotSure,NO_DATA
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,47.579,NotSure,UnitedKingdom,TBSSpec,2022/01/04
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,20.528,NotSure,UnitedKingdom,Five33Switchback,2022/02/20
-VRL Season 8 Championships,Dynamic Weather,112.129,NotSure,UnitedKingdom,Five33Switchback,2022/02/13
+VRL Season 8 Championships,Dynamic Weather,112.129,NotSure,UnitedStates,Five33Switchback,2022/02/13
 VRL Season 8 Track 1,Office Complex,999.999,NotSure,NO_DATA
 VRL Season 8 Track 2,Drift Track,999.999,NotSure,NO_DATA
-VRL Season 8 Track 3,Night Factory 2,194.594,NotSure,UnitedKingdom,TBSSpec,2022/01/02
-VRL Season 8 Track 4,DynamicPoly,189.210,NotSure,UnitedKingdom,TBSSpec,2021/12/07
-VRL Season 8 Track 5,Dynamic Weather,160.384,NotSure,UnitedKingdom,Five33Switchback,2021/12/23
+VRL Season 8 Track 3,Night Factory 2,194.594,NotSure,UnitedStates,TBSSpec,2022/01/02
+VRL Season 8 Track 4,DynamicPoly,189.210,NotSure,UnitedStates,TBSSpec,2021/12/07
+VRL Season 8 Track 5,Dynamic Weather,160.384,NotSure,UnitedStates,Five33Switchback,2021/12/23
 VRL Season 8 Track 6,Night Factory 2,999.999,NotSure,NO_DATA
-VRL SEASON 8 TRACK 7,Dynamic Weather,116.522,NotSure,UnitedKingdom,TBSSpec,2022/01/30
+VRL SEASON 8 TRACK 7,Dynamic Weather,116.522,NotSure,UnitedStates,TBSSpec,2022/01/30
 VRL SEASON 8 TRYOUTS,RedValley,999.999,NotSure,NO_DATA
-Week 10 TT - MCKPractice2,Football Stadium,69.152,NotSure,UnitedKingdom,TBSSpec,2022/01/11
-Week 12 TT - GQ22 by Chris M,Football Stadium,39.956,NotSure,UnitedKingdom,TBSSpec,2022/02/26
-Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,198.712,NotSure,UnitedKingdom,TBSSpec,2022/02/26
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,89.455,NotSure,UnitedKingdom,TBSSpec,2022/03/08
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,152.773,NotSure,UnitedKingdom,DJI,2022/03/24
-Week 16 TT - CM18 by Chris M,Football Stadium,48.413,NotSure,UnitedKingdom,Five33Switchback,2022/04/17
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,59.691,NotSure,UnitedKingdom,TBSSpec,2022/02/26
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,102.633,NotSure,UnitedKingdom,TBSSpec,2022/02/27
-Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,66.227,NotSure,UnitedKingdom,TBSSpec,2022/02/27
-Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,112.343,NotSure,UnitedKingdom,TBSSpec,2022/02/27
-Week 9 TT - CM17 by Chris M,Football Stadium,70.172,NotSure,UnitedKingdom,TBSSpec,2022/01/01
+Week 10 TT - MCKPractice2,Football Stadium,58.430,NotSure,UnitedStates,Five33Switchback,2022/05/08
+Week 12 TT - GQ22 by Chris M,Football Stadium,39.956,NotSure,UnitedStates,TBSSpec,2022/02/26
+Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,198.712,NotSure,UnitedStates,TBSSpec,2022/02/26
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,89.455,NotSure,UnitedStates,TBSSpec,2022/03/08
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,152.773,NotSure,UnitedStates,DJI,2022/03/24
+Week 16 TT - CM18 by Chris M,Football Stadium,48.413,NotSure,UnitedStates,Five33Switchback,2022/04/17
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999.999,NotSure,NO_DATA
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,59.691,NotSure,UnitedStates,TBSSpec,2022/02/26
+Week 20 TT - BDS by ChrisM,Football Stadium,41.010,NotSure,UnitedStates,Five33Switchback,2022/06/13
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,96.592,NotSure,UnitedStates,Five33Switchback,2022/06/15
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,NotSure,NO_DATA
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,102.633,NotSure,UnitedStates,TBSSpec,2022/02/27
+Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,66.227,NotSure,UnitedStates,TBSSpec,2022/02/27
+Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,112.343,NotSure,UnitedStates,TBSSpec,2022/02/27
+Week 9 TT - CM17 by Chris M,Football Stadium,70.172,NotSure,UnitedStates,TBSSpec,2022/01/01

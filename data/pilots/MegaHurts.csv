@@ -36,6 +36,7 @@ DEP Open Series 5 Race 7,Football Stadium,63,103.778,MegaHurts,UnitedStates,Snip
 DEP Open Series 6 Race 1,Football Stadium,19,62.936,MegaHurts,UnitedStates,SniperX,2022/03/09
 DEP Open Series 6 Race 2,Football Stadium,65,108.593,MegaHurts,UnitedStates,Velocity,2022/06/04
 DEP Spec Series 1 Race 5,Football Stadium,30,87.136,MegaHurts,UnitedStates,Five33Switchback,2021/03/03
+DF5,Football Stadium,999,999.999,MegaHurts,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,12,75.860,MegaHurts,UnitedStates,Velocity,2022/05/31
 Mayhem 2021 By YAWESOME,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,28,59.456,MegaHurts,UnitedStates,SniperX,2022/03/28
@@ -80,6 +81,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,66,72.663,MegaHurts,UnitedStat
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,31,76.803,MegaHurts,UnitedStates,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,69,104.995,MegaHurts,UnitedStates,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,13,68.438,MegaHurts,UnitedStates,TBSSpec,2022/02/05
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,24,54.848,MegaHurts,UnitedStates,SniperX,2022/03/05
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,52,77.901,MegaHurts,UnitedStates,SniperX,2022/06/29
 TBS EU Spec Series 10 Losers Final,Football Stadium,2,45.740,MegaHurts,UnitedStates,Velocity,2022/05/31
@@ -141,38 +143,43 @@ TBS EU Spec Series 9 Race 4,Football Stadium,56,69.058,MegaHurts,UnitedStates,TB
 TBS EU Spec Series 9 Race 5,Empty Scene Day,123,75.790,MegaHurts,UnitedStates,TBSSpec,2021/10/08
 TBS EU Spec Series 9 Race 6,Empty Scene Day,84,77.167,MegaHurts,UnitedStates,Mode2Ghost,2021/10/30
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,MegaHurts,NO_DATA
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,10,62.517,MegaHurts,UnitedStates,SniperX,2022/06/29
+TDRF Dutch nationals indoor race 1,Empty Scene Day,7,50.946,MegaHurts,UnitedStates,TBSSpec,2022/03/11
+TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
+TDRF Dutch nationals indoor race 3,Empty Scene Day,17,61.740,MegaHurts,UnitedStates,SniperX,2022/03/09
+TDRF Dutch nationals indoor race 4,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
 VRL6 Championships,Dynamic Weather,122,125.094,MegaHurts,UnitedStates,Five33Switchback,2020/05/02
 VRL6 Crash Site,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Kenerator,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-VRL6 Meltdown,Dynamic Weather,56,233.666,MegaHurts,UnitedStates,Five33Switchback,2021/01/03
+VRL6 Meltdown,Dynamic Weather,60,233.666,MegaHurts,UnitedStates,Five33Switchback,2021/01/03
 VRL6 Reinforcement,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Tunnel Vision,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-VRL 7 Race 4,Dynamic Weather,135,102.254,MegaHurts,UnitedStates,Five33Switchback,2020/11/24
-VRL 7 Track 1,Future Hangar,80,100.833,MegaHurts,UnitedStates,Five33Switchback,2020/10/28
+VRL 7 Race 4,Dynamic Weather,136,102.254,MegaHurts,UnitedStates,Five33Switchback,2020/11/24
+VRL 7 Track 1,Future Hangar,81,100.833,MegaHurts,UnitedStates,Five33Switchback,2020/10/28
 VRL 7 Track 2,Future Hangar Empty,114,131.154,MegaHurts,UnitedStates,Five33Switchback,2020/12/28
 VRL 7 Track 3,Dynamic Weather,110,84.886,MegaHurts,UnitedStates,Five33Switchback,2020/11/15
-VRL 7 Track 5,Dynamic Weather,26,81.792,MegaHurts,UnitedStates,Mode2Ghost,2021/10/30
-VRL 7 Track 6,Dynamic Weather,123,88.608,MegaHurts,UnitedStates,Five33Switchback,2020/12/14
+VRL 7 Track 5,Dynamic Weather,27,81.792,MegaHurts,UnitedStates,Mode2Ghost,2021/10/30
+VRL 7 Track 6,Dynamic Weather,124,88.608,MegaHurts,UnitedStates,Five33Switchback,2020/12/14
 VRL7 Tryouts,Future Hangar Empty,148,99.977,MegaHurts,UnitedStates,Ossa,2020/09/14
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,82,126.758,MegaHurts,UnitedStates,Five33Switchback,2020/05/10
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,84,126.758,MegaHurts,UnitedStates,Five33Switchback,2020/05/10
 VRL S5 Track 1,Dynamic Weather,18,95.802,MegaHurts,UnitedStates,TBSSpec,2020/11/12
 VRL S5 TRACK 2,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL S5 TRACK 3,Bando,999,999.999,MegaHurts,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,13,86.621,MegaHurts,UnitedStates,Five33Switchback,2020/05/10
 VRL S5 TRACK 5,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-VRL Season 3 Track 1,Empty Scene Day,26,67.977,MegaHurts,UnitedStates,Five33Switchback,2021/01/19
-VRL Season 3 Track 2,Empty Scene Day,110,93.427,MegaHurts,UnitedStates,Five33Switchback,2021/04/07
+VRL Season 3 Track 1,Empty Scene Day,29,67.977,MegaHurts,UnitedStates,Five33Switchback,2021/01/19
+VRL Season 3 Track 2,Empty Scene Day,113,93.427,MegaHurts,UnitedStates,Five33Switchback,2021/04/07
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
-VRL Season 3 Track 4,Empty Scene Day,26,111.725,MegaHurts,UnitedStates,Five33Switchback,2021/04/13
+VRL Season 3 Track 4,Empty Scene Day,27,111.725,MegaHurts,UnitedStates,Five33Switchback,2021/04/13
 VRL Season 3 Track 5,Empty Scene Day,17,72.704,MegaHurts,UnitedStates,Chief,2021/11/16
 VRL Season 3 Track 6,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Championship,Football Stadium,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Track 1,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-VRL Season 4 Track 2,Bando,23,128.610,MegaHurts,UnitedStates,SniperX,2022/02/20
-VRL Season 4 Track 3,Basketball Stadium,14,67.598,MegaHurts,UnitedStates,TBSSpec,2021/01/16
-VRL-Season-4-Track-4,Dynamic Weather,27,103.488,MegaHurts,UnitedStates,TBSSpec,2020/05/16
+VRL Season 4 Track 2,Bando,29,128.610,MegaHurts,UnitedStates,SniperX,2022/02/20
+VRL Season 4 Track 3,Basketball Stadium,18,67.598,MegaHurts,UnitedStates,TBSSpec,2021/01/16
+VRL-Season-4-Track-4,Dynamic Weather,29,103.488,MegaHurts,UnitedStates,TBSSpec,2020/05/16
 VRL_Season_4_Track_5,Coastal,5,99.671,MegaHurts,UnitedStates,SniperX,2022/01/30
 VRL_Season_4_Track_6,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL Season 4 Track 7,Dynamic Weather,4,80.969,MegaHurts,UnitedStates,SniperX,2022/02/04
@@ -182,24 +189,28 @@ VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,MegaHurts,NO_DATA
 VRL SEASON 5 TRACK 8,Industrial Wasteland,8,99.138,MegaHurts,UnitedStates,TBSSpec,2021/02/14
 VRL SEASON 5 TRYOUTS,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,6,99.333,MegaHurts,UnitedStates,Mode2Ghost,2021/09/12
-VRL Season 7 Championships,Dynamic Weather,32,98.014,MegaHurts,UnitedStates,Mode2Ghost,2021/09/04
-VRL Season 8 Championships,Dynamic Weather,51,82.135,MegaHurts,UnitedStates,SniperX,2022/02/06
+VRL Season 7 Championships,Dynamic Weather,34,98.014,MegaHurts,UnitedStates,Mode2Ghost,2021/09/04
+VRL Season 8 Championships,Dynamic Weather,52,82.135,MegaHurts,UnitedStates,SniperX,2022/02/06
 VRL Season 8 Track 1,Office Complex,999,999.999,MegaHurts,NO_DATA
-VRL Season 8 Track 2,Drift Track,121,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
-VRL Season 8 Track 3,Night Factory 2,103,143.473,MegaHurts,UnitedStates,SniperX,2022/02/19
+VRL Season 8 Track 2,Drift Track,122,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
+VRL Season 8 Track 3,Night Factory 2,106,143.473,MegaHurts,UnitedStates,SniperX,2022/02/19
 VRL Season 8 Track 4,DynamicPoly,63,149.720,MegaHurts,UnitedStates,Chief,2021/12/19
 VRL Season 8 Track 5,Dynamic Weather,77,136.184,MegaHurts,UnitedStates,SniperX,2022/01/20
 VRL Season 8 Track 6,Night Factory 2,999,999.999,MegaHurts,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,36,77.805,MegaHurts,UnitedStates,Mode2Ghost,2022/01/23
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,MegaHurts,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,999,999.999,MegaHurts,NO_DATA
-Week 12 TT - GQ22 by Chris M,Football Stadium,44,33.424,MegaHurts,UnitedStates,SniperX,2022/03/06
+Week 12 TT - GQ22 by Chris M,Football Stadium,47,33.424,MegaHurts,UnitedStates,SniperX,2022/03/06
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,41,156.174,MegaHurts,UnitedStates,SniperX,2022/02/23
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,14,79.000,MegaHurts,UnitedStates,SniperX,2022/03/08
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,24,100.360,MegaHurts,UnitedStates,MadLite,2022/03/24
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,16,79.000,MegaHurts,UnitedStates,SniperX,2022/03/08
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,31,100.360,MegaHurts,UnitedStates,MadLite,2022/03/24
 Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,MegaHurts,NO_DATA
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,8,60.240,MegaHurts,UnitedStates,Velocity,2022/06/07
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,22,88.891,MegaHurts,UnitedStates,Mode2Ghost,2022/01/22
+Week 20 TT - BDS by ChrisM,Football Stadium,18,36.900,MegaHurts,UnitedStates,Velocity,2022/06/12
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,5,81.182,MegaHurts,UnitedStates,SniperX,2022/07/01
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,27,88.891,MegaHurts,UnitedStates,Mode2Ghost,2022/01/22
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,28,58.044,MegaHurts,UnitedStates,Chief,2021/11/23
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
-Week 9 TT - CM17 by Chris M,Football Stadium,29,57.769,MegaHurts,UnitedStates,Mode2Ghost,2022/01/22
+Week 9 TT - CM17 by Chris M,Football Stadium,33,57.769,MegaHurts,UnitedStates,Mode2Ghost,2022/01/22

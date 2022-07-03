@@ -34,6 +34,7 @@ DEP Open Series 5 Race 7,Football Stadium,32,92.978,Gafannen,Slovakia,Five33Swit
 DEP Open Series 6 Race 1,Football Stadium,999,999.999,Gafannen,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,40,99.190,Gafannen,Slovakia,Five33Switchback,2022/03/09
 DEP Spec Series 1 Race 5,Football Stadium,20,83.466,Gafannen,Slovakia,Five33Switchback,2022/04/01
+DF5,Football Stadium,999,999.999,Gafannen,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,9,74.621,Gafannen,Slovakia,Ossa,2022/06/24
 Mayhem 2021 By YAWESOME,Empty Scene Day,17,60.316,Gafannen,Slovakia,Five33Switchback,2022/03/31
 Mayhem 22 by SFPV,Empty Scene Day,39,63.563,Gafannen,Slovakia,Five33Switchback,2022/03/28
@@ -63,7 +64,7 @@ MultiGP UTT 1,Football Stadium,999,999.999,Gafannen,NO_DATA
 MultiGP UTT 5,Football Stadium,999,999.999,Gafannen,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,Gafannen,NO_DATA
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,999,999.999,Gafannen,NO_DATA
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,138,67.936,Gafannen,Slovakia,Five33Switchback,2021/04/01
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,159,67.936,Gafannen,Slovakia,Five33Switchback,2021/04/01
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,40,67.848,Gafannen,Slovakia,Five33Switchback,2021/09/21
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,999,999.999,Gafannen,NO_DATA
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,39,67.056,Gafannen,Slovakia,Five33Switchback,2021/09/10
@@ -71,7 +72,7 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,50,77.531,Gafannen,Slov
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,999,999.999,Gafannen,NO_DATA
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,999,999.999,Gafannen,NO_DATA
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,55,70.796,Gafannen,Slovakia,Five33Switchback,2022/02/23
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,31,73.076,Gafannen,Slovakia,Five33Switchback,2021/12/31
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,32,73.076,Gafannen,Slovakia,Five33Switchback,2021/12/31
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,9,59.552,Gafannen,Slovakia,SingularitumV5,2022/06/29
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,42,67.823,Gafannen,Slovakia,Five33Switchback,2021/09/29
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,30,54.198,Gafannen,Slovakia,Five33Switchback,2022/04/02
@@ -85,6 +86,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,12,58.028,Gafannen,Slovakia,Fi
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,104,100.471,Gafannen,Slovakia,Five33Switchback,2021/05/23
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,130,117.948,Gafannen,Slovakia,Five33Switchback,2021/05/23
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,177,105.413,Gafannen,Slovakia,Five33Switchback,2021/12/12
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,Gafannen,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,10,53.075,Gafannen,Slovakia,Five33Switchback,2022/06/03
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,11,69.347,Gafannen,Slovakia,Five33Switchback,2022/06/03
 TBS EU Spec Series 10 Losers Final,Football Stadium,14,49.637,Gafannen,Slovakia,Five33Switchback,2022/02/22
@@ -146,6 +148,11 @@ TBS EU Spec Series 9 Race 4,Football Stadium,17,62.189,Gafannen,Slovakia,Five33S
 TBS EU Spec Series 9 Race 5,Empty Scene Day,26,59.702,Gafannen,Slovakia,Five33Switchback,2022/06/13
 TBS EU Spec Series 9 Race 6,Empty Scene Day,14,62.098,Gafannen,Slovakia,Five33Switchback,2022/04/08
 TBS EU Spec Series 9 Race 7,NEC Birmingham,11,57.228,Gafannen,Slovakia,Five33Switchback,2022/06/18
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,11,62.585,Gafannen,Slovakia,SniperX,2022/06/22
+TDRF Dutch nationals indoor race 1,Empty Scene Day,999,999.999,Gafannen,NO_DATA
+TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,Gafannen,NO_DATA
+TDRF Dutch nationals indoor race 3,Empty Scene Day,6,52.589,Gafannen,Slovakia,Five33Switchback,2022/03/08
+TDRF Dutch nationals indoor race 4,Empty Scene Day,14,47.146,Gafannen,Slovakia,Five33Switchback,2022/03/28
 VRL6 Championships,Dynamic Weather,135,130.901,Gafannen,Slovakia,Five33Switchback,2021/05/21
 VRL6 Crash Site,Dynamic Weather,999,999.999,Gafannen,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,Gafannen,NO_DATA
@@ -188,23 +195,27 @@ VRL SEASON 5 TRACK 8,Industrial Wasteland,147,274.259,Gafannen,Slovakia,Mode2Gho
 VRL SEASON 5 TRYOUTS,Dynamic Weather,999,999.999,Gafannen,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,19,107.639,Gafannen,Slovakia,Five33Switchback,2021/09/11
 VRL Season 7 Championships,Dynamic Weather,78,105.599,Gafannen,Slovakia,Five33Switchback,2021/09/03
-VRL Season 8 Championships,Dynamic Weather,76,105.576,Gafannen,Slovakia,Five33Switchback,2022/02/06
+VRL Season 8 Championships,Dynamic Weather,79,105.576,Gafannen,Slovakia,Five33Switchback,2022/02/06
 VRL Season 8 Track 1,Office Complex,64,149.015,Gafannen,Slovakia,Five33Switchback,2021/11/01
 VRL Season 8 Track 2,Drift Track,70,102.511,Gafannen,Slovakia,Five33Switchback,2021/11/16
 VRL Season 8 Track 3,Night Factory 2,73,117.293,Gafannen,Slovakia,Five33Switchback,2021/12/03
-VRL Season 8 Track 4,DynamicPoly,96,268.723,Gafannen,Slovakia,Five33Switchback,2021/12/07
+VRL Season 8 Track 4,DynamicPoly,106,268.723,Gafannen,Slovakia,Five33Switchback,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,999,999.999,Gafannen,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999,999.999,Gafannen,NO_DATA
-VRL SEASON 8 TRACK 7,Dynamic Weather,62,88.829,Gafannen,Slovakia,Five33Switchback,2022/01/23
-VRL SEASON 8 TRYOUTS,RedValley,36,342.421,Gafannen,Slovakia,Five33Switchback,2021/09/23
-Week 10 TT - MCKPractice2,Football Stadium,47,54.833,Gafannen,Slovakia,Five33Switchback,2022/01/03
-Week 12 TT - GQ22 by Chris M,Football Stadium,47,33.961,Gafannen,Slovakia,Five33Switchback,2022/02/04
+VRL SEASON 8 TRACK 7,Dynamic Weather,64,88.829,Gafannen,Slovakia,Five33Switchback,2022/01/23
+VRL SEASON 8 TRYOUTS,RedValley,37,342.421,Gafannen,Slovakia,Five33Switchback,2021/09/23
+Week 10 TT - MCKPractice2,Football Stadium,49,54.833,Gafannen,Slovakia,Five33Switchback,2022/01/03
+Week 12 TT - GQ22 by Chris M,Football Stadium,50,33.961,Gafannen,Slovakia,Five33Switchback,2022/02/04
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,17,131.331,Gafannen,Slovakia,Five33Switchback,2022/02/19
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,11,78.312,Gafannen,Slovakia,Five33Switchback,2022/04/18
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,14,78.312,Gafannen,Slovakia,Five33Switchback,2022/04/18
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999,999.999,Gafannen,NO_DATA
-Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,Gafannen,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,12,42.317,Gafannen,Slovakia,Five33Switchback,2022/04/14
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,6,81.924,Gafannen,Slovakia,Five33Switchback,2022/04/14
+Week 16 TT - CM18 by Chris M,Football Stadium,30,39.539,Gafannen,Slovakia,Five33Switchback,2022/05/03
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,9,60.372,Gafannen,Slovakia,Five33Switchback,2022/05/20
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,13,42.317,Gafannen,Slovakia,Five33Switchback,2022/04/14
+Week 20 TT - BDS by ChrisM,Football Stadium,20,37.324,Gafannen,Slovakia,Five33Switchback,2022/06/03
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,10,80.972,Gafannen,Slovakia,SingularitumV5,2022/06/21
+Week 23 TT - Sundial Bridge by Boner,River2,4,76.254,Gafannen,Slovakia,SingularitumV5,2022/07/02
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,9,81.924,Gafannen,Slovakia,Five33Switchback,2022/04/14
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,14,50.622,Gafannen,Slovakia,Five33Switchback,2022/04/14
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,13,88.287,Gafannen,Slovakia,Five33Switchback,2022/04/14
-Week 9 TT - CM17 by Chris M,Football Stadium,31,57.945,Gafannen,Slovakia,Five33Switchback,2022/02/22
+Week 9 TT - CM17 by Chris M,Football Stadium,35,57.945,Gafannen,Slovakia,Five33Switchback,2022/02/22

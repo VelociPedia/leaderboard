@@ -9,6 +9,7 @@
 2022 MultiGP IO Micro,Countryside,999.999,stogie,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,77.272,stogie,UnitedStates,Five33Switchback,2022/06/23
 2022 MultiGP IO World Cup,Dynamic Weather,81.708,stogie,UnitedStates,Five33Switchback,2022/06/05
+DF5,Football Stadium,999.999,stogie,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,stogie,NO_DATA
 Mayhem 2021 By YAWESOME,Empty Scene Day,70.458,stogie,UnitedStates,Five33Switchback,2022/04/09
 Mayhem 22 by SFPV,Empty Scene Day,78.465,stogie,UnitedStates,Five33Switchback,2022/04/11
@@ -50,6 +51,22 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,88.941,stogie,Unit
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,999.999,stogie,NO_DATA
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,74.627,stogie,UnitedStates,Five33Switchback,2021/12/10
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,99.232,stogie,UnitedStates,Five33Switchback,2021/12/26
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,96.396,stogie,UnitedStates,Five33Switchback,2022/03/30
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,72.146,stogie,UnitedStates,TwigXL3,2022/04/27
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,135.666,stogie,UnitedStates,Five33Switchback,2022/06/01
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,stogie,NO_DATA
+Quad Rivals Airport,Empty Scene Day,117.672,stogie,UnitedStates,Five33Switchback,2021/09/20
+Quad Rivals Dive It,Countryside,999.999,stogie,NO_DATA
+Quad Rivals Karting Track,IndoorGoKart,999.999,stogie,NO_DATA
+Quad Rivals Ladders from Hell DW,Dynamic Weather,999.999,stogie,NO_DATA
+Quad Rivals Lake Murray,Empty Scene Day,54.406,stogie,UnitedStates,Five33Switchback,2021/12/08
+Quad Rivals Overpass,Empty Scene Day,999.999,stogie,NO_DATA
+Quad Rivals Sept 2019 Track,Castle Sneznik,999.999,stogie,NO_DATA
+Quad Rivals Split S,Empty Scene Day,999.999,stogie,NO_DATA
+Quad Rivals Team Race,Empty Scene Day,73.352,stogie,UnitedStates,Five33Switchback,2021/09/20
+Quad Rivals Weave,Empty Scene Day,69.588,stogie,UnitedStates,Five33Switchback,2021/02/09
+Quad Rivals Welborn,Empty Scene Day,999.999,stogie,NO_DATA
+Quad Rivals Who Works DW,Dynamic Weather,999.999,stogie,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,stogie,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,stogie,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,67.789,stogie,UnitedStates,Five33Switchback,2022/03/09
@@ -63,6 +80,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999.999,stogie,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,stogie,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,127.082,stogie,UnitedStates,Five33Switchback,2020/06/11
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,96.718,stogie,UnitedStates,Five33Switchback,2022/02/12
+ReddingFPVs DroneD,Dynamic Weather,999.999,stogie,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999.999,stogie,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,110.457,stogie,UnitedStates,Five33Switchback,2022/02/18
 TBS EU Spec Series 10 Losers Final,Football Stadium,999.999,stogie,NO_DATA
@@ -134,8 +152,12 @@ Week 12 TT - GQ22 by Chris M,Football Stadium,43.799,stogie,UnitedStates,Five33S
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,167.571,stogie,UnitedStates,Five33Switchback,2022/02/26
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,120.428,stogie,UnitedStates,Five33Switchback,2022/02/28
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,126.958,stogie,UnitedStates,Five33Switchback,2022/04/03
-Week 16 TT - CM18 by Chris M,Football Stadium,54.056,stogie,UnitedStates,Five33Switchback,2022/04/20
+Week 16 TT - CM18 by Chris M,Football Stadium,52.070,stogie,UnitedStates,Five33Switchback,2022/04/23
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,91.863,stogie,UnitedStates,Five33Switchback,2022/05/15
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,87.068,stogie,UnitedStates,Five33Switchback,2021/10/17
+Week 20 TT - BDS by ChrisM,Football Stadium,54.249,stogie,UnitedStates,Five33Switchback,2022/06/06
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,221.639,stogie,UnitedStates,Five33Switchback,2022/06/22
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,stogie,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999.999,stogie,NO_DATA
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,70.608,stogie,UnitedStates,Five33Switchback,2021/11/12
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,208.773,stogie,UnitedStates,Five33Switchback,2021/12/20

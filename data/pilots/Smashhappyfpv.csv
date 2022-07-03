@@ -33,6 +33,7 @@ DEP Open Series 5 Race 5,Football Stadium,128,116.794,Smashhappyfpv,UnitedKingdo
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
+DF5,Football Stadium,52,180.894,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/07/02
 Formula FLow I,Empty Scene Day,118,72.361,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/17
 Formula Flow II,Empty Scene Day,53,95.386,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/11
 Formula Flow III,Empty Scene Day,32,122.655,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/14
@@ -42,20 +43,25 @@ MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,999,999.999,Smashhappyfpv,NO_DATA
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,78,115.527,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/20
 Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
-Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,165,97.161,Smashhappyfpv,UnitedKingdom,CarbiXZero,2021/11/22
-Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,54,86.406,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/05/11
+Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,166,97.161,Smashhappyfpv,UnitedKingdom,CarbiXZero,2021/11/22
+Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,55,86.406,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/05/11
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
 Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
-Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,106,76.094,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/09/21
-Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,69,101.021,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/02
+Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,108,76.094,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/09/21
+Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,71,101.021,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/02
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,72,76.574,Smashhappyfpv,UnitedKingdom,CarbiXZero,2021/12/10
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,78,95.555,Smashhappyfpv,UnitedKingdom,CarbiXZero,2022/01/06
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,82,95.555,Smashhappyfpv,UnitedKingdom,CarbiXZero,2022/01/06
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,144,121.943,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/04/03
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,102,69.764,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/05/14
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,38,88.335,Smashhappyfpv,UnitedKingdom,TBSSpec,2022/07/03
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,164,97.308,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/13
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999,999.999,Smashhappyfpv,NO_DATA
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,74,74.419,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/10/07
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,94,98.664,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/10/12
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,153,121.633,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/03
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,Smashhappyfpv,NO_DATA
+ReddingFPVs DroneD,Dynamic Weather,54,163.894,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/05/22
 TBS EU Spec Series 9 Final,Dynamic Weather,132,77.375,Smashhappyfpv,UnitedKingdom,CarbiXZero,2021/11/18
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,111,73.639,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/10
 TBS EU Spec Series 9 Race 1,Football Stadium,140,71.040,Smashhappyfpv,UnitedKingdom,TBSSpec,2021/09/15
@@ -84,14 +90,18 @@ Train insane - Split-S - MaiOnHigh,Empty Scene Day,999,999.999,Smashhappyfpv,NO_
 Train Insane- Test1 - MaiOnHigh,Empty Scene Day,81,61.454,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/20
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,63,62.683,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/02
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
-Week 10 TT - MCKPractice2,Football Stadium,83,63.888,Smashhappyfpv,UnitedKingdom,CarbiXZero,2022/01/07
-Week 12 TT - GQ22 by Chris M,Football Stadium,154,45.443,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/02/13
+Week 10 TT - MCKPractice2,Football Stadium,91,63.888,Smashhappyfpv,UnitedKingdom,CarbiXZero,2022/01/07
+Week 12 TT - GQ22 by Chris M,Football Stadium,167,45.443,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/02/13
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,999,999.999,Smashhappyfpv,NO_DATA
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,93,111.829,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/10
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,66,123.943,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/23
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,103,111.829,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/10
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,86,123.943,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/03/23
 Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,78,57.084,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/10/14
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,71,112.796,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/01
-Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,52,69.430,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/20
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,88,57.084,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/10/14
+Week 20 TT - BDS by ChrisM,Football Stadium,999,999.999,Smashhappyfpv,NO_DATA
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999,999.999,Smashhappyfpv,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,999,999.999,Smashhappyfpv,NO_DATA
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,79,112.796,Smashhappyfpv,UnitedKingdom,Five33Switchback,2021/11/01
+Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,54,69.430,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/20
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,999,999.999,Smashhappyfpv,NO_DATA
-Week 9 TT - CM17 by Chris M,Football Stadium,123,72.988,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/12
+Week 9 TT - CM17 by Chris M,Football Stadium,133,72.988,Smashhappyfpv,UnitedKingdom,Five33Switchback,2022/01/12

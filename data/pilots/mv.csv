@@ -41,6 +41,7 @@ DEP Open Series 5 Race 7,Football Stadium,18,86.540,mv,Estonia,CarbiXZero,2021/1
 DEP Open Series 6 Race 1,Football Stadium,11,59.575,mv,Estonia,CarbiXZero,2022/04/11
 DEP Open Series 6 Race 2,Football Stadium,12,78.289,mv,Estonia,CarbiXZero,2022/03/09
 DEP Spec Series 1 Race 5,Football Stadium,66,97.156,mv,Estonia,TBSSpec,2021/10/18
+DF5,Football Stadium,999,999.999,mv,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,17,77.540,mv,Estonia,TBSSpec,2022/02/21
 Mayhem 2021 By YAWESOME,Empty Scene Day,16,58.455,mv,Estonia,CarbiXZero,2022/05/03
 Mayhem 22 by SFPV,Empty Scene Day,37,61.051,mv,Estonia,CarbiXZero,2022/04/02
@@ -73,7 +74,7 @@ MultiGP UTT 1,Football Stadium,999,999.999,mv,NO_DATA
 MultiGP UTT 5,Football Stadium,36,24.996,mv,Estonia,TBSSpec,2021/11/14
 MultiGP UTT 6,Football Stadium,999,999.999,mv,NO_DATA
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,999,999.999,mv,NO_DATA
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,34,49.340,mv,Estonia,TBSSpec,2021/09/22
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,37,49.340,mv,Estonia,TBSSpec,2021/09/22
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,77,76.796,mv,Estonia,TBSSpec,2021/04/06
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,999,999.999,mv,NO_DATA
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,999,999.999,mv,NO_DATA
@@ -81,7 +82,7 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,999,999.999,mv,NO_DATA
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,80,70.084,mv,Estonia,TBSSpec,2021/09/24
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,28,82.612,mv,Estonia,TBSSpec,2021/11/13
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,20,56.080,mv,Estonia,TBSSpec,2021/12/12
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,13,63.293,mv,Estonia,TBSSpec,2022/01/05
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,14,63.293,mv,Estonia,TBSSpec,2022/01/05
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,8,59.436,mv,Estonia,CarbiXZero,2022/06/29
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,26,64.439,mv,Estonia,TBSSpec,2021/12/10
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,52,57.756,mv,Estonia,TBSSpec,2021/12/08
@@ -95,6 +96,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,24,63.728,mv,Estonia,TBSSpec,2
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,5,66.533,mv,Estonia,TBSSpec,2021/12/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,15,90.153,mv,Estonia,TBSSpec,2021/12/12
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,12,68.201,mv,Estonia,TBSSpec,2021/12/12
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,mv,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,12,53.356,mv,Estonia,CarbiXZero,2022/03/27
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,31,73.920,mv,Estonia,TBSSpec,2022/02/17
 TBS EU Spec Series 10 Losers Final,Football Stadium,44,55.632,mv,Estonia,TBSSpec,2022/07/01
@@ -156,7 +158,7 @@ TBS EU Spec Series 9 Race 4,Football Stadium,6,58.513,mv,Estonia,CarbiXZero,2021
 TBS EU Spec Series 9 Race 5,Empty Scene Day,63,67.651,mv,Estonia,TBSSpec,2021/11/08
 TBS EU Spec Series 9 Race 6,Empty Scene Day,28,65.610,mv,Estonia,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,29,62.586,mv,Estonia,TBSSpec,2021/10/28
-VRL Season 8 Championships,Dynamic Weather,41,79.189,mv,Estonia,CarbiXZero,2022/02/07
+VRL Season 8 Championships,Dynamic Weather,42,79.189,mv,Estonia,CarbiXZero,2022/02/07
 VRL Season 8 Track 1,Office Complex,52,137.232,mv,Estonia,TBSSpec,2021/11/01
 VRL Season 8 Track 2,Drift Track,33,87.038,mv,Estonia,CarbiXZero,2021/11/23
 VRL Season 8 Track 3,Night Factory 2,32,101.726,mv,Estonia,CarbiXZero,2021/11/29
@@ -165,14 +167,18 @@ VRL Season 8 Track 5,Dynamic Weather,999,999.999,mv,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999,999.999,mv,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,44,81.089,mv,Estonia,CarbiXZero,2022/01/31
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,mv,NO_DATA
-Week 10 TT - MCKPractice2,Football Stadium,27,47.435,mv,Estonia,CarbiXZero,2022/01/12
+Week 10 TT - MCKPractice2,Football Stadium,28,47.435,mv,Estonia,CarbiXZero,2022/01/12
 Week 12 TT - GQ22 by Chris M,Football Stadium,26,31.199,mv,Estonia,TBSSpec,2022/02/04
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,999,999.999,mv,NO_DATA
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,2,70.534,mv,Estonia,CarbiXZero,2022/03/01
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999,999.999,mv,NO_DATA
-Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,mv,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,25,44.870,mv,Estonia,TBSSpec,2021/10/14
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,21,88.133,mv,Estonia,TBSSpec,2021/10/22
+Week 16 TT - CM18 by Chris M,Football Stadium,17,37.982,mv,Estonia,CarbiXZero,2022/04/26
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999,999.999,mv,NO_DATA
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,27,44.870,mv,Estonia,TBSSpec,2021/10/14
+Week 20 TT - BDS by ChrisM,Football Stadium,14,36.072,mv,Estonia,CarbiXZero,2022/06/05
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,9,80.590,mv,Estonia,TBSSpec,2022/06/19
+Week 23 TT - Sundial Bridge by Boner,River2,999,999.999,mv,NO_DATA
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,26,88.133,mv,Estonia,TBSSpec,2021/10/22
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,9,48.520,mv,Estonia,CarbiXZero,2021/11/18
-Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,74,167.498,mv,Estonia,CarbiXZero,2021/12/27
-Week 9 TT - CM17 by Chris M,Football Stadium,23,56.395,mv,Estonia,CarbiXZero,2022/01/15
+Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,87,167.498,mv,Estonia,CarbiXZero,2021/12/27
+Week 9 TT - CM17 by Chris M,Football Stadium,26,56.395,mv,Estonia,CarbiXZero,2022/01/15

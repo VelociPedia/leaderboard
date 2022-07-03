@@ -9,19 +9,19 @@
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|187|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/18|
+|189|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/18|
+|150|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2021/12/04|
 |147|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/12|
-|146|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2021/12/04|
-|129|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/02/27|
-|129|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2021/10/28|
-|128|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/02/20|
+|130|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/02/27|
+|130|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2021/10/28|
+|129|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/02/20|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |147|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/12|
-|187|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/18|
-|68|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2021/01/03|
+|189|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/18|
+|71|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2021/01/03|
 |127|VRL6 Championships|Dynamic Weather|Five33Switchback|2021/02/01|
 ---
 ### 1 tracks where TBS SPEC quad was used

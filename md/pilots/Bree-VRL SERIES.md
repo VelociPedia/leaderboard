@@ -1,43 +1,43 @@
 ### Best 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|28|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2022/02/28|
-|32|VRL_Season_4_Track_5|Coastal|Five33Switchback|2021/05/24|
-|54|VRL Season 4 Track 1|Dynamic Weather|Five33Switchback|2021/05/03|
-|61|VRL Season 4 Track 7|Dynamic Weather|Five33Switchback|2021/05/03|
-|68|VRL SEASON 5 TRACK 8|Industrial Wasteland|Five33Switchback|2021/08/07|
-|71|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
+|30|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2022/02/28|
+|34|VRL_Season_4_Track_5|Coastal|Five33Switchback|2021/05/24|
+|58|VRL Season 4 Track 1|Dynamic Weather|Five33Switchback|2021/05/03|
+|62|VRL Season 4 Track 7|Dynamic Weather|Five33Switchback|2021/05/03|
+|72|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
+|74|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2022/02/28|
 ---
 ### Worse 9 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|181|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2022/02/28|
-|180|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2022/02/28|
-|176|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2021/05/03|
-|173|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2022/02/02|
-|168|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/05/02|
-|165|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2022/02/28|
-|163|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2022/02/28|
-|162|VRL Season 4 Track 3|Basketball Stadium|Five33Switchback|2021/05/03|
-|161|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/02/28|
+|187|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2021/05/03|
+|187|VRL Season 4 Track 3|Basketball Stadium|Five33Switchback|2021/05/03|
+|183|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2022/02/28|
+|182|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2022/02/28|
+|175|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2022/02/02|
+|174|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/05/02|
+|168|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2022/02/28|
+|165|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2022/02/28|
+|164|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/02/28|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|168|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/05/02|
-|81|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2021/05/02|
-|125|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2021/05/03|
-|101|VRL S5 TRACK 4|Empty Scene Day|Five33Switchback|2021/05/03|
-|92|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/05/03|
-|142|VRL Season 3 Track 4|Empty Scene Day|Five33Switchback|2021/05/03|
+|174|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/05/02|
+|88|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2021/05/02|
+|129|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2021/05/03|
+|106|VRL S5 TRACK 4|Empty Scene Day|Five33Switchback|2021/05/03|
+|96|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/05/03|
+|156|VRL Season 3 Track 4|Empty Scene Day|Five33Switchback|2021/05/03|
 ---
 ### 4 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|153|VRL Season 8 Track 1|Office Complex|TBSSpec|2021/12/06|
-|145|VRL Season 8 Track 3|Night Factory 2|TBSSpec|2021/12/04|
-|71|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
-|106|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/21|
+|162|VRL Season 8 Track 1|Office Complex|TBSSpec|2021/12/06|
+|148|VRL Season 8 Track 3|Night Factory 2|TBSSpec|2021/12/04|
+|72|VRL Season 8 Track 4|DynamicPoly|TBSSpec|2021/12/19|
+|109|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/21|
 ---
 ### 15 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

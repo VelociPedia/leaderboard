@@ -68,7 +68,7 @@ MultiGP UTT 1,Football Stadium,999,999.999,OliHawk,NO_DATA
 MultiGP UTT 5,Football Stadium,999,999.999,OliHawk,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,OliHawk,NO_DATA
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,999,999.999,OliHawk,NO_DATA
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,8,42.271,OliHawk,France,Five33Switchback,2021/11/07
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,6,41.061,OliHawk,France,CarbiXZero,2022/05/26
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,27,64.495,OliHawk,France,Five33Switchback,2021/04/04
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,12,61.647,OliHawk,France,Yakuza,2022/02/10
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,13,58.034,OliHawk,France,Yakuza,2022/02/10
@@ -76,7 +76,23 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,10,62.925,OliHawk,Franc
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,7,53.536,OliHawk,France,Yakuza,2022/03/13
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,8,71.970,OliHawk,France,Yakuza,2022/03/13
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,12,52.163,OliHawk,France,Yakuza,2022/02/11
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,11,61.605,OliHawk,France,Yakuza,2022/03/13
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,12,61.605,OliHawk,France,Yakuza,2022/03/13
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,7,55.202,OliHawk,France,Yakuza,2022/03/30
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,4,42.541,OliHawk,France,CarbiXZero,2022/06/12
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999,999.999,OliHawk,NO_DATA
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999,999.999,OliHawk,NO_DATA
+Quad Rivals Airport,Empty Scene Day,3,50.237,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Dive It,Countryside,6,33.511,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Karting Track,IndoorGoKart,2,99.516,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Ladders from Hell DW,Dynamic Weather,9,90.830,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Lake Murray,Empty Scene Day,4,39.782,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Overpass,Empty Scene Day,1,61.626,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Sept 2019 Track,Castle Sneznik,999,999.999,OliHawk,NO_DATA
+Quad Rivals Split S,Empty Scene Day,11,36.424,OliHawk,France,Five33Switchback,2021/04/06
+Quad Rivals Team Race,Empty Scene Day,2,42.004,OliHawk,France,Yakuza,2022/03/14
+Quad Rivals Weave,Empty Scene Day,8,46.615,OliHawk,France,Five33Switchback,2021/04/08
+Quad Rivals Welborn,Empty Scene Day,11,44.839,OliHawk,France,Five33Switchback,2021/04/08
+Quad Rivals Who Works DW,Dynamic Weather,6,46.294,OliHawk,France,Five33Switchback,2021/04/11
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,12,60.254,OliHawk,France,Yakuza,2022/03/15
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,2,57.591,OliHawk,France,Yakuza,2022/03/15
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,6,49.369,OliHawk,France,Yakuza,2022/03/15
@@ -151,10 +167,11 @@ TBS EU Spec Series 9 Race 4,Football Stadium,999,999.999,OliHawk,NO_DATA
 TBS EU Spec Series 9 Race 5,Empty Scene Day,16,57.212,OliHawk,France,Yakuza,2022/02/26
 TBS EU Spec Series 9 Race 6,Empty Scene Day,12,61.271,OliHawk,France,Yakuza,2022/02/26
 TBS EU Spec Series 9 Race 7,NEC Birmingham,10,56.861,OliHawk,France,Yakuza,2022/02/27
-TDRF Dutch nationals indoor race 1,Empty Scene Day,13,58.960,OliHawk,France,Yakuza,2022/03/07
-TDRF Dutch nationals indoor race 2,Empty Scene Day,8,64.031,OliHawk,France,Yakuza,2022/03/07
-TDRF Dutch nationals indoor race 3,Empty Scene Day,10,57.384,OliHawk,France,Yakuza,2022/03/07
-TDRF Dutch nationals indoor race 4,Empty Scene Day,6,40.835,OliHawk,France,Yakuza,2022/03/28
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,999,999.999,OliHawk,NO_DATA
+TDRF Dutch nationals indoor race 1,Empty Scene Day,15,58.960,OliHawk,France,Yakuza,2022/03/07
+TDRF Dutch nationals indoor race 2,Empty Scene Day,11,64.031,OliHawk,France,Yakuza,2022/03/07
+TDRF Dutch nationals indoor race 3,Empty Scene Day,11,57.384,OliHawk,France,Yakuza,2022/03/07
+TDRF Dutch nationals indoor race 4,Empty Scene Day,7,40.835,OliHawk,France,Yakuza,2022/03/28
 Week 10 TT - MCKPractice2,Football Stadium,999,999.999,OliHawk,NO_DATA
 Week 12 TT - GQ22 by Chris M,Football Stadium,25,31.151,OliHawk,France,Yakuza,2022/02/07
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,4,72.287,OliHawk,France,Yakuza,2022/03/07

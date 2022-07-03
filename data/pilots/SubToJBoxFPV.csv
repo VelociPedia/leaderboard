@@ -15,6 +15,7 @@ DEP Open Series 4 Race 4,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,118,81.105,SubToJBoxFPV,UnitedStates,Ossa,2021/10/08
 DEP Open Series 4 Race 7,Football Stadium,76,72.129,SubToJBoxFPV,UnitedStates,Ossa,2021/07/19
+DF5,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,4,52.887,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/03/28
 MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,SubToJBoxFPV,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,999,999.999,SubToJBoxFPV,NO_DATA
@@ -31,6 +32,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,79,75.678,SubToJBoxFPV,UnitedS
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,SubToJBoxFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,SubToJBoxFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,70,80.031,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/08/21
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,SubToJBoxFPV,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,34,79.687,SubToJBoxFPV,UnitedStates,Five33Switchback,2020/09/22
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,173,108.072,SubToJBoxFPV,UnitedStates,Solleva,2020/09/08
@@ -52,10 +54,10 @@ VRL 7 Race 4,Dynamic Weather,4,81.146,SubToJBoxFPV,UnitedStates,Ossa,2021/10/17
 VRL 7 Track 1,Future Hangar,9,92.123,SubToJBoxFPV,UnitedStates,Ossa,2021/10/18
 VRL 7 Track 2,Future Hangar Empty,49,95.472,SubToJBoxFPV,UnitedStates,Ossa,2020/11/02
 VRL 7 Track 3,Dynamic Weather,25,70.578,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/11/20
-VRL 7 Track 5,Dynamic Weather,39,82.812,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/13
-VRL 7 Track 6,Dynamic Weather,49,81.971,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/17
+VRL 7 Track 5,Dynamic Weather,40,82.812,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/13
+VRL 7 Track 6,Dynamic Weather,51,81.971,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/17
 VRL7 Tryouts,Future Hangar Empty,27,91.692,SubToJBoxFPV,UnitedStates,Ossa,2020/09/16
-VRL Season 7 Championships,Dynamic Weather,28,97.434,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/01/03
+VRL Season 7 Championships,Dynamic Weather,29,97.434,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/01/03
 VRL Season 8 Championships,Dynamic Weather,8,67.835,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/05
 VRL Season 8 Track 1,Office Complex,9,105.758,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/11/13
 VRL Season 8 Track 2,Drift Track,6,80.265,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/11/18
@@ -63,16 +65,20 @@ VRL Season 8 Track 3,Night Factory 2,12,96.486,SubToJBoxFPV,UnitedStates,Mode2Gh
 VRL Season 8 Track 4,DynamicPoly,10,102.464,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,70,127.356,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/12/17
 VRL Season 8 Track 6,Night Factory 2,11,96.191,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/15
-VRL SEASON 8 TRACK 7,Dynamic Weather,137,139.660,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/28
+VRL SEASON 8 TRACK 7,Dynamic Weather,147,139.660,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/28
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,SubToJBoxFPV,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,7,41.046,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/07
-Week 12 TT - GQ22 by Chris M,Football Stadium,8,28.800,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/26
+Week 12 TT - GQ22 by Chris M,Football Stadium,9,28.800,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/26
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,16,130.152,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/24
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,1,68.561,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/03/08
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999,999.999,SubToJBoxFPV,NO_DATA
-Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,28,45.075,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/30
+Week 16 TT - CM18 by Chris M,Football Stadium,3,36.332,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/30
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,30,45.075,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/30
+Week 20 TT - BDS by ChrisM,Football Stadium,999,999.999,SubToJBoxFPV,NO_DATA
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,12,84.323,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/06/17
+Week 23 TT - Sundial Bridge by Boner,River2,999,999.999,SubToJBoxFPV,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999,999.999,SubToJBoxFPV,NO_DATA
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,3,43.929,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/11/13
-Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,65,157.378,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/19
-Week 9 TT - CM17 by Chris M,Football Stadium,12,53.535,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/30
+Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,75,157.378,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/19
+Week 9 TT - CM17 by Chris M,Football Stadium,13,53.535,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/30

@@ -1,18 +1,18 @@
 ### Best 4 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|10|VRL-Season-4-Tryouts|Dynamic Weather|Ossa|2020/12/14|
+|11|VRL-Season-4-Tryouts|Dynamic Weather|Ossa|2020/12/14|
 |13|VRL Season 8 Track 5|Dynamic Weather|Chief|2021/12/18|
-|14|VRL Season 3 Track 1|Empty Scene Day|Chief|2022/01/22|
 |14|VRL Season 3 Track 5|Empty Scene Day|Chief|2022/01/22|
+|15|VRL Season 3 Track 1|Empty Scene Day|Chief|2022/01/22|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|74|VRL Season 3 Track 4|Empty Scene Day|Chief|2022/01/22|
+|79|VRL Season 3 Track 4|Empty Scene Day|Chief|2022/01/22|
 |47|VRL6 Kenerator|Dynamic Weather|SingularitumV5|2020/04/24|
-|41|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/05/03|
-|41|VRL 7 Track 5|Dynamic Weather|Ossa|2020/12/13|
+|42|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/05/03|
+|42|VRL 7 Track 5|Dynamic Weather|Ossa|2020/12/13|
 |40|VRL Season 3 Track 3|Empty Scene Day|Chief|2022/01/22|
 |37|VRL 7 Race 4|Dynamic Weather|Ossa|2020/12/01|
 |36|VRL7 Tryouts|Future Hangar Empty|BMSJS-1|2020/09/22|
@@ -23,12 +23,12 @@
 |24|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/11|
 |33|VRL6 Tunnel Vision|Dynamic Weather|SingularitumV5|2020/04/16|
 |47|VRL6 Kenerator|Dynamic Weather|SingularitumV5|2020/04/24|
-|41|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/05/03|
+|42|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/05/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|25|VRL6 Meltdown|Dynamic Weather|TBSSpec|2021/01/10|
+|28|VRL6 Meltdown|Dynamic Weather|TBSSpec|2021/01/10|
 ---
 ### 22 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

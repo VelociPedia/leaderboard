@@ -36,6 +36,7 @@ DEP Open Series 5 Race 7,Football Stadium,49,97.859,Saqoosha,Japan,Ossa,2021/12/
 DEP Open Series 6 Race 1,Football Stadium,37,68.735,Saqoosha,Japan,TBSSpec,2022/03/04
 DEP Open Series 6 Race 2,Football Stadium,35,94.983,Saqoosha,Japan,TBSSpec,2022/03/17
 DEP Spec Series 1 Race 5,Football Stadium,69,98.141,Saqoosha,Japan,TBSSpec,2020/10/27
+DF5,Football Stadium,999,999.999,Saqoosha,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,198,105.151,Saqoosha,Japan,TBSSpec,2020/05/04
 Formula FLow I,Empty Scene Day,85,66.320,Saqoosha,Japan,TBSSpec,2022/03/11
 Formula Flow II,Empty Scene Day,36,85.117,Saqoosha,Japan,TBSSpec,2022/03/12
@@ -45,7 +46,7 @@ Mayhem 22 by SFPV,Empty Scene Day,146,90.881,Saqoosha,Japan,TBSSpec,2022/03/29
 MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,82,32.224,Saqoosha,Japan,TBSSpec,2022/04/15
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,27,88.773,Saqoosha,Japan,TBSSpec,2022/01/12
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,30,48.695,Saqoosha,Japan,Ossa,2021/03/24
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,33,48.695,Saqoosha,Japan,Ossa,2021/03/24
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,63,73.352,Saqoosha,Japan,TBSSpec,2021/04/02
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,28,62.115,Saqoosha,Japan,TBSSpec,2021/05/28
@@ -53,7 +54,23 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,34,72.390,Saqoosha,Japa
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,16,56.400,Saqoosha,Japan,Ossa,2021/09/20
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,48,91.213,Saqoosha,Japan,TBSSpec,2021/11/01
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,22,68.312,Saqoosha,Japan,Ossa,2021/12/29
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,23,68.312,Saqoosha,Japan,Ossa,2021/12/29
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,34,68.002,Saqoosha,Japan,TBSSpec,2022/03/29
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,28,49.963,Saqoosha,Japan,TBSSpec,2022/04/25
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,21,81.701,Saqoosha,Japan,TBSSpec,2022/05/28
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Airport,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Dive It,Countryside,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Karting Track,IndoorGoKart,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Ladders from Hell DW,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Lake Murray,Empty Scene Day,22,45.034,Saqoosha,Japan,TBSSpec,2020/10/25
+Quad Rivals Overpass,Empty Scene Day,123,108.304,Saqoosha,Japan,Five33Switchback,2020/04/26
+Quad Rivals Sept 2019 Track,Castle Sneznik,26,85.851,Saqoosha,Japan,Five33Switchback,2020/05/09
+Quad Rivals Split S,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Team Race,Empty Scene Day,50,58.301,Saqoosha,Japan,SingularitumV5,2020/05/23
+Quad Rivals Weave,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Welborn,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
+Quad Rivals Who Works DW,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,75,72.495,Saqoosha,Japan,TBSSpec,2022/01/11
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,15,62.253,Saqoosha,Japan,TBSSpec,2022/01/09
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,65,59.765,Saqoosha,Japan,TBSSpec,2022/01/08
@@ -67,6 +84,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,25,65.165,Saqoosha,Japan,TBSSp
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,74,89.572,Saqoosha,Japan,TBSSpec,2022/01/14
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,22,91.688,Saqoosha,Japan,TBSSpec,2022/01/15
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,21,70.390,Saqoosha,Japan,TBSSpec,2022/01/15
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,55,60.109,Saqoosha,Japan,TBSSpec,2022/01/16
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,38,76.125,Saqoosha,Japan,TBSSpec,2022/02/21
 TBS EU Spec Series 10 Losers Final,Football Stadium,31,53.437,Saqoosha,Japan,TBSSpec,2022/02/11
@@ -128,39 +146,39 @@ TBS EU Spec Series 9 Race 4,Football Stadium,122,84.785,Saqoosha,Japan,TBSSpec,2
 TBS EU Spec Series 9 Race 5,Empty Scene Day,70,68.321,Saqoosha,Japan,TBSSpec,2021/10/08
 TBS EU Spec Series 9 Race 6,Empty Scene Day,37,67.555,Saqoosha,Japan,TBSSpec,2021/10/28
 TBS EU Spec Series 9 Race 7,NEC Birmingham,45,66.172,Saqoosha,Japan,TBSSpec,2021/10/29
-VRL6 Championships,Dynamic Weather,162,141.420,Saqoosha,Japan,Five33Switchback,2020/05/05
+VRL6 Championships,Dynamic Weather,165,141.420,Saqoosha,Japan,Five33Switchback,2020/05/05
 VRL6 Crash Site,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 VRL6 Kenerator,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-VRL6 Meltdown,Dynamic Weather,62,280.966,Saqoosha,Japan,Five33Switchback,2020/04/12
-VRL6 Reinforcement,Dynamic Weather,63,180.883,Saqoosha,Japan,Five33Switchback,2020/04/12
+VRL6 Meltdown,Dynamic Weather,20,118.406,Saqoosha,Japan,TBSSpec,2022/05/05
+VRL6 Reinforcement,Dynamic Weather,64,180.883,Saqoosha,Japan,Five33Switchback,2020/04/12
 VRL6 Tunnel Vision,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-VRL 7 Race 4,Dynamic Weather,93,94.717,Saqoosha,Japan,Ossa,2020/11/23
-VRL 7 Track 1,Future Hangar,76,99.959,Saqoosha,Japan,Ossa,2020/10/29
+VRL 7 Race 4,Dynamic Weather,94,94.717,Saqoosha,Japan,Ossa,2020/11/23
+VRL 7 Track 1,Future Hangar,77,99.959,Saqoosha,Japan,Ossa,2020/10/29
 VRL 7 Track 2,Future Hangar Empty,72,103.343,Saqoosha,Japan,Ossa,2020/11/03
 VRL 7 Track 3,Dynamic Weather,88,79.950,Saqoosha,Japan,Ossa,2020/11/16
-VRL 7 Track 5,Dynamic Weather,95,88.325,Saqoosha,Japan,Ossa,2020/12/08
-VRL 7 Track 6,Dynamic Weather,78,84.082,Saqoosha,Japan,Ossa,2020/12/15
+VRL 7 Track 5,Dynamic Weather,96,88.325,Saqoosha,Japan,Ossa,2020/12/08
+VRL 7 Track 6,Dynamic Weather,79,84.082,Saqoosha,Japan,Ossa,2020/12/15
 VRL7 Tryouts,Future Hangar Empty,123,97.883,Saqoosha,Japan,Ossa,2020/09/13
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
-VRL S5 Track 1,Dynamic Weather,34,107.335,Saqoosha,Japan,Five33Switchback,2020/05/04
+VRL S5 Track 1,Dynamic Weather,35,107.335,Saqoosha,Japan,Five33Switchback,2020/05/04
 VRL S5 TRACK 2,Dynamic Weather,8,95.936,Saqoosha,Japan,TBSSpec,2022/01/20
 VRL S5 TRACK 3,Bando,999,999.999,Saqoosha,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,22,94.244,Saqoosha,Japan,TBSSpec,2022/01/22
 VRL S5 TRACK 5,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-VRL Season 3 Track 1,Empty Scene Day,34,70.752,Saqoosha,Japan,TBSSpec,2022/01/26
-VRL Season 3 Track 2,Empty Scene Day,146,109.787,Saqoosha,Japan,TBSSpec,2022/01/26
-VRL Season 3 Track 3,Empty Scene Day,73,163.022,Saqoosha,Japan,TBSSpec,2022/01/26
-VRL Season 3 Track 4,Empty Scene Day,94,178.043,Saqoosha,Japan,TBSSpec,2022/01/24
+VRL Season 3 Track 1,Empty Scene Day,37,70.752,Saqoosha,Japan,TBSSpec,2022/01/26
+VRL Season 3 Track 2,Empty Scene Day,148,109.787,Saqoosha,Japan,TBSSpec,2022/01/26
+VRL Season 3 Track 3,Empty Scene Day,76,163.022,Saqoosha,Japan,TBSSpec,2022/01/26
+VRL Season 3 Track 4,Empty Scene Day,102,178.043,Saqoosha,Japan,TBSSpec,2022/01/24
 VRL Season 3 Track 5,Empty Scene Day,7,67.168,Saqoosha,Japan,TBSSpec,2022/01/24
-VRL Season 3 Track 6,Empty Scene Day,4,116.606,Saqoosha,Japan,TBSSpec,2022/01/24
-VRL Season 4 Championship,Football Stadium,999,999.999,Saqoosha,NO_DATA
-VRL Season 4 Track 1,Dynamic Weather,25,139.710,Saqoosha,Japan,TBSSpec,2022/01/26
-VRL Season 4 Track 2,Bando,103,183.815,Saqoosha,Japan,TBSSpec,2022/02/01
-VRL Season 4 Track 3,Basketball Stadium,16,68.175,Saqoosha,Japan,TBSSpec,2022/02/02
+VRL Season 3 Track 6,Empty Scene Day,5,116.606,Saqoosha,Japan,TBSSpec,2022/01/24
+VRL Season 4 Championship,Football Stadium,7,118.167,Saqoosha,Japan,TBSSpec,2022/05/01
+VRL Season 4 Track 1,Dynamic Weather,27,139.710,Saqoosha,Japan,TBSSpec,2022/01/26
+VRL Season 4 Track 2,Bando,122,183.815,Saqoosha,Japan,TBSSpec,2022/02/01
+VRL Season 4 Track 3,Basketball Stadium,20,68.175,Saqoosha,Japan,TBSSpec,2022/02/02
 VRL-Season-4-Track-4,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-VRL_Season_4_Track_5,Coastal,999,999.999,Saqoosha,NO_DATA
+VRL_Season_4_Track_5,Coastal,107,183.275,Saqoosha,Japan,TBSSpec,2022/05/03
 VRL_Season_4_Track_6,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
 VRL Season 4 Track 7,Dynamic Weather,12,89.464,Saqoosha,Japan,TBSSpec,2022/01/29
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
@@ -169,24 +187,28 @@ VRL SEASON 5 TRACK 7,IndoorGoKart,4,137.791,Saqoosha,Japan,TBSSpec,2022/01/30
 VRL SEASON 5 TRACK 8,Industrial Wasteland,999,999.999,Saqoosha,NO_DATA
 VRL SEASON 5 TRYOUTS,Dynamic Weather,9,105.573,Saqoosha,Japan,TBSSpec,2022/01/30
 VRL SEASON 6 TRYOUTS,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-VRL Season 7 Championships,Dynamic Weather,59,102.536,Saqoosha,Japan,Ossa,2020/12/27
-VRL Season 8 Championships,Dynamic Weather,60,91.968,Saqoosha,Japan,TBSSpec,2022/02/11
-VRL Season 8 Track 1,Office Complex,93,203.975,Saqoosha,Japan,TBSSpec,2021/11/01
+VRL Season 7 Championships,Dynamic Weather,60,102.536,Saqoosha,Japan,Ossa,2020/12/27
+VRL Season 8 Championships,Dynamic Weather,63,91.968,Saqoosha,Japan,TBSSpec,2022/02/11
+VRL Season 8 Track 1,Office Complex,95,203.975,Saqoosha,Japan,TBSSpec,2021/11/01
 VRL Season 8 Track 2,Drift Track,75,108.853,Saqoosha,Japan,TBSSpec,2021/11/16
-VRL Season 8 Track 3,Night Factory 2,93,136.682,Saqoosha,Japan,TBSSpec,2021/11/26
+VRL Season 8 Track 3,Night Factory 2,96,136.682,Saqoosha,Japan,TBSSpec,2021/11/26
 VRL Season 8 Track 4,DynamicPoly,65,159.372,Saqoosha,Japan,Ossa,2021/12/07
-VRL Season 8 Track 5,Dynamic Weather,158,285.180,Saqoosha,Japan,TBSSpec,2021/12/16
+VRL Season 8 Track 5,Dynamic Weather,166,285.180,Saqoosha,Japan,TBSSpec,2021/12/16
 VRL Season 8 Track 6,Night Factory 2,60,117.734,Saqoosha,Japan,Ossa,2022/01/01
-VRL SEASON 8 TRACK 7,Dynamic Weather,60,88.589,Saqoosha,Japan,TBSSpec,2022/01/23
+VRL SEASON 8 TRACK 7,Dynamic Weather,62,88.589,Saqoosha,Japan,TBSSpec,2022/01/23
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,Saqoosha,NO_DATA
-Week 10 TT - MCKPractice2,Football Stadium,59,58.144,Saqoosha,Japan,Ossa,2022/01/01
-Week 12 TT - GQ22 by Chris M,Football Stadium,69,36.027,Saqoosha,Japan,TBSSpec,2022/02/12
+Week 10 TT - MCKPractice2,Football Stadium,64,58.144,Saqoosha,Japan,Ossa,2022/01/01
+Week 12 TT - GQ22 by Chris M,Football Stadium,73,36.027,Saqoosha,Japan,TBSSpec,2022/02/12
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,52,163.752,Saqoosha,Japan,TBSSpec,2022/03/26
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,15,79.918,Saqoosha,Japan,TBSSpec,2022/02/28
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,33,106.945,Saqoosha,Japan,TBSSpec,2022/03/26
-Week 16 TT - CM18 by Chris M,Football Stadium,12,43.014,Saqoosha,Japan,TBSSpec,2022/04/19
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,17,79.918,Saqoosha,Japan,TBSSpec,2022/02/28
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,40,106.945,Saqoosha,Japan,TBSSpec,2022/03/26
+Week 16 TT - CM18 by Chris M,Football Stadium,56,43.014,Saqoosha,Japan,TBSSpec,2022/04/19
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,19,67.524,Saqoosha,Japan,TBSSpec,2022/05/18
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,999,999.999,Saqoosha,NO_DATA
+Week 20 TT - BDS by ChrisM,Football Stadium,999,999.999,Saqoosha,NO_DATA
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,999,999.999,Saqoosha,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999,999.999,Saqoosha,NO_DATA
-Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,999,999.999,Saqoosha,NO_DATA
+Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,51,68.185,Saqoosha,Japan,TBSSpec,2022/05/05
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,16,92.123,Saqoosha,Japan,TBSSpec,2021/12/22
-Week 9 TT - CM17 by Chris M,Football Stadium,85,66.043,Saqoosha,Japan,TBSSpec,2021/12/25
+Week 9 TT - CM17 by Chris M,Football Stadium,90,66.043,Saqoosha,Japan,TBSSpec,2021/12/25

@@ -15,6 +15,7 @@ DEP Open Series 4 Race 4,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,81.105,SubToJBoxFPV,UnitedStates,Ossa,2021/10/08
 DEP Open Series 4 Race 7,Football Stadium,72.129,SubToJBoxFPV,UnitedStates,Ossa,2021/07/19
+DF5,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,52.887,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/03/28
 MGP Ice Rink Race 2022,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
@@ -31,6 +32,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,75.678,SubToJBoxFPV,UnitedStat
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,80.031,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/08/21
+ReddingFPVs DroneD,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,79.687,SubToJBoxFPV,UnitedStates,Five33Switchback,2020/09/22
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,108.072,SubToJBoxFPV,UnitedStates,Solleva,2020/09/08
@@ -70,8 +72,12 @@ Week 12 TT - GQ22 by Chris M,Football Stadium,28.800,SubToJBoxFPV,UnitedStates,M
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,130.152,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/24
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,68.561,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/03/08
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
-Week 16 TT - CM18 by Chris M,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
+Week 16 TT - CM18 by Chris M,Football Stadium,36.332,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/30
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,45.075,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/30
+Week 20 TT - BDS by ChrisM,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,84.323,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/06/17
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,SubToJBoxFPV,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,43.929,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/11/13
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,157.378,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/19

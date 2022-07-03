@@ -30,7 +30,7 @@ Formula Flow II,Empty Scene Day,77,109.037,OrigDragon,UnitedStates,TBSSpec,2022/
 Formula Flow III,Empty Scene Day,44,132.634,OrigDragon,UnitedStates,TBSSpec,2022/03/12
 Formula Flow IV,Empty Scene Day,51,156.423,OrigDragon,UnitedStates,TBSSpec,2022/03/12
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,43,96.552,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,79,57.103,OrigDragon,UnitedStates,TBSSpec,2021/04/02
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,92,57.103,OrigDragon,UnitedStates,TBSSpec,2021/04/02
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,71,75.415,OrigDragon,UnitedStates,TBSSpec,2021/04/02
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,21,66.522,OrigDragon,UnitedStates,TBSSpec,2021/05/27
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,40,67.146,OrigDragon,UnitedStates,TBSSpec,2021/05/28
@@ -38,7 +38,23 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,29,70.685,OrigDragon,Un
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,79,70.015,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,44,90.383,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,61,72.711,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,55,83.981,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,56,83.981,OrigDragon,UnitedStates,Five33Switchback,2022/02/17
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Airport,Empty Scene Day,27,71.377,OrigDragon,UnitedStates,CarbiXZero,2020/11/02
+Quad Rivals Dive It,Countryside,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Karting Track,IndoorGoKart,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Ladders from Hell DW,Dynamic Weather,24,111.712,OrigDragon,UnitedStates,TBSSpec,2021/02/03
+Quad Rivals Lake Murray,Empty Scene Day,60,53.739,OrigDragon,UnitedStates,CarbiXZero,2020/10/16
+Quad Rivals Overpass,Empty Scene Day,61,89.271,OrigDragon,UnitedStates,CarbiXZero,2020/10/24
+Quad Rivals Sept 2019 Track,Castle Sneznik,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Split S,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Team Race,Empty Scene Day,33,52.772,OrigDragon,UnitedStates,CarbiXZero,2020/10/24
+Quad Rivals Weave,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Welborn,Empty Scene Day,999,999.999,OrigDragon,NO_DATA
+Quad Rivals Who Works DW,Dynamic Weather,999,999.999,OrigDragon,NO_DATA
 TBS EU Spec Series 6 Final,Empty Scene Day,96,88.886,OrigDragon,UnitedStates,TBSSpec,2020/12/09
 TBS EU Spec Series 6 Losers Final,Football Stadium,117,81.736,OrigDragon,UnitedStates,CarbiXZero,2020/11/27
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,OrigDragon,NO_DATA
@@ -66,9 +82,9 @@ TBS EU Spec Series 8 Race 6,Football Stadium,79,69.695,OrigDragon,UnitedStates,T
 TBS EU Spec Series 8 Race 7,Empty Scene Day,121,84.089,OrigDragon,UnitedStates,TBSSpec,2021/06/22
 VRL 7 Race 4,Dynamic Weather,999,999.999,OrigDragon,NO_DATA
 VRL 7 Track 1,Future Hangar,999,999.999,OrigDragon,NO_DATA
-VRL 7 Track 2,Future Hangar Empty,135,143.360,OrigDragon,UnitedStates,CarbiXZero,2020/11/01
+VRL 7 Track 2,Future Hangar Empty,137,143.360,OrigDragon,UnitedStates,CarbiXZero,2020/11/01
 VRL 7 Track 3,Dynamic Weather,122,88.890,OrigDragon,UnitedStates,CarbiXZero,2020/11/17
-VRL 7 Track 5,Dynamic Weather,192,110.095,OrigDragon,UnitedStates,TBSSpec,2020/12/17
-VRL 7 Track 6,Dynamic Weather,128,89.066,OrigDragon,UnitedStates,CarbiXZero,2020/12/18
+VRL 7 Track 5,Dynamic Weather,198,110.095,OrigDragon,UnitedStates,TBSSpec,2020/12/17
+VRL 7 Track 6,Dynamic Weather,129,89.066,OrigDragon,UnitedStates,CarbiXZero,2020/12/18
 VRL7 Tryouts,Future Hangar Empty,999,999.999,OrigDragon,NO_DATA
-VRL Season 7 Championships,Dynamic Weather,188,137.403,OrigDragon,UnitedStates,TBSSpec,2021/01/27
+VRL Season 7 Championships,Dynamic Weather,190,137.403,OrigDragon,UnitedStates,TBSSpec,2021/01/27

@@ -30,6 +30,7 @@ DEP Open Series 5 Race 7,Football Stadium,112.607,rafifly,France,Five33Switchbac
 DEP Open Series 6 Race 1,Football Stadium,79.823,rafifly,France,Five33Switchback,2022/03/08
 DEP Open Series 6 Race 2,Football Stadium,158.763,rafifly,France,Five33Switchback,2022/03/21
 DEP Spec Series 1 Race 5,Football Stadium,999.999,rafifly,NO_DATA
+DF5,Football Stadium,134.785,rafifly,France,Five33Switchback,2022/07/01
 Formula FLow I,Empty Scene Day,62.533,rafifly,France,Five33Switchback,2022/03/11
 Formula Flow II,Empty Scene Day,80.949,rafifly,France,Five33Switchback,2022/03/11
 Formula Flow III,Empty Scene Day,145.008,rafifly,France,Five33Switchback,2022/03/14
@@ -41,6 +42,7 @@ RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,71.930,rafifly,France,Five33Sw
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,rafifly,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,98.839,rafifly,France,Five33Switchback,2022/02/04
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,126.672,rafifly,France,Five33Switchback,2022/02/04
+ReddingFPVs DroneD,Dynamic Weather,999.999,rafifly,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,94.734,rafifly,France,Five33Switchback,2022/03/03
 TBS EU Spec Series 10 Losers Final,Football Stadium,60.371,rafifly,France,Five33Switchback,2022/02/12
 TBS EU Spec Series 10 Race 1,Football Stadium,78.784,rafifly,France,Five33Switchback,2022/05/14
@@ -63,6 +65,7 @@ TBS EU Spec Series 9 Race 4,Football Stadium,96.352,rafifly,France,TBSSpec,2021/
 TBS EU Spec Series 9 Race 5,Empty Scene Day,83.203,rafifly,France,LilBastard,2021/10/18
 TBS EU Spec Series 9 Race 6,Empty Scene Day,84.014,rafifly,France,Five33Switchback,2021/11/03
 TBS EU Spec Series 9 Race 7,NEC Birmingham,89.816,rafifly,France,Five33Switchback,2021/11/01
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,85.255,rafifly,France,Five33Switchback,2022/06/22
 TDRF Dutch nationals indoor race 1,Empty Scene Day,73.283,rafifly,France,Five33Switchback,2022/02/19
 TDRF Dutch nationals indoor race 2,Empty Scene Day,120.533,rafifly,France,Five33Switchback,2022/02/19
 TDRF Dutch nationals indoor race 3,Empty Scene Day,115.825,rafifly,France,Five33Switchback,2022/03/03
@@ -73,7 +76,11 @@ Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,169.422,r
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,91.675,rafifly,France,Five33Switchback,2022/03/06
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999.999,rafifly,NO_DATA
 Week 16 TT - CM18 by Chris M,Football Stadium,999.999,rafifly,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,59.750,rafifly,France,TBSSpec,2021/10/20
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,76.630,rafifly,France,SniperX,2022/05/19
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,50.838,rafifly,France,SniperX,2022/05/17
+Week 20 TT - BDS by ChrisM,Football Stadium,56.094,rafifly,France,Five33Switchback,2022/06/12
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,107.469,rafifly,France,Five33Switchback,2022/06/25
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,rafifly,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,110.462,rafifly,France,Five33Switchback,2021/11/02
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,999.999,rafifly,NO_DATA
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,206.084,rafifly,France,Five33Switchback,2021/12/22

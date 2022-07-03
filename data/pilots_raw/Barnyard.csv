@@ -41,6 +41,7 @@ DEP Open Series 5 Race 7,Football Stadium,110.370,Barnyard,UnitedStates,Five33Sw
 DEP Open Series 6 Race 1,Football Stadium,69.641,Barnyard,UnitedStates,Five33Switchback,2022/03/16
 DEP Open Series 6 Race 2,Football Stadium,999.999,Barnyard,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,122.222,Barnyard,UnitedStates,Five33Switchback,2021/01/01
+DF5,Football Stadium,999.999,Barnyard,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,78.361,Barnyard,UnitedStates,Five33Switchback,2022/05/31
 Mayhem 2021 By YAWESOME,Empty Scene Day,999.999,Barnyard,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,69.401,Barnyard,UnitedStates,Five33Switchback,2022/04/05
@@ -95,6 +96,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,62.682,Barnyard,UnitedStates,F
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,81.607,Barnyard,UnitedStates,Five33Switchback,2022/06/25
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,93.770,Barnyard,UnitedStates,Five33Switchback,2022/06/27
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,93.459,Barnyard,UnitedStates,TBSSpec,2022/01/30
+ReddingFPVs DroneD,Dynamic Weather,999.999,Barnyard,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,60.381,Barnyard,UnitedStates,Five33Switchback,2022/06/29
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,79.343,Barnyard,UnitedStates,Five33Switchback,2022/02/28
 TBS EU Spec Series 10 Losers Final,Football Stadium,56.572,Barnyard,UnitedStates,Five33Switchback,2022/06/29
@@ -156,6 +158,11 @@ TBS EU Spec Series 9 Race 4,Football Stadium,69.455,Barnyard,UnitedStates,Five33
 TBS EU Spec Series 9 Race 5,Empty Scene Day,72.662,Barnyard,UnitedStates,Five33Switchback,2021/12/10
 TBS EU Spec Series 9 Race 6,Empty Scene Day,66.691,Barnyard,UnitedStates,Five33Switchback,2021/11/26
 TBS EU Spec Series 9 Race 7,NEC Birmingham,73.921,Barnyard,UnitedStates,Five33Switchback,2021/11/01
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,66.326,Barnyard,UnitedStates,Five33Switchback,2022/06/29
+TDRF Dutch nationals indoor race 1,Empty Scene Day,60.960,Barnyard,UnitedStates,TBSSpec,2022/03/11
+TDRF Dutch nationals indoor race 2,Empty Scene Day,999.999,Barnyard,NO_DATA
+TDRF Dutch nationals indoor race 3,Empty Scene Day,54.706,Barnyard,UnitedStates,Five33Switchback,2022/03/09
+TDRF Dutch nationals indoor race 4,Empty Scene Day,999.999,Barnyard,NO_DATA
 VRL6 Championships,Dynamic Weather,126.766,Barnyard,UnitedStates,Five33Switchback,2021/02/01
 VRL6 Crash Site,Dynamic Weather,999.999,Barnyard,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999.999,Barnyard,NO_DATA
@@ -177,7 +184,7 @@ VRL S5 TRACK 2,Dynamic Weather,999.999,Barnyard,NO_DATA
 VRL S5 TRACK 3,Bando,113.810,Barnyard,UnitedStates,Five33Switchback,2021/02/18
 VRL S5 TRACK 4,Empty Scene Day,999.999,Barnyard,NO_DATA
 VRL S5 TRACK 5,Dynamic Weather,98.367,Barnyard,UnitedStates,Five33Switchback,2022/01/28
-VRL Season 3 Track 1,Empty Scene Day,75.438,Barnyard,UnitedStates,Five33Switchback,2021/06/26
+VRL Season 3 Track 1,Empty Scene Day,67.837,Barnyard,UnitedStates,Five33Switchback,2022/06/30
 VRL Season 3 Track 2,Empty Scene Day,999.999,Barnyard,NO_DATA
 VRL Season 3 Track 3,Empty Scene Day,999.999,Barnyard,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,91.897,Barnyard,UnitedStates,Five33Switchback,2021/11/26
@@ -212,8 +219,12 @@ Week 12 TT - GQ22 by Chris M,Football Stadium,35.071,Barnyard,UnitedStates,Five3
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,132.535,Barnyard,UnitedStates,Five33Switchback,2022/02/23
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,92.796,Barnyard,UnitedStates,Five33Switchback,2022/03/08
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,100.718,Barnyard,UnitedStates,Five33Switchback,2022/03/26
-Week 16 TT - CM18 by Chris M,Football Stadium,999.999,Barnyard,NO_DATA
+Week 16 TT - CM18 by Chris M,Football Stadium,41.909,Barnyard,UnitedStates,Five33Switchback,2022/04/22
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,67.155,Barnyard,UnitedStates,Five33Switchback,2022/06/07
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,48.099,Barnyard,UnitedStates,Five33Switchback,2021/10/23
+Week 20 TT - BDS by ChrisM,Football Stadium,42.512,Barnyard,UnitedStates,Five33Switchback,2022/06/08
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,90.379,Barnyard,UnitedStates,Five33Switchback,2022/06/19
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,Barnyard,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,84.891,Barnyard,UnitedStates,Five33Switchback,2021/10/21
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,65.300,Barnyard,UnitedStates,Five33Switchback,2021/11/15
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,99.436,Barnyard,UnitedStates,Five33Switchback,2021/12/19

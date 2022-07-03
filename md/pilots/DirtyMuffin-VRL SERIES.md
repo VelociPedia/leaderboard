@@ -14,10 +14,10 @@
 |:---:|:---|:---|:---:|:---:|
 |62|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/11|
 |59|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/15|
-|52|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/09|
+|53|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/09|
+|50|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/20|
 |49|VRL7 Tryouts|Future Hangar Empty|Five33Switchback|2020/09/18|
-|48|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/20|
-|45|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2020/12/28|
+|47|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2020/12/28|
 |42|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2021/11/27|
 |38|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/28|
 |22|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/02|
@@ -32,7 +32,7 @@
 |22|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/02|
 |7|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2020/06/26|
 |6|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2020/06/26|
-|3|VRL S5 TRACK 5|Dynamic Weather|Five33Switchback|2020/07/12|
+|4|VRL S5 TRACK 5|Dynamic Weather|Five33Switchback|2020/07/12|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

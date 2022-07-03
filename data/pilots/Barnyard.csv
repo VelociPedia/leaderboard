@@ -41,6 +41,7 @@ DEP Open Series 5 Race 7,Football Stadium,80,110.370,Barnyard,UnitedStates,Five3
 DEP Open Series 6 Race 1,Football Stadium,39,69.641,Barnyard,UnitedStates,Five33Switchback,2022/03/16
 DEP Open Series 6 Race 2,Football Stadium,999,999.999,Barnyard,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,184,122.222,Barnyard,UnitedStates,Five33Switchback,2021/01/01
+DF5,Football Stadium,999,999.999,Barnyard,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,20,78.361,Barnyard,UnitedStates,Five33Switchback,2022/05/31
 Mayhem 2021 By YAWESOME,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,74,69.401,Barnyard,UnitedStates,Five33Switchback,2022/04/05
@@ -81,7 +82,7 @@ Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,35,72.405,Barnyard,Unit
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,43,62.042,Barnyard,UnitedStates,Five33Switchback,2021/09/24
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,26,82.061,Barnyard,UnitedStates,Five33Switchback,2021/11/03
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,22,57.653,Barnyard,UnitedStates,Five33Switchback,2021/12/21
-Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,12,62.308,Barnyard,UnitedStates,Five33Switchback,2022/01/31
+Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,13,62.308,Barnyard,UnitedStates,Five33Switchback,2022/01/31
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,40,67.581,Barnyard,UnitedStates,Five33Switchback,2022/03/03
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,34,65.904,Barnyard,UnitedStates,Five33Switchback,2022/06/14
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,97,63.593,Barnyard,UnitedStates,TBSSpec,2022/01/30
@@ -95,6 +96,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,20,62.682,Barnyard,UnitedState
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,45,81.607,Barnyard,UnitedStates,Five33Switchback,2022/06/25
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,29,93.770,Barnyard,UnitedStates,Five33Switchback,2022/06/27
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,128,93.459,Barnyard,UnitedStates,TBSSpec,2022/01/30
+ReddingFPVs DroneD,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,60,60.381,Barnyard,UnitedStates,Five33Switchback,2022/06/29
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,59,79.343,Barnyard,UnitedStates,Five33Switchback,2022/02/28
 TBS EU Spec Series 10 Losers Final,Football Stadium,49,56.572,Barnyard,UnitedStates,Five33Switchback,2022/06/29
@@ -156,28 +158,33 @@ TBS EU Spec Series 9 Race 4,Football Stadium,61,69.455,Barnyard,UnitedStates,Fiv
 TBS EU Spec Series 9 Race 5,Empty Scene Day,103,72.662,Barnyard,UnitedStates,Five33Switchback,2021/12/10
 TBS EU Spec Series 9 Race 6,Empty Scene Day,32,66.691,Barnyard,UnitedStates,Five33Switchback,2021/11/26
 TBS EU Spec Series 9 Race 7,NEC Birmingham,67,73.921,Barnyard,UnitedStates,Five33Switchback,2021/11/01
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,15,66.326,Barnyard,UnitedStates,Five33Switchback,2022/06/29
+TDRF Dutch nationals indoor race 1,Empty Scene Day,19,60.960,Barnyard,UnitedStates,TBSSpec,2022/03/11
+TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,Barnyard,NO_DATA
+TDRF Dutch nationals indoor race 3,Empty Scene Day,8,54.706,Barnyard,UnitedStates,Five33Switchback,2022/03/09
+TDRF Dutch nationals indoor race 4,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 VRL6 Championships,Dynamic Weather,127,126.766,Barnyard,UnitedStates,Five33Switchback,2021/02/01
 VRL6 Crash Site,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL6 Kenerator,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL6 Meltdown,Dynamic Weather,68,314.627,Barnyard,UnitedStates,Five33Switchback,2021/01/03
+VRL6 Meltdown,Dynamic Weather,71,314.627,Barnyard,UnitedStates,Five33Switchback,2021/01/03
 VRL6 Reinforcement,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL6 Tunnel Vision,Dynamic Weather,58,145.837,Barnyard,UnitedStates,Five33Switchback,2022/01/17
-VRL 7 Race 4,Dynamic Weather,129,100.426,Barnyard,UnitedStates,Five33Switchback,2021/10/28
-VRL 7 Track 1,Future Hangar,129,111.032,Barnyard,UnitedStates,Five33Switchback,2022/02/27
+VRL6 Tunnel Vision,Dynamic Weather,59,145.837,Barnyard,UnitedStates,Five33Switchback,2022/01/17
+VRL 7 Race 4,Dynamic Weather,130,100.426,Barnyard,UnitedStates,Five33Switchback,2021/10/28
+VRL 7 Track 1,Future Hangar,130,111.032,Barnyard,UnitedStates,Five33Switchback,2022/02/27
 VRL 7 Track 2,Future Hangar Empty,999,999.999,Barnyard,NO_DATA
 VRL 7 Track 3,Dynamic Weather,94,81.443,Barnyard,UnitedStates,Five33Switchback,2021/11/20
 VRL 7 Track 5,Dynamic Weather,147,98.594,Barnyard,UnitedStates,Five33Switchback,2020/12/12
-VRL 7 Track 6,Dynamic Weather,187,97.777,Barnyard,UnitedStates,Five33Switchback,2020/12/18
+VRL 7 Track 6,Dynamic Weather,189,97.777,Barnyard,UnitedStates,Five33Switchback,2020/12/18
 VRL7 Tryouts,Future Hangar Empty,999,999.999,Barnyard,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,60,118.354,Barnyard,UnitedStates,Five33Switchback,2021/11/19
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,62,118.354,Barnyard,UnitedStates,Five33Switchback,2021/11/19
 VRL S5 Track 1,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL S5 TRACK 2,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL S5 TRACK 3,Bando,17,113.810,Barnyard,UnitedStates,Five33Switchback,2021/02/18
+VRL S5 TRACK 3,Bando,19,113.810,Barnyard,UnitedStates,Five33Switchback,2021/02/18
 VRL S5 TRACK 4,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 VRL S5 TRACK 5,Dynamic Weather,10,98.367,Barnyard,UnitedStates,Five33Switchback,2022/01/28
-VRL Season 3 Track 1,Empty Scene Day,46,75.438,Barnyard,UnitedStates,Five33Switchback,2021/06/26
+VRL Season 3 Track 1,Empty Scene Day,28,67.837,Barnyard,UnitedStates,Five33Switchback,2022/06/30
 VRL Season 3 Track 2,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,9,91.897,Barnyard,UnitedStates,Five33Switchback,2021/11/26
@@ -185,10 +192,10 @@ VRL Season 3 Track 5,Empty Scene Day,16,72.028,Barnyard,UnitedStates,Five33Switc
 VRL Season 3 Track 6,Empty Scene Day,999,999.999,Barnyard,NO_DATA
 VRL Season 4 Championship,Football Stadium,999,999.999,Barnyard,NO_DATA
 VRL Season 4 Track 1,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL Season 4 Track 2,Bando,46,150.887,Barnyard,UnitedStates,Five33Switchback,2022/02/20
-VRL Season 4 Track 3,Basketball Stadium,31,74.287,Barnyard,UnitedStates,Five33Switchback,2021/08/18
+VRL Season 4 Track 2,Bando,58,150.887,Barnyard,UnitedStates,Five33Switchback,2022/02/20
+VRL Season 4 Track 3,Basketball Stadium,38,74.287,Barnyard,UnitedStates,Five33Switchback,2021/08/18
 VRL-Season-4-Track-4,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL_Season_4_Track_5,Coastal,20,123.662,Barnyard,UnitedStates,Five33Switchback,2022/01/30
+VRL_Season_4_Track_5,Coastal,21,123.662,Barnyard,UnitedStates,Five33Switchback,2022/01/30
 VRL_Season_4_Track_6,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL Season 4 Track 7,Dynamic Weather,8,84.183,Barnyard,UnitedStates,Five33Switchback,2022/02/04
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,Barnyard,NO_DATA
@@ -197,24 +204,28 @@ VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,Barnyard,NO_DATA
 VRL SEASON 5 TRACK 8,Industrial Wasteland,14,106.914,Barnyard,UnitedStates,TBSSpec,2021/02/14
 VRL SEASON 5 TRYOUTS,Dynamic Weather,999,999.999,Barnyard,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,999,999.999,Barnyard,NO_DATA
-VRL Season 7 Championships,Dynamic Weather,79,106.079,Barnyard,UnitedStates,Five33Switchback,2022/01/23
-VRL Season 8 Championships,Dynamic Weather,55,90.270,Barnyard,UnitedStates,Five33Switchback,2022/02/11
+VRL Season 7 Championships,Dynamic Weather,80,106.079,Barnyard,UnitedStates,Five33Switchback,2022/01/23
+VRL Season 8 Championships,Dynamic Weather,58,90.270,Barnyard,UnitedStates,Five33Switchback,2022/02/11
 VRL Season 8 Track 1,Office Complex,999,999.999,Barnyard,NO_DATA
-VRL Season 8 Track 2,Drift Track,128,169.780,Barnyard,UnitedStates,Five33Switchback,2022/02/20
-VRL Season 8 Track 3,Night Factory 2,146,186.301,Barnyard,UnitedStates,Five33Switchback,2021/12/04
+VRL Season 8 Track 2,Drift Track,129,169.780,Barnyard,UnitedStates,Five33Switchback,2022/02/20
+VRL Season 8 Track 3,Night Factory 2,150,186.301,Barnyard,UnitedStates,Five33Switchback,2021/12/04
 VRL Season 8 Track 4,DynamicPoly,60,138.089,Barnyard,UnitedStates,Five33Switchback,2021/12/11
 VRL Season 8 Track 5,Dynamic Weather,71,128.770,Barnyard,UnitedStates,Five33Switchback,2021/12/18
 VRL Season 8 Track 6,Night Factory 2,999,999.999,Barnyard,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,53,85.020,Barnyard,UnitedStates,Five33Switchback,2022/01/22
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,Barnyard,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,999,999.999,Barnyard,NO_DATA
-Week 12 TT - GQ22 by Chris M,Football Stadium,59,35.071,Barnyard,UnitedStates,Five33Switchback,2022/02/15
+Week 12 TT - GQ22 by Chris M,Football Stadium,63,35.071,Barnyard,UnitedStates,Five33Switchback,2022/02/15
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,20,132.535,Barnyard,UnitedStates,Five33Switchback,2022/02/23
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,48,92.796,Barnyard,UnitedStates,Five33Switchback,2022/03/08
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,25,100.718,Barnyard,UnitedStates,Five33Switchback,2022/03/26
-Week 16 TT - CM18 by Chris M,Football Stadium,999,999.999,Barnyard,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,41,48.099,Barnyard,UnitedStates,Five33Switchback,2021/10/23
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,14,84.891,Barnyard,UnitedStates,Five33Switchback,2021/10/21
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,52,92.796,Barnyard,UnitedStates,Five33Switchback,2022/03/08
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,32,100.718,Barnyard,UnitedStates,Five33Switchback,2022/03/26
+Week 16 TT - CM18 by Chris M,Football Stadium,50,41.909,Barnyard,UnitedStates,Five33Switchback,2022/04/22
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,18,67.155,Barnyard,UnitedStates,Five33Switchback,2022/06/07
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,45,48.099,Barnyard,UnitedStates,Five33Switchback,2021/10/23
+Week 20 TT - BDS by ChrisM,Football Stadium,54,42.512,Barnyard,UnitedStates,Five33Switchback,2022/06/08
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,22,90.379,Barnyard,UnitedStates,Five33Switchback,2022/06/19
+Week 23 TT - Sundial Bridge by Boner,River2,999,999.999,Barnyard,NO_DATA
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,18,84.891,Barnyard,UnitedStates,Five33Switchback,2021/10/21
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,43,65.300,Barnyard,UnitedStates,Five33Switchback,2021/11/15
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,20,99.436,Barnyard,UnitedStates,Five33Switchback,2021/12/19
-Week 9 TT - CM17 by Chris M,Football Stadium,57,61.725,Barnyard,UnitedStates,Five33Switchback,2021/12/26
+Week 9 TT - CM17 by Chris M,Football Stadium,59,61.725,Barnyard,UnitedStates,Five33Switchback,2021/12/26

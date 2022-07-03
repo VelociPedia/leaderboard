@@ -77,7 +77,7 @@ MultiGP UTT 1,Football Stadium,999,999.999,DeMoNse3d,NO_DATA
 MultiGP UTT 5,Football Stadium,999,999.999,DeMoNse3d,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,DeMoNse3d,NO_DATA
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,31,90.488,DeMoNse3d,Mexico,SniperX,2022/01/17
-Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,57,53.628,DeMoNse3d,Mexico,Five33Switchback,2021/04/01
+Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,67,53.628,DeMoNse3d,Mexico,Five33Switchback,2021/04/01
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,76,76.723,DeMoNse3d,Mexico,TBSSpec,2021/04/02
 Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,26,70.333,DeMoNse3d,Mexico,TBSSpec,2021/05/04
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,33,64.511,DeMoNse3d,Mexico,Five33Switchback,2021/05/27
@@ -86,6 +86,22 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,62,66.590,DeMoNse3
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,51,69.086,DeMoNse3d,Mexico,SniperX,2021/12/21
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,25,64.762,DeMoNse3d,Mexico,SniperX,2022/03/27
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,55,56.807,DeMoNse3d,Mexico,SniperX,2022/05/02
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,25,83.093,DeMoNse3d,Mexico,SniperX,2022/05/26
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Airport,Empty Scene Day,150,152.333,DeMoNse3d,Mexico,TBSSpec,2020/04/05
+Quad Rivals Dive It,Countryside,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Karting Track,IndoorGoKart,114,219.300,DeMoNse3d,Mexico,TBSSpec,2020/05/16
+Quad Rivals Ladders from Hell DW,Dynamic Weather,143,242.843,DeMoNse3d,Mexico,TBSSpec,2020/05/04
+Quad Rivals Lake Murray,Empty Scene Day,138,73.628,DeMoNse3d,Mexico,TBSSpec,2020/10/27
+Quad Rivals Overpass,Empty Scene Day,164,126.201,DeMoNse3d,Mexico,TBSSpec,2020/04/26
+Quad Rivals Sept 2019 Track,Castle Sneznik,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Split S,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Team Race,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Weave,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Welborn,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
+Quad Rivals Who Works DW,Dynamic Weather,74,100.716,DeMoNse3d,Mexico,TBSSpec,2020/05/05
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,94,74.197,DeMoNse3d,Mexico,Five33Switchback,2021/04/18
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,DeMoNse3d,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,57,58.236,DeMoNse3d,Mexico,SniperX,2022/04/22
@@ -160,16 +176,17 @@ TBS EU Spec Series 9 Race 4,Football Stadium,79,73.777,DeMoNse3d,Mexico,TBSSpec,
 TBS EU Spec Series 9 Race 5,Empty Scene Day,105,73.579,DeMoNse3d,Mexico,TBSSpec,2021/10/09
 TBS EU Spec Series 9 Race 6,Empty Scene Day,120,86.511,DeMoNse3d,Mexico,TBSSpec,2021/10/28
 TBS EU Spec Series 9 Race 7,NEC Birmingham,69,74.116,DeMoNse3d,Mexico,TBSSpec,2021/10/29
-TDRF Dutch nationals indoor race 1,Empty Scene Day,20,63.975,DeMoNse3d,Mexico,SniperX,2022/02/15
-TDRF Dutch nationals indoor race 2,Empty Scene Day,55,117.728,DeMoNse3d,Mexico,SniperX,2022/02/24
-TDRF Dutch nationals indoor race 3,Empty Scene Day,6,54.431,DeMoNse3d,Mexico,SniperX,2022/03/06
-TDRF Dutch nationals indoor race 4,Empty Scene Day,11,46.747,DeMoNse3d,Mexico,TBSSpec,2022/04/05
-VRL Season 8 Championships,Dynamic Weather,65,97.635,DeMoNse3d,Mexico,SniperX,2022/02/09
+TDRF 2022 Outdoor NK track 1,Empty Scene Day,24,74.493,DeMoNse3d,Mexico,SniperX,2022/07/01
+TDRF Dutch nationals indoor race 1,Empty Scene Day,24,63.975,DeMoNse3d,Mexico,SniperX,2022/02/15
+TDRF Dutch nationals indoor race 2,Empty Scene Day,64,117.728,DeMoNse3d,Mexico,SniperX,2022/02/24
+TDRF Dutch nationals indoor race 3,Empty Scene Day,7,54.431,DeMoNse3d,Mexico,SniperX,2022/03/06
+TDRF Dutch nationals indoor race 4,Empty Scene Day,13,46.747,DeMoNse3d,Mexico,TBSSpec,2022/04/05
+VRL Season 8 Championships,Dynamic Weather,69,97.635,DeMoNse3d,Mexico,SniperX,2022/02/09
 VRL Season 8 Track 1,Office Complex,78,174.252,DeMoNse3d,Mexico,TBSSpec,2021/10/31
 VRL Season 8 Track 2,Drift Track,78,110.810,DeMoNse3d,Mexico,Five33Switchback,2021/11/15
-VRL Season 8 Track 3,Night Factory 2,86,131.790,DeMoNse3d,Mexico,Five33Switchback,2021/11/28
+VRL Season 8 Track 3,Night Factory 2,87,131.790,DeMoNse3d,Mexico,Five33Switchback,2021/11/28
 VRL Season 8 Track 4,DynamicPoly,999,999.999,DeMoNse3d,NO_DATA
 VRL Season 8 Track 5,Dynamic Weather,73,129.450,DeMoNse3d,Mexico,SniperX,2021/12/29
 VRL Season 8 Track 6,Night Factory 2,72,132.796,DeMoNse3d,Mexico,SniperX,2022/01/03
-VRL SEASON 8 TRACK 7,Dynamic Weather,65,90.425,DeMoNse3d,Mexico,SniperX,2022/01/29
+VRL SEASON 8 TRACK 7,Dynamic Weather,69,90.425,DeMoNse3d,Mexico,SniperX,2022/01/29
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,DeMoNse3d,NO_DATA

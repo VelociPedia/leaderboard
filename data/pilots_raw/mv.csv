@@ -41,6 +41,7 @@ DEP Open Series 5 Race 7,Football Stadium,86.540,mv,Estonia,CarbiXZero,2021/12/2
 DEP Open Series 6 Race 1,Football Stadium,59.575,mv,Estonia,CarbiXZero,2022/04/11
 DEP Open Series 6 Race 2,Football Stadium,78.289,mv,Estonia,CarbiXZero,2022/03/09
 DEP Spec Series 1 Race 5,Football Stadium,97.156,mv,Estonia,TBSSpec,2021/10/18
+DF5,Football Stadium,999.999,mv,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,77.540,mv,Estonia,TBSSpec,2022/02/21
 Mayhem 2021 By YAWESOME,Empty Scene Day,58.455,mv,Estonia,CarbiXZero,2022/05/03
 Mayhem 22 by SFPV,Empty Scene Day,61.051,mv,Estonia,CarbiXZero,2022/04/02
@@ -95,6 +96,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,63.728,mv,Estonia,TBSSpec,2021
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,66.533,mv,Estonia,TBSSpec,2021/12/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,90.153,mv,Estonia,TBSSpec,2021/12/12
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,68.201,mv,Estonia,TBSSpec,2021/12/12
+ReddingFPVs DroneD,Dynamic Weather,999.999,mv,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,53.356,mv,Estonia,CarbiXZero,2022/03/27
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,73.920,mv,Estonia,TBSSpec,2022/02/17
 TBS EU Spec Series 10 Losers Final,Football Stadium,55.632,mv,Estonia,TBSSpec,2022/07/01
@@ -170,8 +172,12 @@ Week 12 TT - GQ22 by Chris M,Football Stadium,31.199,mv,Estonia,TBSSpec,2022/02/
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,999.999,mv,NO_DATA
 Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,70.534,mv,Estonia,CarbiXZero,2022/03/01
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,999.999,mv,NO_DATA
-Week 16 TT - CM18 by Chris M,Football Stadium,999.999,mv,NO_DATA
+Week 16 TT - CM18 by Chris M,Football Stadium,37.982,mv,Estonia,CarbiXZero,2022/04/26
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,999.999,mv,NO_DATA
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,44.870,mv,Estonia,TBSSpec,2021/10/14
+Week 20 TT - BDS by ChrisM,Football Stadium,36.072,mv,Estonia,CarbiXZero,2022/06/05
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,80.590,mv,Estonia,TBSSpec,2022/06/19
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,mv,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,88.133,mv,Estonia,TBSSpec,2021/10/22
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,48.520,mv,Estonia,CarbiXZero,2021/11/18
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,167.498,mv,Estonia,CarbiXZero,2021/12/27

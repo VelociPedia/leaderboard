@@ -14,6 +14,7 @@ DEP Open Series 5 Race 4,Football Stadium,140.404,Crashin2416,UnitedStates,Diato
 DEP Open Series 5 Race 5,Football Stadium,130.824,Crashin2416,UnitedStates,DiatoneGTB339,2021/12/10
 DEP Open Series 5 Race 6,Football Stadium,999.999,Crashin2416,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,162.378,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+DF5,Football Stadium,999.999,Crashin2416,NO_DATA
 MGP2018IOIntermediate,Empty Scene Day,58.032,Crashin2416,UnitedStates,Five33SwitchbackExp,2021/10/16
 MGP2018IORookie,Empty Scene Day,999.999,Crashin2416,NO_DATA
 MGP2018IOTeam,Empty Scene Day,94.898,Crashin2416,UnitedStates,Five33SwitchbackExp,2021/10/16
@@ -45,9 +46,26 @@ Quad Rivals 2021 Race 3 - Devils Ridge,Empty Scene Day,149.562,Crashin2416,Unite
 Quad Rivals 2021 Race 4 - Freedom Spec,Empty Scene Day,127.234,Crashin2416,UnitedStates,TBSSpec,2022/01/30
 Quad Rivals 2021 Race 5 - Bring the Heat,Empty Scene Day,132.533,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
 Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,999.999,Crashin2416,NO_DATA
-Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,177.245,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,999.999,Crashin2416,NO_DATA
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,104.797,Crashin2416,UnitedStates,DiatoneGTB339,2021/12/18
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,104.694,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,999.999,Crashin2416,NO_DATA
+Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,96.753,Crashin2416,UnitedStates,Five33Switchback,2022/04/28
+Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999.999,Crashin2416,NO_DATA
+Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,Crashin2416,NO_DATA
+Quad Rivals Airport,Empty Scene Day,114.635,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Dive It,Countryside,63.691,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Karting Track,IndoorGoKart,179.403,Crashin2416,UnitedStates,Five33Switchback,2022/04/04
+Quad Rivals Ladders from Hell DW,Dynamic Weather,215.851,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Lake Murray,Empty Scene Day,999.999,Crashin2416,NO_DATA
+Quad Rivals Overpass,Empty Scene Day,999.999,Crashin2416,NO_DATA
+Quad Rivals Sept 2019 Track,Castle Sneznik,85.186,Crashin2416,UnitedStates,TinyHawk,2021/06/04
+Quad Rivals Split S,Empty Scene Day,74.048,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Team Race,Empty Scene Day,98.746,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Weave,Empty Scene Day,73.528,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Welborn,Empty Scene Day,102.153,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+Quad Rivals Who Works DW,Dynamic Weather,101.369,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/04
+ReddingFPVs DroneD,Dynamic Weather,999.999,Crashin2416,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,Crashin2416,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999.999,Crashin2416,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,999.999,Crashin2416,NO_DATA
@@ -87,7 +105,7 @@ VRL Season 3 Track 6,Empty Scene Day,999.999,Crashin2416,NO_DATA
 VRL Season 4 Championship,Football Stadium,220.544,Crashin2416,UnitedStates,DiatoneGTB339,2021/09/19
 VRL Season 4 Track 1,Dynamic Weather,296.802,Crashin2416,UnitedStates,DiatoneGTB339,2021/09/19
 VRL Season 4 Track 2,Bando,221.988,Crashin2416,UnitedStates,DiatoneGTB339,2021/12/29
-VRL Season 4 Track 3,Basketball Stadium,107.669,Crashin2416,UnitedStates,DiatoneGTB339,2021/08/23
+VRL Season 4 Track 3,Basketball Stadium,83.622,Crashin2416,UnitedStates,DiatoneGTB339,2022/04/23
 VRL-Season-4-Track-4,Dynamic Weather,155.496,Crashin2416,UnitedStates,DiatoneGTB339,2021/09/21
 VRL_Season_4_Track_5,Coastal,202.686,Crashin2416,UnitedStates,RomaF5,2021/08/19
 VRL_Season_4_Track_6,Dynamic Weather,227.027,Crashin2416,UnitedStates,DiatoneGTB339,2021/09/21
@@ -103,19 +121,23 @@ VRL Season 8 Championships,Dynamic Weather,214.076,Crashin2416,UnitedStates,Five
 VRL Season 8 Track 1,Office Complex,247.035,Crashin2416,UnitedStates,DiatoneGTB339,2021/11/04
 VRL Season 8 Track 2,Drift Track,205.827,Crashin2416,UnitedStates,DiatoneGTB339,2021/11/23
 VRL Season 8 Track 3,Night Factory 2,227.310,Crashin2416,UnitedStates,HX115,2022/02/11
-VRL Season 8 Track 4,DynamicPoly,321.839,Crashin2416,UnitedStates,RomaF5,2021/12/07
+VRL Season 8 Track 4,DynamicPoly,238.363,Crashin2416,UnitedStates,Five33Switchback,2022/04/21
 VRL Season 8 Track 5,Dynamic Weather,250.918,Crashin2416,UnitedStates,DiatoneGTB339,2021/12/18
 VRL Season 8 Track 6,Night Factory 2,236.467,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/18
-VRL SEASON 8 TRACK 7,Dynamic Weather,190.461,Crashin2416,UnitedStates,DiatoneGTB339,2022/02/04
+VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,Crashin2416,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,423.918,Crashin2416,UnitedStates,NazgulXL5,2021/10/29
-Week 10 TT - MCKPractice2,Football Stadium,90.649,Crashin2416,UnitedStates,DiatoneGTB339,2022/01/03
-Week 12 TT - GQ22 by Chris M,Football Stadium,999.999,Crashin2416,NO_DATA
-Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,216.762,Crashin2416,UnitedStates,Five33Switchback,2022/02/19
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,127.641,Crashin2416,UnitedStates,Five33Switchback,2022/04/14
-Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,146.107,Crashin2416,UnitedStates,Five33Switchback,2022/04/14
-Week 16 TT - CM18 by Chris M,Football Stadium,999.999,Crashin2416,NO_DATA
-Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,93.646,Crashin2416,UnitedStates,DiatoneGTB339,2021/11/18
-Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999.999,Crashin2416,NO_DATA
-Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,118.817,Crashin2416,UnitedStates,DiatoneGTB339,2021/11/11
-Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,168.366,Crashin2416,UnitedStates,DiatoneGTB339,2021/12/19
+Week 10 TT - MCKPractice2,Football Stadium,76.361,Crashin2416,UnitedStates,DiatoneGTB339,2022/05/17
+Week 12 TT - GQ22 by Chris M,Football Stadium,45.848,Crashin2416,UnitedStates,DiatoneGTB339,2022/05/17
+Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,171.584,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,101.701,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,134.766,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 16 TT - CM18 by Chris M,Football Stadium,54.941,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,94.594,Crashin2416,UnitedStates,DiatoneGTB339,2022/05/17
+Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,58.635,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 20 TT - BDS by ChrisM,Football Stadium,64.181,Crashin2416,UnitedStates,Five33SwitchbackExp,2022/06/10
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999.999,Crashin2416,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,Crashin2416,NO_DATA
+Week 2 TT - Ruinous by NM Grower,Dynamic Weather,123.624,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
+Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,75.634,Crashin2416,UnitedStates,DiatoneGTB339,2022/05/17
+Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,130.032,Crashin2416,UnitedStates,Five33Switchback,2022/05/05
 Week 9 TT - CM17 by Chris M,Football Stadium,999.999,Crashin2416,NO_DATA

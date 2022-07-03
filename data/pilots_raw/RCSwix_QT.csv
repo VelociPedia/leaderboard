@@ -17,6 +17,7 @@ DEP Open Series 4 Race 4,Football Stadium,75.265,RCSwix_QT,RussianFederation,Mod
 DEP Open Series 4 Race 5,Football Stadium,60.236,RCSwix_QT,RussianFederation,Mode2Ghost,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,61.809,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/12
 DEP Open Series 4 Race 7,Football Stadium,62.377,RCSwix_QT,RussianFederation,Mode2Ghost,2021/05/27
+DF5,Football Stadium,999.999,RCSwix_QT,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,RCSwix_QT,NO_DATA
 Formula FLow I,Empty Scene Day,53.551,RCSwix_QT,RussianFederation,Mode2Ghost,2022/03/15
 Formula Flow II,Empty Scene Day,72.909,RCSwix_QT,RussianFederation,Mode2Ghost,2022/03/17
@@ -38,6 +39,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,83.177,RCSwix_QT,RussianFederation,TBSSpec,2020/04/09
+ReddingFPVs DroneD,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,69.188,RCSwix_QT,RussianFederation,TBSSpec,2020/07/09
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,46.125,RCSwix_QT,RussianFederation,Mode2Ghost,2022/02/25
@@ -129,10 +131,14 @@ VRL Season 7 Championships,Dynamic Weather,103.910,RCSwix_QT,RussianFederation,M
 Week 10 TT - MCKPractice2,Football Stadium,999.999,RCSwix_QT,NO_DATA
 Week 12 TT - GQ22 by Chris M,Football Stadium,31.567,RCSwix_QT,RussianFederation,Mode2Ghost,2022/02/18
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,118.875,RCSwix_QT,RussianFederation,Mode2Ghost,2022/02/22
-Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,999.999,RCSwix_QT,NO_DATA
+Week 14 TT - BFPV S7R6 by Batman FPV,Football Stadium,73.008,RCSwix_QT,RussianFederation,Mode2Ghost,2022/04/30
 Week 15 TT - Reddings Sunsation by BonerFPV,Dynamic Weather,90.163,RCSwix_QT,RussianFederation,Mode2Ghost,2022/03/30
-Week 16 TT - CM18 by Chris M,Football Stadium,999.999,RCSwix_QT,NO_DATA
+Week 16 TT - CM18 by Chris M,Football Stadium,39.697,RCSwix_QT,RussianFederation,Mode2Ghost,2022/04/22
+Week 18 TT - FPVQE Winter Series Championship,Football Stadium,62.724,RCSwix_QT,RussianFederation,Mode2Ghost,2022/05/17
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
+Week 20 TT - BDS by ChrisM,Football Stadium,38.006,RCSwix_QT,RussianFederation,Mode2Ghost,2022/06/13
+Week 21 TT Up Down Up by SFPV,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+Week 23 TT - Sundial Bridge by Boner,River2,999.999,RCSwix_QT,NO_DATA
 Week 2 TT - Ruinous by NM Grower,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
 Week 5 TT - Cuernavaca LightPath by MorshaFPV,Empty Scene Night,52.122,RCSwix_QT,RussianFederation,Mode2Ghost,2021/11/13
 Week 8 TT - DF1 by DragonFlyte,Dynamic Weather,80.843,RCSwix_QT,RussianFederation,Mode2Ghost,2021/12/28
