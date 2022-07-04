@@ -48,7 +48,7 @@
 ### 5 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|33|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
+|34|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |38|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |20|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |50|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|

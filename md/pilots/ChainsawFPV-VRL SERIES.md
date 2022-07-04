@@ -10,7 +10,7 @@
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|190|VRL SEASON 8 TRACK 7|Dynamic Weather|SniperX|2022/02/01|
+|191|VRL SEASON 8 TRACK 7|Dynamic Weather|SniperX|2022/02/01|
 |174|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2021/07/14|
 |131|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2021/09/30|
 |119|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/04/22|
@@ -26,7 +26,7 @@
 |65|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2021/03/20|
 |74|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/04/02|
 |119|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/04/22|
-|102|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2021/04/22|
+|103|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2021/04/22|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

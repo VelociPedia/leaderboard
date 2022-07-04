@@ -4,7 +4,7 @@
 |17|TBS EU Spec Series 10 Race 2|Empty Scene Day|Five33Switchback|2022/03/11|
 |20|TBS EU Spec Series 10 Race 3|Night Factory 2|Five33Switchback|2022/01/10|
 |29|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
-|31|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/10/01|
+|32|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2021/10/01|
 |39|TBS EU Spec Series 11 Race 2|Countryside|TBSSpec|2022/06/20|
 |42|TBS EU Spec Series 6 Race 2|Empty Scene Day|Five33Switchback|2022/04/13|
 |43|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2021/03/30|
@@ -40,10 +40,10 @@
 |:---:|:---|:---|:---:|:---:|
 |185|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|TBSSpec|2020/05/19|
 |110|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|TBSSpec|2021/12/09|
-|72|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
+|73|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/02/17|
 |61|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/10|
 |84|TBS EU Spec Series 10 Race 1|Football Stadium|TBSSpec|2022/02/02|
-|90|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
+|91|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/06|
 |29|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/27|
 |62|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
 |44|TBS EU Spec Series 11 Race 1|Dynamic Weather|TBSSpec|2022/05/26|
@@ -63,7 +63,7 @@
 |111|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/16|
 |80|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |83|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/21|
-|65|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|68|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 28 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

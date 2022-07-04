@@ -16,7 +16,7 @@
 |:---:|:---|:---|:---:|:---:|
 |28|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |25|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/03/08|
-|23|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
+|24|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |22|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/25|
 |22|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2021/06/11|
 |21|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/05|
@@ -35,7 +35,7 @@
 |10|TBS EU Spec Series 4 FINAL|Dynamic Weather|Five33Switchback|2020/07/08|
 |10|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2020/07/10|
 |7|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2020/07/14|
-|23|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
+|24|RCTech.de EU Spec Series 2 Race 1|Football Stadium|Five33Switchback|2020/07/15|
 |28|TBS EU Spec Season 5 Race 1|Football Stadium|Five33Switchback|2020/07/17|
 |12|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2020/07/18|
 |3|TBS EU Spec Series 5 Race 3|Dynamic Weather|Five33Switchback|2020/07/31|

@@ -32,9 +32,9 @@
 |63|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2022/04/14|
 |59|TBS EU Spec Series 9 Losers Final|Dynamic Weather|Five33Switchback|2022/04/09|
 |59|TBS EU Spec Series 9 Race 2|Dynamic Weather|Five33Switchback|2022/04/17|
+|57|TBS EU Spec Series 11 Race 3|Dynamic Weather|TBSSpec|2022/07/02|
 |56|TBS EU Spec Series 6 Race 5|Dynamic Weather|Five33Switchback|2022/04/10|
-|53|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2022/04/07|
-|52|TBS EU Spec Series 6 Final|Empty Scene Day|Five33Switchback|2022/04/13|
+|56|TBS EU Spec Series 11 Race 2|Countryside|TBSSpec|2022/07/02|
 ---
 ### Oldest 12 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -46,21 +46,22 @@
 |40|TBS EU Spec Series 10 Losers Final|Football Stadium|Five33Switchback|2022/02/11|
 |65|TBS EU Spec Series 8 Race 7|Empty Scene Day|Five33Switchback|2022/02/16|
 |90|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2022/02/21|
-|46|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/28|
-|41|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/04/07|
+|47|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|Five33Switchback|2022/02/28|
+|42|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/04/07|
 |53|TBS EU Spec Series 7 Race 5|IndoorGoKart|Five33Switchback|2022/04/07|
 |33|TBS EU Spec Series 8 Losers Final|Dynamic Weather|Five33Switchback|2022/04/07|
 |98|TBS EU Spec Series 8 Race 2|Empty Scene Night|Five33Switchback|2022/04/07|
 ---
-### 2 tracks where TBS SPEC quad was used
+### 5 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |78|TBS EU Spec Series 10 Race 7|Football Stadium|TBSSpec|2022/02/03|
-|39|TBS EU Spec Series 11 Race 5|Dynamic Weather|TBSSpec|2022/07/01|
+|45|TBS EU Spec Series 11 Race 1|Dynamic Weather|TBSSpec|2022/07/02|
+|56|TBS EU Spec Series 11 Race 2|Countryside|TBSSpec|2022/07/02|
+|57|TBS EU Spec Series 11 Race 3|Dynamic Weather|TBSSpec|2022/07/02|
+|42|TBS EU Spec Series 11 Race 5|Dynamic Weather|TBSSpec|2022/07/01|
 ---
-### 3 tracks without data (200+ or not in leaderboard)
+### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|TBS EU Spec Series 11 Race 1|Dynamic Weather|
-|TBS EU Spec Series 11 Race 2|Countryside|
-|TBS EU Spec Series 11 Race 3|Dynamic Weather|
+|||

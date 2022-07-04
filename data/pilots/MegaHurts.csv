@@ -70,7 +70,7 @@ MultiGP UTT 5,Football Stadium,999,999.999,MegaHurts,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,MegaHurts,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,74,72.435,MegaHurts,UnitedStates,TBSSpec,2020/07/01
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,69,73.781,MegaHurts,UnitedStates,TBSSpec,2020/05/11
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,39,55.952,MegaHurts,UnitedStates,Five33Switchback,2021/02/08
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,40,55.952,MegaHurts,UnitedStates,Five33Switchback,2021/02/08
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,24,59.771,MegaHurts,UnitedStates,TBSSpec,2021/07/21
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,12,57.600,MegaHurts,UnitedStates,SniperX,2022/02/20
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,59,77.144,MegaHurts,UnitedStates,TBSSpec,2021/02/04
@@ -83,7 +83,7 @@ RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,69,104.995,MegaHurts,UnitedSta
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,13,68.438,MegaHurts,UnitedStates,TBSSpec,2022/02/05
 ReddingFPVs DroneD,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,24,54.848,MegaHurts,UnitedStates,SniperX,2022/03/05
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,52,77.901,MegaHurts,UnitedStates,SniperX,2022/06/29
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,53,77.901,MegaHurts,UnitedStates,SniperX,2022/06/29
 TBS EU Spec Series 10 Losers Final,Football Stadium,2,45.740,MegaHurts,UnitedStates,Velocity,2022/05/31
 TBS EU Spec Series 10 Race 1,Football Stadium,47,60.744,MegaHurts,UnitedStates,TBSSpec,2022/01/24
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
@@ -92,7 +92,7 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,44,45.015,MegaHurts,UnitedStates,SniperX,2022/02/07
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,MegaHurts,NO_DATA
-TBS EU Spec Series 11 Race 1,Dynamic Weather,110,93.965,MegaHurts,UnitedStates,Velocity,2022/06/04
+TBS EU Spec Series 11 Race 1,Dynamic Weather,112,93.965,MegaHurts,UnitedStates,Velocity,2022/06/04
 TBS EU Spec Series 11 Race 2,Countryside,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
@@ -116,7 +116,7 @@ TBS EU Spec Series 6 Race 2,Empty Scene Day,32,67.519,MegaHurts,UnitedStates,Mod
 TBS EU Spec Series 6 Race 4,NEC Birmingham,58,72.122,MegaHurts,UnitedStates,TBSSpec,2021/07/01
 TBS EU Spec Series 6 Race 5,Dynamic Weather,32,79.504,MegaHurts,UnitedStates,SniperX,2022/02/16
 TBS EU Spec Series 6 Race 6,Empty Scene Day,18,72.392,MegaHurts,UnitedStates,Five33Switchback,2020/11/14
-TBS EU Spec Series 6 Race 7,Empty Scene Day,3,49.539,MegaHurts,UnitedStates,Mode2Ghost,2022/01/23
+TBS EU Spec Series 6 Race 7,Empty Scene Day,4,48.611,MegaHurts,UnitedStates,SniperX,2022/07/03
 TBS EU Spec Series 7 Final,Empty Scene Day,18,63.282,MegaHurts,UnitedStates,Mode2Ghost,2021/09/17
 TBS EU Spec Series 7 Race 1,Football Stadium,84,73.184,MegaHurts,UnitedStates,SniperX,2022/02/18
 TBS EU Spec Series 7 Race 2,Empty Scene Day,70,71.620,MegaHurts,UnitedStates,Five33Switchback,2021/01/16
@@ -148,7 +148,7 @@ TDRF Dutch nationals indoor race 1,Empty Scene Day,7,50.946,MegaHurts,UnitedStat
 TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
 TDRF Dutch nationals indoor race 3,Empty Scene Day,17,61.740,MegaHurts,UnitedStates,SniperX,2022/03/09
 TDRF Dutch nationals indoor race 4,Empty Scene Day,999,999.999,MegaHurts,NO_DATA
-VRL6 Championships,Dynamic Weather,122,125.094,MegaHurts,UnitedStates,Five33Switchback,2020/05/02
+VRL6 Championships,Dynamic Weather,123,125.094,MegaHurts,UnitedStates,Five33Switchback,2020/05/02
 VRL6 Crash Site,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,MegaHurts,NO_DATA
@@ -192,7 +192,7 @@ VRL SEASON 6 TRYOUTS,Dynamic Weather,6,99.333,MegaHurts,UnitedStates,Mode2Ghost,
 VRL Season 7 Championships,Dynamic Weather,34,98.014,MegaHurts,UnitedStates,Mode2Ghost,2021/09/04
 VRL Season 8 Championships,Dynamic Weather,52,82.135,MegaHurts,UnitedStates,SniperX,2022/02/06
 VRL Season 8 Track 1,Office Complex,999,999.999,MegaHurts,NO_DATA
-VRL Season 8 Track 2,Drift Track,122,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
+VRL Season 8 Track 2,Drift Track,123,156.089,MegaHurts,UnitedStates,Chief,2021/11/19
 VRL Season 8 Track 3,Night Factory 2,106,143.473,MegaHurts,UnitedStates,SniperX,2022/02/19
 VRL Season 8 Track 4,DynamicPoly,63,149.720,MegaHurts,UnitedStates,Chief,2021/12/19
 VRL Season 8 Track 5,Dynamic Weather,77,136.184,MegaHurts,UnitedStates,SniperX,2022/01/20

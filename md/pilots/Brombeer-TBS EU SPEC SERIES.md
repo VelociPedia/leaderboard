@@ -1,9 +1,9 @@
 ### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|60|TBS EU Spec Series 11 Race 5|Dynamic Weather|SniperX|2022/06/25|
+|63|TBS EU Spec Series 11 Race 5|Dynamic Weather|SniperX|2022/06/25|
 |70|TBS EU Spec Series 10 Race 7|Football Stadium|SniperX|2022/02/07|
-|80|TBS EU Spec Series 11 Race 3|Dynamic Weather|SniperX|2022/06/25|
+|81|TBS EU Spec Series 11 Race 3|Dynamic Weather|SniperX|2022/06/25|
 |87|TBS EU Spec Series 6 Race 4|NEC Birmingham|SniperX|2022/02/14|
 |89|RCTech.de EU Spec Series 3 Race 1|NEC Birmingham|Five33Switchback|2020/07/08|
 |91|TBS EU Spec Series 10 Losers Final|Football Stadium|SniperX|2022/02/12|
@@ -14,11 +14,11 @@
 |:---:|:---|:---|:---:|:---:|
 |196|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/11/14|
 |190|TBS EU Spec Series 9 Race 3|Empty Scene Day|Five33Switchback|2021/09/26|
-|188|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/03/20|
+|190|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/03/20|
 |187|TBS EU Spec Series 4 Race 5|Dynamic Weather|SniperX|2022/02/12|
+|187|TBS EU Spec Series 7 Final|Empty Scene Day|SniperX|2022/02/13|
 |187|TBS EU Spec Series 10 Race 6|Large Carpark|SniperX|2022/01/28|
 |187|TBS EU Spec Series 4 Race 2|Empty Scene Day|SniperX|2022/02/12|
-|186|TBS EU Spec Series 7 Final|Empty Scene Day|SniperX|2022/02/13|
 |186|TBS EU Spec Series 7 Race 5|IndoorGoKart|SniperX|2022/02/13|
 |181|TBS EU Spec Series 7 Race 7|Empty Scene Day|SniperX|2022/02/13|
 |181|TBS EU Spec Series 6 Final|Empty Scene Day|SniperX|2022/02/13|

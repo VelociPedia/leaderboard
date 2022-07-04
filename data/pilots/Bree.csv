@@ -104,7 +104,7 @@ Quad Rivals Welborn,Empty Scene Day,999,999.999,Bree,NO_DATA
 Quad Rivals Who Works DW,Dynamic Weather,999,999.999,Bree,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,31,65.659,Bree,France,Five33Switchback,2022/04/16
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,35,66.047,Bree,France,Five33Switchback,2022/04/17
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,34,55.367,Bree,France,Five33Switchback,2022/04/30
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,35,55.367,Bree,France,Five33Switchback,2022/04/30
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,23,59.693,Bree,France,Five33Switchback,2022/04/17
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,34,62.975,Bree,France,Five33Switchback,2022/04/18
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,31,67.431,Bree,France,Five33Switchback,2022/04/14
@@ -116,7 +116,7 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,23,73.268,Bree,France,Five33Sw
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,32,94.684,Bree,France,Five33Switchback,2022/04/18
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,27,71.199,Bree,France,Five33Switchback,2022/04/18
 TBS EU Spec Season 5 Race 1,Football Stadium,38,56.921,Bree,France,Five33Switchback,2022/05/01
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,46,77.230,Bree,France,Five33Switchback,2022/02/28
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,47,77.230,Bree,France,Five33Switchback,2022/02/28
 TBS EU Spec Series 10 Losers Final,Football Stadium,40,55.280,Bree,France,Five33Switchback,2022/02/11
 TBS EU Spec Series 10 Race 1,Football Stadium,85,67.218,Bree,France,Five33Switchback,2022/02/02
 TBS EU Spec Series 10 Race 2,Empty Scene Day,35,63.385,Bree,France,Five33Switchback,2022/04/14
@@ -125,10 +125,10 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,45,65.691,Bree,France,Five33Switchb
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,66,65.113,Bree,France,Five33Switchback,2022/02/02
 TBS EU Spec Series 10 Race 6,Large Carpark,84,56.954,Bree,France,Five33Switchback,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,78,76.592,Bree,France,TBSSpec,2022/02/03
-TBS EU Spec Series 11 Race 1,Dynamic Weather,999,999.999,Bree,NO_DATA
-TBS EU Spec Series 11 Race 2,Countryside,999,999.999,Bree,NO_DATA
-TBS EU Spec Series 11 Race 3,Dynamic Weather,999,999.999,Bree,NO_DATA
-TBS EU Spec Series 11 Race 5,Dynamic Weather,39,79.384,Bree,France,TBSSpec,2022/07/01
+TBS EU Spec Series 11 Race 1,Dynamic Weather,45,67.269,Bree,France,TBSSpec,2022/07/02
+TBS EU Spec Series 11 Race 2,Countryside,56,72.052,Bree,France,TBSSpec,2022/07/02
+TBS EU Spec Series 11 Race 3,Dynamic Weather,57,85.486,Bree,France,TBSSpec,2022/07/02
+TBS EU Spec Series 11 Race 5,Dynamic Weather,42,79.384,Bree,France,TBSSpec,2022/07/01
 TBS EU Spec Series 4 FINAL,Dynamic Weather,27,79.336,Bree,France,Five33Switchback,2022/04/23
 TBS EU Spec Series 4 Race 2,Empty Scene Day,29,63.281,Bree,France,Five33Switchback,2022/04/23
 TBS EU Spec Series 4 Race 3,IndoorGoKart,18,92.848,Bree,France,Five33Switchback,2022/04/24
@@ -149,7 +149,7 @@ TBS EU Spec Series 6 Race 2,Empty Scene Day,29,67.375,Bree,France,Five33Switchba
 TBS EU Spec Series 6 Race 4,NEC Birmingham,39,66.606,Bree,France,Five33Switchback,2022/04/14
 TBS EU Spec Series 6 Race 5,Dynamic Weather,56,85.659,Bree,France,Five33Switchback,2022/04/10
 TBS EU Spec Series 6 Race 6,Empty Scene Day,35,75.340,Bree,France,Five33Switchback,2022/04/09
-TBS EU Spec Series 6 Race 7,Empty Scene Day,41,56.595,Bree,France,Five33Switchback,2022/04/07
+TBS EU Spec Series 6 Race 7,Empty Scene Day,42,56.595,Bree,France,Five33Switchback,2022/04/07
 TBS EU Spec Series 7 Final,Empty Scene Day,52,73.502,Bree,France,Five33Switchback,2022/04/13
 TBS EU Spec Series 7 Race 1,Football Stadium,51,69.500,Bree,France,Five33Switchback,2022/04/14
 TBS EU Spec Series 7 Race 2,Empty Scene Day,45,68.888,Bree,France,Five33Switchback,2022/04/13
@@ -175,7 +175,7 @@ TBS EU Spec Series 9 Race 3,Empty Scene Day,69,64.005,Bree,France,Five33Switchba
 TBS EU Spec Series 9 Race 4,Football Stadium,46,67.935,Bree,France,Five33Switchback,2022/04/14
 TBS EU Spec Series 9 Race 5,Empty Scene Day,74,68.782,Bree,France,Five33Switchback,2022/04/07
 TBS EU Spec Series 9 Race 6,Empty Scene Day,48,69.521,Bree,France,Five33Switchback,2022/04/13
-TBS EU Spec Series 9 Race 7,NEC Birmingham,44,66.125,Bree,France,Five33Switchback,2022/04/18
+TBS EU Spec Series 9 Race 7,NEC Birmingham,45,66.125,Bree,France,Five33Switchback,2022/04/18
 TDRF 2022 Outdoor NK track 1,Empty Scene Day,27,76.566,Bree,France,TBSSpec,2022/07/01
 TDRF Dutch nationals indoor race 1,Empty Scene Day,49,77.050,Bree,France,TBSSpec,2022/02/17
 TDRF Dutch nationals indoor race 2,Empty Scene Day,18,72.942,Bree,France,Five33Switchback,2022/02/18
@@ -200,14 +200,14 @@ Train insane - Split-S - MaiOnHigh,Empty Scene Day,21,19.129,Bree,France,Five33S
 Train Insane- Test1 - MaiOnHigh,Empty Scene Day,38,48.092,Bree,France,TBSSpec,2022/02/05
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,38,52.067,Bree,France,Five33Switchback,2022/02/07
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,13,21.097,Bree,France,Five33Switchback,2022/02/07
-VRL6 Championships,Dynamic Weather,999,999.999,Bree,NO_DATA
+VRL6 Championships,Dynamic Weather,113,118.259,Bree,France,TBSSpec,2022/07/03
 VRL6 Crash Site,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL6 Extermination,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL6 Kenerator,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL6 Meltdown,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL6 Reinforcement,Dynamic Weather,999,999.999,Bree,NO_DATA
-VRL6 Tunnel Vision,Dynamic Weather,999,999.999,Bree,NO_DATA
+VRL6 Tunnel Vision,Dynamic Weather,129,283.756,Bree,France,Five33Switchback,2022/07/04
 VRL 7 Race 4,Dynamic Weather,175,109.096,Bree,France,Five33Switchback,2022/02/02
 VRL 7 Track 1,Future Hangar,164,121.185,Bree,France,Five33Switchback,2022/02/28
 VRL 7 Track 2,Future Hangar Empty,113,129.908,Bree,France,Five33Switchback,2022/02/28
@@ -217,10 +217,10 @@ VRL 7 Track 6,Dynamic Weather,182,96.812,Bree,France,Five33Switchback,2022/02/28
 VRL7 Tryouts,Future Hangar Empty,149,100.006,Bree,France,Five33Switchback,2022/02/28
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,174,307.484,Bree,France,Five33Switchback,2021/05/02
 VRL S5 Track 1,Dynamic Weather,129,231.911,Bree,France,Five33Switchback,2021/05/03
-VRL S5 TRACK 2,Dynamic Weather,88,200.632,Bree,France,Five33Switchback,2021/05/02
+VRL S5 TRACK 2,Dynamic Weather,89,200.632,Bree,France,Five33Switchback,2021/05/02
 VRL S5 TRACK 3,Bando,999,999.999,Bree,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,106,235.419,Bree,France,Five33Switchback,2021/05/03
-VRL S5 TRACK 5,Dynamic Weather,999,999.999,Bree,NO_DATA
+VRL S5 TRACK 5,Dynamic Weather,37,143.325,Bree,France,Five33Switchback,2022/07/04
 VRL Season 3 Track 1,Empty Scene Day,80,86.115,Bree,France,Five33Switchback,2022/02/28
 VRL Season 3 Track 2,Empty Scene Day,74,81.167,Bree,France,Five33Switchback,2022/02/28
 VRL Season 3 Track 3,Empty Scene Day,96,197.617,Bree,France,Five33Switchback,2021/05/03
@@ -232,8 +232,8 @@ VRL Season 4 Track 1,Dynamic Weather,58,228.889,Bree,France,Five33Switchback,202
 VRL Season 4 Track 2,Bando,123,183.845,Bree,France,Five33Switchback,2021/05/03
 VRL Season 4 Track 3,Basketball Stadium,187,121.649,Bree,France,Five33Switchback,2021/05/03
 VRL-Season-4-Track-4,Dynamic Weather,30,104.110,Bree,France,Five33Switchback,2022/02/28
-VRL_Season_4_Track_5,Coastal,34,133.401,Bree,France,Five33Switchback,2021/05/24
-VRL_Season_4_Track_6,Dynamic Weather,999,999.999,Bree,NO_DATA
+VRL_Season_4_Track_5,Coastal,10,111.717,Bree,France,Five33Switchback,2022/07/04
+VRL_Season_4_Track_6,Dynamic Weather,45,182.207,Bree,France,Five33Switchback,2022/07/04
 VRL Season 4 Track 7,Dynamic Weather,62,179.738,Bree,France,Five33Switchback,2021/05/03
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,Bree,NO_DATA
 VRL SEASON 5 TRACK 6,Dynamic Weather,115,251.791,Bree,France,Five33Switchback,2021/05/03
@@ -244,13 +244,13 @@ VRL SEASON 6 TRYOUTS,Dynamic Weather,187,294.646,Bree,France,Five33Switchback,20
 VRL Season 7 Championships,Dynamic Weather,183,135.872,Bree,France,Five33Switchback,2022/02/28
 VRL Season 8 Championships,Dynamic Weather,155,197.999,Bree,France,Five33Switchback,2022/03/01
 VRL Season 8 Track 1,Office Complex,162,475.289,Bree,France,TBSSpec,2021/12/06
-VRL Season 8 Track 2,Drift Track,999,999.999,Bree,NO_DATA
+VRL Season 8 Track 2,Drift Track,89,123.685,Bree,France,TBSSpec,2022/07/03
 VRL Season 8 Track 3,Night Factory 2,148,186.149,Bree,France,TBSSpec,2021/12/04
 VRL Season 8 Track 4,DynamicPoly,72,178.754,Bree,France,TBSSpec,2021/12/19
 VRL Season 8 Track 5,Dynamic Weather,109,167.618,Bree,France,TBSSpec,2021/12/21
 VRL Season 8 Track 6,Night Factory 2,102,158.011,Bree,France,Five33Switchback,2022/01/06
 VRL SEASON 8 TRACK 7,Dynamic Weather,123,125.902,Bree,France,Five33Switchback,2022/01/25
-VRL SEASON 8 TRYOUTS,RedValley,999,999.999,Bree,NO_DATA
+VRL SEASON 8 TRYOUTS,RedValley,49,437.760,Bree,France,TBSSpec,2022/07/03
 Week 10 TT - MCKPractice2,Football Stadium,81,63.545,Bree,France,Five33Switchback,2022/01/04
 Week 12 TT - GQ22 by Chris M,Football Stadium,108,39.924,Bree,France,Five33Switchback,2022/02/16
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,57,167.859,Bree,France,TBSSpec,2022/02/17

@@ -135,14 +135,14 @@ TBS EU Spec Series 5 Race 7,IndoorGoKart,123,91.344,Musilex,Brazil,Mode2Ghost,20
 TBS EU Spec Series 6 Final,Empty Scene Day,176,99.744,Musilex,Brazil,Five33Switchback,2022/06/04
 TBS EU Spec Series 6 Losers Final,Football Stadium,170,91.325,Musilex,Brazil,SniperX,2021/10/16
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,184,88.169,Musilex,Brazil,Mode2Ghost,2022/04/30
-TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,Musilex,NO_DATA
+TBS EU Spec Series 6 Race 2,Empty Scene Day,184,81.860,Musilex,Brazil,Five33Switchback,2022/07/03
 TBS EU Spec Series 6 Race 4,NEC Birmingham,185,108.953,Musilex,Brazil,Five33Switchback,2021/06/11
 TBS EU Spec Series 6 Race 5,Dynamic Weather,147,106.240,Musilex,Brazil,Mode2Ghost,2022/04/24
-TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,Musilex,NO_DATA
-TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,Musilex,NO_DATA
-TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,Musilex,NO_DATA
+TBS EU Spec Series 6 Race 6,Empty Scene Day,152,89.244,Musilex,Brazil,Five33Switchback,2022/07/03
+TBS EU Spec Series 6 Race 7,Empty Scene Day,147,63.543,Musilex,Brazil,Five33Switchback,2022/07/03
+TBS EU Spec Series 7 Final,Empty Scene Day,184,95.523,Musilex,Brazil,Five33Switchback,2022/07/03
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,Musilex,NO_DATA
-TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,Musilex,NO_DATA
+TBS EU Spec Series 7 Race 2,Empty Scene Day,147,81.500,Musilex,Brazil,Five33Switchback,2022/07/03
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,Musilex,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,Musilex,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,142,83.020,Musilex,Brazil,Ossa,2022/05/06
@@ -165,8 +165,8 @@ TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,Musilex,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,190,103.278,Musilex,Brazil,SniperX,2021/10/16
 TBS EU Spec Series 9 Race 5,Empty Scene Day,138,78.573,Musilex,Brazil,Chief,2021/10/16
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,Musilex,NO_DATA
-TBS EU Spec Series 9 Race 7,NEC Birmingham,95,83.037,Musilex,Brazil,Chief,2021/12/16
-VRL6 Championships,Dynamic Weather,191,153.973,Musilex,Brazil,Chief,2021/11/05
+TBS EU Spec Series 9 Race 7,NEC Birmingham,97,83.037,Musilex,Brazil,Chief,2021/12/16
+VRL6 Championships,Dynamic Weather,192,153.973,Musilex,Brazil,Chief,2021/11/05
 VRL6 Crash Site,Dynamic Weather,28,162.964,Musilex,Brazil,Chief,2021/11/05
 VRL6 Downtown Loop,Dynamic Weather,23,212.061,Musilex,Brazil,Chief,2021/11/02
 VRL6 Extermination,Dynamic Weather,116,194.145,Musilex,Brazil,Chief,2021/11/02
@@ -186,7 +186,7 @@ VRL S5 Track 1,Dynamic Weather,61,129.634,Musilex,Brazil,Ossa,2021/11/13
 VRL S5 TRACK 2,Dynamic Weather,42,147.321,Musilex,Brazil,Ossa,2021/11/13
 VRL S5 TRACK 3,Bando,35,133.234,Musilex,Brazil,CarbiXZero,2022/02/13
 VRL S5 TRACK 4,Empty Scene Day,48,130.447,Musilex,Brazil,Five33Switchback,2021/05/23
-VRL S5 TRACK 5,Dynamic Weather,38,148.932,Musilex,Brazil,Ossa,2021/11/13
+VRL S5 TRACK 5,Dynamic Weather,39,148.932,Musilex,Brazil,Ossa,2021/11/13
 VRL Season 3 Track 1,Empty Scene Day,999,999.999,Musilex,NO_DATA
 VRL Season 3 Track 2,Empty Scene Day,999,999.999,Musilex,NO_DATA
 VRL Season 3 Track 3,Empty Scene Day,56,130.416,Musilex,Brazil,Five33Switchback,2021/05/23
@@ -198,7 +198,7 @@ VRL Season 4 Track 1,Dynamic Weather,32,147.830,Musilex,Brazil,Ossa,2021/11/24
 VRL Season 4 Track 2,Bando,43,142.485,Musilex,Brazil,Five33Switchback,2022/03/06
 VRL Season 4 Track 3,Basketball Stadium,110,98.328,Musilex,Brazil,Five33Switchback,2021/07/04
 VRL-Season-4-Track-4,Dynamic Weather,33,108.752,Musilex,Brazil,Chief,2021/11/06
-VRL_Season_4_Track_5,Coastal,29,130.799,Musilex,Brazil,Chief,2022/01/16
+VRL_Season_4_Track_5,Coastal,30,130.799,Musilex,Brazil,Chief,2022/01/16
 VRL_Season_4_Track_6,Dynamic Weather,17,119.820,Musilex,Brazil,Chief,2021/10/24
 VRL Season 4 Track 7,Dynamic Weather,44,132.454,Musilex,Brazil,Chief,2021/11/06
 VRL-Season-4-Tryouts,Dynamic Weather,20,416.561,Musilex,Brazil,Chief,2021/11/06

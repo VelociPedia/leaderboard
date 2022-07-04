@@ -19,11 +19,11 @@
 |189|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/28|
 |188|TBS EU Spec Series 8 Race 6|Football Stadium|Five33Switchback|2021/06/18|
 |185|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2021/08/28|
-|171|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
+|173|TBS EU Spec Series 9 Race 7|NEC Birmingham|Five33Switchback|2021/11/18|
+|172|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/10/08|
 |170|TBS EU Spec Series 4 Race 7|Football Stadium|Five33Switchback|2022/03/08|
-|170|TBS EU Spec Series 7 Race 1|Football Stadium|Five33Switchback|2021/10/08|
+|170|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/11/28|
 |168|EU Spec Season 4 Race 1|Football Stadium|Five33Switchback|2021/11/13|
-|168|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2021/11/28|
 |162|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/09|
 ---
 ### Oldest 8 personal best

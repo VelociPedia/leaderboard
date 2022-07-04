@@ -12,8 +12,8 @@
 |184|VRL Season 4 Track 2|Bando|Five33Switchback|2021/06/18|
 |164|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/12/20|
 |164|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2021/11/20|
+|150|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/17|
 |149|VRL Season 8 Track 1|Office Complex|Five33Switchback|2021/10/29|
-|149|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/17|
 |137|VRL SEASON 5 TRACK 7|IndoorGoKart|Five33Switchback|2021/04/15|
 ---
 ### Oldest 4 personal best

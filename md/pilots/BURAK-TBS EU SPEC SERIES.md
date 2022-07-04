@@ -17,11 +17,11 @@
 |163|RCTech_de EU Spec Series 3 Final|Empty Scene Day|SingularitumV5|2020/05/19|
 |158|RCTech.de EU Spec Series 2 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
 |140|TBS EU Spec Series 5 Race 6|Dynamic Weather|TBSSpec|2020/10/29|
-|86|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
+|87|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
 |84|RCTech.de EU Spec Series 2 Race 4|Empty Scene Day|SingularitumV5|2020/05/12|
 |76|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |71|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
-|68|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
+|69|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |58|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|SingularitumV5|2020/05/19|
 |57|TBS EU Spec Season 5 Race 1|Football Stadium|SingularitumV5|2020/10/22|
 |56|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2021/01/28|
@@ -40,7 +40,7 @@
 |76|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2020/05/21|
 |71|TBS EU Spec Series 4 Race 4|Empty Scene Day|SingularitumV5|2020/05/29|
 |45|TBS EU Spec Series 5 FINAL|Dynamic Weather|SingularitumV5|2020/09/13|
-|86|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
+|87|RCTech.de EU Spec Series 2 Race 1|Football Stadium|SingularitumV5|2020/10/04|
 ---
 ### 44 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -64,7 +64,7 @@
 |31|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/03|
 |5|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |14|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/12/03|
-|68|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
+|69|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/01/06|
 |38|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/06/29|
 |47|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |41|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|

@@ -48,7 +48,7 @@
 |20|TBS EU Spec Series 11 Race 1|Dynamic Weather|TBSSpec|2022/06/10|
 |49|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2021/10/13|
 |15|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2022/03/01|
-|32|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2022/06/21|
+|33|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2022/06/21|
 |32|TBS EU Spec Series 8 Race 5|Future Hangar Empty|TBSSpec|2021/10/08|
 |40|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2022/06/15|
 |56|TBS EU Spec Series 9 Race 2|Dynamic Weather|TBSSpec|2021/09/28|

@@ -1,10 +1,10 @@
 ### Best 7 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|47|TBS EU Spec Series 11 Race 5|Dynamic Weather|SniperX|2022/06/25|
+|50|TBS EU Spec Series 11 Race 5|Dynamic Weather|SniperX|2022/06/25|
 |80|RCTech.de EU Spec Series 2 Race 3|Empty Scene Day|Five33Switchback|2021/08/13|
 |90|RCTech.de EU Spec Series 3 Race 2|Empty Scene Day|Five33Switchback|2021/08/21|
-|94|TBS EU Spec Series 11 Race 2|Countryside|SniperX|2022/06/11|
+|95|TBS EU Spec Series 11 Race 2|Countryside|SniperX|2022/06/11|
 |96|TBS EU Spec Series 10 Losers Final|Football Stadium|SniperX|2022/02/12|
 |98|TBS EU Spec Series 10 Race 7|Football Stadium|SniperX|2022/02/09|
 |110|TBS EU Spec Series 10 Race 2|Empty Scene Day|SniperX|2021/12/11|
@@ -12,8 +12,8 @@
 ### Worse 10 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
+|200|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/08/09|
 |200|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
-|199|TBS EU Spec Series 7 Final|Empty Scene Day|Five33Switchback|2021/08/09|
 |199|TBS EU Spec Series 9 Race 5|Empty Scene Day|Five33Switchback|2021/10/12|
 |195|TBS EU Spec Series 8 Race 4|Empty Scene Day|CarbiXZero|2021/05/09|
 |194|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2021/09/02|
@@ -48,7 +48,7 @@
 |141|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/09/23|
 |170|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/03|
 |141|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/15|
-|119|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/15|
+|121|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/15|
 ---
 ### 33 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

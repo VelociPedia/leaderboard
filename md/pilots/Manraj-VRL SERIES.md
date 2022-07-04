@@ -3,8 +3,8 @@
 |:---:|:---|:---|:---:|:---:|
 |30|VRL-Season-4-Tryouts|Dynamic Weather|LilBastard|2021/08/24|
 |70|VRL-Season-4-Track-4|Dynamic Weather|LilBastard|2021/08/24|
-|70|VRL_Season_4_Track_6|Dynamic Weather|LilBastard|2021/08/28|
 |70|VRL6 Downtown Loop|Dynamic Weather|LilBastard|2021/08/27|
+|71|VRL_Season_4_Track_6|Dynamic Weather|LilBastard|2021/08/28|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -13,7 +13,7 @@
 |191|VRL6 Kenerator|Dynamic Weather|LilBastard|2021/08/27|
 |171|VRL6 Extermination|Dynamic Weather|LilBastard|2021/08/27|
 |160|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|LilBastard|2021/12/12|
-|155|VRL6 Tunnel Vision|Dynamic Weather|LilBastard|2021/08/27|
+|156|VRL6 Tunnel Vision|Dynamic Weather|LilBastard|2021/08/27|
 |149|VRL Season 3 Track 4|Empty Scene Day|LilBastard|2021/12/12|
 ---
 ### Oldest 4 personal best
@@ -22,7 +22,7 @@
 |92|VRL SEASON 5 TRACK 7|IndoorGoKart|LilBastard|2021/07/04|
 |200|VRL SEASON 5 TRACK 8|Industrial Wasteland|LilBastard|2021/07/05|
 |133|VRL S5 Track 1|Dynamic Weather|LilBastard|2021/08/22|
-|111|VRL S5 TRACK 2|Dynamic Weather|LilBastard|2021/08/22|
+|112|VRL S5 TRACK 2|Dynamic Weather|LilBastard|2021/08/22|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

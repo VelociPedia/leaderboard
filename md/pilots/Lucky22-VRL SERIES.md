@@ -11,15 +11,15 @@
 ### Worse 9 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|188|VRL_Season_4_Track_5|Coastal|Five33Switchback|2022/01/28|
-|178|VRL6 Championships|Dynamic Weather|Five33Switchback|2022/01/25|
+|189|VRL_Season_4_Track_5|Coastal|Five33Switchback|2022/01/28|
+|179|VRL6 Championships|Dynamic Weather|Five33Switchback|2022/01/25|
 |145|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/16|
 |145|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/01/23|
 |139|VRL SEASON 5 TRACK 8|Industrial Wasteland|Five33Switchback|2022/01/11|
 |138|VRL6 Extermination|Dynamic Weather|Five33Switchback|2022/01/25|
 |136|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2022/01/12|
 |135|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2022/01/25|
-|132|VRL6 Tunnel Vision|Dynamic Weather|Five33Switchback|2022/01/25|
+|133|VRL6 Tunnel Vision|Dynamic Weather|Five33Switchback|2022/01/25|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

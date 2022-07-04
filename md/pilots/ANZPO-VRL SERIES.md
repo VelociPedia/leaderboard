@@ -10,8 +10,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |193|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/12/20|
+|161|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/01/07|
 |161|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2022/03/17|
-|160|VRL Season 8 Track 2|Drift Track|Five33Switchback|2022/01/07|
 |152|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/12/22|
 |116|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2021/12/29|
 |112|VRL Season 8 Track 5|Dynamic Weather|Five33Switchback|2022/01/07|

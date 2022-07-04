@@ -6,8 +6,8 @@
 |54|TBS EU Spec Series 9 Race 3|Empty Scene Day|TBSSpec|2021/10/05|
 |54|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/11|
 |55|TBS EU Spec Series 11 Race 3|Dynamic Weather|TBSSpec|2022/06/26|
-|59|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |59|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2021/01/25|
+|60|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/15|
 ---
 ### Worse 11 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -38,12 +38,12 @@
 ### 24 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|66|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/05/12|
-|59|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
+|67|TBS EU Spec Series 10 FINAL --- ChrisM|Football Stadium|TBSSpec|2022/05/12|
+|60|TBS EU Spec Series 10 Race 4|Dynamic Weather|TBSSpec|2022/01/14|
 |89|TBS EU Spec Series 10 Race 5 _2|IndoorGoKart|TBSSpec|2022/05/07|
 |55|TBS EU Spec Series 11 Race 3|Dynamic Weather|TBSSpec|2022/06/26|
 |148|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2021/08/02|
-|115|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/05/05|
+|116|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2021/05/05|
 |69|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/07|
 |105|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/31|
 |98|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/07|

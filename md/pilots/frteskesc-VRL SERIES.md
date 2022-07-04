@@ -12,13 +12,13 @@
 ### Worse 11 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/06/03|
+|199|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/06/03|
 |173|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/21|
 |168|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2020/12/27|
 |161|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2021/07/22|
 |139|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/02|
 |134|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/03/05|
-|112|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/18|
+|113|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/18|
 |110|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/25|
 |103|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2020/12/25|
 |102|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2021/12/06|
@@ -27,7 +27,7 @@
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|198|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/06/03|
+|199|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/06/03|
 |43|VRL SEASON 5 TRYOUTS|Dynamic Weather|SingularitumV5|2020/06/18|
 |80|VRL Season 3 Track 5|Empty Scene Day|SingularitumV5|2020/07/12|
 |57|VRL Season 3 Track 6|Empty Scene Day|SingularitumV5|2020/07/13|

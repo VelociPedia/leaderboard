@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |32|VRL-Season-4-Tryouts|Dynamic Weather|CarbiXZero|2022/03/30|
-|57|VRL_Season_4_Track_6|Dynamic Weather|CarbiXZero|2022/03/31|
 |58|VRL-Season-4-Track-4|Dynamic Weather|CarbiXZero|2022/03/30|
+|58|VRL_Season_4_Track_6|Dynamic Weather|CarbiXZero|2022/03/31|
 |61|VRL Season 4 Track 1|Dynamic Weather|CarbiXZero|2022/03/30|
 ---
 ### Worse 6 VRL SERIES TRACKS ranks
@@ -14,14 +14,14 @@
 |166|VRL SEASON 6 TRYOUTS|Dynamic Weather|CarbiXZero|2022/03/29|
 |160|VRL Season 3 Track 2|Empty Scene Day|CarbiXZero|2022/06/07|
 |159|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2022/03/31|
-|157|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2022/03/31|
+|158|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2022/03/31|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|73|VRL SEASON 8 TRYOUTS|RedValley|CarbiXZero|2022/01/17|
+|74|VRL SEASON 8 TRYOUTS|RedValley|CarbiXZero|2022/01/17|
 |196|VRL Season 4 Track 3|Basketball Stadium|CarbiXZero|2022/02/01|
-|77|VRL S5 TRACK 2|Dynamic Weather|CarbiXZero|2022/03/27|
+|78|VRL S5 TRACK 2|Dynamic Weather|CarbiXZero|2022/03/27|
 |100|VRL S5 Track 1|Dynamic Weather|CarbiXZero|2022/03/29|
 ---
 ### 1 tracks where TBS SPEC quad was used

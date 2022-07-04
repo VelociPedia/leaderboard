@@ -19,7 +19,7 @@
 |162|VRL Season 8 Championships|Dynamic Weather|Five33SwitchbackExp|2022/02/07|
 |157|VRL6 Extermination|Dynamic Weather|TinyHawk|2021/05/22|
 |154|VRL Season 8 Track 5|Dynamic Weather|DiatoneGTB339|2021/12/18|
-|152|VRL Season 8 Track 6|Night Factory 2|DiatoneGTB339|2022/01/18|
+|153|VRL Season 8 Track 6|Night Factory 2|DiatoneGTB339|2022/01/18|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,7 +28,7 @@
 |61|VRL6 Downtown Loop|Dynamic Weather|TinyHawk|2021/05/22|
 |157|VRL6 Extermination|Dynamic Weather|TinyHawk|2021/05/22|
 |79|VRL6 Meltdown|Dynamic Weather|TinyHawk|2021/05/22|
-|130|VRL6 Tunnel Vision|Dynamic Weather|TinyHawk|2021/05/22|
+|131|VRL6 Tunnel Vision|Dynamic Weather|TinyHawk|2021/05/22|
 |59|VRL S5 TRACK 4|Empty Scene Day|BetaFPV75x|2021/06/12|
 ---
 ### 1 tracks where TBS SPEC quad was used

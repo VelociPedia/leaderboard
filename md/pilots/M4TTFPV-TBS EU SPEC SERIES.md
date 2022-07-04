@@ -15,9 +15,9 @@
 ### Worse 15 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/25|
+|192|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/25|
 |182|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
-|179|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|181|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |179|TBS EU Spec Season 5 Race 1|Football Stadium|TBSSpec|2020/07/10|
 |157|TBS EU Spec Series 4 Race 2|Empty Scene Day|TBSSpec|2020/05/14|
 |155|EU Spec Season 4 Race 1|Football Stadium|TBSSpec|2020/04/30|
@@ -26,7 +26,7 @@
 |149|TBS EU Spec Series 10 Losers Final|Football Stadium|TBSSpec|2022/02/17|
 |147|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/25|
 |143|TBS EU Spec Series 4 FINAL|Dynamic Weather|TBSSpec|2020/06/25|
-|135|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|136|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |124|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/09|
 |120|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2020/04/16|
 |118|RCTech.de EU Spec Series 3 Race 5|Empty Scene Day|TBSSpec|2020/04/08|
@@ -82,10 +82,10 @@
 |182|TBS EU Spec Series 6 Race 2|Empty Scene Day|TBSSpec|2020/10/01|
 |53|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/12|
 |91|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|135|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|136|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |110|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
-|179|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
-|191|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/25|
+|181|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
+|192|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/25|
 |147|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/01/25|
 |153|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/01/28|
 |91|TBS EU Spec Series 7 Race 5|IndoorGoKart|TBSSpec|2021/02/04|
@@ -107,7 +107,7 @@
 |98|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/09/30|
 |101|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/07|
 |81|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/10/28|
-|77|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
+|79|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/10/28|
 ---
 ### 14 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

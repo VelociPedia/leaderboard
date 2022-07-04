@@ -9,12 +9,12 @@
 ### Worse 7 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|189|VRL6 Championships|Dynamic Weather|TwigXL3|2022/03/17|
+|190|VRL6 Championships|Dynamic Weather|TwigXL3|2022/03/17|
 |181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
 |160|VRL6 Extermination|Dynamic Weather|Ragg-e200h|2022/03/20|
 |124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
+|124|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 |124|VRL Season 3 Track 1|Empty Scene Day|Ragg-e200h|2022/03/16|
-|123|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 |119|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
 ---
 ### Oldest 4 personal best
@@ -23,7 +23,7 @@
 |181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
 |124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
 |88|VRL Season 8 Track 1|Office Complex|TwigXL3|2022/03/03|
-|123|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
+|124|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

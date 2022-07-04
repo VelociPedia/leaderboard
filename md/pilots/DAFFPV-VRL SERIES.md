@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |7|VRL SEASON 8 TRYOUTS|RedValley|Five33Switchback|2021/09/10|
-|10|VRL_Season_4_Track_5|Coastal|Chief|2022/01/24|
+|11|VRL_Season_4_Track_5|Coastal|Chief|2022/01/24|
 |17|VRL SEASON 5 TRACK 8|Industrial Wasteland|Five33Switchback|2021/08/02|
 |18|VRL SEASON 5 TRACK 7|IndoorGoKart|Five33Switchback|2021/01/19|
 |20|VRL Season 4 Track 7|Dynamic Weather|Five33Switchback|2021/05/14|
@@ -15,7 +15,7 @@
 |194|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2020/12/16|
 |176|VRL6 Kenerator|Dynamic Weather|Chief|2022/06/10|
 |163|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/22|
-|144|VRL6 Championships|Dynamic Weather|Five33Switchback|2021/05/21|
+|145|VRL6 Championships|Dynamic Weather|Five33Switchback|2021/05/21|
 |133|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/08/18|
 |132|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/06|
 |132|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/29|
@@ -37,7 +37,7 @@
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|116|VRL Season 8 Track 2|Drift Track|TBSSpec|2021/11/17|
+|117|VRL Season 8 Track 2|Drift Track|TBSSpec|2021/11/17|
 ---
 ### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

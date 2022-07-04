@@ -23,7 +23,7 @@
 |104|TBS EU Spec Series 6 Final|Empty Scene Day|TBSSpec|2021/01/05|
 |102|TBS EU Spec Series 4 Race 5|Dynamic Weather|Five33Switchback|2021/04/15|
 |91|RCTech.de EU Spec Series 3 Race 6|NEC Birmingham|Five33Switchback|2021/01/22|
-|88|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
+|90|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
 |86|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2021/04/22|
 |82|TBS EU Spec Series 10 Race 6|Large Carpark|TBSSpec|2022/01/28|
 |78|TBS EU Spec Series 4 Race 4|Empty Scene Day|Five33Switchback|2021/10/11|
@@ -57,7 +57,7 @@
 |61|TBS EU Spec Series 9 Final|Dynamic Weather|TBSSpec|2021/11/12|
 |46|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/11|
 |43|TBS EU Spec Series 9 Race 4|Football Stadium|TBSSpec|2021/10/08|
-|88|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
+|90|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/10|
 ---
 ### 18 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

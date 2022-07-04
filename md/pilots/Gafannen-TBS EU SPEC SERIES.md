@@ -5,9 +5,9 @@
 |4|TBS EU Spec Series 6 Race 4|NEC Birmingham|Five33Switchback|2022/06/07|
 |4|TBS EU Spec Series 5 Race 6|Dynamic Weather|Five33Switchback|2022/06/02|
 |4|TBS EU Spec Series 4 Race 3|IndoorGoKart|Five33Switchback|2022/06/03|
-|5|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/01/23|
 |5|TBS EU Spec Series 7 Race 3|Empty Scene Day|Five33Switchback|2022/03/19|
 |5|TBS EU Spec Series 5 Race 4|Football Stadium|Five33Switchback|2022/06/11|
+|6|TBS EU Spec Series 6 Race 7|Empty Scene Day|Five33Switchback|2022/01/23|
 |6|TBS EU Spec Series 5 Race 5|NEC Birmingham|Five33Switchback|2022/06/07|
 |6|TBS EU Spec Series 11 Race 5|Dynamic Weather|Ossa|2022/06/24|
 |6|TBS EU Spec Series 5 Race 7|IndoorGoKart|Five33Switchback|2022/06/07|

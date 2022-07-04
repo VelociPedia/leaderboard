@@ -3,8 +3,8 @@
 |:---:|:---|:---|:---:|:---:|
 |1|TBS EU Spec Series 6 Losers Final|Football Stadium|SniperX|2022/02/28|
 |2|TBS EU Spec Series 10 Losers Final|Football Stadium|Velocity|2022/05/31|
-|3|TBS EU Spec Series 6 Race 7|Empty Scene Day|Mode2Ghost|2022/01/23|
 |3|TBS EU Spec Series 4 Race 7|Football Stadium|SniperX|2022/03/08|
+|4|TBS EU Spec Series 6 Race 7|Empty Scene Day|SniperX|2022/07/03|
 |5|TBS EU Spec Series 8 Race 7|Empty Scene Day|SniperX|2022/02/07|
 |9|RCTech_de EU Spec Series 3 Final|Empty Scene Day|TBSSpec|2022/02/05|
 |11|TBS EU Spec Series 5 Losers Final|Dynamic Weather|Mode2Ghost|2021/08/31|
@@ -19,7 +19,7 @@
 |154|TBS EU Spec Series 8 Race 3|Football Stadium|TBSSpec|2021/10/20|
 |123|TBS EU Spec Series 9 Race 5|Empty Scene Day|TBSSpec|2021/10/08|
 |113|TBS EU Spec Series 5 FINAL|Dynamic Weather|TBSSpec|2021/10/08|
-|110|TBS EU Spec Series 11 Race 1|Dynamic Weather|Velocity|2022/06/04|
+|112|TBS EU Spec Series 11 Race 1|Dynamic Weather|Velocity|2022/06/04|
 |104|TBS EU Spec Series 7 Race 7|Empty Scene Day|TBSSpec|2021/02/22|
 |102|TBS EU Spec Series 4 Race 3|IndoorGoKart|TBSSpec|2021/06/30|
 |101|TBS EU Spec Series 8 Race 2|Empty Scene Night|TBSSpec|2021/03/26|

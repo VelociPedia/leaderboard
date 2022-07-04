@@ -12,7 +12,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |166|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/16|
-|165|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/05|
+|166|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/05|
 |148|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2022/01/26|
 |123|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/13|
 |122|VRL Season 4 Track 2|Bando|TBSSpec|2022/02/01|
@@ -26,7 +26,7 @@
 |:---:|:---|:---|:---:|:---:|
 |64|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/12|
 |35|VRL S5 Track 1|Dynamic Weather|Five33Switchback|2020/05/04|
-|165|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/05|
+|166|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/05/05|
 |123|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/13|
 |77|VRL 7 Track 1|Future Hangar|Ossa|2020/10/29|
 |72|VRL 7 Track 2|Future Hangar Empty|Ossa|2020/11/03|

@@ -6,7 +6,7 @@
 |13|TBS EU Spec Series 9 Race 4|Football Stadium|Five33Switchback|2021/10/05|
 |14|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |15|TBS EU Spec Series 9 Final|Dynamic Weather|Five33Switchback|2021/11/23|
-|21|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
+|22|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
 ---
 ### Worse 9 TBS EU SPEC SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,7 +16,7 @@
 |100|TBS EU Spec Series 8 Race 1|Dynamic Weather|TBSSpec|2021/03/27|
 |77|TBS EU Spec Series 4 Race 7|Football Stadium|TBSSpec|2020/06/18|
 |74|TBS EU Spec Series 8 Race 4|Empty Scene Day|TBSSpec|2021/05/06|
-|66|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|67|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |62|RCTech.de EU Spec Series 2 Losers FInal|Empty Scene Day|Five33Switchback|2020/09/22|
 |62|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |57|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/04|
@@ -52,7 +52,7 @@
 |52|TBS EU Spec Series 6 Race 1|Future Hangar Empty|TBSSpec|2020/09/24|
 |14|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/05|
 |32|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/12|
-|66|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
+|67|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/19|
 |42|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/04|
 |62|TBS EU Spec Series 7 Race 1|Football Stadium|TBSSpec|2021/01/07|
 |48|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/14|
@@ -66,7 +66,7 @@
 |47|TBS EU Spec Series 9 Losers Final|Dynamic Weather|TBSSpec|2021/11/12|
 |53|TBS EU Spec Series 9 Race 1|Football Stadium|TBSSpec|2021/09/16|
 |26|TBS EU Spec Series 9 Race 6|Empty Scene Day|TBSSpec|2021/11/18|
-|21|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
+|22|TBS EU Spec Series 9 Race 7|NEC Birmingham|TBSSpec|2021/11/01|
 ---
 ### 37 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

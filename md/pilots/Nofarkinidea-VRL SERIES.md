@@ -12,9 +12,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |158|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/21|
-|139|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/12/02|
+|140|VRL6 Championships|Dynamic Weather|Five33Switchback|2020/12/02|
 |133|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/03|
-|90|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2020/09/11|
+|91|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2020/09/11|
 |88|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2020/11/23|
 |88|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2020/09/10|
 |87|VRL Season 4 Track 3|Basketball Stadium|KareareaTalon|2020/05/07|
@@ -25,7 +25,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |36|VRL Season 4 Championship|Football Stadium|KareareaTalon|2020/04/18|
-|28|VRL_Season_4_Track_5|Coastal|KareareaTalon|2020/04/30|
+|29|VRL_Season_4_Track_5|Coastal|KareareaTalon|2020/04/30|
 |87|VRL Season 4 Track 3|Basketball Stadium|KareareaTalon|2020/05/07|
 |22|VRL SEASON 5 TRACK 8|Industrial Wasteland|KareareaTalon|2020/05/24|
 |69|VRL S5 TRACK 3|Bando|KareareaTalon|2020/06/12|

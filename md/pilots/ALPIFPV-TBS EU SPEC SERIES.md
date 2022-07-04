@@ -16,7 +16,7 @@
 |:---:|:---|:---|:---:|:---:|
 |126|TBS EU Spec Series 10 Race 6|Large Carpark|Five33Switchback|2022/02/02|
 |105|TBS EU Spec Series 4 Race 5|Dynamic Weather|TBSSpec|2020/06/06|
-|96|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
+|97|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
 |81|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/03|
 |79|TBS EU Spec Series 7 Race 4|Empty Scene Day|TBSSpec|2021/02/06|
 |73|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/27|
@@ -53,7 +53,7 @@
 |60|TBS EU Spec Series 6 Losers Final|Football Stadium|TBSSpec|2020/12/07|
 |60|TBS EU Spec Series 6 Race 5|Dynamic Weather|TBSSpec|2020/11/17|
 |46|TBS EU Spec Series 6 Race 6|Empty Scene Day|TBSSpec|2020/11/24|
-|96|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
+|97|TBS EU Spec Series 6 Race 7|Empty Scene Day|TBSSpec|2020/11/25|
 |58|TBS EU Spec Series 7 Final|Empty Scene Day|TBSSpec|2021/03/10|
 |73|TBS EU Spec Series 7 Race 2|Empty Scene Day|TBSSpec|2021/01/27|
 |81|TBS EU Spec Series 7 Race 3|Empty Scene Day|TBSSpec|2021/02/03|
