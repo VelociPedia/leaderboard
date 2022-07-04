@@ -19,7 +19,7 @@
 |:---:|:---|:---|:---:|:---:|
 |33|Quad Rivals Overpass|Empty Scene Day|CarbiXZero|2020/04/30|
 |10|Quad Rivals Karting Track|IndoorGoKart|CarbiXZero|2020/05/03|
-|15|Quad Rivals Split S|Empty Scene Day|CarbiXZero|2020/06/05|
+|16|Quad Rivals Split S|Empty Scene Day|CarbiXZero|2020/06/05|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

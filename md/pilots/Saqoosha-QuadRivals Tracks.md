@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |123|Quad Rivals Overpass|Empty Scene Day|Five33Switchback|2020/04/26|
 |63|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|TBSSpec|2021/04/02|
-|50|Quad Rivals Team Race|Empty Scene Day|SingularitumV5|2020/05/23|
+|51|Quad Rivals Team Race|Empty Scene Day|SingularitumV5|2020/05/23|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

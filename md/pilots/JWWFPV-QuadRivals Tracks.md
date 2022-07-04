@@ -2,14 +2,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |49|Quad Rivals 2021 Race 8 - Rivalicious|Empty Scene Day|Five33Switchback|2021/12/21|
-|50|Quad Rivals Who Works DW|Dynamic Weather|Ossa|2021/05/30|
+|51|Quad Rivals Who Works DW|Dynamic Weather|Ossa|2021/05/30|
 ---
 ### Worse 4 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |136|Quad Rivals Lake Murray|Empty Scene Day|Five33Switchback|2021/05/26|
 |133|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|Five33Switchback|2021/09/22|
-|131|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2021/05/26|
+|132|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2021/05/26|
 |127|Quad Rivals Overpass|Empty Scene Day|Five33Switchback|2021/05/26|
 ---
 ### Oldest 2 personal best

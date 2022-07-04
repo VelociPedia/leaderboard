@@ -1,15 +1,15 @@
 ### Best 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|33|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|Five33Switchback|2022/06/30|
+|40|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|Five33Switchback|2022/06/30|
 |58|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/05/24|
-|108|Quad Rivals Weave|Empty Scene Day|Mode2Ghost|2021/06/30|
+|109|Quad Rivals Weave|Empty Scene Day|Mode2Ghost|2021/06/30|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |197|Quad Rivals 2021 Race 4 - Freedom Spec|Empty Scene Day|TBSSpec|2021/05/26|
-|192|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2021/07/08|
+|193|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2021/07/08|
 |184|Quad Rivals 2021 Race 5 - Bring the Heat|Empty Scene Day|Mode2Ghost|2021/06/29|
 |184|Quad Rivals Lake Murray|Empty Scene Day|Mode2Ghost|2021/06/29|
 |164|Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds|Empty Scene Day|TBSSpec|2021/11/02|
@@ -29,7 +29,7 @@
 |197|Quad Rivals 2021 Race 4 - Freedom Spec|Empty Scene Day|TBSSpec|2021/05/26|
 |164|Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds|Empty Scene Day|TBSSpec|2021/11/02|
 |113|Quad Rivals 2021 Race 9 - Holiday Hootenanny|Empty Scene Day|TBSSpec|2021/12/26|
-|192|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2021/07/08|
+|193|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2021/07/08|
 ---
 ### 6 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

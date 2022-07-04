@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |44|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/06/03|
-|79|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2022/05/17|
+|80|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2022/05/17|
 |88|Quad Rivals 2021 Race 3 - Devils Ridge|Empty Scene Day|Five33Switchback|2022/05/18|
 ---
 ### Worse 4 QuadRivals Tracks TRACKS ranks

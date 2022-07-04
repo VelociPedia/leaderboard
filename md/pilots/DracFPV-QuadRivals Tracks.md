@@ -29,8 +29,7 @@
 |:---:|:---|:---|:---:|:---:|
 |3|Quad Rivals Weave|Empty Scene Day|TBSSpec|2021/01/25|
 ---
-### 2 tracks without data (200+ or not in leaderboard)
+### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|
-|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|

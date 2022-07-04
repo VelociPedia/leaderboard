@@ -10,23 +10,22 @@
 |180|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|RotorEvolutionX1|2021/04/04|
 |179|Quad Rivals 2021 Race 1 - Season Warmup|Football Stadium|Five33Switchback|2021/10/31|
 |163|Quad Rivals Lake Murray|Empty Scene Day|RotorEvolutionX1|2020/12/20|
-|144|Quad Rivals Team Race|Empty Scene Day|RotorEvolutionX1|2021/01/03|
+|145|Quad Rivals Team Race|Empty Scene Day|RotorEvolutionX1|2021/01/03|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |85|Quad Rivals Dive It|Countryside|RotorEvolutionX1|2020/06/28|
-|129|Quad Rivals Ladders from Hell DW|Dynamic Weather|RotorEvolutionX1|2020/09/03|
+|130|Quad Rivals Ladders from Hell DW|Dynamic Weather|RotorEvolutionX1|2020/09/03|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 10 tracks without data (200+ or not in leaderboard)
+### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|
 |Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|
 |Quad Rivals 2022 Race 4 - Summer is Here|Countryside|
 |Quad Rivals Airport|Empty Scene Day|

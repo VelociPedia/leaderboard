@@ -1,15 +1,15 @@
 ### Best 2 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|83|Quad Rivals Weave|Empty Scene Day|TBSSourceOne|2022/04/26|
-|83|Quad Rivals Who Works DW|Dynamic Weather|TBSSourceOne|2022/04/26|
+|84|Quad Rivals Weave|Empty Scene Day|TBSSourceOne|2022/04/26|
+|84|Quad Rivals Who Works DW|Dynamic Weather|TBSSourceOne|2022/04/26|
 ---
 ### Worse 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |200|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|TBSSourceOne|2022/04/28|
 |196|Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds|Empty Scene Day|TBSSourceOne|2022/02/25|
-|186|Quad Rivals Team Race|Empty Scene Day|TBSSourceOne|2022/04/26|
+|187|Quad Rivals Team Race|Empty Scene Day|TBSSourceOne|2022/04/26|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |57|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/05/25|
-|58|Quad Rivals Karting Track|IndoorGoKart|Five33Switchback|2022/03/08|
-|66|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/03/20|
+|59|Quad Rivals Karting Track|IndoorGoKart|Five33Switchback|2022/03/08|
+|67|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/03/20|
 |69|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|Five33Switchback|2022/03/27|
 ---
 ### Worse 6 QuadRivals Tracks TRACKS ranks
@@ -12,7 +12,7 @@
 |169|Quad Rivals 2021 Race 4 - Freedom Spec|Empty Scene Day|Five33Switchback|2022/01/10|
 |144|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|Five33Switchback|2022/04/26|
 |139|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|Five33Switchback|2022/01/10|
-|128|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2022/03/20|
+|129|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2022/03/20|
 |127|Quad Rivals 2021 Race 5 - Bring the Heat|Empty Scene Day|Five33Switchback|2021/09/21|
 |126|Quad Rivals 2021 Race 1 - Season Warmup|Football Stadium|Five33Switchback|2022/01/10|
 ---

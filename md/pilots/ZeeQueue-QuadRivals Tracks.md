@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |135|Quad Rivals Airport|Empty Scene Day|Five33Switchback|2021/06/21|
-|95|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2021/10/15|
+|96|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2021/10/15|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

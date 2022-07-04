@@ -1,7 +1,7 @@
 ### Best 2 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|25|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|TwigXL3|2022/07/01|
+|31|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|TwigXL3|2022/07/01|
 |33|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2022/02/11|
 ---
 ### Worse 3 QuadRivals Tracks TRACKS ranks
@@ -15,7 +15,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |129|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/05/05|
-|80|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/17|
+|81|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/17|
 ---
 ### 7 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -26,7 +26,7 @@
 |33|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2022/02/11|
 |70|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/26|
 |129|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/05/05|
-|80|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/17|
+|81|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/17|
 ---
 ### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

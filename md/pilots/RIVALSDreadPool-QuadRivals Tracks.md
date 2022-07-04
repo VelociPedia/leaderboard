@@ -1,25 +1,25 @@
 ### Best 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|14|Quad Rivals Who Works DW|Dynamic Weather|CarbiXZero|2022/01/17|
-|15|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|Five33Switchback|2022/07/01|
-|15|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/07/03|
+|11|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/07/03|
+|15|Quad Rivals Who Works DW|Dynamic Weather|CarbiXZero|2022/01/17|
+|17|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|Five33Switchback|2022/07/03|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|78|Quad Rivals Ladders from Hell DW|Dynamic Weather|CarbiXZero|2021/04/18|
+|79|Quad Rivals Ladders from Hell DW|Dynamic Weather|CarbiXZero|2021/04/18|
 |60|Quad Rivals Overpass|Empty Scene Day|CarbiXZero|2021/04/20|
-|55|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2021/04/11|
+|56|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2021/04/11|
 |55|Quad Rivals 2021 Race 1 - Season Warmup|Football Stadium|CarbiXZero|2022/01/17|
-|45|Quad Rivals 2021 Race 8 - Rivalicious|Empty Scene Day|CarbiXZero|2021/12/24|
+|46|Quad Rivals Welborn|Empty Scene Day|CarbiXZero|2021/06/13|
 ---
 ### Oldest 3 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |20|Quad Rivals Airport|Empty Scene Day|CarbiXZero|2021/04/08|
-|18|Quad Rivals Weave|Empty Scene Day|CarbiXZero|2021/04/08|
-|55|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2021/04/11|
+|19|Quad Rivals Weave|Empty Scene Day|CarbiXZero|2021/04/08|
+|56|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2021/04/11|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

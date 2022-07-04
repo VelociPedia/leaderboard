@@ -1,9 +1,9 @@
 ### Best 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|26|Quad Rivals Karting Track|IndoorGoKart|CarbiXZero|2022/02/19|
+|27|Quad Rivals Karting Track|IndoorGoKart|CarbiXZero|2022/02/19|
 |69|Quad Rivals Sept 2019 Track|Castle Sneznik|Five33SwitchbackExp|2021/10/21|
-|78|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/01/04|
+|79|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/01/04|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,8 +18,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |69|Quad Rivals Sept 2019 Track|Castle Sneznik|Five33SwitchbackExp|2021/10/21|
-|94|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/11/21|
-|98|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2021/11/21|
+|95|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/11/21|
+|99|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2021/11/21|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

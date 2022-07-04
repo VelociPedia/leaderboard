@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |164|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/26|
 |150|Quad Rivals Airport|Empty Scene Day|TBSSpec|2020/04/05|
-|143|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2020/05/04|
+|144|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2020/05/04|
 |138|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/27|
 ---
 ### Oldest 2 personal best
@@ -24,11 +24,11 @@
 |76|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|TBSSpec|2021/04/02|
 |26|Quad Rivals 2021 Race 3 - Devils Ridge|Empty Scene Day|TBSSpec|2021/05/04|
 |150|Quad Rivals Airport|Empty Scene Day|TBSSpec|2020/04/05|
-|114|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2020/05/16|
-|143|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2020/05/04|
+|115|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2020/05/16|
+|144|Quad Rivals Ladders from Hell DW|Dynamic Weather|TBSSpec|2020/05/04|
 |138|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/27|
 |164|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/26|
-|74|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/05/05|
+|75|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/05/05|
 ---
 ### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

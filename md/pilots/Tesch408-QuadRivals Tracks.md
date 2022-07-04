@@ -1,7 +1,7 @@
 ### Best 2 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|79|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2021/09/20|
+|80|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2021/09/20|
 |116|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|TBSSpec|2022/06/05|
 ---
 ### Worse 3 QuadRivals Tracks TRACKS ranks
@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |196|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|TBSSpec|2022/05/02|
 |191|Quad Rivals 2021 Race 10 - 2021 is Dead|Empty Scene Day|TBSSpec|2022/01/15|
-|181|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2021/09/22|
+|182|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2021/09/22|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -25,15 +25,15 @@
 |178|Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds|Empty Scene Day|TBSSpec|2021/11/11|
 |172|Quad Rivals 2021 Race 8 - Rivalicious|Empty Scene Day|TBSSpec|2021/12/12|
 |163|Quad Rivals 2021 Race 9 - Holiday Hootenanny|Empty Scene Day|TBSSpec|2021/12/27|
-|175|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|TBSSpec|2022/04/05|
+|176|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|TBSSpec|2022/04/05|
 |196|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|TBSSpec|2022/05/02|
 |116|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|TBSSpec|2022/06/05|
 |152|Quad Rivals Airport|Empty Scene Day|TBSSpec|2021/09/20|
-|181|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2021/09/22|
-|145|Quad Rivals Split S|Empty Scene Day|TBSSpec|2021/09/22|
-|124|Quad Rivals Weave|Empty Scene Day|TBSSpec|2021/09/20|
-|148|Quad Rivals Welborn|Empty Scene Day|TBSSpec|2021/09/20|
-|79|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2021/09/20|
+|182|Quad Rivals Karting Track|IndoorGoKart|TBSSpec|2021/09/22|
+|146|Quad Rivals Split S|Empty Scene Day|TBSSpec|2021/09/22|
+|125|Quad Rivals Weave|Empty Scene Day|TBSSpec|2021/09/20|
+|149|Quad Rivals Welborn|Empty Scene Day|TBSSpec|2021/09/20|
+|80|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2021/09/20|
 ---
 ### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

@@ -14,7 +14,7 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|26|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/04/06|
+|27|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/04/06|
 |23|Quad Rivals Airport|Empty Scene Day|TBSSpec|2020/04/11|
 ---
 ### 14 tracks where TBS SPEC quad was used
@@ -29,11 +29,11 @@
 |45|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/17|
 |43|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/27|
 |9|Quad Rivals Sept 2019 Track|Castle Sneznik|TBSSpec|2020/04/23|
-|26|Quad Rivals Split S|Empty Scene Day|TBSSpec|2020/04/12|
-|23|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
-|23|Quad Rivals Weave|Empty Scene Day|TBSSpec|2020/04/12|
-|69|Quad Rivals Welborn|Empty Scene Day|TBSSpec|2020/04/12|
-|26|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/04/06|
+|27|Quad Rivals Split S|Empty Scene Day|TBSSpec|2020/04/12|
+|24|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
+|24|Quad Rivals Weave|Empty Scene Day|TBSSpec|2020/04/12|
+|70|Quad Rivals Welborn|Empty Scene Day|TBSSpec|2020/04/12|
+|27|Quad Rivals Who Works DW|Dynamic Weather|TBSSpec|2020/04/06|
 ---
 ### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

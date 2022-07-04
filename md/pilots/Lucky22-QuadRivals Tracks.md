@@ -2,14 +2,14 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |45|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|Five33Switchback|2022/06/18|
-|58|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2021/12/24|
+|59|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2021/12/24|
 |62|Quad Rivals 2021 Race 10 - 2021 is Dead|Empty Scene Day|Five33Switchback|2022/02/02|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |174|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|Five33Switchback|2021/12/14|
-|136|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2021/12/24|
+|137|Quad Rivals Team Race|Empty Scene Day|Five33Switchback|2021/12/24|
 |133|Quad Rivals 2021 Race 4 - Freedom Spec|Empty Scene Day|Five33Switchback|2022/02/03|
 |117|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|Five33Switchback|2022/06/18|
 |112|Quad Rivals 2021 Race 9 - Holiday Hootenanny|Empty Scene Day|Five33Switchback|2021/12/29|

@@ -1,8 +1,8 @@
 ### Best 2 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|TBSSpec|2022/06/30|
 |20|Quad Rivals 2021 Race 10 - 2021 is Dead|Empty Scene Day|Five33Switchback|2022/01/17|
+|21|Quad Rivals 2021 Race 9 - Holiday Hootenanny|Empty Scene Day|TBSSpec|2021/12/28|
 ---
 ### Worse 4 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -16,7 +16,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |56|Quad Rivals Overpass|Empty Scene Day|CarbiXZero|2020/04/29|
-|32|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2020/05/14|
+|33|Quad Rivals Team Race|Empty Scene Day|CarbiXZero|2020/05/14|
 ---
 ### 11 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -31,7 +31,7 @@
 |24|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|TBSSpec|2022/04/05|
 |45|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|TBSSpec|2022/04/25|
 |31|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|TBSSpec|2022/05/26|
-|20|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|TBSSpec|2022/06/30|
+|25|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|TBSSpec|2022/06/30|
 ---
 ### 9 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

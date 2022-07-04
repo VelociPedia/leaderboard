@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |13|Quad Rivals Karting Track|IndoorGoKart|Five33Switchback|2021/10/18|
-|14|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|SingularitumV5|2022/06/30|
-|14|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|SingularitumV5|2022/05/25|
+|15|Quad Rivals 2022 Race 3 - Getting Hot|Empty Scene Day|SingularitumV5|2022/05/25|
+|18|Quad Rivals Airport|Empty Scene Day|Five33Switchback|2021/09/22|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

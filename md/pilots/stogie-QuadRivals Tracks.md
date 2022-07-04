@@ -1,7 +1,7 @@
 ### Best 2 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|39|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/02/09|
+|40|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/02/09|
 |62|Quad Rivals Lake Murray|Empty Scene Day|Five33Switchback|2021/12/08|
 ---
 ### Worse 4 QuadRivals Tracks TRACKS ranks
@@ -15,7 +15,7 @@
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|39|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/02/09|
+|40|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2021/02/09|
 |175|Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|Five33Switchback|2021/04/01|
 ---
 ### 1 tracks where TBS SPEC quad was used

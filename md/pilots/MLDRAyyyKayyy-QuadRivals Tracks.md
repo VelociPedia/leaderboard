@@ -9,7 +9,7 @@
 |:---:|:---|:---|:---:|:---:|
 |173|Quad Rivals Overpass|Empty Scene Day|CarbiXZero|2020/05/01|
 |148|Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|Ossa|2022/05/03|
-|52|Quad Rivals Weave|Empty Scene Day|CarbiXZero|2020/07/03|
+|53|Quad Rivals Weave|Empty Scene Day|CarbiXZero|2020/07/03|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|

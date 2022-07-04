@@ -1,9 +1,9 @@
 ### Best 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|12|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2022/01/28|
+|13|Quad Rivals Who Works DW|Dynamic Weather|Five33Switchback|2022/01/28|
 |14|Quad Rivals Dive It|Countryside|Five33Switchback|2022/01/07|
-|17|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/01/11|
+|18|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2022/01/11|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|

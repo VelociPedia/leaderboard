@@ -7,7 +7,7 @@
 ### Worse 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|134|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
+|135|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
 |113|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/19|
 |104|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/24|
 ---
@@ -15,7 +15,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |104|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/24|
-|134|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
+|135|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
 ---
 ### 9 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,7 +28,7 @@
 |67|Quad Rivals 2021 Race 6 - Temperature Warning|Empty Scene Day|TBSSpec|2021/09/22|
 |113|Quad Rivals Lake Murray|Empty Scene Day|TBSSpec|2020/10/19|
 |104|Quad Rivals Overpass|Empty Scene Day|TBSSpec|2020/04/24|
-|134|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
+|135|Quad Rivals Team Race|Empty Scene Day|TBSSpec|2020/05/11|
 ---
 ### 12 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

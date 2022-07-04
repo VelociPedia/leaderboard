@@ -1,9 +1,9 @@
 ### Best 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|59|Quad Rivals Who Works DW|Dynamic Weather|SingularitumV5|2020/06/25|
+|58|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|SniperX|2022/07/03|
+|60|Quad Rivals Who Works DW|Dynamic Weather|SingularitumV5|2020/06/25|
 |68|Quad Rivals Airport|Empty Scene Day|Five33Switchback|2021/09/26|
-|74|Quad Rivals 2022 Race 1 - Season Opener|Empty Scene Day|Yakuza|2022/03/29|
 ---
 ### Worse 5 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,19 +18,18 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |163|Quad Rivals Overpass|Empty Scene Day|SingularitumV5|2020/05/01|
-|96|Quad Rivals Split S|Empty Scene Day|SingularitumV5|2020/05/01|
-|96|Quad Rivals Karting Track|IndoorGoKart|SingularitumV5|2020/05/22|
+|97|Quad Rivals Split S|Empty Scene Day|SingularitumV5|2020/05/01|
+|97|Quad Rivals Karting Track|IndoorGoKart|SingularitumV5|2020/05/22|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 5 tracks without data (200+ or not in leaderboard)
+### 4 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |Quad Rivals 2021 Race 1 - Season Warmup|Football Stadium|
 |Quad Rivals 2021 Race 2 - Season Opener|Empty Scene Day|
 |Quad Rivals 2022 Race 2 - Speeding Into Spring|Empty Scene Day|
-|Quad Rivals 2022 Race 4 - Summer is Here|Countryside|
 |Quad Rivals Sept 2019 Track|Castle Sneznik|

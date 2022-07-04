@@ -2,7 +2,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |29|Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds|Empty Scene Day|Five33Switchback|2021/11/04|
-|37|Quad Rivals Weave|Empty Scene Day|Five33Switchback|2020/06/19|
+|38|Quad Rivals 2021 Race 4 - Freedom Spec|Empty Scene Day|Five33Switchback|2021/05/27|
 ---
 ### Worse 3 QuadRivals Tracks TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -15,7 +15,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |93|Quad Rivals Overpass|Empty Scene Day|CarbiXZero|2020/04/24|
-|53|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2020/04/27|
+|54|Quad Rivals Split S|Empty Scene Day|Five33Switchback|2020/04/27|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
