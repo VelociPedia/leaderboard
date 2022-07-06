@@ -9,7 +9,7 @@
 ### Worse 6 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|167|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|168|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
 |129|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 |101|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|TBSOblivion|2020/06/28|
 |87|VRL SEASON 6 TRYOUTS|Dynamic Weather|AcrobotTruX-R197|2020/07/18|
@@ -19,9 +19,9 @@
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|38|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
-|167|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
-|62|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
+|39|VRL6 Downtown Loop|Dynamic Weather|Mode2Ghost|2020/04/11|
+|168|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/14|
+|63|VRL6 Crash Site|Dynamic Weather|Mode2Ghost|2020/04/16|
 |129|VRL6 Kenerator|Dynamic Weather|Mode2Ghost|2020/04/25|
 ---
 ### 1 tracks where TBS SPEC quad was used

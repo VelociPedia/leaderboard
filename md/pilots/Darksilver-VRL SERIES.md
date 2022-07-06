@@ -2,9 +2,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |15|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2020/12/31|
-|15|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2020/12/27|
+|16|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2020/12/27|
 |17|VRL SEASON 5 TRYOUTS|Dynamic Weather|Five33Switchback|2020/12/31|
-|18|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2020/12/27|
+|19|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2020/12/27|
 |22|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2020/12/30|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks

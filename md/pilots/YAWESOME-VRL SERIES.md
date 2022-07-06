@@ -14,13 +14,13 @@
 |111|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/16|
 |109|VRL Season 8 Track 4|DynamicPoly|Five33Switchback|2021/12/07|
 |107|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/11/13|
-|102|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
+|103|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
 ---
 ### Oldest 4 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|102|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
-|24|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/12|
+|103|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/12|
+|25|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/12|
 |111|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/16|
 |21|VRL_Season_4_Track_6|Dynamic Weather|Ossa|2020/10/19|
 ---

@@ -24,7 +24,7 @@
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|22|VRL6 Reinforcement|Dynamic Weather|SingularitumV5|2020/04/06|
+|23|VRL6 Reinforcement|Dynamic Weather|SingularitumV5|2020/04/06|
 |56|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/07|
 |6|VRL_Season_4_Track_6|Dynamic Weather|SingularitumV5|2020/04/12|
 |15|VRL Season 4 Championship|Football Stadium|SingularitumV5|2020/04/13|

@@ -16,8 +16,8 @@
 |176|VRL6 Kenerator|Dynamic Weather|Chief|2022/06/10|
 |163|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2020/11/22|
 |145|VRL6 Championships|Dynamic Weather|Five33Switchback|2021/05/21|
+|133|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/06|
 |133|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/08/18|
-|132|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/06|
 |132|VRL Season 8 Track 3|Night Factory 2|Chief|2021/11/29|
 |130|VRL Season 7 Championships|Dynamic Weather|Five33Switchback|2021/09/11|
 |127|VRL Season 8 Track 5|Dynamic Weather|Chief|2022/01/15|
@@ -26,11 +26,11 @@
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|132|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/06|
-|50|VRL6 Crash Site|Dynamic Weather|Five33Switchback|2020/04/21|
+|133|VRL6 Extermination|Dynamic Weather|Mode2Ghost|2020/04/06|
+|51|VRL6 Crash Site|Dynamic Weather|Five33Switchback|2020/04/21|
 |43|VRL_Season_4_Track_6|Dynamic Weather|CarbiXZero|2020/05/16|
 |78|VRL S5 TRACK 4|Empty Scene Day|CarbiXZero|2020/06/02|
-|57|VRL6 Reinforcement|Dynamic Weather|CarbiXZero|2020/08/05|
+|58|VRL6 Reinforcement|Dynamic Weather|CarbiXZero|2020/08/05|
 |33|VRL Season 3 Track 4|Empty Scene Day|CarbiXZero|2020/08/23|
 |25|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2020/11/04|
 ---

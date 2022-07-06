@@ -1,16 +1,16 @@
 ### Best 5 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|24|VRL S5 TRACK 3|Bando|Five33Switchback|2021/09/13|
+|25|VRL S5 TRACK 3|Bando|Five33Switchback|2021/09/13|
 |34|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2021/07/06|
 |35|VRL-Season-4-Track-4|Dynamic Weather|SniperX|2022/03/08|
 |35|VRL SEASON 5 TRACK 6|Dynamic Weather|Five33Switchback|2021/07/04|
-|42|VRL Season 3 Track 6|Empty Scene Day|Five33Switchback|2021/07/14|
+|43|VRL Season 3 Track 6|Empty Scene Day|Five33Switchback|2021/07/14|
 ---
 ### Worse 8 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|191|VRL SEASON 8 TRACK 7|Dynamic Weather|SniperX|2022/02/01|
+|192|VRL SEASON 8 TRACK 7|Dynamic Weather|SniperX|2022/02/01|
 |174|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2021/07/14|
 |131|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2021/09/30|
 |119|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/04/22|
@@ -23,7 +23,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |105|VRL Season 4 Track 2|Bando|CarbiXZero|2021/01/24|
-|65|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2021/03/20|
+|69|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2021/03/20|
 |74|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/04/02|
 |119|VRL S5 CHAMPIONSHIPS TRACK|Empty Scene Day|Five33Switchback|2021/04/22|
 |103|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2021/04/22|

@@ -4,8 +4,8 @@
 |14|VRL SEASON 5 TRACK 7|IndoorGoKart|Ossa|2022/05/07|
 |17|VRL_Season_4_Track_6|Dynamic Weather|Chief|2021/10/24|
 |20|VRL-Season-4-Tryouts|Dynamic Weather|Chief|2021/11/06|
-|23|VRL6 Downtown Loop|Dynamic Weather|Chief|2021/11/02|
-|28|VRL6 Crash Site|Dynamic Weather|Chief|2021/11/05|
+|24|VRL6 Downtown Loop|Dynamic Weather|Chief|2021/11/02|
+|29|VRL6 Crash Site|Dynamic Weather|Chief|2021/11/05|
 |30|VRL_Season_4_Track_5|Coastal|Chief|2022/01/16|
 ---
 ### Worse 9 VRL SERIES TRACKS ranks
@@ -17,7 +17,7 @@
 |150|VRL 7 Track 1|Future Hangar|Chief|2021/10/19|
 |138|VRL Season 8 Track 3|Night Factory 2|Ossa|2021/12/08|
 |135|VRL 7 Track 2|Future Hangar Empty|Mode2Ghost|2022/04/30|
-|116|VRL6 Extermination|Dynamic Weather|Chief|2021/11/02|
+|117|VRL6 Extermination|Dynamic Weather|Chief|2021/11/02|
 |113|VRL Season 3 Track 4|Empty Scene Day|Five33Switchback|2021/05/23|
 |110|VRL Season 4 Track 3|Basketball Stadium|Five33Switchback|2021/07/04|
 ---
@@ -28,8 +28,8 @@
 |48|VRL S5 TRACK 4|Empty Scene Day|Five33Switchback|2021/05/23|
 |56|VRL Season 3 Track 3|Empty Scene Day|Five33Switchback|2021/05/23|
 |113|VRL Season 3 Track 4|Empty Scene Day|Five33Switchback|2021/05/23|
-|88|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2021/05/23|
-|49|VRL Season 3 Track 6|Empty Scene Day|Five33Switchback|2021/05/23|
+|91|VRL Season 3 Track 5|Empty Scene Day|Five33Switchback|2021/05/23|
+|50|VRL Season 3 Track 6|Empty Scene Day|Five33Switchback|2021/05/23|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

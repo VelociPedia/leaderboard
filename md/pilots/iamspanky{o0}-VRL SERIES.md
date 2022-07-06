@@ -13,7 +13,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |183|VRL 7 Race 4|Dynamic Weather|Ossa|2020/12/02|
-|160|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/16|
+|161|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/16|
 |155|VRL Season 7 Championships|Dynamic Weather|Ossa|2020/12/28|
 |153|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/01/25|
 |153|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2021/06/30|
@@ -27,13 +27,13 @@
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|47|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/05|
+|48|VRL6 Reinforcement|Dynamic Weather|Five33Switchback|2020/04/05|
 |36|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/10|
 |44|VRL6 Tunnel Vision|Dynamic Weather|SingularitumV5|2020/04/16|
 |55|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/04/23|
 |10|VRL6 Crash Site|Dynamic Weather|CarbiXZero|2020/04/28|
 |7|VRL6 Downtown Loop|Dynamic Weather|CarbiXZero|2020/04/28|
-|15|VRL6 Meltdown|Dynamic Weather|CarbiXZero|2020/04/28|
+|16|VRL6 Meltdown|Dynamic Weather|CarbiXZero|2020/04/28|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

@@ -31,7 +31,7 @@
 |43|VRL6 Kenerator|Dynamic Weather|SlamNasty|2020/04/23|
 |15|VRL SEASON 6 TRYOUTS|Dynamic Weather|SlamNasty|2020/04/23|
 |10|VRL6 Meltdown|Dynamic Weather|SlamNasty|2020/05/02|
-|39|VRL6 Reinforcement|Dynamic Weather|SlamNasty|2020/05/02|
+|40|VRL6 Reinforcement|Dynamic Weather|SlamNasty|2020/05/02|
 |12|VRL-Season-4-Track-4|Dynamic Weather|SlamNasty|2020/05/02|
 ---
 ### 1 tracks where TBS SPEC quad was used

@@ -11,7 +11,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |95|VRL 7 Race 4|Dynamic Weather|Ossa|2020/11/23|
-|77|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
+|78|VRL S5 TRACK 3|Bando|CarbiXZero|2020/07/14|
 |71|VRL 7 Track 5|Dynamic Weather|Ossa|2020/12/07|
 |66|VRL 7 Track 3|Dynamic Weather|Ossa|2020/11/18|
 |62|VRL Season 8 Track 5|Dynamic Weather|Ossa|2021/12/20|

@@ -31,9 +31,9 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |18|VRL S5 Track 1|Dynamic Weather|TBSSpec|2020/11/12|
+|8|VRL SEASON 5 TRACK 8|Industrial Wasteland|TBSSpec|2021/02/14|
 |18|VRL Season 4 Track 3|Basketball Stadium|TBSSpec|2021/01/16|
 |29|VRL-Season-4-Track-4|Dynamic Weather|TBSSpec|2020/05/16|
-|8|VRL SEASON 5 TRACK 8|Industrial Wasteland|TBSSpec|2021/02/14|
 ---
 ### 21 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

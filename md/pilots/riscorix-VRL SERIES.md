@@ -2,8 +2,8 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |26|VRL Season 3 Track 3|Empty Scene Day|TwigXL3|2022/03/16|
-|26|VRL6 Downtown Loop|Dynamic Weather|Ragg-e200h|2022/03/20|
 |27|VRL-Season-4-Track-4|Dynamic Weather|Ragg-e200h|2022/03/22|
+|27|VRL6 Downtown Loop|Dynamic Weather|Ragg-e200h|2022/03/20|
 |35|VRL SEASON 5 TRACK 7|IndoorGoKart|Ragg-e200h|2022/03/14|
 ---
 ### Worse 7 VRL SERIES TRACKS ranks
@@ -11,9 +11,9 @@
 |:---:|:---|:---|:---:|:---:|
 |190|VRL6 Championships|Dynamic Weather|TwigXL3|2022/03/17|
 |181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
-|160|VRL6 Extermination|Dynamic Weather|Ragg-e200h|2022/03/20|
+|161|VRL6 Extermination|Dynamic Weather|Ragg-e200h|2022/03/20|
+|125|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 |124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
-|124|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 |124|VRL Season 3 Track 1|Empty Scene Day|Ragg-e200h|2022/03/16|
 |119|VRL Season 3 Track 2|Empty Scene Day|TwigXL3|2022/03/16|
 ---
@@ -23,7 +23,7 @@
 |181|VRL Season 4 Track 3|Basketball Stadium|TwigXL3|2021/09/30|
 |124|VRL Season 8 Track 5|Dynamic Weather|TBSSpec|2021/12/19|
 |88|VRL Season 8 Track 1|Office Complex|TwigXL3|2022/03/03|
-|124|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
+|125|VRL Season 8 Track 2|Drift Track|TwigXL3|2022/03/07|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

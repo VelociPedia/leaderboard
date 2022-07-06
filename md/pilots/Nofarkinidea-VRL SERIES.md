@@ -4,7 +4,7 @@
 |7|VRL-Season-4-Tryouts|Dynamic Weather|Five33Switchback|2020/11/05|
 |11|VRL SEASON 5 TRACK 7|IndoorGoKart|KareareaTalon|2020/06/22|
 |13|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2020/11/09|
-|13|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2020/11/15|
+|14|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2020/11/15|
 |17|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2020/11/07|
 |18|VRL Season 4 Track 1|Dynamic Weather|Five33Switchback|2020/11/06|
 ---
@@ -19,7 +19,7 @@
 |88|VRL Season 3 Track 1|Empty Scene Day|Five33Switchback|2020/09/10|
 |87|VRL Season 4 Track 3|Basketball Stadium|KareareaTalon|2020/05/07|
 |84|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2020/11/12|
-|83|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/20|
+|84|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/20|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -28,7 +28,7 @@
 |29|VRL_Season_4_Track_5|Coastal|KareareaTalon|2020/04/30|
 |87|VRL Season 4 Track 3|Basketball Stadium|KareareaTalon|2020/05/07|
 |22|VRL SEASON 5 TRACK 8|Industrial Wasteland|KareareaTalon|2020/05/24|
-|69|VRL S5 TRACK 3|Bando|KareareaTalon|2020/06/12|
+|70|VRL S5 TRACK 3|Bando|KareareaTalon|2020/06/12|
 |50|VRL Season 4 Track 2|Bando|KareareaTalon|2020/06/13|
 ---
 ### 1 tracks where TBS SPEC quad was used

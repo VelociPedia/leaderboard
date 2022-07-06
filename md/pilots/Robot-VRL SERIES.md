@@ -12,7 +12,7 @@
 |:---:|:---|:---|:---:|:---:|
 |176|VRL6 Championships|Dynamic Weather|CarbiXZero|2020/09/22|
 |112|VRL6 Kenerator|Dynamic Weather|CarbiXZero|2020/09/23|
-|103|VRL6 Extermination|Dynamic Weather|CarbiXZero|2020/09/23|
+|104|VRL6 Extermination|Dynamic Weather|CarbiXZero|2020/09/23|
 |99|VRL Season 3 Track 1|Empty Scene Day|CarbiXZero|2020/11/04|
 |84|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/09/23|
 |77|VRL SEASON 6 TRYOUTS|Dynamic Weather|CarbiXZero|2020/09/22|

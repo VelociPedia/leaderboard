@@ -17,30 +17,30 @@
 |154|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2021/04/03|
 |147|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2020/05/30|
 |143|VRL Season 8 Track 3|Night Factory 2|SniperX|2022/02/09|
-|141|VRL S5 TRACK 3|Bando|TBSSpec|2020/06/10|
+|142|VRL S5 TRACK 3|Bando|TBSSpec|2020/06/10|
 |136|VRL Season 8 Track 5|Dynamic Weather|SniperX|2021/12/20|
 |130|VRL SEASON 8 TRACK 7|Dynamic Weather|SniperX|2022/01/28|
 ---
 ### Oldest 6 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|59|VRL6 Reinforcement|Dynamic Weather|Mode2Ghost|2020/04/09|
-|49|VRL6 Meltdown|Dynamic Weather|Mode2Ghost|2020/04/12|
+|60|VRL6 Reinforcement|Dynamic Weather|Mode2Ghost|2020/04/09|
+|50|VRL6 Meltdown|Dynamic Weather|Mode2Ghost|2020/04/12|
 |55|VRL_Season_4_Track_5|Coastal|Five33Switchback|2020/04/13|
 |18|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2020/04/13|
-|97|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/14|
+|98|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/04/14|
 |107|VRL6 Tunnel Vision|Dynamic Weather|Mode2Ghost|2020/04/16|
 ---
 ### 11 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |34|VRL S5 TRACK 2|Dynamic Weather|TBSSpec|2020/06/10|
-|141|VRL S5 TRACK 3|Bando|TBSSpec|2020/06/10|
+|142|VRL S5 TRACK 3|Bando|TBSSpec|2020/06/10|
 |64|VRL Season 3 Track 2|Empty Scene Day|TBSSpec|2020/06/10|
 |30|VRL Season 3 Track 3|Empty Scene Day|TBSSpec|2020/06/10|
 |48|VRL Season 3 Track 4|Empty Scene Day|TBSSpec|2020/06/07|
-|46|VRL Season 3 Track 5|Empty Scene Day|TBSSpec|2020/06/07|
-|30|VRL Season 3 Track 6|Empty Scene Day|TBSSpec|2020/06/07|
+|48|VRL Season 3 Track 5|Empty Scene Day|TBSSpec|2020/06/07|
+|31|VRL Season 3 Track 6|Empty Scene Day|TBSSpec|2020/06/07|
 |100|VRL Season 4 Championship|Football Stadium|TBSSpec|2020/06/08|
 |34|VRL Season 4 Track 2|Bando|TBSSpec|2020/06/07|
 |24|VRL Season 4 Track 7|Dynamic Weather|TBSSpec|2020/06/07|

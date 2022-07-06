@@ -4,7 +4,7 @@
 |3|VRL-Season-4-Tryouts|Dynamic Weather|NeatoFastback|2021/03/18|
 |9|VRL_Season_4_Track_5|Coastal|NeatoFastback|2021/03/11|
 |10|VRL-Season-4-Track-4|Dynamic Weather|NeatoFastback|2021/03/18|
-|10|VRL6 Downtown Loop|Dynamic Weather|NeatoFastback|2021/03/21|
+|11|VRL6 Downtown Loop|Dynamic Weather|NeatoFastback|2021/03/21|
 |12|VRL S5 Track 1|Dynamic Weather|NeatoFastback|2021/03/13|
 |13|VRL SEASON 5 TRACK 6|Dynamic Weather|NeatoFastback|2021/03/13|
 ---
@@ -17,7 +17,7 @@
 |176|VRL 7 Track 1|Future Hangar|NeatoFastback|2021/04/11|
 |161|VRL 7 Track 6|Dynamic Weather|Five33Switchback|2021/03/12|
 |133|VRL Season 7 Championships|Dynamic Weather|NeatoFastback|2021/03/18|
-|113|VRL6 Extermination|Dynamic Weather|NeatoFastback|2021/03/21|
+|114|VRL6 Extermination|Dynamic Weather|NeatoFastback|2021/03/21|
 |111|VRL6 Championships|Dynamic Weather|NeatoFastback|2021/03/19|
 |106|VRL 7 Track 2|Future Hangar Empty|NeatoFastback|2021/02/24|
 |81|VRL Season 4 Championship|Football Stadium|NeatoFastback|2021/03/08|

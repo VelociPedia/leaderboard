@@ -3,8 +3,8 @@
 |:---:|:---|:---|:---:|:---:|
 |20|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2021/02/05|
 |24|VRL-Season-4-Tryouts|Dynamic Weather|Five33Switchback|2021/01/26|
-|25|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2021/01/29|
-|31|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2021/01/30|
+|26|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2021/01/29|
+|32|VRL6 Meltdown|Dynamic Weather|Five33Switchback|2021/01/30|
 |34|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2021/01/26|
 |36|VRL SEASON 5 TRACK 6|Dynamic Weather|Five33Switchback|2021/01/21|
 ---
@@ -12,7 +12,7 @@
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |199|VRL7 Tryouts|Future Hangar Empty|Yakuza|2020/09/19|
-|185|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/01/18|
+|186|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/01/18|
 |185|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2021/01/15|
 |182|VRL Season 3 Track 2|Empty Scene Day|Five33Switchback|2021/01/22|
 |170|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/15|
@@ -27,10 +27,10 @@
 |:---:|:---|:---|:---:|:---:|
 |199|VRL7 Tryouts|Future Hangar Empty|Yakuza|2020/09/19|
 |45|VRL Season 3 Track 3|Empty Scene Day|Yakuza|2020/10/08|
-|41|VRL Season 3 Track 6|Empty Scene Day|Yakuza|2020/10/10|
+|42|VRL Season 3 Track 6|Empty Scene Day|Yakuza|2020/10/10|
 |170|VRL 7 Track 5|Dynamic Weather|Five33Switchback|2020/12/15|
 |185|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2021/01/15|
-|185|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/01/18|
+|186|VRL 7 Track 1|Future Hangar|Five33Switchback|2021/01/18|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

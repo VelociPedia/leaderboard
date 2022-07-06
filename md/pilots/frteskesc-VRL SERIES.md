@@ -5,8 +5,8 @@
 |7|VRL SEASON 5 TRACK 7|IndoorGoKart|Five33Switchback|2021/04/21|
 |8|VRL SEASON 8 TRYOUTS|RedValley|Five33Switchback|2021/09/13|
 |11|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2022/01/19|
-|14|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2021/01/12|
-|16|VRL6 Crash Site|Dynamic Weather|Five33Switchback|2021/05/10|
+|15|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2021/01/12|
+|17|VRL6 Crash Site|Dynamic Weather|Five33Switchback|2021/05/10|
 |19|VRL-Season-4-Track-4|Dynamic Weather|Five33Switchback|2021/01/15|
 ---
 ### Worse 11 VRL SERIES TRACKS ranks
@@ -19,19 +19,19 @@
 |139|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/02|
 |134|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/03/05|
 |113|VRL Season 8 Track 2|Drift Track|Five33Switchback|2021/11/18|
-|110|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/25|
+|111|VRL6 Extermination|Dynamic Weather|Five33Switchback|2020/11/25|
 |103|VRL SEASON 6 TRYOUTS|Dynamic Weather|Five33Switchback|2020/12/25|
 |102|VRL Season 8 Track 3|Night Factory 2|Five33Switchback|2021/12/06|
-|83|VRL Season 8 Championships|Dynamic Weather|Five33Switchback|2022/02/10|
+|83|VRL Season 3 Track 5|Empty Scene Day|SingularitumV5|2020/07/12|
 ---
 ### Oldest 7 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 |199|VRL6 Championships|Dynamic Weather|SingularitumV5|2020/06/03|
 |43|VRL SEASON 5 TRYOUTS|Dynamic Weather|SingularitumV5|2020/06/18|
-|80|VRL Season 3 Track 5|Empty Scene Day|SingularitumV5|2020/07/12|
-|57|VRL Season 3 Track 6|Empty Scene Day|SingularitumV5|2020/07/13|
-|33|VRL6 Meltdown|Dynamic Weather|SingularitumV5|2020/10/21|
+|83|VRL Season 3 Track 5|Empty Scene Day|SingularitumV5|2020/07/12|
+|58|VRL Season 3 Track 6|Empty Scene Day|SingularitumV5|2020/07/13|
+|34|VRL6 Meltdown|Dynamic Weather|SingularitumV5|2020/10/21|
 |139|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2020/11/02|
 |173|VRL 7 Track 3|Dynamic Weather|Five33Switchback|2020/11/21|
 ---
