@@ -79,7 +79,7 @@ if [ "$makecollectionpilots" = "1" ]   ; then
         worsetracks=$(($ntrack/4))
         oldesttracks=$(($ntrack/6))
         
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -n --key="3" | head -n $besttracks)
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -V --key="3" | head -n $besttracks)
         echo -e "### Best $besttracks $1 TRACKS ranks" > "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
@@ -87,7 +87,7 @@ if [ "$makecollectionpilots" = "1" ]   ; then
             echo -e "|$rank|$track|$scene|$quad|$date|" >> "$outputfile"
             done <<< $a
 
-        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -rn --key="3" | head -n $worsetracks)
+        a=$(sed '/NO_DATA$/d' <<< $pilot_data | sort --field-separator="," -rV --key="3" | head -n $worsetracks)
         echo -e "---\n### Worse $worsetracks $1 TRACKS ranks" >> "$outputfile"
         echo -e "|RANK|TRACK|SCENE|QUAD|DATE|" >> "$outputfile"
         echo -e "|:---:|:---|:---|:---:|:---:|" >> "$outputfile"
