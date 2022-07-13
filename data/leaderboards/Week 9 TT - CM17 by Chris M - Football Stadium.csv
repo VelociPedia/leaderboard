@@ -6,7 +6,7 @@
 50.674,CarNoic,UnitedStates,CarbiXZero,2022/01/02
 52.045,TCSilviofpvbuthighrates,Spain,SingularitumV5,2021/12/25
 52.976,skAve,Germany,Five33Switchback,2022/01/19
-52.979,EchoLEVI,UnitedStates,Ossa,2022/01/02
+52.979,MtDew,UnitedStates,Ossa,2022/01/02
 53.111,ChrisM,Denmark,CarbiXZero,2021/12/27
 53.287,BimBadaBoom,France,Yakuza,2022/02/15
 53.363,FPVFPVINTGF11,Norway,Five33Switchback,2022/05/04
@@ -21,7 +21,7 @@
 55.843,0xfpv,UnitedStates,Solleva,2021/12/30
 56.014,loufpv,UnitedStates,Five33Switchback,2022/05/02
 56.088,MLDRAyyyKayyy,UnitedStates,Ossa,2021/12/28
-56.122,Heyjun~,Korea,Five33Switchback,2021/12/25
+56.122,Hajun,Korea,Five33Switchback,2021/12/25
 56.383,Kosma,Poland,Five33Switchback,2021/12/28
 56.395,mv,Estonia,CarbiXZero,2022/01/15
 56.443,TBSKadezh,Slovenia,CarbiXZero,2022/02/06
@@ -53,6 +53,7 @@
 60.638,AK,UnitedKingdom,Five33Switchback,2022/02/20
 60.805,Hsl_Fpv,Brazil,CarbiXZero,2022/01/04
 60.915,MX_BIGRAMON,Germany,Mode2Ghost,2022/01/01
+61.048,Prktis,China,CarbiXZero,2022/07/11
 61.111,YCKFPV,China,Five33Switchback,2022/04/18
 61.177,EuLeR,Germany,TBSSpec,2022/02/17
 61.644,Pukka_fpv,UnitedKingdom,Five33Switchback,2022/01/06
@@ -106,14 +107,13 @@
 68.359,bfrlv,UnitedKingdom,Five33Switchback,2022/06/23
 68.403,Destra,Indonesia,Five33Switchback,2022/02/23
 68.434,glazite32,Latvia,Five33Switchback,2022/06/15
+68.596,thefpvdoctor,Slovakia,Five33Switchback,2022/07/10
 69.122,Heim_FPV,France,Five33Switchback,2022/01/20
-69.515,thefpvdoctor,Slovakia,Five33Switchback,2022/04/26
 69.992,AronFF,Sweden,Five33Switchback,2022/02/08
 70.172,NotSure,UnitedStates,TBSSpec,2022/01/01
 70.329,SIMSlicefpv,UnitedStates,Five33Switchback,2022/01/01
-70.604,octYuhao,China,Five33Switchback,2022/04/26
+70.604,TornadoYuhao,China,Five33Switchback,2022/04/26
 70.739,Luxu,Finland,TBSSpec,2022/01/07
-70.872,Prktis,China,Five33Switchback,2022/03/29
 70.982,groovy,UnitedStates,Five33Switchback,2021/12/27
 71.080,JWWFPV,UnitedStates,CarbiXZero,2021/12/31
 71.140,lutte,China,Five33Switchback,2022/03/31
@@ -146,7 +146,7 @@
 74.213,Solace,Canada,Five33Switchback,2022/04/26
 74.258,Warp9,UnitedStates,Five33Switchback,2021/12/30
 74.372,Fotr,Slovenia,Five33Switchback,2022/02/09
-74.496,HQBatuFPV,Germany,Five33Switchback,2022/02/04
+74.496,RustyBatuFPV,Germany,Five33Switchback,2022/02/04
 74.507,remypozzo,France,Five33Switchback,2022/05/09
 74.595,Waizi,CzechRepublic,Five33Switchback,2022/04/26
 74.717,lephro,Germany,CarbiXZero,2022/02/04
@@ -178,8 +178,11 @@
 78.496,moosematt53,UnitedStates,Five33Switchback,2021/12/30
 78.550,TalkSick,UnitedStates,SniperX,2022/01/07
 78.649,bonfpv,HongKong,Five33Switchback,2022/01/09
+78.715,HERCULESFPV,Bulgaria,Five33Switchback,2022/07/08
 78.791,GoldenFpv,Israel,Five33Switchback,2022/01/02
+78.813,Flyauge,Germany,Five33Switchback,2022/07/09
 78.931,sbrfpv,Brazil,Five33Switchback,2022/01/08
+78.982,QDR_FPV,Turkey,Five33Switchback,2022/07/11
 79.023,iamD_C,India,Five33Switchback,2022/03/30
 79.210,VitalyMi85,RussianFederation,Five33Switchback,2022/01/20
 79.459,ejectfpv865,UnitedStates,Ossa,2022/01/02
@@ -195,6 +198,3 @@
 80.344,LINGYU,China,Five33Switchback,2022/05/17
 80.508,Alêx,UnitedKingdom,Five33Switchback,2021/12/28
 80.574,AtsuPon,Japan,Five33Switchback,2022/01/07
-80.611,奇特的人,UnitedKingdom,Five33Switchback,2022/04/02
-80.940,MKFPV,China,CarbiXZero,2022/05/04
-81.005,Viofly,France,BMSJS-1,2022/01/05

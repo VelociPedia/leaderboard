@@ -1,5 +1,6 @@
 34.045,BURAK,Turkey,CarbiXZero,2022/04/20
 35.680,Kosta,Germany,Five33Switchback,2022/04/18
+36.193,CarNoic,UnitedStates,Five33Switchback,2022/07/10
 36.332,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/04/30
 36.431,BimBadaBoom,France,Yakuza,2022/04/19
 36.530,OliHawk,France,CarbiXZero,2022/04/26
@@ -18,6 +19,7 @@
 38.137,loufpv,UnitedStates,Five33Switchback,2022/05/01
 38.269,Brookeet,Poland,Five33Switchback,2022/04/29
 38.486,roma_fpv,Spain,CarbiXZero,2022/04/26
+38.500,RIVALSInfinitee,UnitedStates,Five33Switchback,2022/07/09
 38.621,dinholoyola,Brazil,CarbiXZero,2022/06/14
 38.658,RussellAR,UnitedStates,MadLite,2022/04/20
 38.659,Elpitjor,Spain,Five33Switchback,2022/04/27
@@ -32,7 +34,7 @@
 39.697,Falke_PV,Germany,Five33Switchback,2022/05/16
 39.697,RCSwix_QT,RussianFederation,Mode2Ghost,2022/04/22
 39.801,mojofpv,Germany,Five33Switchback,2022/04/20
-39.883,SebaFPV,UnitedStates,CarbiXZero,2022/04/30
+39.883,587,UnitedStates,CarbiXZero,2022/04/30
 40.324,tillyFPV,UnitedStates,Five33Switchback,2022/04/29
 40.502,oxifpv,Brazil,Five33Switchback,2022/06/17
 40.620,Yuki,Japan,BMSJS-1,2022/04/30
@@ -53,14 +55,15 @@
 42.637,图灵榜,China,CarbiXZero,2022/04/29
 42.767,ETERNAL☆GOODVIBES,UnitedKingdom,Five33Switchback,2022/04/20
 42.819,Gugs,UnitedStates,Five33Switchback,2022/04/22
+43.001,Proximo,UnitedKingdom,Five33Switchback,2022/07/12
 43.014,Saqoosha,Japan,TBSSpec,2022/04/19
 43.151,Propkill,Italy,Five33Switchback,2022/04/29
 43.156,thefpvdoctor,Slovakia,Five33Switchback,2022/04/19
 43.232,aiyakim,HongKong,CarbiXZero,2022/04/28
+43.354,喜洋洋,UnitedKingdom,PandaCavity,2022/07/11
 43.487,arTFPV,China,Five33Switchback,2022/04/21
 43.634,obeny,Poland,Five33Switchback,2022/06/20
 43.861,ad_movie,Poland,Five33Switchback,2022/04/26
-43.891,RIVALSInfinitee,UnitedStates,Five33Switchback,2022/04/25
 44.079,Fenrir_FPV,Switzerland,Five33Switchback,2022/04/24
 44.257,SnakecityDK,Denmark,TBSSpec,2022/05/14
 44.261,JustRipFPV,Germany,SniperX,2022/05/12
@@ -84,7 +87,6 @@
 45.758,MIRO45,Poland,AstroXSL5,2022/04/20
 45.772,frteskesc,Germany,Five33Switchback,2022/04/22
 45.778,ibor24,Switzerland,Five33Switchback,2022/04/23
-45.881,喜洋洋,UnitedKingdom,PandaCavity,2022/06/08
 45.890,Robertas_V,Unknown,Five33Switchback,2022/05/04
 46.153,PandaROLL3D,UnitedStates,Chief,2022/04/23
 46.157,bennymack,UnitedStates,Five33Switchback,2022/04/22
@@ -94,7 +96,7 @@
 46.656,mcrakus,Poland,Five33Switchback,2022/04/18
 46.700,sbrfpv,Brazil,Five33Switchback,2022/06/18
 46.732,YCKFPV,China,Five33Switchback,2022/04/18
-46.763,octYuhao,China,Five33Switchback,2022/04/26
+46.763,TornadoYuhao,China,Five33Switchback,2022/04/26
 46.781,Darksilver,Canada,TBSSpec,2022/05/17
 46.833,ZXFPV,UnitedStates,Five33Switchback,2022/05/24
 47.005,Plaukuotasis,Unknown,Five33Switchback,2022/04/24
@@ -115,8 +117,10 @@
 48.228,RIVALSKneeDown,UnitedStates,TBSSpec,2022/04/26
 48.392,teefpv,NewZealand,BMSJS-1,2022/04/25
 48.413,NotSure,UnitedStates,Five33Switchback,2022/04/17
+48.425,Johnn,Denmark,TBSSpec,2022/07/07
 48.549,SSXAnoKim,Korea,LethalConception,2022/05/11
 48.675,BonesE,UnitedStates,Five33Switchback,2022/04/26
+48.749,AggiFPV,Denmark,TBSSpec,2022/07/07
 48.974,iamD_C,India,Five33Switchback,2022/04/30
 49.077,Copter30,UnitedStates,Five33Switchback,2022/04/23
 49.187,mori_fpv,Japan,Five33Switchback,2022/04/25
@@ -133,13 +137,12 @@
 49.938,GoldenFpv,Israel,Five33Switchback,2022/04/20
 50.001,Viofly,France,Five33Switchback,2022/06/10
 50.124,Roland,Estonia,CarbiXZero,2022/04/23
-50.133,AggiFPV,Denmark,Chief,2022/05/23
 50.182,LAVA,Korea,TwigXL3,2022/04/24
 50.212,GarFly,UnitedStates,Five33Switchback,2022/04/19
 50.320,AdamWu,China,Five33Switchback,2022/04/30
 50.488,Féno,France,Five33Switchback,2022/04/19
+50.587,HERCULESFPV,Bulgaria,Five33Switchback,2022/07/10
 50.904,Musilex,Brazil,Five33Switchback,2022/06/18
-50.945,HERCULESFPV,Bulgaria,CarbiXZero,2022/06/16
 50.984,AndyDreadFPV,UnitedStates,Five33Switchback,2022/04/22
 51.085,ViktorVattenpöl,Sweden,Five33Switchback,2022/04/28
 51.296,shaneo,Australia,Five33Switchback,2022/05/12
@@ -195,6 +198,3 @@
 60.763,MrT,Argentina,Five33Switchback,2022/06/19
 60.765,KentFPV,UnitedKingdom,AcrobotTruX-R197,2022/04/25
 60.794,gyutu34,Korea,LethalConception,2022/04/21
-61.147,SlinkShots,UnitedStates,Five33Switchback,2022/04/27
-61.469,CyberSaxon,UnitedKingdom,Five33Switchback,2022/04/23
-61.485,salleens7,UnitedStates,Five33Switchback,2022/04/27
