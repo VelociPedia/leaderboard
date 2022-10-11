@@ -50,7 +50,7 @@
 72.072,Stratman,UnitedStates,TBSSpec,2022/10/11
 72.102,bfrlv,UnitedKingdom,Five33Switchback,2022/10/10
 72.656,TriBull,UnitedKingdom,TBSSpec,2022/10/06
-73.195,Bree,France,Five33Switchback,2022/10/05
+72.912,Bree,France,TBSSpec,2022/10/11
 73.365,Flynix,Canada,Chief,2022/10/09
 73.672,applewapple,UnitedStates,Five33Switchback,2022/10/10
 73.920,frteskesc,Germany,Five33Switchback,2022/10/09
@@ -96,6 +96,7 @@
 83.772,IsTim,UnitedKingdom,TBSSpec,2022/10/06
 84.082,Tbell,UnitedStates,Mode2Ghost,2022/10/06
 84.634,Waterclocker,UnitedStates,Five33Switchback,2022/10/06
+84.875,JustRipFPV,Germany,AstroXSL5,2022/10/11
 85.130,JoeCool,UnitedStates,Five33Switchback,2022/10/10
 85.399,lightsail,UnitedKingdom,Five33Switchback,2022/10/07
 85.556,kawato,Japan,Five33Switchback,2022/10/11
@@ -113,7 +114,7 @@
 88.699,UnderTheRadar,Canada,TwigXL3,2022/10/06
 89.132,SonnFPV,Israel,Five33Switchback,2022/10/08
 89.180,gby85,Poland,Five33Switchback,2022/10/10
-90.668,Kbar,Canada,TBSSpec,2022/10/10
+89.482,Kbar,Canada,TBSSpec,2022/10/11
 90.903,Crcrozes,UnitedStates,Five33Switchback,2022/10/08
 90.963,Zedooo!,Croatia,Five33Switchback,2022/10/10
 91.021,Ralph_FPV12,Singapore,Five33Switchback,2022/10/09
@@ -164,6 +165,7 @@
 107.196,icelynx,UnitedStates,Five33Switchback,2022/10/08
 107.277,RaZm0,France,Five33Switchback,2022/10/09
 107.492,BentProp,UnitedKingdom,Five33Switchback,2022/10/10
+107.577,ZhouYang,China,Five33Switchback,2022/10/11
 107.832,aIec,Netherlands,LethalConception,2022/10/07
 108.116,Sedated,Korea,Five33Switchback,2022/10/06
 108.166,GWATS,Unknown,TBSSpec,2022/10/05
@@ -178,13 +180,13 @@
 112.059,Matesovics,Latvia,Five33Switchback,2022/10/06
 112.407,choku,China,Five33Switchback,2022/10/08
 112.682,Fast11,CzechRepublic,Five33Switchback,2022/10/05
+112.783,NowUCme,HongKong,Five33Switchback,2022/10/11
 113.695,FreakoutFPV,Switzerland,Five33Switchback,2022/10/06
 114.240,SpiralEyesFPV,UnitedStates,DiatoneGTB339,2022/10/10
 114.312,shimmy568,UnitedStates,TBSOblivion,2022/10/07
 114.357,FPVAPE,Hungary,Five33Switchback,2022/10/09
 114.692,Ezeeeeeeee,Unknown,Five33Switchback,2022/10/08
 115.256,Baticaly,Turkey,Five33Switchback,2022/10/10
-115.441,ZhouYang,China,Five33Switchback,2022/10/10
 115.455,PomBley,Spain,HX115,2022/10/08
 115.694,BulldogFPV,Chile,SingularitumV5,2022/10/08
 115.971,AmethystAxolotl,UnitedStates,Five33Switchback,2022/10/06
@@ -196,5 +198,3 @@
 121.315,umvegas,UnitedStates,FPVCycleGlide,2022/10/10
 121.463,meskalina,Italy,Five33Switchback,2022/10/10
 121.842,TonyRey,Spain,TBSSpec,2022/10/09
-122.241,JongkukLim,Korea,Five33Switchback,2022/10/10
-122.961,Sakezo,Japan,SkyXKiller,2022/10/07
