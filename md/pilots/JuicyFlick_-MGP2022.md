@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|96|2022 MultiGP IO Intermediate|Dynamic Weather|TwigXL3|2022/06/05|
+|120|2022 MultiGP IO Intermediate|Dynamic Weather|TwigXL3|2022/06/05|
 ---
 ### Oldest 1 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,8 +18,9 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 2 tracks without data (200+ or not in leaderboard)
+### 3 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
 |2022 MultiGP IO World Cup|Dynamic Weather|
+|2022 Freedom Spec Champioship|Dynamic Weather|

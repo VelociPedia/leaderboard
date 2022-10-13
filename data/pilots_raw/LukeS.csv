@@ -1,13 +1,14 @@
 2020 Canadian MultiGP Series,Football Stadium,59.964,LukeS,Germany,Five33Switchback,2021/07/07
 2020 MultiGP Champs presented by RDQ,Football Stadium,79.501,LukeS,Germany,Five33Switchback,2020/12/04
-2021 MultiGP Champs Track 1,Empty Scene Day,113.939,LukeS,Germany,Five33Switchback,2021/10/21
+2021 MultiGP Champs Track 1,Empty Scene Day,999.999,LukeS,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,63.692,LukeS,Germany,Five33Switchback,2021/10/22
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,LukeS,NO_DATA
-2022 MultiGP IO Intermediate,Dynamic Weather,999.999,LukeS,NO_DATA
+2022 MultiGP IO Intermediate,Dynamic Weather,59.157,LukeS,Germany,Five33Switchback,2022/07/30
 2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,LukeS,NO_DATA
 2022 MultiGP IO Micro,Countryside,999.999,LukeS,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,999.999,LukeS,NO_DATA
 2022 MultiGP IO World Cup,Dynamic Weather,999.999,LukeS,NO_DATA
+BDRA Championships 2022,Countryside,999.999,LukeS,NO_DATA
 DEP Open Series 4 Race 1,Football Stadium,999.999,LukeS,NO_DATA
 DEP Open Series 4 Race 2,Football Stadium,113.809,LukeS,Germany,Five33Switchback,2021/08/21
 DEP Open Series 4 Race 3,Football Stadium,999.999,LukeS,NO_DATA
@@ -41,7 +42,7 @@ MultiGP_2019_Qualifier_Spec,Empty Scene Day,56.349,LukeS,Germany,Five33Switchbac
 MultiGP 2019 Sport Championships,Football Stadium,66.840,LukeS,Germany,Five33Switchback,2021/06/24
 MultiGP 2020 Global Qualifier,Empty Scene Day,40.224,LukeS,Germany,Five33Switchback,2020/12/23
 MultiGP 2021 Global Qualifier,Football Stadium,37.482,LukeS,Germany,Five33Switchback,2022/02/03
-MultiGP 2022 Global Qualifier,Dynamic Weather,38.867,LukeS,Germany,Five33Switchback,2022/04/16
+MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,LukeS,NO_DATA
 MultiGP Bessel Run,Football Stadium,999.999,LukeS,NO_DATA
 MultiGP-Championships-2019,Empty Scene Day,999.999,LukeS,NO_DATA
 MultiGP High Voltage,Football Stadium,28.031,LukeS,Germany,Five33Switchback,2021/06/22
@@ -71,7 +72,7 @@ RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,124.960,LukeS,Germany,Five33Switchback,2020/05/24
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999.999,LukeS,NO_DATA
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,98.314,LukeS,Germany,Five33Switchback,2020/05/24
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,127.761,LukeS,Germany,Five33Switchback,2020/05/24
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,LukeS,NO_DATA
@@ -86,10 +87,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,77.315,LukeS,Germany,TBSSpec,2022/0
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,84.035,LukeS,Germany,TBSSpec,2022/01/25
 TBS EU Spec Series 10 Race 6,Large Carpark,50.275,LukeS,Germany,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,78.886,LukeS,Germany,TBSSpec,2022/02/09
+TBS EU Spec Series 11 Final,Dynamic Weather,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,LukeS,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,71.593,LukeS,Germany,Five33Switchback,2022/07/21
+TBS EU Spec Series 11 Race 6,Dynamic Weather,76.766,LukeS,Germany,Five33Switchback,2022/07/22
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,LukeS,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,LukeS,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,68.673,LukeS,Germany,TBSSpec,2022/02/02
 TBS EU Spec Series 4 Race 3,IndoorGoKart,116.723,LukeS,Germany,Five33Switchback,2021/07/13

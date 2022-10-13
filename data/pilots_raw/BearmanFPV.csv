@@ -28,7 +28,7 @@ DEP Spec Series 1 Race 5,Football Stadium,999.999,BearmanFPV,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,73.694,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/02
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,BearmanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,74.590,BearmanFPV,UnitedKingdom,TBSSpec,2021/04/08
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,67.507,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,72.405,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/01
@@ -39,7 +39,7 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,61.502,BearmanFPV,UnitedKingdo
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,102.742,BearmanFPV,UnitedKingdom,TBSSpec,2020/05/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Season 5 Race 1,Football Stadium,62.122,BearmanFPV,UnitedKingdom,Ossa,2022/09/12
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,62.055,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/02
@@ -49,10 +49,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,64.560,BearmanFPV,UnitedKingdom,TBS
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,57.304,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,76.234,BearmanFPV,UnitedKingdom,TBSSpec,2022/04/11
+TBS EU Spec Series 11 Final,Dynamic Weather,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,63.684,BearmanFPV,UnitedKingdom,TBSSpec,2022/05/26
 TBS EU Spec Series 11 Race 2,Countryside,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,64.886,BearmanFPV,UnitedKingdom,TBSSpec,2022/07/07
+TBS EU Spec Series 11 Race 6,Dynamic Weather,80.891,BearmanFPV,UnitedKingdom,TBSSpec,2022/09/12
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,88.236,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/28
 TBS EU Spec Series 4 Race 2,Empty Scene Day,75.461,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/06
 TBS EU Spec Series 4 Race 3,IndoorGoKart,109.805,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04

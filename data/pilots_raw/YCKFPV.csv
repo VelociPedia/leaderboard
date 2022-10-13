@@ -1,7 +1,8 @@
 2020 Canadian MultiGP Series,Football Stadium,54.232,YCKFPV,China,Five33Switchback,2022/05/25
 2020 MultiGP Champs presented by RDQ,Football Stadium,66.822,YCKFPV,China,Five33Switchback,2022/04/12
-2021 MultiGP Champs Track 1,Empty Scene Day,113.635,YCKFPV,China,Five33Switchback,2022/05/25
+2021 MultiGP Champs Track 1,Empty Scene Day,999.999,YCKFPV,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,56.859,YCKFPV,China,Five33Switchback,2022/06/14
+2022 Freedom Spec Champioship,Dynamic Weather,999.999,YCKFPV,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,53.645,YCKFPV,China,Five33Switchback,2022/06/14
 2022 MultiGP IO Freedom Spec,Dynamic Weather,90.542,YCKFPV,China,Five33Switchback,2022/05/30
 2022 MultiGP IO Intermediate,Dynamic Weather,53.476,YCKFPV,China,Five33Switchback,2022/06/24
@@ -9,6 +10,7 @@
 2022 MultiGP IO Micro,Countryside,97.970,YCKFPV,China,Five33Switchback,2022/05/28
 2022 MultiGP IO Team,Dynamic Weather,61.721,YCKFPV,China,Five33Switchback,2022/06/20
 2022 MultiGP IO World Cup,Dynamic Weather,69.288,YCKFPV,China,Five33Switchback,2022/06/07
+BDRA Championships 2022,Countryside,999.999,YCKFPV,NO_DATA
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,66.183,YCKFPV,China,Five33Switchback,2022/02/21
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,999.999,YCKFPV,NO_DATA
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,84.728,YCKFPV,China,Five33Switchback,2022/02/21
@@ -20,12 +22,12 @@ DEP Open Series 2 Race 7,Football Stadium,106.925,YCKFPV,China,Five33Switchback,
 DEP Open Series 3 Race 1,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,120.020,YCKFPV,China,Five33Switchback,2021/06/03
 DEP Open Series 3 Race 3,Karting Track,120.093,YCKFPV,China,Five33Switchback,2021/05/23
-DEP Open Series 3 Race 4,Football Stadium,86.718,YCKFPV,China,Five33Switchback,2021/05/22
+DEP Open Series 3 Race 4,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,99.521,YCKFPV,China,Five33Switchback,2021/06/03
 DEP Open Series 3 Race 6,Football Stadium,127.155,YCKFPV,China,Five33Switchback,2021/05/23
 DEP Open Series 3 Race 7,Football Stadium,120.747,YCKFPV,China,Five33Switchback,2021/05/23
 DEP Open Series 4 Race 1,Football Stadium,110.882,YCKFPV,China,Five33Switchback,2021/06/04
-DEP Open Series 4 Race 2,Football Stadium,143.527,YCKFPV,China,Five33Switchback,2021/05/22
+DEP Open Series 4 Race 2,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 4 Race 4,Football Stadium,114.704,YCKFPV,China,Five33Switchback,2021/05/22
 DEP Open Series 4 Race 5,Football Stadium,78.472,YCKFPV,China,Five33Switchback,2021/05/11
@@ -38,7 +40,7 @@ DEP Open Series 5 Race 4,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,83.143,YCKFPV,China,SniperX,2021/12/25
 DEP Open Series 5 Race 7,Football Stadium,124.107,YCKFPV,China,SniperX,2021/12/25
-DEP Open Series 6 Race 1,Football Stadium,123.706,YCKFPV,China,Five33Switchback,2022/03/08
+DEP Open Series 6 Race 1,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,999.999,YCKFPV,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,119.207,YCKFPV,China,Five33Switchback,2021/05/22
 DF5,Football Stadium,107.083,YCKFPV,China,Five33Switchback,2022/06/24
@@ -77,10 +79,14 @@ Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,60.873,YCKFPV,Chi
 Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,112.867,YCKFPV,China,Five33Switchback,2022/05/29
 Quad Rivals 2022 Race 4 - Summer is Here,Countryside,999.999,YCKFPV,NO_DATA
 ReddingFPVs DroneD,Dynamic Weather,999.999,YCKFPV,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,100.882,YCKFPV,China,Five33Switchback,2022/08/27
 TBS EU Spec Series 11 Race 1,Dynamic Weather,71.663,YCKFPV,China,Five33Switchback,2022/06/01
 TBS EU Spec Series 11 Race 2,Countryside,81.448,YCKFPV,China,Five33Switchback,2022/06/14
 TBS EU Spec Series 11 Race 3,Dynamic Weather,94.394,YCKFPV,China,Five33Switchback,2022/06/19
 TBS EU Spec Series 11 Race 5,Dynamic Weather,88.311,YCKFPV,China,Five33Switchback,2022/06/26
+TBS EU Spec Series 11 Race 5,NEC Birmingham,69.248,YCKFPV,China,CarbiXZero,2022/07/18
+TBS EU Spec Series 11 Race 6,Dynamic Weather,98.642,YCKFPV,China,CarbiXZero,2022/07/18
+TBS EU Spec Series 11 Race 7,Dynamic Weather,79.818,YCKFPV,China,Five33Switchback,2022/07/30
 TBS EU Spec Series 8 Final,Dynamic Weather,118.328,YCKFPV,China,Five33Switchback,2021/07/14
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999.999,YCKFPV,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999.999,YCKFPV,NO_DATA

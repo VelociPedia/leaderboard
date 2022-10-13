@@ -1,3 +1,4 @@
+2022 Freedom Spec Champioship,Dynamic Weather,999.999,ALPIFPV,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999.999,ALPIFPV,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,ALPIFPV,NO_DATA
 2022 MultiGP IO Intermediate,Dynamic Weather,49.607,ALPIFPV,UnitedStates,Five33Switchback,2022/05/30
@@ -63,14 +64,18 @@ TBS EU Spec Series 10 Losers Final,Football Stadium,47.795,ALPIFPV,UnitedStates,
 TBS EU Spec Series 10 Race 1,Football Stadium,62.775,ALPIFPV,UnitedStates,Five33Switchback,2021/12/07
 TBS EU Spec Series 10 Race 2,Empty Scene Day,57.353,ALPIFPV,UnitedStates,Five33Switchback,2021/12/13
 TBS EU Spec Series 10 Race 3,Night Factory 2,62.181,ALPIFPV,UnitedStates,Five33Switchback,2021/12/20
-TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,ALPIFPV,NO_DATA
+TBS EU Spec Series 10 Race 4,Dynamic Weather,62.258,ALPIFPV,UnitedStates,Five33Switchback,2022/08/31
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,50.817,ALPIFPV,UnitedStates,Five33Switchback,2022/01/26
 TBS EU Spec Series 10 Race 6,Large Carpark,72.196,ALPIFPV,UnitedStates,Five33Switchback,2022/02/02
 TBS EU Spec Series 10 Race 7,Football Stadium,62.235,ALPIFPV,UnitedStates,Five33Switchback,2022/02/13
-TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,ALPIFPV,NO_DATA
-TBS EU Spec Series 11 Race 2,Countryside,999.999,ALPIFPV,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,71.853,ALPIFPV,UnitedStates,Five33Switchback,2022/09/01
+TBS EU Spec Series 11 Race 1,Dynamic Weather,57.010,ALPIFPV,UnitedStates,Five33Switchback,2022/09/12
+TBS EU Spec Series 11 Race 2,Countryside,63.729,ALPIFPV,UnitedStates,Five33Switchback,2022/09/13
 TBS EU Spec Series 11 Race 3,Dynamic Weather,62.525,ALPIFPV,UnitedStates,Five33Switchback,2022/06/25
 TBS EU Spec Series 11 Race 5,Dynamic Weather,64.929,ALPIFPV,UnitedStates,Five33Switchback,2022/06/27
+TBS EU Spec Series 11 Race 5,NEC Birmingham,61.867,ALPIFPV,UnitedStates,Five33Switchback,2022/07/11
+TBS EU Spec Series 11 Race 6,Dynamic Weather,56.303,ALPIFPV,UnitedStates,Five33Switchback,2022/07/20
+TBS EU Spec Series 11 Race 7,Dynamic Weather,68.146,ALPIFPV,UnitedStates,Five33Switchback,2022/08/07
 TBS EU Spec Series 4 FINAL,Dynamic Weather,86.572,ALPIFPV,UnitedStates,TBSSpec,2020/06/26
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,ALPIFPV,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,108.292,ALPIFPV,UnitedStates,TBSSpec,2020/05/31
@@ -115,8 +120,8 @@ TBS EU Spec Series 9 Race 1,Football Stadium,55.809,ALPIFPV,UnitedStates,Five33S
 TBS EU Spec Series 9 Race 2,Dynamic Weather,53.244,ALPIFPV,UnitedStates,Five33Switchback,2022/03/27
 TBS EU Spec Series 9 Race 3,Empty Scene Day,57.157,ALPIFPV,UnitedStates,Five33Switchback,2022/03/27
 TBS EU Spec Series 9 Race 4,Football Stadium,63.075,ALPIFPV,UnitedStates,Five33Switchback,2021/10/04
-TBS EU Spec Series 9 Race 5,Empty Scene Day,999.999,ALPIFPV,NO_DATA
-TBS EU Spec Series 9 Race 6,Empty Scene Day,999.999,ALPIFPV,NO_DATA
+TBS EU Spec Series 9 Race 5,Empty Scene Day,59.586,ALPIFPV,UnitedStates,Five33Switchback,2022/09/20
+TBS EU Spec Series 9 Race 6,Empty Scene Day,60.866,ALPIFPV,UnitedStates,Five33Switchback,2022/09/28
 TBS EU Spec Series 9 Race 7,NEC Birmingham,71.281,ALPIFPV,UnitedStates,Five33Switchback,2021/11/11
 VRL Season 8 Championships,Dynamic Weather,79.341,ALPIFPV,UnitedStates,Five33Switchback,2022/02/13
 VRL Season 8 Track 1,Office Complex,999.999,ALPIFPV,NO_DATA

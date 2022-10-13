@@ -7,7 +7,7 @@ DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,999.999,ThirdEyeFPV,N
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,999.999,ThirdEyeFPV,NO_DATA
 DDR Race Series - Track 4 by Boner fpv march,Empty Scene Day,102.808,ThirdEyeFPV,Australia,TBSSpec,2022/03/12
 DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day,64.662,ThirdEyeFPV,Australia,TBSSpec,2022/04/03
-DEP Open Pop-Up 2,Dynamic Weather,107.395,ThirdEyeFPV,Australia,Five33Switchback,2021/07/02
+DEP Open Pop-Up 2,Dynamic Weather,84.851,ThirdEyeFPV,Australia,TBSSpec,2022/09/24
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,ThirdEyeFPV,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999.999,ThirdEyeFPV,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999.999,ThirdEyeFPV,NO_DATA
@@ -18,7 +18,7 @@ DEP Open Series 3 Race 5,Football Stadium,102.850,ThirdEyeFPV,Australia,Five33Sw
 DEP Open Series 3 Race 6,Football Stadium,138.467,ThirdEyeFPV,Australia,Five33Switchback,2021/05/28
 DEP Open Series 3 Race 7,Football Stadium,119.826,ThirdEyeFPV,Australia,Five33Switchback,2021/05/29
 DEP Open Series 4 Race 1,Football Stadium,117.685,ThirdEyeFPV,Australia,Five33Switchback,2021/04/04
-DEP Open Series 4 Race 2,Football Stadium,142.736,ThirdEyeFPV,Australia,Five33Switchback,2021/04/11
+DEP Open Series 4 Race 2,Football Stadium,999.999,ThirdEyeFPV,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,86.563,ThirdEyeFPV,Australia,Five33Switchback,2021/04/17
 DEP Open Series 4 Race 4,Football Stadium,116.985,ThirdEyeFPV,Australia,Five33Switchback,2021/04/24
 DEP Open Series 4 Race 5,Football Stadium,86.163,ThirdEyeFPV,Australia,Five33Switchback,2021/05/02
@@ -50,10 +50,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,84.270,ThirdEyeFPV,Australia,TBSSpe
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,72.121,ThirdEyeFPV,Australia,TBSSpec,2022/01/23
 TBS EU Spec Series 10 Race 6,Large Carpark,46.656,ThirdEyeFPV,Australia,TBSSpec,2022/01/29
 TBS EU Spec Series 10 Race 7,Football Stadium,78.065,ThirdEyeFPV,Australia,TBSSpec,2022/02/04
+TBS EU Spec Series 11 Final,Dynamic Weather,98.181,ThirdEyeFPV,Australia,TBSSpec,2022/08/31
 TBS EU Spec Series 11 Race 1,Dynamic Weather,115.539,ThirdEyeFPV,Australia,TBSSpec,2022/05/28
 TBS EU Spec Series 11 Race 2,Countryside,75.924,ThirdEyeFPV,Australia,TBSSpec,2022/06/13
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,ThirdEyeFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,88.478,ThirdEyeFPV,Australia,Five33Switchback,2022/07/01
+TBS EU Spec Series 11 Race 5,NEC Birmingham,94.296,ThirdEyeFPV,Australia,Five33Switchback,2022/07/08
+TBS EU Spec Series 11 Race 6,Dynamic Weather,73.260,ThirdEyeFPV,Australia,TBSSpec,2022/07/19
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,ThirdEyeFPV,NO_DATA
 TBS EU Spec Series 8 Final,Dynamic Weather,102.957,ThirdEyeFPV,Australia,Five33Switchback,2021/07/03
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,72.484,ThirdEyeFPV,Australia,Five33Switchback,2021/06/29
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999.999,ThirdEyeFPV,NO_DATA

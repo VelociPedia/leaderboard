@@ -4,17 +4,17 @@ DEP Open Series 2 Race 7,Football Stadium,999,999.999,BURAK,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,BURAK,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,BURAK,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,999,999.999,BURAK,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,9,53.211,BURAK,Turkey,SingularitumV5,2021/02/24
-DEP Open Series 3 Race 5,Football Stadium,12,67.640,BURAK,Turkey,SingularitumV5,2021/03/03
-DEP Open Series 3 Race 6,Football Stadium,6,77.982,BURAK,Turkey,SingularitumV5,2021/03/17
+DEP Open Series 3 Race 4,Football Stadium,16,53.211,BURAK,Turkey,SingularitumV5,2021/02/24
+DEP Open Series 3 Race 5,Football Stadium,16,67.640,BURAK,Turkey,SingularitumV5,2021/03/03
+DEP Open Series 3 Race 6,Football Stadium,7,77.982,BURAK,Turkey,SingularitumV5,2021/03/17
 DEP Open Series 3 Race 7,Football Stadium,2,65.956,BURAK,Turkey,SingularitumV5,2021/06/26
 DEP Open Series 4 Race 1,Football Stadium,4,63.717,BURAK,Turkey,SingularitumV5,2021/06/25
 DEP Open Series 4 Race 2,Football Stadium,4,77.580,BURAK,Turkey,SingularitumV5,2021/04/08
-DEP Open Series 4 Race 3,Football Stadium,8,54.644,BURAK,Turkey,SingularitumV5,2021/04/15
+DEP Open Series 4 Race 3,Football Stadium,9,54.644,BURAK,Turkey,SingularitumV5,2021/04/15
 DEP Open Series 4 Race 4,Football Stadium,1,64.720,BURAK,Turkey,SingularitumV5,2021/05/03
-DEP Open Series 4 Race 5,Football Stadium,4,53.255,BURAK,Turkey,SingularitumV5,2021/04/30
-DEP Open Series 4 Race 6,Football Stadium,3,55.519,BURAK,Turkey,SingularitumV5,2021/05/14
-DEP Open Series 4 Race 7,Football Stadium,5,55.556,BURAK,Turkey,SingularitumV5,2021/05/26
+DEP Open Series 4 Race 5,Football Stadium,8,53.255,BURAK,Turkey,SingularitumV5,2021/04/30
+DEP Open Series 4 Race 6,Football Stadium,4,55.519,BURAK,Turkey,SingularitumV5,2021/05/14
+DEP Open Series 4 Race 7,Football Stadium,7,55.556,BURAK,Turkey,SingularitumV5,2021/05/26
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,BURAK,NO_DATA
 DEP Open Series 5 Race 2,Football Stadium,999,999.999,BURAK,NO_DATA
 DEP Open Series 5 Race 3,Football Stadium,999,999.999,BURAK,NO_DATA
@@ -24,82 +24,86 @@ DEP Open Series 5 Race 6,Football Stadium,1,55.195,BURAK,Turkey,CarbiXZero,2022/
 DEP Open Series 5 Race 7,Football Stadium,1,77.854,BURAK,Turkey,CarbiXZero,2021/12/22
 DEP Open Series 6 Race 1,Football Stadium,1,52.598,BURAK,Turkey,CarbiXZero,2022/03/16
 DEP Open Series 6 Race 2,Football Stadium,999,999.999,BURAK,NO_DATA
-DEP Spec Series 1 Race 5,Football Stadium,5,78.510,BURAK,Turkey,SingularitumV5,2020/10/08
+DEP Spec Series 1 Race 5,Football Stadium,7,78.510,BURAK,Turkey,SingularitumV5,2020/10/08
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,BURAK,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,BURAK,NO_DATA
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,5,58.846,BURAK,Turkey,SingularitumV5,2021/03/24
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,87,62.921,BURAK,Turkey,SingularitumV5,2020/10/04
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,11,58.846,BURAK,Turkey,SingularitumV5,2021/03/24
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,91,62.921,BURAK,Turkey,SingularitumV5,2020/10/04
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,BURAK,NO_DATA
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,84,75.369,BURAK,Turkey,SingularitumV5,2020/05/12
-RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,39,70.177,BURAK,Turkey,SingularitumV5,2020/05/18
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,158,137.972,BURAK,Turkey,TBSSpec,2020/11/12
-RCTech_de EU Spec Series 3 Final,Empty Scene Day,163,96.987,BURAK,Turkey,SingularitumV5,2020/05/19
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,90,75.369,BURAK,Turkey,SingularitumV5,2020/05/12
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,41,70.177,BURAK,Turkey,SingularitumV5,2020/05/18
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,170,137.972,BURAK,Turkey,TBSSpec,2020/11/12
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,175,96.987,BURAK,Turkey,SingularitumV5,2020/05/19
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999,999.999,BURAK,NO_DATA
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,BURAK,NO_DATA
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,54,84.814,BURAK,Turkey,SingularitumV5,2020/05/17
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,58,103.161,BURAK,Turkey,SingularitumV5,2020/05/19
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,62,84.814,BURAK,Turkey,SingularitumV5,2020/05/17
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,63,103.161,BURAK,Turkey,SingularitumV5,2020/05/19
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,BURAK,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,57,60.301,BURAK,Turkey,SingularitumV5,2020/10/22
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,6,68.685,BURAK,Turkey,TBSSpec,2022/02/18
-TBS EU Spec Series 10 Losers Final,Football Stadium,20,50.998,BURAK,Turkey,TBSSpec,2022/02/16
+TBS EU Spec Season 5 Race 1,Football Stadium,64,60.301,BURAK,Turkey,SingularitumV5,2020/10/22
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,7,68.685,BURAK,Turkey,TBSSpec,2022/02/18
+TBS EU Spec Series 10 Losers Final,Football Stadium,23,50.998,BURAK,Turkey,TBSSpec,2022/02/16
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,999,999.999,BURAK,NO_DATA
-TBS EU Spec Series 10 Race 4,Dynamic Weather,5,57.049,BURAK,Turkey,TBSSpec,2022/01/06
+TBS EU Spec Series 10 Race 4,Dynamic Weather,6,57.049,BURAK,Turkey,TBSSpec,2022/01/06
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,14,51.570,BURAK,Turkey,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,BURAK,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,10,63.916,BURAK,Turkey,TBSSpec,2022/02/03
+TBS EU Spec Series 10 Race 7,Football Stadium,11,63.916,BURAK,Turkey,TBSSpec,2022/02/03
+TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,8,54.732,BURAK,Turkey,TBSSpec,2022/05/26
 TBS EU Spec Series 11 Race 2,Countryside,2,51.546,BURAK,Turkey,TBSSpec,2022/06/23
 TBS EU Spec Series 11 Race 3,Dynamic Weather,1,53.990,BURAK,Turkey,TBSSpec,2022/06/18
-TBS EU Spec Series 11 Race 5,Dynamic Weather,14,66.852,BURAK,Turkey,TBSSpec,2022/06/23
+TBS EU Spec Series 11 Race 5,Dynamic Weather,22,66.852,BURAK,Turkey,TBSSpec,2022/06/23
+TBS EU Spec Series 11 Race 5,NEC Birmingham,5,50.294,BURAK,Turkey,TBSSpec,2022/07/07
+TBS EU Spec Series 11 Race 6,Dynamic Weather,999,999.999,BURAK,NO_DATA
+TBS EU Spec Series 11 Race 7,Dynamic Weather,11,61.869,BURAK,Turkey,TBSSpec,2022/07/28
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,BURAK,NO_DATA
-TBS EU Spec Series 4 Race 2,Empty Scene Day,30,63.301,BURAK,Turkey,TBSSpec,2021/03/26
-TBS EU Spec Series 4 Race 3,IndoorGoKart,76,113.646,BURAK,Turkey,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 2,Empty Scene Day,31,63.301,BURAK,Turkey,TBSSpec,2021/03/26
+TBS EU Spec Series 4 Race 3,IndoorGoKart,77,113.646,BURAK,Turkey,TBSSpec,2020/05/21
 TBS EU Spec Series 4 Race 4,Empty Scene Day,71,84.072,BURAK,Turkey,SingularitumV5,2020/05/29
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,BURAK,NO_DATA
-TBS EU Spec Series 4 Race 7,Football Stadium,56,72.687,BURAK,Turkey,TBSSpec,2021/01/28
-TBS EU Spec Series 5 FINAL,Dynamic Weather,45,81.363,BURAK,Turkey,SingularitumV5,2020/09/13
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,14,70.409,BURAK,Turkey,TBSSpec,2021/04/13
+TBS EU Spec Series 4 Race 7,Football Stadium,59,72.687,BURAK,Turkey,TBSSpec,2021/01/28
+TBS EU Spec Series 5 FINAL,Dynamic Weather,47,81.363,BURAK,Turkey,SingularitumV5,2020/09/13
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,15,70.409,BURAK,Turkey,TBSSpec,2021/04/13
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,BURAK,NO_DATA
-TBS EU Spec Series 5 Race 6,Dynamic Weather,140,84.759,BURAK,Turkey,TBSSpec,2020/10/29
-TBS EU Spec Series 5 Race 7,IndoorGoKart,13,68.399,BURAK,Turkey,SingularitumV5,2020/10/05
-TBS EU Spec Series 6 Final,Empty Scene Day,22,77.697,BURAK,Turkey,TBSSpec,2021/06/29
-TBS EU Spec Series 6 Losers Final,Football Stadium,31,69.960,BURAK,Turkey,TBSSpec,2020/12/03
+TBS EU Spec Series 5 Race 6,Dynamic Weather,144,84.759,BURAK,Turkey,TBSSpec,2020/10/29
+TBS EU Spec Series 5 Race 7,IndoorGoKart,14,68.399,BURAK,Turkey,SingularitumV5,2020/10/05
+TBS EU Spec Series 6 Final,Empty Scene Day,23,77.697,BURAK,Turkey,TBSSpec,2021/06/29
+TBS EU Spec Series 6 Losers Final,Football Stadium,34,69.960,BURAK,Turkey,TBSSpec,2020/12/03
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,3,58.226,BURAK,Turkey,SingularitumV5,2020/10/05
-TBS EU Spec Series 6 Race 2,Empty Scene Day,40,69.871,BURAK,Turkey,SingularitumV5,2020/10/11
+TBS EU Spec Series 6 Race 2,Empty Scene Day,44,69.871,BURAK,Turkey,SingularitumV5,2020/10/11
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,BURAK,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,5,68.851,BURAK,Turkey,TBSSpec,2020/11/05
-TBS EU Spec Series 6 Race 6,Empty Scene Day,14,70.525,BURAK,Turkey,TBSSpec,2020/12/03
-TBS EU Spec Series 6 Race 7,Empty Scene Day,69,58.655,BURAK,Turkey,TBSSpec,2021/01/06
-TBS EU Spec Series 7 Final,Empty Scene Day,38,69.753,BURAK,Turkey,TBSSpec,2021/06/29
-TBS EU Spec Series 7 Race 1,Football Stadium,47,69.130,BURAK,Turkey,TBSSpec,2021/01/07
+TBS EU Spec Series 6 Race 6,Empty Scene Day,19,70.525,BURAK,Turkey,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Race 7,Empty Scene Day,71,58.655,BURAK,Turkey,TBSSpec,2021/01/06
+TBS EU Spec Series 7 Final,Empty Scene Day,42,69.753,BURAK,Turkey,TBSSpec,2021/06/29
+TBS EU Spec Series 7 Race 1,Football Stadium,48,69.130,BURAK,Turkey,TBSSpec,2021/01/07
 TBS EU Spec Series 7 Race 2,Empty Scene Day,41,68.265,BURAK,Turkey,TBSSpec,2021/01/14
 TBS EU Spec Series 7 Race 3,Empty Scene Day,43,71.580,BURAK,Turkey,TBSSpec,2021/01/21
-TBS EU Spec Series 7 Race 4,Empty Scene Day,43,68.573,BURAK,Turkey,TBSSpec,2021/01/28
-TBS EU Spec Series 7 Race 5,IndoorGoKart,32,70.120,BURAK,Turkey,TBSSpec,2021/02/05
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,19,65.044,BURAK,Turkey,TBSSpec,2021/02/14
-TBS EU Spec Series 7 Race 7,Empty Scene Day,27,70.720,BURAK,Turkey,TBSSpec,2021/02/18
-TBS EU Spec Series 8 Final,Dynamic Weather,18,70.076,BURAK,Turkey,TBSSpec,2021/07/01
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,37,57.927,BURAK,Turkey,TBSSpec,2021/06/24
-TBS EU Spec Series 8 Race 1,Dynamic Weather,31,73.146,BURAK,Turkey,TBSSpec,2021/03/18
-TBS EU Spec Series 8 Race 2,Empty Scene Night,12,67.890,BURAK,Turkey,TBSSpec,2021/04/05
-TBS EU Spec Series 8 Race 3,Football Stadium,20,57.119,BURAK,Turkey,TBSSpec,2021/04/22
+TBS EU Spec Series 7 Race 4,Empty Scene Day,50,68.573,BURAK,Turkey,TBSSpec,2021/01/28
+TBS EU Spec Series 7 Race 5,IndoorGoKart,33,70.120,BURAK,Turkey,TBSSpec,2021/02/05
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,21,65.044,BURAK,Turkey,TBSSpec,2021/02/14
+TBS EU Spec Series 7 Race 7,Empty Scene Day,30,70.720,BURAK,Turkey,TBSSpec,2021/02/18
+TBS EU Spec Series 8 Final,Dynamic Weather,20,70.076,BURAK,Turkey,TBSSpec,2021/07/01
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,40,57.927,BURAK,Turkey,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Race 1,Dynamic Weather,32,73.146,BURAK,Turkey,TBSSpec,2021/03/18
+TBS EU Spec Series 8 Race 2,Empty Scene Night,13,67.890,BURAK,Turkey,TBSSpec,2021/04/05
+TBS EU Spec Series 8 Race 3,Football Stadium,21,57.119,BURAK,Turkey,TBSSpec,2021/04/22
 TBS EU Spec Series 8 Race 4,Empty Scene Day,19,69.118,BURAK,Turkey,TBSSpec,2021/07/01
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,20,52.605,BURAK,Turkey,TBSSpec,2021/06/30
 TBS EU Spec Series 8 Race 6,Football Stadium,2,54.689,BURAK,Turkey,TBSSpec,2022/01/20
 TBS EU Spec Series 8 Race 7,Empty Scene Day,2,56.300,BURAK,Turkey,CarbiXZero,2022/02/11
-TBS EU Spec Series 9 Final,Dynamic Weather,31,61.142,BURAK,Turkey,TBSSpec,2021/11/11
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,23,61.210,BURAK,Turkey,TBSSpec,2021/11/09
-TBS EU Spec Series 9 Race 1,Football Stadium,19,53.604,BURAK,Turkey,TBSSpec,2021/09/09
-TBS EU Spec Series 9 Race 2,Dynamic Weather,25,53.401,BURAK,Turkey,TBSSpec,2021/09/16
-TBS EU Spec Series 9 Race 3,Empty Scene Day,19,56.314,BURAK,Turkey,TBSSpec,2021/09/30
+TBS EU Spec Series 9 Final,Dynamic Weather,32,61.142,BURAK,Turkey,TBSSpec,2021/11/11
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,25,61.210,BURAK,Turkey,TBSSpec,2021/11/09
+TBS EU Spec Series 9 Race 1,Football Stadium,23,53.604,BURAK,Turkey,TBSSpec,2021/09/09
+TBS EU Spec Series 9 Race 2,Dynamic Weather,29,53.401,BURAK,Turkey,TBSSpec,2021/09/16
+TBS EU Spec Series 9 Race 3,Empty Scene Day,20,56.314,BURAK,Turkey,TBSSpec,2021/09/30
 TBS EU Spec Series 9 Race 4,Football Stadium,12,60.849,BURAK,Turkey,TBSSpec,2021/10/02
 TBS EU Spec Series 9 Race 5,Empty Scene Day,3,53.202,BURAK,Turkey,CarbiXZero,2021/10/10
-TBS EU Spec Series 9 Race 6,Empty Scene Day,11,60.996,BURAK,Turkey,TBSSpec,2021/10/21
-TBS EU Spec Series 9 Race 7,NEC Birmingham,5,55.330,BURAK,Turkey,TBSSpec,2021/11/10
+TBS EU Spec Series 9 Race 6,Empty Scene Day,12,60.996,BURAK,Turkey,TBSSpec,2021/10/21
+TBS EU Spec Series 9 Race 7,NEC Birmingham,6,55.330,BURAK,Turkey,TBSSpec,2021/11/10
 VRL 7 Race 4,Dynamic Weather,1,77.119,BURAK,Turkey,CarbiXZero,2021/11/20
 VRL 7 Track 1,Future Hangar,29,94.460,BURAK,Turkey,SingularitumV5,2020/10/27
 VRL 7 Track 2,Future Hangar Empty,23,91.404,BURAK,Turkey,SingularitumV5,2020/11/02

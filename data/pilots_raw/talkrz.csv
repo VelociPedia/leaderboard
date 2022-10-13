@@ -7,18 +7,18 @@ DEP Open Pop-Up 2,Dynamic Weather,89.609,talkrz,Unknown,Five33Switchback,2021/09
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,talkrz,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999.999,talkrz,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999.999,talkrz,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,121.817,talkrz,Unknown,Five33Switchback,2021/05/23
+DEP Open Series 3 Race 2,Football Stadium,999.999,talkrz,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,999.999,talkrz,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,999.999,talkrz,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,101.719,talkrz,Unknown,TBSSpec,2021/11/22
 DEP Open Series 3 Race 6,Football Stadium,110.163,talkrz,Unknown,CarbiXZero,2022/03/10
 DEP Open Series 3 Race 7,Football Stadium,999.999,talkrz,NO_DATA
-DEP Open Series 4 Race 1,Football Stadium,102.976,talkrz,Unknown,CarbiXZero,2022/03/08
+DEP Open Series 4 Race 1,Football Stadium,93.671,talkrz,Unknown,TBSSpec,2022/09/01
 DEP Open Series 4 Race 2,Football Stadium,139.598,talkrz,Unknown,Five33Switchback,2021/06/15
 DEP Open Series 4 Race 3,Football Stadium,999.999,talkrz,NO_DATA
 DEP Open Series 4 Race 4,Football Stadium,121.827,talkrz,Unknown,Five33Switchback,2021/05/08
 DEP Open Series 4 Race 5,Football Stadium,72.947,talkrz,Unknown,CarbiXZero,2022/03/08
-DEP Open Series 4 Race 6,Football Stadium,78.147,talkrz,Unknown,Five33Switchback,2022/06/07
+DEP Open Series 4 Race 6,Football Stadium,75.920,talkrz,Unknown,TBSSpec,2022/08/31
 DEP Open Series 4 Race 7,Football Stadium,86.277,talkrz,Unknown,TBSSpec,2021/11/22
 DEP Open Series 5 Race 1,Football Stadium,79.291,talkrz,Unknown,Five33Switchback,2021/10/25
 DEP Open Series 5 Race 2,Football Stadium,104.312,talkrz,Unknown,TBSSpec,2021/10/31
@@ -57,6 +57,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,78.196,talkrz,Unknown,TBSSpec,2022/
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,86.339,talkrz,Unknown,TBSSpec,2022/06/29
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,talkrz,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,talkrz,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,89.672,talkrz,Unknown,TBSSpec,2022/08/31
+TBS EU Spec Series 11 Race 1,Dynamic Weather,70.734,talkrz,Unknown,TBSSpec,2022/06/04
+TBS EU Spec Series 11 Race 2,Countryside,999.999,talkrz,NO_DATA
+TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,talkrz,NO_DATA
+TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,talkrz,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,72.050,talkrz,Unknown,TBSSpec,2022/07/11
+TBS EU Spec Series 11 Race 6,Dynamic Weather,78.741,talkrz,Unknown,TBSSpec,2022/07/17
+TBS EU Spec Series 11 Race 7,Dynamic Weather,86.391,talkrz,Unknown,TBSSpec,2022/07/31
 TBS EU Spec Series 9 Final,Dynamic Weather,81.737,talkrz,Unknown,TBSSpec,2021/11/22
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,83.157,talkrz,Unknown,Five33Switchback,2021/11/10
 TBS EU Spec Series 9 Race 1,Football Stadium,77.696,talkrz,Unknown,Five33Switchback,2021/09/12

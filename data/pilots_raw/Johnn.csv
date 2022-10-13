@@ -24,7 +24,7 @@ DEP Open Series 5 Race 6,Football Stadium,999.999,Johnn,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999.999,Johnn,NO_DATA
 DEP Open Series 6 Race 1,Football Stadium,999.999,Johnn,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,999.999,Johnn,NO_DATA
-DEP Spec Series 1 Race 5,Football Stadium,124.903,Johnn,Denmark,Five33Switchback,2020/10/10
+DEP Spec Series 1 Race 5,Football Stadium,999.999,Johnn,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,Johnn,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,80.382,Johnn,Denmark,Five33Switchback,2020/12/14
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,Johnn,NO_DATA
@@ -49,10 +49,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,69.215,Johnn,Denmark,TBSSpec,2022/0
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,70.141,Johnn,Denmark,TBSSpec,2022/05/07
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,Johnn,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,Johnn,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,87.302,Johnn,Denmark,TBSSpec,2022/08/20
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,Johnn,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,999.999,Johnn,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,82.666,Johnn,Denmark,TBSSpec,2022/06/26
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,Johnn,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,63.000,Johnn,Denmark,TBSSpec,2022/07/16
+TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,Johnn,NO_DATA
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,Johnn,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,Johnn,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,76.118,Johnn,Denmark,TBSSpec,2021/08/02
 TBS EU Spec Series 4 Race 3,IndoorGoKart,121.363,Johnn,Denmark,Five33Switchback,2020/12/22

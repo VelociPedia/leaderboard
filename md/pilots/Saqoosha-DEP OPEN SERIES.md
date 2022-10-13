@@ -1,41 +1,41 @@
 ### Best 2 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|35|DEP Open Series 6 Race 2|Football Stadium|TBSSpec|2022/03/17|
-|37|DEP Open Series 6 Race 1|Football Stadium|TBSSpec|2022/03/04|
+|39|DEP Open Series 6 Race 2|Football Stadium|TBSSpec|2022/03/17|
+|42|DEP Open Series 6 Race 1|Football Stadium|TBSSpec|2022/03/04|
 ---
 ### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|119|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/25|
-|113|DEP Open Series 3 Race 6|Football Stadium|Ossa|2021/03/13|
-|103|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/24|
-|83|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/30|
+|123|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/25|
+|122|DEP Open Series 3 Race 6|Football Stadium|Ossa|2021/03/13|
+|111|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/24|
+|88|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/30|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|69|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/10/27|
-|44|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/18|
+|74|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/10/27|
+|48|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/18|
 ---
 ### 15 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|44|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/18|
-|83|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/30|
-|70|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/03|
-|62|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
-|103|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/24|
-|81|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/14|
-|67|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/06/04|
-|76|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/29|
-|46|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/02|
-|80|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/25|
-|119|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/25|
-|46|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/16|
-|37|DEP Open Series 6 Race 1|Football Stadium|TBSSpec|2022/03/04|
-|35|DEP Open Series 6 Race 2|Football Stadium|TBSSpec|2022/03/17|
-|69|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/10/27|
+|48|DEP Open Series 3 Race 3|Karting Track|TBSSpec|2021/02/18|
+|88|DEP Open Series 3 Race 7|Football Stadium|TBSSpec|2021/03/30|
+|76|DEP Open Series 4 Race 1|Football Stadium|TBSSpec|2021/04/03|
+|69|DEP Open Series 4 Race 2|Football Stadium|TBSSpec|2021/04/08|
+|111|DEP Open Series 4 Race 3|Football Stadium|TBSSpec|2021/04/24|
+|85|DEP Open Series 4 Race 6|Football Stadium|TBSSpec|2021/05/14|
+|73|DEP Open Series 4 Race 7|Football Stadium|TBSSpec|2021/06/04|
+|87|DEP Open Series 5 Race 1|Football Stadium|TBSSpec|2021/10/29|
+|48|DEP Open Series 5 Race 2|Football Stadium|TBSSpec|2021/11/02|
+|83|DEP Open Series 5 Race 3|Football Stadium|TBSSpec|2021/11/25|
+|123|DEP Open Series 5 Race 4|Football Stadium|TBSSpec|2021/11/25|
+|52|DEP Open Series 5 Race 6|Football Stadium|TBSSpec|2021/12/16|
+|42|DEP Open Series 6 Race 1|Football Stadium|TBSSpec|2022/03/04|
+|39|DEP Open Series 6 Race 2|Football Stadium|TBSSpec|2022/03/17|
+|74|DEP Spec Series 1 Race 5|Football Stadium|TBSSpec|2020/10/27|
 ---
 ### 10 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|

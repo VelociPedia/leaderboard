@@ -6,7 +6,7 @@
 ### Worse 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|152|Mayhem 22 by SFPV|Empty Scene Day|Five33Switchback|2022/04/06|
+|176|2022 MultiGP IO Intermediate|Dynamic Weather|Five33Switchback|2022/05/28|
 ---
 ### Oldest 0 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -18,9 +18,10 @@
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 3 tracks without data (200+ or not in leaderboard)
+### 4 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |MultiGP 2022 Global Qualifier|Dynamic Weather|
 |2022 MultiGP IO World Cup|Dynamic Weather|
 |2022 MultiGP Canadian Series by DCH FPV|Countryside|
+|2022 Freedom Spec Champioship|Dynamic Weather|

@@ -2,12 +2,15 @@
 2020 MultiGP Champs presented by RDQ,Football Stadium,999.999,ibor24,NO_DATA
 2021 MultiGP Champs Track 1,Empty Scene Day,999.999,ibor24,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,ibor24,NO_DATA
+2022 Freedom Spec Champioship,Dynamic Weather,999.999,ibor24,NO_DATA
+2022 MultiGP Canadian Series by DCH FPV,Countryside,48.578,ibor24,Switzerland,TwigXL3,2022/07/02
 2022 MultiGP IO Freedom Spec,Dynamic Weather,130.309,ibor24,Switzerland,TwigXL3,2022/05/27
 2022 MultiGP IO Intermediate,Dynamic Weather,999.999,ibor24,NO_DATA
 2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,29.712,ibor24,Switzerland,CarbiXZero,2022/06/03
 2022 MultiGP IO Micro,Countryside,999.999,ibor24,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,78.131,ibor24,Switzerland,TwigXL3,2022/05/26
 2022 MultiGP IO World Cup,Dynamic Weather,999.999,ibor24,NO_DATA
+BDRA Championships 2022,Countryside,57.377,ibor24,Switzerland,TBSSpec,2022/10/12
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,66.613,ibor24,Switzerland,TwigXL3,2021/12/01
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,77.658,ibor24,Switzerland,TwigXL3,2022/01/01
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,87.381,ibor24,Switzerland,TwigXL3,2022/02/01
@@ -54,7 +57,7 @@ MGP2018IORookie,Empty Scene Day,15.630,ibor24,Switzerland,Five33Switchback,2021/
 MGP2018IOTeam,Empty Scene Day,62.365,ibor24,Switzerland,Five33Switchback,2021/04/21
 MGP2018IOWorldCup,Empty Scene Day,92.098,ibor24,Switzerland,TBSSpec,2021/07/22
 MGP Ice Rink Race 2022,Empty Scene Day,70.461,ibor24,Switzerland,TwigXL3,2022/05/03
-MGP UTT Remix,Empty Scene Day,999.999,ibor24,NO_DATA
+MGP UTT Remix,Empty Scene Day,375.239,ibor24,Switzerland,Five33Switchback,2022/07/24
 MultiGP 2016 RF,Football Stadium,46.927,ibor24,Switzerland,TwigXL3,2021/09/05
 MultiGP 2017 RF,Football Stadium,64.500,ibor24,Switzerland,Five33Switchback,2021/05/15
 MultiGP 2018 RF,Empty Scene Day,121.416,ibor24,Switzerland,TinyHawk,2020/12/26
@@ -64,7 +67,7 @@ MultiGP_2019_Qualifier_Spec,Empty Scene Day,54.240,ibor24,Switzerland,TinyHawk,2
 MultiGP 2019 Sport Championships,Football Stadium,72.958,ibor24,Switzerland,TBSSpec,2021/12/17
 MultiGP 2020 Global Qualifier,Empty Scene Day,999.999,ibor24,NO_DATA
 MultiGP 2021 Global Qualifier,Football Stadium,999.999,ibor24,NO_DATA
-MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,ibor24,NO_DATA
+MultiGP 2022 Global Qualifier,Dynamic Weather,36.118,ibor24,Switzerland,DiatoneGTB339,2022/09/30
 MultiGP Bessel Run,Football Stadium,22.877,ibor24,Switzerland,TwigXL3,2021/09/05
 MultiGP-Championships-2019,Empty Scene Day,78.159,ibor24,Switzerland,TBSSpec,2021/07/24
 MultiGP High Voltage,Football Stadium,23.865,ibor24,Switzerland,Five33Switchback,2021/09/05
@@ -126,10 +129,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,84.124,ibor24,Switzerland,TBSSpec,2
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,68.768,ibor24,Switzerland,TBSSpec,2022/03/22
 TBS EU Spec Series 10 Race 6,Large Carpark,48.552,ibor24,Switzerland,TinyHawk,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,89.191,ibor24,Switzerland,TBSSpec,2022/02/13
+TBS EU Spec Series 11 Final,Dynamic Weather,94.971,ibor24,Switzerland,TBSSpec,2022/08/19
 TBS EU Spec Series 11 Race 1,Dynamic Weather,79.901,ibor24,Switzerland,TwigXL3,2022/06/03
 TBS EU Spec Series 11 Race 2,Countryside,80.405,ibor24,Switzerland,TwigXL3,2022/06/13
 TBS EU Spec Series 11 Race 3,Dynamic Weather,89.147,ibor24,Switzerland,TBSSpec,2022/06/20
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,ibor24,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,73.721,ibor24,Switzerland,TBSSpec,2022/07/08
+TBS EU Spec Series 11 Race 6,Dynamic Weather,99.224,ibor24,Switzerland,TBSSpec,2022/07/22
+TBS EU Spec Series 11 Race 7,Dynamic Weather,85.763,ibor24,Switzerland,TBSSpec,2022/07/29
 TBS EU Spec Series 4 FINAL,Dynamic Weather,108.177,ibor24,Switzerland,TBSSpec,2021/12/04
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,ibor24,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,ibor24,NO_DATA
@@ -140,12 +147,12 @@ TBS EU Spec Series 5 FINAL,Dynamic Weather,109.379,ibor24,Switzerland,Five33Swit
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,99.384,ibor24,Switzerland,Five33Switchback,2021/09/12
 TBS EU Spec Series 5 Race 3,Dynamic Weather,94.235,ibor24,Switzerland,Five33Switchback,2021/09/12
 TBS EU Spec Series 5 Race 4,Football Stadium,999.999,ibor24,NO_DATA
-TBS EU Spec Series 5 Race 5,NEC Birmingham,999.999,ibor24,NO_DATA
+TBS EU Spec Series 5 Race 5,NEC Birmingham,82.960,ibor24,Switzerland,TwigXL3,2022/07/09
 TBS EU Spec Series 5 Race 6,Dynamic Weather,86.922,ibor24,Switzerland,Five33Switchback,2021/09/12
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Final,Empty Scene Day,96.874,ibor24,Switzerland,TBSSpec,2021/12/05
 TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,ibor24,NO_DATA
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,ibor24,NO_DATA
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,80.584,ibor24,Switzerland,Five33Switchback,2022/08/30
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999.999,ibor24,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,109.268,ibor24,Switzerland,TBSSpec,2021/12/06

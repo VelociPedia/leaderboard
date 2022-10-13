@@ -1,11 +1,11 @@
 DEP Open Pop-Up 2,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,104.576,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/03/28
-DEP Open Series 3 Race 1,Football Stadium,999.999,AlexeyStn_Overpass,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,71.063,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2021/10/24
+DEP Open Series 3 Race 1,Football Stadium,57.059,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2022/07/07
+DEP Open Series 3 Race 2,Football Stadium,71.019,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2022/07/22
 DEP Open Series 3 Race 3,Karting Track,999.999,AlexeyStn_Overpass,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,57.466,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2021/10/10
-DEP Open Series 3 Race 5,Football Stadium,95.404,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/04/22
+DEP Open Series 3 Race 5,Football Stadium,77.414,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2022/07/06
 DEP Open Series 3 Race 6,Football Stadium,90.433,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2022/05/07
 DEP Open Series 3 Race 7,Football Stadium,92.318,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2022/01/01
 DEP Open Series 4 Race 1,Football Stadium,999.999,AlexeyStn_Overpass,NO_DATA
@@ -49,10 +49,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,66.416,AlexeyStn_Overpass,RussianFe
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,43.035,AlexeyStn_Overpass,RussianFederation,TBSSpec,2022/01/27
 TBS EU Spec Series 10 Race 7,Football Stadium,64.086,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2022/03/06
+TBS EU Spec Series 11 Final,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,80.967,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/01/25
 TBS EU Spec Series 4 Race 2,Empty Scene Day,74.098,AlexeyStn_Overpass,RussianFederation,TBSSpec,2020/05/14
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,AlexeyStn_Overpass,NO_DATA
@@ -72,7 +76,7 @@ TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,AlexeyStn_Overpass,NO_DA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,69.819,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/11/18
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 6 Race 5,Dynamic Weather,88.876,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/01/10
-TBS EU Spec Series 6 Race 6,Empty Scene Day,79.627,AlexeyStn_Overpass,RussianFederation,TBSSpec,2020/11/12
+TBS EU Spec Series 6 Race 6,Empty Scene Day,68.811,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2022/07/05
 TBS EU Spec Series 6 Race 7,Empty Scene Day,58.062,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/08/01
 TBS EU Spec Series 7 Final,Empty Scene Day,76.593,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/07/20
 TBS EU Spec Series 7 Race 1,Football Stadium,73.424,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/06/29

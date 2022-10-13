@@ -2,13 +2,15 @@
 2020 MultiGP Champs presented by RDQ,Football Stadium,69.631,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/13
 2021 MultiGP Champs Track 1,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
+2022 Freedom Spec Champioship,Dynamic Weather,999.999,FlossIsBoss,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,50.799,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/10
-2022 MultiGP IO Freedom Spec,Dynamic Weather,99.340,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/31
-2022 MultiGP IO Intermediate,Dynamic Weather,60.714,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/27
+2022 MultiGP IO Freedom Spec,Dynamic Weather,97.023,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/07
+2022 MultiGP IO Intermediate,Dynamic Weather,59.793,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/08
 2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,FlossIsBoss,NO_DATA
 2022 MultiGP IO Micro,Countryside,79.281,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/29
 2022 MultiGP IO Team,Dynamic Weather,68.725,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/28
 2022 MultiGP IO World Cup,Dynamic Weather,74.712,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/31
+BDRA Championships 2022,Countryside,65.756,FlossIsBoss,UnitedKingdom,TBSSpec,2022/10/13
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,77.656,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/17
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,109.670,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/17
@@ -32,7 +34,7 @@ MGP2018IOIntermediate,Empty Scene Day,48.172,FlossIsBoss,UnitedKingdom,AttoFPVPh
 MGP2018IORookie,Empty Scene Day,19.840,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/08
 MGP2018IOTeam,Empty Scene Day,57.682,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/08
 MGP2018IOWorldCup,Empty Scene Day,94.869,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/08
-MGP Ice Rink Race 2022,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
+MGP Ice Rink Race 2022,Empty Scene Day,69.853,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/23
 MGP UTT Remix,Empty Scene Day,310.691,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/26
 MultiGP 2016 RF,Football Stadium,49.883,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/24
 MultiGP 2017 RF,Football Stadium,60.547,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/24
@@ -40,10 +42,10 @@ MultiGP 2018 RF,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 MultiGP 2018 RQ,Football Stadium,53.132,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/29
 MultiGP_2019_Qualifier_Large,Dynamic Weather,47.336,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/14
 MultiGP_2019_Qualifier_Spec,Empty Scene Day,46.677,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/14
-MultiGP 2019 Sport Championships,Football Stadium,63.883,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/22
+MultiGP 2019 Sport Championships,Football Stadium,62.120,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/29
 MultiGP 2020 Global Qualifier,Empty Scene Day,41.527,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/12
 MultiGP 2021 Global Qualifier,Football Stadium,39.524,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/12
-MultiGP 2022 Global Qualifier,Dynamic Weather,34.988,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/12
+MultiGP 2022 Global Qualifier,Dynamic Weather,34.469,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/15
 MultiGP Bessel Run,Football Stadium,24.653,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/30
 MultiGP-Championships-2019,Empty Scene Day,69.029,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/14
 MultiGP High Voltage,Football Stadium,27.086,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/30
@@ -88,6 +90,14 @@ RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,114.368,FlossIsBoss,UnitedKing
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,81.933,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2021/11/26
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,80.110,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/16
+TBS EU Spec Series 11 Final,Dynamic Weather,96.165,FlossIsBoss,UnitedKingdom,TBSSpec,2022/08/23
+TBS EU Spec Series 11 Race 1,Dynamic Weather,78.951,FlossIsBoss,UnitedKingdom,TBSSpec,2022/05/29
+TBS EU Spec Series 11 Race 2,Countryside,92.560,FlossIsBoss,UnitedKingdom,TBSSpec,2022/06/13
+TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,FlossIsBoss,NO_DATA
+TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,FlossIsBoss,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,66.345,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/11
+TBS EU Spec Series 11 Race 6,Dynamic Weather,72.377,FlossIsBoss,UnitedKingdom,TBSSpec,2022/07/18
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,FlossIsBoss,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 VRL Season 3 Track 2,Empty Scene Day,999.999,FlossIsBoss,NO_DATA
 VRL Season 3 Track 3,Empty Scene Day,107.873,FlossIsBoss,UnitedKingdom,AttoFPVPhoton,2022/03/14

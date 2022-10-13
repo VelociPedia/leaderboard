@@ -2,6 +2,11 @@
 2020 MultiGP Champs presented by RDQ,Football Stadium,999.999,MoFPV!,NO_DATA
 2021 MultiGP Champs Track 1,Empty Scene Day,999.999,MoFPV!,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,MoFPV!,NO_DATA
+2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,MoFPV!,NO_DATA
+2022 MultiGP IO Intermediate,Dynamic Weather,999.999,MoFPV!,NO_DATA
+2022 MultiGP IO Team,Dynamic Weather,999.999,MoFPV!,NO_DATA
+2022 MultiGP IO World Cup,Dynamic Weather,999.999,MoFPV!,NO_DATA
+BDRA Championships 2022,Countryside,999.999,MoFPV!,NO_DATA
 DEP Open Pop-Up 2,Dynamic Weather,106.594,MoFPV!,UnitedStates,Five33Switchback,2022/01/23
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,MoFPV!,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,137.503,MoFPV!,UnitedStates,CarbiXZero,2022/02/28
@@ -34,6 +39,8 @@ MGP2018IOIntermediate,Empty Scene Day,42.125,MoFPV!,UnitedStates,CarbiXZero,2022
 MGP2018IORookie,Empty Scene Day,23.265,MoFPV!,UnitedStates,Five33Switchback,2022/02/10
 MGP2018IOTeam,Empty Scene Day,74.384,MoFPV!,UnitedStates,Five33Switchback,2022/01/08
 MGP2018IOWorldCup,Empty Scene Day,107.969,MoFPV!,UnitedStates,CarbiXZero,2022/03/03
+MGP Ice Rink Race 2022,Empty Scene Day,999.999,MoFPV!,NO_DATA
+MGP UTT Remix,Empty Scene Day,999.999,MoFPV!,NO_DATA
 MultiGP 2016 RF,Football Stadium,56.219,MoFPV!,UnitedStates,CarbiXZero,2022/03/04
 MultiGP 2017 RF,Football Stadium,80.594,MoFPV!,UnitedStates,CarbiXZero,2022/03/04
 MultiGP 2018 RF,Empty Scene Day,133.563,MoFPV!,UnitedStates,CarbiXZero,2022/03/04
@@ -43,6 +50,7 @@ MultiGP_2019_Qualifier_Spec,Empty Scene Day,76.668,MoFPV!,UnitedStates,Five33Swi
 MultiGP 2019 Sport Championships,Football Stadium,999.999,MoFPV!,NO_DATA
 MultiGP 2020 Global Qualifier,Empty Scene Day,999.999,MoFPV!,NO_DATA
 MultiGP 2021 Global Qualifier,Football Stadium,999.999,MoFPV!,NO_DATA
+MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,MoFPV!,NO_DATA
 MultiGP Bessel Run,Football Stadium,28.875,MoFPV!,UnitedStates,CarbiXZero,2022/03/04
 MultiGP-Championships-2019,Empty Scene Day,100.031,MoFPV!,UnitedStates,CarbiXZero,2022/03/04
 MultiGP High Voltage,Football Stadium,36.703,MoFPV!,UnitedStates,Five33Switchback,2021/11/20
@@ -109,7 +117,7 @@ TBS EU Spec Series 9 Final,Dynamic Weather,84.784,MoFPV!,UnitedStates,CarbiXZero
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,91.072,MoFPV!,UnitedStates,CarbiXZero,2022/04/04
 TBS EU Spec Series 9 Race 1,Football Stadium,999.999,MoFPV!,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999.999,MoFPV!,NO_DATA
-TBS EU Spec Series 9 Race 3,Empty Scene Day,88.185,MoFPV!,UnitedStates,CarbiXZero,2022/04/06
+TBS EU Spec Series 9 Race 3,Empty Scene Day,999.999,MoFPV!,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,100.928,MoFPV!,UnitedStates,CarbiXZero,2022/04/06
 TBS EU Spec Series 9 Race 5,Empty Scene Day,88.739,MoFPV!,UnitedStates,CarbiXZero,2022/04/06
 TBS EU Spec Series 9 Race 6,Empty Scene Day,93.552,MoFPV!,UnitedStates,CarbiXZero,2022/04/06

@@ -1,14 +1,15 @@
-2020 Canadian MultiGP Series,Football Stadium,64.752,stogie,UnitedStates,Five33Switchback,2020/07/25
+2020 Canadian MultiGP Series,Football Stadium,999.999,stogie,NO_DATA
 2020 MultiGP Champs presented by RDQ,Football Stadium,999.999,stogie,NO_DATA
 2021 MultiGP Champs Track 1,Empty Scene Day,111.055,stogie,UnitedStates,Five33Switchback,2021/10/28
 2021 MultiGP Champs Track 2,Empty Scene Day,65.100,stogie,UnitedStates,Five33Switchback,2021/10/29
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999.999,stogie,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,stogie,NO_DATA
-2022 MultiGP IO Intermediate,Dynamic Weather,65.950,stogie,UnitedStates,Five33Switchback,2022/06/13
+2022 MultiGP IO Intermediate,Dynamic Weather,61.263,stogie,UnitedStates,Five33Switchback,2022/07/09
 2022 MultiGP IO Mega Class by SFPV,Dynamic Weather,999.999,stogie,NO_DATA
 2022 MultiGP IO Micro,Countryside,999.999,stogie,NO_DATA
-2022 MultiGP IO Team,Dynamic Weather,77.272,stogie,UnitedStates,Five33Switchback,2022/06/23
-2022 MultiGP IO World Cup,Dynamic Weather,81.708,stogie,UnitedStates,Five33Switchback,2022/06/05
+2022 MultiGP IO Team,Dynamic Weather,72.497,stogie,UnitedStates,Five33Switchback,2022/07/09
+2022 MultiGP IO World Cup,Dynamic Weather,999.999,stogie,NO_DATA
+BDRA Championships 2022,Countryside,999.999,stogie,NO_DATA
 DF5,Football Stadium,999.999,stogie,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,stogie,NO_DATA
 Mayhem 2021 By YAWESOME,Empty Scene Day,70.458,stogie,UnitedStates,Five33Switchback,2022/04/09
@@ -91,6 +92,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,stogie,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,84.387,stogie,UnitedStates,Five33Switchback,2022/01/21
 TBS EU Spec Series 10 Race 6,Large Carpark,82.702,stogie,UnitedStates,TwigXL3,2022/01/28
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,stogie,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,131.900,stogie,UnitedStates,Five33Switchback,2022/08/31
+TBS EU Spec Series 11 Race 1,Dynamic Weather,87.805,stogie,UnitedStates,Five33Switchback,2022/06/06
+TBS EU Spec Series 11 Race 2,Countryside,999.999,stogie,NO_DATA
+TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,stogie,NO_DATA
+TBS EU Spec Series 11 Race 5,Dynamic Weather,86.680,stogie,UnitedStates,Five33Switchback,2022/06/25
+TBS EU Spec Series 11 Race 5,NEC Birmingham,72.462,stogie,UnitedStates,Five33Switchback,2022/07/14
+TBS EU Spec Series 11 Race 6,Dynamic Weather,115.179,stogie,UnitedStates,Five33Switchback,2022/07/18
+TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,stogie,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,101.759,stogie,UnitedStates,Five33Switchback,2022/02/15
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,stogie,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,stogie,NO_DATA
@@ -121,7 +130,7 @@ TBS EU Spec Series 7 Race 5,IndoorGoKart,88.144,stogie,UnitedStates,Five33Switch
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999.999,stogie,NO_DATA
 TBS EU Spec Series 7 Race 7,Empty Scene Day,98.854,stogie,UnitedStates,Five33Switchback,2021/08/23
 TBS EU Spec Series 8 Final,Dynamic Weather,88.323,stogie,UnitedStates,Five33Switchback,2022/02/13
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,71.271,stogie,UnitedStates,Five33Switchback,2021/08/23
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,68.979,stogie,UnitedStates,Five33Switchback,2022/07/05
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999.999,stogie,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,83.705,stogie,UnitedStates,Five33Switchback,2021/08/23
 TBS EU Spec Series 8 Race 3,Football Stadium,999.999,stogie,NO_DATA

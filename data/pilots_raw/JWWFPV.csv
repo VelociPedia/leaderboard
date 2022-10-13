@@ -1,5 +1,5 @@
 2020 Canadian MultiGP Series,Football Stadium,58.740,JWWFPV,UnitedStates,Mode2Ghost,2021/09/09
-2020 MultiGP Champs presented by RDQ,Football Stadium,80.143,JWWFPV,UnitedStates,Five33Switchback,2021/09/22
+2020 MultiGP Champs presented by RDQ,Football Stadium,999.999,JWWFPV,NO_DATA
 2021 MultiGP Champs Track 1,Empty Scene Day,999.999,JWWFPV,NO_DATA
 2021 MultiGP Champs Track 2,Empty Scene Day,999.999,JWWFPV,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,JWWFPV,NO_DATA
@@ -8,6 +8,7 @@
 2022 MultiGP IO Micro,Countryside,999.999,JWWFPV,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,999.999,JWWFPV,NO_DATA
 2022 MultiGP IO World Cup,Dynamic Weather,999.999,JWWFPV,NO_DATA
+BDRA Championships 2022,Countryside,999.999,JWWFPV,NO_DATA
 DEP Open Pop-Up 2,Dynamic Weather,103.877,JWWFPV,UnitedStates,Five33Switchback,2021/07/05
 DEP Open Series 2 Race 1,Dynamic Weather,999.999,JWWFPV,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,131.129,JWWFPV,UnitedStates,Five33Switchback,2021/07/16
@@ -19,7 +20,7 @@ DEP Open Series 3 Race 5,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 3 Race 7,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 4 Race 1,Football Stadium,999.999,JWWFPV,NO_DATA
-DEP Open Series 4 Race 2,Football Stadium,149.664,JWWFPV,UnitedStates,TBSSpec,2021/04/08
+DEP Open Series 4 Race 2,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,95.371,JWWFPV,UnitedStates,TBSOblivion,2021/08/06
 DEP Open Series 4 Race 4,Football Stadium,125.909,JWWFPV,UnitedStates,Five33Switchback,2021/05/03
 DEP Open Series 4 Race 5,Football Stadium,72.642,JWWFPV,UnitedStates,Five33Switchback,2021/12/22
@@ -29,7 +30,7 @@ DEP Open Series 5 Race 1,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 5 Race 2,Football Stadium,87.148,JWWFPV,UnitedStates,Five33Switchback,2021/11/20
 DEP Open Series 5 Race 3,Football Stadium,104.193,JWWFPV,UnitedStates,Five33Switchback,2021/11/17
 DEP Open Series 5 Race 4,Football Stadium,999.999,JWWFPV,NO_DATA
-DEP Open Series 5 Race 5,Football Stadium,999.999,JWWFPV,NO_DATA
+DEP Open Series 5 Race 5,Football Stadium,103.065,JWWFPV,UnitedStates,Five33Switchback,2022/09/09
 DEP Open Series 5 Race 6,Football Stadium,83.007,JWWFPV,UnitedStates,Five33Switchback,2021/12/22
 DEP Open Series 5 Race 7,Football Stadium,999.999,JWWFPV,NO_DATA
 DEP Open Series 6 Race 1,Football Stadium,86.432,JWWFPV,UnitedStates,Five33Switchback,2022/03/06
@@ -92,7 +93,7 @@ Quad Rivals Team Race,Empty Scene Day,81.283,JWWFPV,UnitedStates,Five33Switchbac
 Quad Rivals Weave,Empty Scene Day,86.610,JWWFPV,UnitedStates,Ossa,2021/05/30
 Quad Rivals Welborn,Empty Scene Day,71.118,JWWFPV,UnitedStates,Ossa,2021/05/30
 Quad Rivals Who Works DW,Dynamic Weather,80.667,JWWFPV,UnitedStates,Ossa,2021/05/30
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,88.286,JWWFPV,UnitedStates,TBSSpec,2021/07/20
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,JWWFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,85.801,JWWFPV,UnitedStates,Five33Switchback,2021/07/12
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,JWWFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,91.244,JWWFPV,UnitedStates,TBSSpec,2021/07/21
@@ -101,10 +102,10 @@ RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,80.838,JWWFPV,UnitedStates,TBSSpe
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,93.974,JWWFPV,UnitedStates,TBSSpec,2021/08/11
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,101.585,JWWFPV,UnitedStates,TBSSpec,2021/08/28
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,78.322,JWWFPV,UnitedStates,TBSSpec,2021/08/11
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,79.333,JWWFPV,UnitedStates,Five33Switchback,2021/10/16
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,77.169,JWWFPV,UnitedStates,TBSSpec,2022/08/24
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,102.082,JWWFPV,UnitedStates,TBSSpec,2021/08/28
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,116.254,JWWFPV,UnitedStates,TBSSpec,2021/08/28
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,113.530,JWWFPV,UnitedStates,TBSSpec,2021/08/28
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,100.923,JWWFPV,UnitedStates,Five33Switchback,2022/09/22
 TBS EU Spec Season 5 Race 1,Football Stadium,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,96.182,JWWFPV,UnitedStates,Five33Switchback,2022/03/14
 TBS EU Spec Series 10 Losers Final,Football Stadium,999.999,JWWFPV,NO_DATA
@@ -115,10 +116,14 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,107.309,JWWFPV,UnitedStates,TBSSpec,2022/08/28
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 11 Race 7,Dynamic Weather,130.116,JWWFPV,UnitedStates,Five33Switchback,2022/07/29
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,80.013,JWWFPV,UnitedStates,TBSSpec,2021/08/28
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,JWWFPV,NO_DATA
@@ -135,7 +140,7 @@ TBS EU Spec Series 5 Race 7,IndoorGoKart,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 6 Final,Empty Scene Day,102.458,JWWFPV,UnitedStates,Five33Switchback,2021/08/13
 TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,JWWFPV,NO_DATA
-TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 6 Race 2,Empty Scene Day,82.159,JWWFPV,UnitedStates,Five33Switchback,2022/09/08
 TBS EU Spec Series 6 Race 4,NEC Birmingham,95.396,JWWFPV,UnitedStates,TBSSpec,2021/08/05
 TBS EU Spec Series 6 Race 5,Dynamic Weather,90.464,JWWFPV,UnitedStates,Five33Switchback,2021/10/08
 TBS EU Spec Series 6 Race 6,Empty Scene Day,87.100,JWWFPV,UnitedStates,TBSSpec,2021/08/11
@@ -165,7 +170,7 @@ TBS EU Spec Series 9 Race 3,Empty Scene Day,71.704,JWWFPV,UnitedStates,TBSSpec,2
 TBS EU Spec Series 9 Race 4,Football Stadium,82.160,JWWFPV,UnitedStates,TBSSpec,2021/10/17
 TBS EU Spec Series 9 Race 5,Empty Scene Day,83.563,JWWFPV,UnitedStates,TBSSpec,2021/10/09
 TBS EU Spec Series 9 Race 6,Empty Scene Day,84.688,JWWFPV,UnitedStates,Five33Switchback,2021/10/30
-TBS EU Spec Series 9 Race 7,NEC Birmingham,105.303,JWWFPV,UnitedStates,Five33Switchback,2021/11/18
+TBS EU Spec Series 9 Race 7,NEC Birmingham,88.582,JWWFPV,UnitedStates,Five33Switchback,2022/08/30
 Week 10 TT - MCKPractice2,Football Stadium,999.999,JWWFPV,NO_DATA
 Week 12 TT - GQ22 by Chris M,Football Stadium,45.453,JWWFPV,UnitedStates,CarbiXZero,2022/02/28
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,999.999,JWWFPV,NO_DATA
