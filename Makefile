@@ -33,6 +33,8 @@ tbs:
 	./makerank.zsh "TBS EU SPEC SERIES 10.csv"
 	./getcollection.zsh "TBS EU SPEC SERIES 11.csv"
 	./makerank.zsh "TBS EU SPEC SERIES 11.csv"
+	./getcollection.zsh "TBS EU SPEC SERIES 12.csv"
+	./makerank.zsh "TBS EU SPEC SERIES 12.csv"
 
 dep:
 	./getcollection.zsh "DEP OPEN SERIES.csv"
@@ -61,12 +63,16 @@ vrl:
 	./makerank.zsh "VRL SERIES 07.csv"
 	./getcollection.zsh "VRL SERIES 08.csv"
 	./makerank.zsh "VRL SERIES 08.csv"
+	./getcollection.zsh "VRL SERIES 09.csv"
+	./makerank.zsh "VRL SERIES 09.csv"
 
 multigp:
 	./getcollection.zsh "MultiGP Tracks.csv"
 	./makerank.zsh "MultiGP Tracks.csv"
 	./getcollection.zsh "MGP2022.csv"
 	./makerank.zsh "MGP2022.csv"
+	./getcollection.zsh "MGP2023.csv"
+	./makerank.zsh "MGP2023.csv"
 
 quadrivals:
 	./getcollection.zsh "QuadRivals Tracks.csv"
