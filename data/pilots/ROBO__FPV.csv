@@ -20,13 +20,13 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,199,109.209,ROBO__FPV,Poland,TBSSpe
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,193,135.479,ROBO__FPV,Poland,TBSSpec,2022/01/24
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,ROBO__FPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999,999.999,ROBO__FPV,NO_DATA
-TBS EU Spec Series 5 FINAL,Dynamic Weather,161,105.731,ROBO__FPV,Poland,TBSSpec,2021/01/25
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,162,102.012,ROBO__FPV,Poland,TBSSpec,2020/10/06
-TBS EU Spec Series 5 Race 3,Dynamic Weather,197,103.613,ROBO__FPV,Poland,TBSSpec,2020/10/06
-TBS EU Spec Series 5 Race 4,Football Stadium,184,105.995,ROBO__FPV,Poland,TBSSpec,2020/07/30
-TBS EU Spec Series 5 Race 5,NEC Birmingham,175,96.884,ROBO__FPV,Poland,TBSSpec,2020/08/14
+TBS EU Spec Series 5 FINAL,Dynamic Weather,169,105.731,ROBO__FPV,Poland,TBSSpec,2021/01/25
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,174,102.012,ROBO__FPV,Poland,TBSSpec,2020/10/06
+TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
+TBS EU Spec Series 5 Race 4,Football Stadium,194,105.995,ROBO__FPV,Poland,TBSSpec,2020/07/30
+TBS EU Spec Series 5 Race 5,NEC Birmingham,196,96.884,ROBO__FPV,Poland,TBSSpec,2020/08/14
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
-TBS EU Spec Series 5 Race 7,IndoorGoKart,152,98.368,ROBO__FPV,Poland,TBSSpec,2020/10/04
+TBS EU Spec Series 5 Race 7,IndoorGoKart,159,98.368,ROBO__FPV,Poland,TBSSpec,2020/10/04
 VRL6 Championships,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL6 Crash Site,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL6 Downtown Loop,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
@@ -42,39 +42,39 @@ VRL 7 Track 3,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,ROBO__FPV,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,70,120.493,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL S5 Track 1,Dynamic Weather,73,141.804,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL S5 TRACK 2,Dynamic Weather,72,176.972,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL S5 TRACK 3,Bando,115,176.803,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL S5 TRACK 4,Empty Scene Day,49,130.583,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL S5 TRACK 5,Dynamic Weather,64,181.899,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL Season 3 Track 1,Empty Scene Day,161,104.927,ROBO__FPV,Poland,TBSSpec,2020/11/30
-VRL Season 3 Track 2,Empty Scene Day,111,92.636,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL Season 3 Track 3,Empty Scene Day,49,119.707,ROBO__FPV,Poland,TBSSpec,2020/08/30
-VRL Season 3 Track 4,Empty Scene Day,58,135.781,ROBO__FPV,Poland,TBSSpec,2020/08/30
-VRL Season 3 Track 5,Empty Scene Day,70,108.060,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,83,120.493,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 Track 1,Dynamic Weather,93,141.804,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 TRACK 2,Dynamic Weather,94,176.972,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 TRACK 3,Bando,150,176.803,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 TRACK 4,Empty Scene Day,65,130.583,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL S5 TRACK 5,Dynamic Weather,75,181.899,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL Season 3 Track 1,Empty Scene Day,200,104.927,ROBO__FPV,Poland,TBSSpec,2020/11/30
+VRL Season 3 Track 2,Empty Scene Day,127,92.636,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL Season 3 Track 3,Empty Scene Day,82,119.707,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL Season 3 Track 4,Empty Scene Day,70,135.781,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL Season 3 Track 5,Empty Scene Day,87,108.060,ROBO__FPV,Poland,TBSSpec,2020/07/23
 VRL Season 3 Track 6,Empty Scene Day,999,999.999,ROBO__FPV,NO_DATA
-VRL Season 4 Championship,Football Stadium,54,182.156,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL Season 4 Championship,Football Stadium,63,182.156,ROBO__FPV,Poland,TBSSpec,2020/08/30
 VRL Season 4 Track 1,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
-VRL Season 4 Track 2,Bando,139,193.067,ROBO__FPV,Poland,TBSSpec,2020/08/30
-VRL Season 4 Track 3,Basketball Stadium,95,93.710,ROBO__FPV,Poland,TBSSpec,2020/08/30
-VRL-Season-4-Track-4,Dynamic Weather,46,126.157,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL Season 4 Track 2,Bando,185,193.067,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL Season 4 Track 3,Basketball Stadium,124,93.710,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL-Season-4-Track-4,Dynamic Weather,76,126.157,ROBO__FPV,Poland,TBSSpec,2020/08/30
 VRL_Season_4_Track_5,Coastal,999,999.999,ROBO__FPV,NO_DATA
-VRL_Season_4_Track_6,Dynamic Weather,35,163.981,ROBO__FPV,Poland,TBSSpec,2020/07/18
-VRL Season 4 Track 7,Dynamic Weather,58,158.411,ROBO__FPV,Poland,TBSSpec,2020/08/30
+VRL_Season_4_Track_6,Dynamic Weather,62,163.981,ROBO__FPV,Poland,TBSSpec,2020/07/18
+VRL Season 4 Track 7,Dynamic Weather,88,158.411,ROBO__FPV,Poland,TBSSpec,2020/08/30
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
-VRL SEASON 5 TRACK 6,Dynamic Weather,69,158.811,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL SEASON 5 TRACK 6,Dynamic Weather,81,158.811,ROBO__FPV,Poland,TBSSpec,2020/07/23
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,ROBO__FPV,NO_DATA
-VRL SEASON 5 TRACK 8,Industrial Wasteland,83,179.291,ROBO__FPV,Poland,TBSSpec,2020/07/23
-VRL SEASON 5 TRYOUTS,Dynamic Weather,55,165.860,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL SEASON 5 TRACK 8,Industrial Wasteland,119,179.291,ROBO__FPV,Poland,TBSSpec,2020/07/23
+VRL SEASON 5 TRYOUTS,Dynamic Weather,64,165.860,ROBO__FPV,Poland,TBSSpec,2020/07/23
 VRL SEASON 6 TRYOUTS,Dynamic Weather,139,194.401,ROBO__FPV,Poland,TBSSpec,2020/07/23
 VRL Season 7 Championships,Dynamic Weather,195,138.348,ROBO__FPV,Poland,TBSSpec,2021/01/25
-VRL Season 8 Championships,Dynamic Weather,169,235.224,ROBO__FPV,Poland,TBSSpec,2022/02/10
+VRL Season 8 Championships,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
 VRL Season 8 Track 1,Office Complex,999,999.999,ROBO__FPV,NO_DATA
-VRL Season 8 Track 2,Drift Track,156,215.600,ROBO__FPV,Poland,TBSSpec,2021/11/21
-VRL Season 8 Track 3,Night Factory 2,193,239.734,ROBO__FPV,Poland,TBSSpec,2021/11/29
-VRL Season 8 Track 4,DynamicPoly,123,361.692,ROBO__FPV,Poland,TBSSpec,2021/12/16
-VRL Season 8 Track 5,Dynamic Weather,168,286.009,ROBO__FPV,Poland,TBSSpec,2021/12/16
-VRL Season 8 Track 6,Night Factory 2,164,254.772,ROBO__FPV,Poland,TBSSpec,2022/01/02
+VRL Season 8 Track 2,Drift Track,184,215.600,ROBO__FPV,Poland,TBSSpec,2021/11/21
+VRL Season 8 Track 3,Night Factory 2,999,999.999,ROBO__FPV,NO_DATA
+VRL Season 8 Track 4,DynamicPoly,146,361.692,ROBO__FPV,Poland,TBSSpec,2021/12/16
+VRL Season 8 Track 5,Dynamic Weather,189,286.009,ROBO__FPV,Poland,TBSSpec,2021/12/16
+VRL Season 8 Track 6,Night Factory 2,193,254.772,ROBO__FPV,Poland,TBSSpec,2022/01/02
 VRL SEASON 8 TRACK 7,Dynamic Weather,999,999.999,ROBO__FPV,NO_DATA
-VRL SEASON 8 TRYOUTS,RedValley,55,480.755,ROBO__FPV,Poland,TBSSpec,2021/09/10
+VRL SEASON 8 TRYOUTS,RedValley,66,480.755,ROBO__FPV,Poland,TBSSpec,2021/09/10

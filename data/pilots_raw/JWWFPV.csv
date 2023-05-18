@@ -100,7 +100,7 @@ RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,91.244,JWWFPV,UnitedStates,TBS
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,88.779,JWWFPV,UnitedStates,Five33Switchback,2021/08/10
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,80.838,JWWFPV,UnitedStates,TBSSpec,2021/08/11
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,93.974,JWWFPV,UnitedStates,TBSSpec,2021/08/11
-RCTech_de EU Spec Series 3 Final,Empty Scene Day,101.585,JWWFPV,UnitedStates,TBSSpec,2021/08/28
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,999.999,JWWFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,78.322,JWWFPV,UnitedStates,TBSSpec,2021/08/11
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,77.169,JWWFPV,UnitedStates,TBSSpec,2022/08/24
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,102.082,JWWFPV,UnitedStates,TBSSpec,2021/08/28
@@ -124,8 +124,19 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,130.116,JWWFPV,UnitedStates,Five33Switchback,2022/07/29
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,JWWFPV,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,85.952,JWWFPV,UnitedStates,Five33Switchback,2023/05/08
+TBS EU Spec Series 13 - Race 2,Factory,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,JWWFPV,NO_DATA
-TBS EU Spec Series 4 Race 2,Empty Scene Day,80.013,JWWFPV,UnitedStates,TBSSpec,2021/08/28
+TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,100.664,JWWFPV,UnitedStates,Five33Switchback,2022/04/15
@@ -137,10 +148,10 @@ TBS EU Spec Series 5 Race 4,Football Stadium,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,79.274,JWWFPV,UnitedStates,TBSSpec,2021/07/28
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999.999,JWWFPV,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,102.458,JWWFPV,UnitedStates,Five33Switchback,2021/08/13
+TBS EU Spec Series 6 Final,Empty Scene Day,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,JWWFPV,NO_DATA
-TBS EU Spec Series 6 Race 2,Empty Scene Day,82.159,JWWFPV,UnitedStates,Five33Switchback,2022/09/08
+TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,95.396,JWWFPV,UnitedStates,TBSSpec,2021/08/05
 TBS EU Spec Series 6 Race 5,Dynamic Weather,90.464,JWWFPV,UnitedStates,Five33Switchback,2021/10/08
 TBS EU Spec Series 6 Race 6,Empty Scene Day,87.100,JWWFPV,UnitedStates,TBSSpec,2021/08/11
@@ -160,7 +171,7 @@ TBS EU Spec Series 8 Race 2,Empty Scene Night,111.066,JWWFPV,UnitedStates,Five33
 TBS EU Spec Series 8 Race 3,Football Stadium,73.510,JWWFPV,UnitedStates,TBSSpec,2021/10/08
 TBS EU Spec Series 8 Race 4,Empty Scene Day,87.313,JWWFPV,UnitedStates,Five33Switchback,2021/08/31
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,75.778,JWWFPV,UnitedStates,Five33Switchback,2021/06/01
-TBS EU Spec Series 8 Race 6,Football Stadium,85.835,JWWFPV,UnitedStates,Five33Switchback,2021/06/18
+TBS EU Spec Series 8 Race 6,Football Stadium,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999.999,JWWFPV,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,77.317,JWWFPV,UnitedStates,Five33Switchback,2021/11/14
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,78.203,JWWFPV,UnitedStates,Five33Switchback,2021/11/14

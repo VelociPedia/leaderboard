@@ -16,12 +16,12 @@ DEP Open Series 4 Race 5,Football Stadium,70.405,OrigDragon,UnitedStates,TBSSpec
 DEP Open Series 4 Race 6,Football Stadium,75.209,OrigDragon,UnitedStates,TBSSpec,2021/05/16
 DEP Open Series 4 Race 7,Football Stadium,74.945,OrigDragon,UnitedStates,TBSSpec,2021/06/05
 DEP Open Series 5 Race 1,Football Stadium,65.818,OrigDragon,UnitedStates,TBSSpec,2022/03/16
-DEP Open Series 5 Race 2,Football Stadium,999.999,OrigDragon,NO_DATA
-DEP Open Series 5 Race 3,Football Stadium,999.999,OrigDragon,NO_DATA
-DEP Open Series 5 Race 4,Football Stadium,999.999,OrigDragon,NO_DATA
-DEP Open Series 5 Race 5,Football Stadium,999.999,OrigDragon,NO_DATA
-DEP Open Series 5 Race 6,Football Stadium,999.999,OrigDragon,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,999.999,OrigDragon,NO_DATA
+DEP Open Series 5 Race 2,Football Stadium,86.398,OrigDragon,UnitedStates,Five33Switchback,2022/12/03
+DEP Open Series 5 Race 3,Football Stadium,90.245,OrigDragon,UnitedStates,Five33Switchback,2022/12/04
+DEP Open Series 5 Race 4,Football Stadium,94.463,OrigDragon,UnitedStates,Five33Switchback,2022/12/04
+DEP Open Series 5 Race 5,Football Stadium,95.587,OrigDragon,UnitedStates,Five33Switchback,2022/12/04
+DEP Open Series 5 Race 6,Football Stadium,82.152,OrigDragon,UnitedStates,Five33Switchback,2022/12/04
+DEP Open Series 5 Race 7,Football Stadium,115.041,OrigDragon,UnitedStates,TBSSpec,2023/03/26
 DEP Open Series 6 Race 1,Football Stadium,83.057,OrigDragon,UnitedStates,TBSSpec,2022/03/10
 DEP Open Series 6 Race 2,Football Stadium,107.540,OrigDragon,UnitedStates,TBSSpec,2022/03/12
 DEP Spec Series 1 Race 5,Football Stadium,116.613,OrigDragon,UnitedStates,CarbiXZero,2020/10/17
@@ -55,6 +55,14 @@ Quad Rivals Team Race,Empty Scene Day,52.772,OrigDragon,UnitedStates,CarbiXZero,
 Quad Rivals Weave,Empty Scene Day,999.999,OrigDragon,NO_DATA
 Quad Rivals Welborn,Empty Scene Day,999.999,OrigDragon,NO_DATA
 Quad Rivals Who Works DW,Dynamic Weather,999.999,OrigDragon,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,999.999,OrigDragon,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,74.945,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 2,Countryside,82.144,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 3,Dynamic Weather,92.063,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 5,Dynamic Weather,83.029,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 5,NEC Birmingham,78.301,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 6,Dynamic Weather,77.290,OrigDragon,UnitedStates,TBSSpec,2023/01/12
+TBS EU Spec Series 11 Race 7,Dynamic Weather,84.620,OrigDragon,UnitedStates,TBSSpec,2023/01/12
 TBS EU Spec Series 6 Final,Empty Scene Day,88.886,OrigDragon,UnitedStates,TBSSpec,2020/12/09
 TBS EU Spec Series 6 Losers Final,Football Stadium,81.736,OrigDragon,UnitedStates,CarbiXZero,2020/11/27
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,OrigDragon,NO_DATA

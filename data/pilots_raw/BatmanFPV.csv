@@ -4,7 +4,7 @@ DEP Open Series 2 Race 7,Football Stadium,999.999,BatmanFPV,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999.999,BatmanFPV,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,100.646,BatmanFPV,UnitedKingdom,Five33Switchback,2021/02/17
 DEP Open Series 3 Race 3,Karting Track,999.999,BatmanFPV,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,79.106,BatmanFPV,UnitedKingdom,Five33Switchback,2021/02/24
+DEP Open Series 3 Race 4,Football Stadium,999.999,BatmanFPV,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,100.475,BatmanFPV,UnitedKingdom,Ossa,2021/03/03
 DEP Open Series 3 Race 6,Football Stadium,128.960,BatmanFPV,UnitedKingdom,Ossa,2021/03/10
 DEP Open Series 3 Race 7,Football Stadium,117.970,BatmanFPV,UnitedKingdom,TBSSpec,2021/03/17
@@ -15,7 +15,7 @@ DEP Open Series 4 Race 4,Football Stadium,102.332,BatmanFPV,UnitedKingdom,TBSSpe
 DEP Open Series 4 Race 5,Football Stadium,75.292,BatmanFPV,UnitedKingdom,TBSSpec,2021/05/04
 DEP Open Series 4 Race 6,Football Stadium,80.362,BatmanFPV,UnitedKingdom,Mode2Ghost,2021/05/25
 DEP Open Series 4 Race 7,Football Stadium,85.013,BatmanFPV,UnitedKingdom,Five33Switchback,2021/05/26
-DEP Open Series 5 Race 1,Football Stadium,80.737,BatmanFPV,UnitedKingdom,Five33Switchback,2021/10/27
+DEP Open Series 5 Race 1,Football Stadium,999.999,BatmanFPV,NO_DATA
 DEP Open Series 5 Race 2,Football Stadium,94.563,BatmanFPV,UnitedKingdom,TBSSpec,2021/11/08
 DEP Open Series 5 Race 3,Football Stadium,88.561,BatmanFPV,UnitedKingdom,TBSSpec,2021/11/17
 DEP Open Series 5 Race 4,Football Stadium,95.022,BatmanFPV,UnitedKingdom,TBSSpec,2021/11/24
@@ -61,6 +61,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,76.852,BatmanFPV,UnitedKingdom,TBSS
 TBS EU Spec Series 11 Race 5,NEC Birmingham,67.587,BatmanFPV,UnitedKingdom,TBSSpec,2022/07/12
 TBS EU Spec Series 11 Race 6,Dynamic Weather,72.647,BatmanFPV,UnitedKingdom,TBSSpec,2022/07/14
 TBS EU Spec Series 11 Race 7,Dynamic Weather,79.353,BatmanFPV,UnitedKingdom,TBSSpec,2022/07/28
+TBS EU Spec Series 12 Final,Dynamic Weather,101.067,BatmanFPV,UnitedKingdom,TBSSpec,2023/02/16
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,94.206,BatmanFPV,UnitedKingdom,TBSSpec,2023/02/09
+TBS EU Spec Series 12 Race 1,Dynamic Weather,88.536,BatmanFPV,UnitedKingdom,TBSSpec,2022/12/13
+TBS EU Spec Series 12 Race 2,NEC Birmingham,109.774,BatmanFPV,UnitedKingdom,TBSSpec,2022/12/15
+TBS EU Spec Series 12 Race 3,Dynamic Weather,75.010,BatmanFPV,UnitedKingdom,TBSSpec,2022/12/29
+TBS EU Spec Series 12 Race 4,Night Factory 2,78.772,BatmanFPV,UnitedKingdom,TBSSpec,2023/01/05
+TBS EU Spec Series 12 Race 5,Dynamic Weather,84.071,BatmanFPV,UnitedKingdom,TBSSpec,2023/01/12
+TBS EU Spec Series 12 Race 6,Dynamic Weather,70.716,BatmanFPV,UnitedKingdom,TBSSpec,2023/01/19
+TBS EU Spec Series 12 Race 7,Dynamic Weather,88.280,BatmanFPV,UnitedKingdom,TBSSpec,2023/01/26
+TBS EU Spec Series 13 Race 1,Dynamic Weather,81.925,BatmanFPV,UnitedKingdom,SwitchbackZero,2023/04/27
+TBS EU Spec Series 13 - Race 2,Factory,52.238,BatmanFPV,UnitedKingdom,TBSSpec,2023/05/08
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,BatmanFPV,NO_DATA
@@ -74,7 +85,7 @@ TBS EU Spec Series 5 Race 4,Football Stadium,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,91.875,BatmanFPV,UnitedKingdom,TBSSpec,2020/08/20
 TBS EU Spec Series 5 Race 7,IndoorGoKart,100.023,BatmanFPV,UnitedKingdom,TBSSpec,2020/08/27
-TBS EU Spec Series 6 Final,Empty Scene Day,100.784,BatmanFPV,UnitedKingdom,TBSSpec,2020/12/10
+TBS EU Spec Series 6 Final,Empty Scene Day,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 6 Losers Final,Football Stadium,86.233,BatmanFPV,UnitedKingdom,TBSSpec,2020/11/27
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999.999,BatmanFPV,NO_DATA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,BatmanFPV,NO_DATA
@@ -108,6 +119,15 @@ TBS EU Spec Series 9 Race 4,Football Stadium,78.244,BatmanFPV,UnitedKingdom,TBSS
 TBS EU Spec Series 9 Race 5,Empty Scene Day,76.574,BatmanFPV,UnitedKingdom,TBSSpec,2021/10/19
 TBS EU Spec Series 9 Race 6,Empty Scene Day,80.613,BatmanFPV,UnitedKingdom,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,75.460,BatmanFPV,UnitedKingdom,TBSSpec,2021/11/03
+VRL S9 FINALS,Dynamic Weather,105.200,BatmanFPV,UnitedKingdom,FoxRacingV1,2023/03/25
+VRL S9 T1,Dynamic Weather,95.789,BatmanFPV,UnitedKingdom,Ossa,2023/01/18
+VRL S9 T2,Dynamic Weather,76.765,BatmanFPV,UnitedKingdom,Five33Switchback,2023/01/27
+VRL S9 T3,Dynamic Weather,70.874,BatmanFPV,UnitedKingdom,Velocity,2023/02/03
+VRL S9 T4,Dynamic Weather,86.336,BatmanFPV,UnitedKingdom,Five33Switchback,2023/02/18
+VRL S9 T5,Dynamic Weather,96.298,BatmanFPV,UnitedKingdom,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,97.524,BatmanFPV,UnitedKingdom,Five33Switchback,2023/03/04
+VRL S9 T7,Dynamic Weather,100.129,BatmanFPV,UnitedKingdom,Five33Switchback,2023/03/10
+VRL S9 T8,Dynamic Weather,102.698,BatmanFPV,UnitedKingdom,Five33Switchback,2023/03/18
 VRL Season 8 Championships,Dynamic Weather,999.999,BatmanFPV,NO_DATA
 VRL Season 8 Track 1,Office Complex,185.161,BatmanFPV,UnitedKingdom,TBSSpec,2021/11/03
 VRL Season 8 Track 2,Drift Track,122.614,BatmanFPV,UnitedKingdom,TBSSpec,2021/12/05
@@ -117,3 +137,4 @@ VRL Season 8 Track 5,Dynamic Weather,999.999,BatmanFPV,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,153.519,BatmanFPV,UnitedKingdom,TBSSpec,2022/01/16
 VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,BatmanFPV,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999.999,BatmanFPV,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,124.106,BatmanFPV,UnitedKingdom,TBSSpec,2023/01/07

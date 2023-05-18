@@ -3,30 +3,32 @@
 2022 MultiGP IO Team,Dynamic Weather,33,58.314,PaulEFPV,UnitedStates,CarbiXZero,2022/05/28
 2022 MultiGP IO World Cup,Dynamic Weather,27,62.677,PaulEFPV,UnitedStates,CarbiXZero,2022/05/30
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
-DEP Open Series 2 Race 1,Dynamic Weather,46,51.296,PaulEFPV,UnitedStates,Ossa,2020/12/12
-DEP Open Series 2 Race 7,Football Stadium,17,81.275,PaulEFPV,UnitedStates,Ossa,2021/03/24
-DEP Open Series 3 Race 1,Football Stadium,71,56.788,PaulEFPV,UnitedStates,Ossa,2021/03/11
-DEP Open Series 3 Race 2,Football Stadium,50,75.965,PaulEFPV,UnitedStates,Ossa,2021/03/11
+DEP Open Series 2 Race 1,Dynamic Weather,58,51.296,PaulEFPV,UnitedStates,Ossa,2020/12/12
+DEP Open Series 2 Race 7,Football Stadium,29,81.275,PaulEFPV,UnitedStates,Ossa,2021/03/24
+DEP Open Series 3 Race 1,Football Stadium,79,56.788,PaulEFPV,UnitedStates,Ossa,2021/03/11
+DEP Open Series 3 Race 2,Football Stadium,51,75.965,PaulEFPV,UnitedStates,Ossa,2021/03/11
 DEP Open Series 3 Race 3,Karting Track,999,999.999,PaulEFPV,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,71,63.249,PaulEFPV,UnitedStates,Ossa,2021/03/12
-DEP Open Series 3 Race 5,Football Stadium,76,81.092,PaulEFPV,UnitedStates,Ossa,2021/05/27
+DEP Open Series 3 Race 4,Football Stadium,76,63.249,PaulEFPV,UnitedStates,Ossa,2021/03/12
+DEP Open Series 3 Race 5,Football Stadium,78,81.092,PaulEFPV,UnitedStates,Ossa,2021/05/27
 DEP Open Series 3 Race 6,Football Stadium,999,999.999,PaulEFPV,NO_DATA
-DEP Open Series 3 Race 7,Football Stadium,103,98.769,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
-DEP Open Series 4 Race 1,Football Stadium,156,106.537,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
-DEP Open Series 4 Race 2,Football Stadium,49,96.999,PaulEFPV,UnitedStates,TBSSpec,2021/04/14
-DEP Open Series 4 Race 3,Football Stadium,47,64.941,PaulEFPV,UnitedStates,Ossa,2021/04/27
-DEP Open Series 4 Race 4,Football Stadium,78,90.832,PaulEFPV,UnitedStates,Ossa,2021/04/28
-DEP Open Series 4 Race 5,Football Stadium,40,61.921,PaulEFPV,UnitedStates,Ossa,2021/04/28
+DEP Open Series 3 Race 7,Football Stadium,113,98.769,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
+DEP Open Series 4 Race 1,Football Stadium,168,106.537,PaulEFPV,UnitedStates,TBSSpec,2021/04/23
+DEP Open Series 4 Race 2,Football Stadium,53,96.999,PaulEFPV,UnitedStates,TBSSpec,2021/04/14
+DEP Open Series 4 Race 3,Football Stadium,51,64.941,PaulEFPV,UnitedStates,Ossa,2021/04/27
+DEP Open Series 4 Race 4,Football Stadium,89,90.832,PaulEFPV,UnitedStates,Ossa,2021/04/28
+DEP Open Series 4 Race 5,Football Stadium,46,61.921,PaulEFPV,UnitedStates,Ossa,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,PaulEFPV,NO_DATA
-DEP Open Series 5 Race 1,Football Stadium,999,999.999,PaulEFPV,NO_DATA
+DEP Open Series 5 Race 1,Football Stadium,77,61.660,PaulEFPV,UnitedStates,Five33Switchback,2022/11/19
 DEP Open Series 5 Race 2,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 3,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 4,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,PaulEFPV,NO_DATA
-DEP Spec Series 1 Race 5,Football Stadium,43,92.185,PaulEFPV,UnitedStates,Ossa,2020/10/17
+DEP Open Series 6 Race 1,Football Stadium,999,999.999,PaulEFPV,NO_DATA
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,PaulEFPV,NO_DATA
+DEP Spec Series 1 Race 5,Football Stadium,53,92.185,PaulEFPV,UnitedStates,Ossa,2020/10/17
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,PaulEFPV,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,999,999.999,PaulEFPV,NO_DATA
 MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,PaulEFPV,NO_DATA
@@ -38,53 +40,63 @@ TBS EU Spec Series 4 Race 4,Empty Scene Day,74,84.728,PaulEFPV,UnitedStates,TBSS
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,97,76.841,PaulEFPV,UnitedStates,Ossa,2021/03/31
 VRL6 Championships,Dynamic Weather,41,88.833,PaulEFPV,UnitedStates,CarbiXZero,2022/05/22
-VRL6 Crash Site,Dynamic Weather,1,99.020,PaulEFPV,UnitedStates,CarbiXZero,2022/05/21
-VRL6 Downtown Loop,Dynamic Weather,3,117.618,PaulEFPV,UnitedStates,CarbiXZero,2022/05/24
-VRL6 Extermination,Dynamic Weather,39,103.995,PaulEFPV,UnitedStates,SingularitumV5,2020/04/11
-VRL6 Kenerator,Dynamic Weather,44,124.932,PaulEFPV,UnitedStates,Five33Switchback,2020/04/23
-VRL6 Meltdown,Dynamic Weather,14,106.137,PaulEFPV,UnitedStates,Ossa,2021/01/25
-VRL6 Reinforcement,Dynamic Weather,999,999.999,PaulEFPV,NO_DATA
-VRL6 Tunnel Vision,Dynamic Weather,31,111.108,PaulEFPV,UnitedStates,CarbiXZero,2020/04/18
-VRL 7 Race 4,Dynamic Weather,46,87.905,PaulEFPV,UnitedStates,Five33Switchback,2022/03/22
-VRL 7 Track 1,Future Hangar,71,98.754,PaulEFPV,UnitedStates,Five33Switchback,2022/03/23
-VRL 7 Track 2,Future Hangar Empty,51,95.865,PaulEFPV,UnitedStates,Five33Switchback,2022/03/27
-VRL 7 Track 3,Dynamic Weather,64,74.805,PaulEFPV,UnitedStates,Ossa,2020/11/21
-VRL 7 Track 5,Dynamic Weather,16,80.795,PaulEFPV,UnitedStates,CarbiXZero,2022/04/01
-VRL 7 Track 6,Dynamic Weather,23,79.567,PaulEFPV,UnitedStates,CarbiXZero,2022/04/01
-VRL7 Tryouts,Future Hangar Empty,62,93.928,PaulEFPV,UnitedStates,Ossa,2020/09/26
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,7,76.928,PaulEFPV,UnitedStates,CarbiXZero,2022/04/03
+VRL6 Crash Site,Dynamic Weather,2,99.020,PaulEFPV,UnitedStates,CarbiXZero,2022/05/21
+VRL6 Downtown Loop,Dynamic Weather,1,106.751,PaulEFPV,UnitedStates,Five33Switchback,2023/05/02
+VRL6 Extermination,Dynamic Weather,27,100.234,PaulEFPV,UnitedStates,Five33Switchback,2023/04/21
+VRL6 Kenerator,Dynamic Weather,9,115.633,PaulEFPV,UnitedStates,Five33Switchback,2023/02/19
+VRL6 Meltdown,Dynamic Weather,9,94.199,PaulEFPV,UnitedStates,Five33Switchback,2023/02/22
+VRL6 Reinforcement,Dynamic Weather,9,89.197,PaulEFPV,UnitedStates,Five33Switchback,2023/04/10
+VRL6 Tunnel Vision,Dynamic Weather,28,109.537,PaulEFPV,UnitedStates,Five33Switchback,2023/04/08
+VRL 7 Race 4,Dynamic Weather,40,86.712,PaulEFPV,UnitedStates,Five33Switchback,2023/03/22
+VRL 7 Track 1,Future Hangar,27,93.706,PaulEFPV,UnitedStates,Five33Switchback,2023/03/07
+VRL 7 Track 2,Future Hangar Empty,46,94.923,PaulEFPV,UnitedStates,CarbiXZero,2022/08/11
+VRL 7 Track 3,Dynamic Weather,18,69.873,PaulEFPV,UnitedStates,Five33Switchback,2022/11/27
+VRL 7 Track 5,Dynamic Weather,8,79.728,PaulEFPV,UnitedStates,CarbiXZero,2022/08/13
+VRL 7 Track 6,Dynamic Weather,20,79.203,PaulEFPV,UnitedStates,CarbiXZero,2022/08/13
+VRL7 Tryouts,Future Hangar Empty,9,89.730,PaulEFPV,UnitedStates,Five33Switchback,2023/04/05
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,7,75.962,PaulEFPV,UnitedStates,CarbiXZero,2022/08/14
 VRL S5 Track 1,Dynamic Weather,2,73.485,PaulEFPV,UnitedStates,CarbiXZero,2022/04/09
-VRL S5 TRACK 2,Dynamic Weather,5,88.526,PaulEFPV,UnitedStates,Ossa,2021/07/27
-VRL S5 TRACK 3,Bando,4,86.077,PaulEFPV,UnitedStates,CarbiXZero,2022/04/05
-VRL S5 TRACK 4,Empty Scene Day,2,63.766,PaulEFPV,UnitedStates,CarbiXZero,2022/04/06
+VRL S5 TRACK 2,Dynamic Weather,2,83.271,PaulEFPV,UnitedStates,Five33Switchback,2022/11/27
+VRL S5 TRACK 3,Bando,5,86.077,PaulEFPV,UnitedStates,CarbiXZero,2022/04/05
+VRL S5 TRACK 4,Empty Scene Day,3,63.766,PaulEFPV,UnitedStates,CarbiXZero,2022/04/06
 VRL S5 TRACK 5,Dynamic Weather,2,88.638,PaulEFPV,UnitedStates,CarbiXZero,2022/04/07
-VRL Season 3 Track 1,Empty Scene Day,5,61.281,PaulEFPV,UnitedStates,CarbiXZero,2022/04/16
-VRL Season 3 Track 2,Empty Scene Day,7,57.844,PaulEFPV,UnitedStates,CarbiXZero,2022/04/17
-VRL Season 3 Track 3,Empty Scene Day,4,68.583,PaulEFPV,UnitedStates,Ossa,2021/04/07
-VRL Season 3 Track 4,Empty Scene Day,10,91.943,PaulEFPV,UnitedStates,Ossa,2021/02/19
-VRL Season 3 Track 5,Empty Scene Day,2,62.773,PaulEFPV,UnitedStates,CarbiXZero,2022/04/23
+VRL S9 FINALS,Dynamic Weather,32,88.742,PaulEFPV,UnitedStates,Five33Switchback,2023/03/25
+VRL S9 T1,Dynamic Weather,28,81.146,PaulEFPV,UnitedStates,Five33Switchback,2023/01/21
+VRL S9 T2,Dynamic Weather,33,68.987,PaulEFPV,UnitedStates,Five33Switchback,2023/01/27
+VRL S9 T3,Dynamic Weather,32,65.931,PaulEFPV,UnitedStates,Five33Switchback,2023/02/04
+VRL S9 T4,Dynamic Weather,19,79.268,PaulEFPV,UnitedStates,Five33Switchback,2023/02/18
+VRL S9 T5,Dynamic Weather,26,84.914,PaulEFPV,UnitedStates,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,25,83.327,PaulEFPV,UnitedStates,Five33Switchback,2023/03/04
+VRL S9 T7,Dynamic Weather,20,83.877,PaulEFPV,UnitedStates,Five33Switchback,2023/03/10
+VRL S9 T8,Dynamic Weather,32,91.583,PaulEFPV,UnitedStates,Five33Switchback,2023/03/18
+VRL Season 3 Track 1,Empty Scene Day,6,61.281,PaulEFPV,UnitedStates,CarbiXZero,2022/04/16
+VRL Season 3 Track 2,Empty Scene Day,8,57.844,PaulEFPV,UnitedStates,CarbiXZero,2022/04/17
+VRL Season 3 Track 3,Empty Scene Day,8,68.583,PaulEFPV,UnitedStates,Ossa,2021/04/07
+VRL Season 3 Track 4,Empty Scene Day,3,82.665,PaulEFPV,UnitedStates,Five33Switchback,2022/12/02
+VRL Season 3 Track 5,Empty Scene Day,3,62.773,PaulEFPV,UnitedStates,CarbiXZero,2022/04/23
 VRL Season 3 Track 6,Empty Scene Day,2,114.262,PaulEFPV,UnitedStates,CarbiXZero,2022/04/26
 VRL Season 4 Championship,Football Stadium,3,102.030,PaulEFPV,UnitedStates,CarbiXZero,2022/04/27
-VRL Season 4 Track 1,Dynamic Weather,3,98.889,PaulEFPV,UnitedStates,Ossa,2021/04/13
+VRL Season 4 Track 1,Dynamic Weather,4,97.543,PaulEFPV,UnitedStates,Five33Switchback,2022/09/15
 VRL Season 4 Track 2,Bando,3,88.606,PaulEFPV,UnitedStates,CarbiXZero,2022/05/01
-VRL Season 4 Track 3,Basketball Stadium,6,58.909,PaulEFPV,UnitedStates,Ossa,2021/07/02
-VRL-Season-4-Track-4,Dynamic Weather,1,66.040,PaulEFPV,UnitedStates,CarbiXZero,2022/05/17
-VRL_Season_4_Track_5,Coastal,6,101.871,PaulEFPV,UnitedStates,Five33Switchback,2020/05/10
-VRL_Season_4_Track_6,Dynamic Weather,3,84.071,PaulEFPV,UnitedStates,Five33Switchback,2022/03/13
-VRL Season 4 Track 7,Dynamic Weather,7,83.142,PaulEFPV,UnitedStates,Ossa,2021/04/13
+VRL Season 4 Track 3,Basketball Stadium,10,58.909,PaulEFPV,UnitedStates,Ossa,2021/07/02
+VRL-Season-4-Track-4,Dynamic Weather,5,66.040,PaulEFPV,UnitedStates,CarbiXZero,2022/05/17
+VRL_Season_4_Track_5,Coastal,1,82.853,PaulEFPV,UnitedStates,Five33Switchback,2023/04/03
+VRL_Season_4_Track_6,Dynamic Weather,1,76.159,PaulEFPV,UnitedStates,Five33Switchback,2022/09/28
+VRL Season 4 Track 7,Dynamic Weather,10,83.142,PaulEFPV,UnitedStates,Ossa,2021/04/13
 VRL-Season-4-Tryouts,Dynamic Weather,2,227.461,PaulEFPV,UnitedStates,CarbiXZero,2022/05/18
-VRL SEASON 5 TRACK 6,Dynamic Weather,2,80.798,PaulEFPV,UnitedStates,CarbiXZero,2022/04/09
-VRL SEASON 5 TRACK 7,IndoorGoKart,3,128.065,PaulEFPV,UnitedStates,Ossa,2021/04/11
-VRL SEASON 5 TRACK 8,Industrial Wasteland,4,82.382,PaulEFPV,UnitedStates,Ossa,2021/04/12
-VRL SEASON 5 TRYOUTS,Dynamic Weather,2,92.018,PaulEFPV,UnitedStates,CarbiXZero,2022/04/12
-VRL SEASON 6 TRYOUTS,Dynamic Weather,8,100.038,PaulEFPV,UnitedStates,Ossa,2021/04/13
-VRL Season 7 Championships,Dynamic Weather,15,95.856,PaulEFPV,UnitedStates,CarbiXZero,2022/05/07
-VRL Season 8 Championships,Dynamic Weather,53,84.747,PaulEFPV,UnitedStates,CarbiXZero,2022/05/07
+VRL SEASON 5 TRACK 6,Dynamic Weather,2,76.819,PaulEFPV,UnitedStates,Five33Switchback,2022/09/02
+VRL SEASON 5 TRACK 7,IndoorGoKart,4,128.065,PaulEFPV,UnitedStates,Ossa,2021/04/11
+VRL SEASON 5 TRACK 8,Industrial Wasteland,2,80.657,PaulEFPV,UnitedStates,Five33Switchback,2022/09/08
+VRL SEASON 5 TRYOUTS,Dynamic Weather,1,90.953,PaulEFPV,UnitedStates,Five33Switchback,2022/09/09
+VRL SEASON 6 TRYOUTS,Dynamic Weather,6,97.492,PaulEFPV,UnitedStates,Five33Switchback,2022/09/12
+VRL Season 7 Championships,Dynamic Weather,16,95.810,PaulEFPV,UnitedStates,Five33Switchback,2022/09/18
+VRL Season 8 Championships,Dynamic Weather,54,84.747,PaulEFPV,UnitedStates,CarbiXZero,2022/05/07
 VRL Season 8 Track 1,Office Complex,38,122.199,PaulEFPV,UnitedStates,Mode2Ghost,2021/11/06
 VRL Season 8 Track 2,Drift Track,48,92.599,PaulEFPV,UnitedStates,CarbiXZero,2021/12/21
-VRL Season 8 Track 3,Night Factory 2,39,102.978,PaulEFPV,UnitedStates,CarbiXZero,2021/12/25
+VRL Season 8 Track 3,Night Factory 2,40,102.978,PaulEFPV,UnitedStates,CarbiXZero,2021/12/25
 VRL Season 8 Track 4,DynamicPoly,38,117.620,PaulEFPV,UnitedStates,CarbiXZero,2021/12/09
 VRL Season 8 Track 5,Dynamic Weather,42,102.385,PaulEFPV,UnitedStates,CarbiXZero,2021/12/18
 VRL Season 8 Track 6,Night Factory 2,35,103.391,PaulEFPV,UnitedStates,CarbiXZero,2022/01/14
-VRL SEASON 8 TRACK 7,Dynamic Weather,61,88.095,PaulEFPV,UnitedStates,CarbiXZero,2022/04/15
-VRL SEASON 8 TRYOUTS,RedValley,27,292.027,PaulEFPV,UnitedStates,Mode2Ghost,2021/09/14
+VRL SEASON 8 TRACK 7,Dynamic Weather,51,82.742,PaulEFPV,UnitedStates,Five33Switchback,2022/09/14
+VRL SEASON 8 TRYOUTS,RedValley,32,292.027,PaulEFPV,UnitedStates,Mode2Ghost,2021/09/14
+VRL Season 9 Tryouts,Dynamic Weather,30,95.456,PaulEFPV,UnitedStates,Five33Switchback,2023/01/06

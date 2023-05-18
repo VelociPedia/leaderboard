@@ -10,8 +10,8 @@ DEP Open Series 3 Race 6,Football Stadium,138.762,ApiFpv,Germany,TBSSpec,2021/03
 DEP Open Series 3 Race 7,Football Stadium,999.999,ApiFpv,NO_DATA
 DEP Open Series 4 Race 1,Football Stadium,999.999,ApiFpv,NO_DATA
 DEP Open Series 4 Race 2,Football Stadium,999.999,ApiFpv,NO_DATA
-DEP Open Series 4 Race 3,Football Stadium,97.568,ApiFpv,Germany,Five33Switchback,2021/04/20
-DEP Open Series 4 Race 4,Football Stadium,130.996,ApiFpv,Germany,TBSSpec,2021/04/27
+DEP Open Series 4 Race 3,Football Stadium,999.999,ApiFpv,NO_DATA
+DEP Open Series 4 Race 4,Football Stadium,999.999,ApiFpv,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999.999,ApiFpv,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,84.828,ApiFpv,Germany,Five33Switchback,2021/05/23
 DEP Open Series 4 Race 7,Football Stadium,84.130,ApiFpv,Germany,TBSSpec,2021/10/11
@@ -38,7 +38,7 @@ TBS EU Spec Series 8 Final,Dynamic Weather,105.919,ApiFpv,Germany,TBSSpec,2021/0
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,75.823,ApiFpv,Germany,TBSSpec,2021/07/01
 TBS EU Spec Series 8 Race 1,Dynamic Weather,93.166,ApiFpv,Germany,TBSSpec,2021/04/12
 TBS EU Spec Series 8 Race 2,Empty Scene Night,98.745,ApiFpv,Germany,TBSSpec,2021/04/11
-TBS EU Spec Series 8 Race 3,Football Stadium,81.865,ApiFpv,Germany,TBSSpec,2021/05/06
+TBS EU Spec Series 8 Race 3,Football Stadium,999.999,ApiFpv,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,91.029,ApiFpv,Germany,TBSSpec,2021/05/07
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,69.955,ApiFpv,Germany,TBSSpec,2021/05/22
 TBS EU Spec Series 8 Race 6,Football Stadium,81.147,ApiFpv,Germany,TBSSpec,2021/06/04
@@ -50,5 +50,14 @@ TBS EU Spec Series 9 Race 2,Dynamic Weather,67.800,ApiFpv,Germany,TBSSpec,2021/0
 TBS EU Spec Series 9 Race 3,Empty Scene Day,79.228,ApiFpv,Germany,TBSSpec,2021/10/07
 TBS EU Spec Series 9 Race 4,Football Stadium,81.897,ApiFpv,Germany,Five33Switchback,2022/01/04
 TBS EU Spec Series 9 Race 5,Empty Scene Day,77.525,ApiFpv,Germany,TBSSpec,2021/10/11
-TBS EU Spec Series 9 Race 6,Empty Scene Day,102.778,ApiFpv,Germany,TBSSpec,2021/10/24
+TBS EU Spec Series 9 Race 6,Empty Scene Day,999.999,ApiFpv,NO_DATA
 TBS EU Spec Series 9 Race 7,NEC Birmingham,90.662,ApiFpv,Germany,TBSSpec,2021/11/07
+VRL Season 8 Championships,Dynamic Weather,169.745,ApiFpv,Germany,Five33Switchback,2022/02/12
+VRL Season 8 Track 1,Office Complex,999.999,ApiFpv,NO_DATA
+VRL Season 8 Track 2,Drift Track,138.964,ApiFpv,Germany,CarbiXZero,2021/11/16
+VRL Season 8 Track 3,Night Factory 2,210.340,ApiFpv,Germany,Five33Switchback,2021/11/27
+VRL Season 8 Track 4,DynamicPoly,999.999,ApiFpv,NO_DATA
+VRL Season 8 Track 5,Dynamic Weather,146.722,ApiFpv,Germany,Five33Switchback,2021/12/16
+VRL Season 8 Track 6,Night Factory 2,181.055,ApiFpv,Germany,TBSSpec,2022/01/08
+VRL SEASON 8 TRACK 7,Dynamic Weather,128.440,ApiFpv,Germany,Five33Switchback,2022/01/23
+VRL SEASON 8 TRYOUTS,RedValley,258.056,ApiFpv,Germany,TBSSpec,2021/09/10

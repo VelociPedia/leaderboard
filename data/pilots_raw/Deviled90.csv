@@ -26,10 +26,10 @@ DEP Open Series 6 Race 1,Football Stadium,999.999,Deviled90,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,90.029,Deviled90,Italy,Five33Switchback,2022/03/09
 DEP Spec Series 1 Race 5,Football Stadium,102.619,Deviled90,Italy,Five33Switchback,2021/01/04
 EU Spec Season 4 Race 1,Football Stadium,999.999,Deviled90,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,86.448,Deviled90,Italy,Five33Switchback,2022/04/08
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,Deviled90,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,72.398,Deviled90,Italy,Five33Switchback,2022/04/08
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,54.479,Deviled90,Italy,Five33Switchback,2021/10/01
-RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,113.500,Deviled90,Italy,TBSSpec,2020/05/19
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999.999,Deviled90,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,82.218,Deviled90,Italy,TBSSpec,2021/12/09
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999.999,Deviled90,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,91.457,Deviled90,Italy,Five33Switchback,2022/04/09
@@ -57,6 +57,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,108.761,Deviled90,Italy,TBSSpec,202
 TBS EU Spec Series 11 Race 5,NEC Birmingham,64.982,Deviled90,Italy,TBSSpec,2022/07/07
 TBS EU Spec Series 11 Race 6,Dynamic Weather,77.804,Deviled90,Italy,Five33Switchback,2022/07/17
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,106.175,Deviled90,Italy,TBSSpec,2023/01/18
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,78.805,Deviled90,Italy,TBSSpec,2023/01/16
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,87.627,Deviled90,Italy,TBSSpec,2023/01/26
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,Deviled90,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,Deviled90,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,Deviled90,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,73.292,Deviled90,Italy,TBSSpec,2021/11/05
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,Deviled90,NO_DATA
@@ -94,7 +105,7 @@ TBS EU Spec Series 8 Race 3,Football Stadium,65.510,Deviled90,Italy,TBSSpec,2021
 TBS EU Spec Series 8 Race 4,Empty Scene Day,86.474,Deviled90,Italy,TBSSpec,2021/05/06
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,66.642,Deviled90,Italy,TBSSpec,2021/05/20
 TBS EU Spec Series 8 Race 6,Football Stadium,999.999,Deviled90,NO_DATA
-TBS EU Spec Series 8 Race 7,Empty Scene Day,95.963,Deviled90,Italy,Five33Switchback,2021/08/10
+TBS EU Spec Series 8 Race 7,Empty Scene Day,999.999,Deviled90,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,999.999,Deviled90,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,73.683,Deviled90,Italy,TBSSpec,2021/11/04
 TBS EU Spec Series 9 Race 1,Football Stadium,66.792,Deviled90,Italy,TBSSpec,2021/09/09

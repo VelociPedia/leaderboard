@@ -1,15 +1,15 @@
-DEP Open Pop-Up 2,Dynamic Weather,103,82.510,Kaiser,Denmark,Five33Switchback,2021/07/04
-DEP Open Series 2 Race 1,Dynamic Weather,32,45.890,Kaiser,Denmark,Five33Switchback,2020/12/06
-DEP Open Series 2 Race 7,Football Stadium,99,103.719,Kaiser,Denmark,Five33Switchback,2021/03/18
-DEP Open Series 3 Race 1,Football Stadium,168,65.581,Kaiser,Denmark,Five33Switchback,2021/02/06
-DEP Open Series 3 Race 2,Football Stadium,181,115.974,Kaiser,Denmark,Five33Switchback,2021/02/11
-DEP Open Series 3 Race 3,Karting Track,38,80.298,Kaiser,Denmark,Five33Switchback,2021/02/24
-DEP Open Series 3 Race 4,Football Stadium,92,66.180,Kaiser,Denmark,TBSSpec,2021/03/06
-DEP Open Series 3 Race 5,Football Stadium,96,84.194,Kaiser,Denmark,TBSSpec,2021/03/04
-DEP Open Series 3 Race 6,Football Stadium,43,91.301,Kaiser,Denmark,Five33Switchback,2021/03/12
-DEP Open Series 3 Race 7,Football Stadium,94,95.439,Kaiser,Denmark,Five33Switchback,2021/03/18
-DEP Open Series 4 Race 1,Football Stadium,40,79.267,Kaiser,Denmark,Mode2Ghost,2021/04/03
-DEP Open Series 4 Race 2,Football Stadium,119,116.890,Kaiser,Denmark,Mode2Ghost,2021/04/08
+DEP Open Pop-Up 2,Dynamic Weather,122,82.510,Kaiser,Denmark,Five33Switchback,2021/07/04
+DEP Open Series 2 Race 1,Dynamic Weather,33,45.890,Kaiser,Denmark,Five33Switchback,2020/12/06
+DEP Open Series 2 Race 7,Football Stadium,118,103.719,Kaiser,Denmark,Five33Switchback,2021/03/18
+DEP Open Series 3 Race 1,Football Stadium,192,65.581,Kaiser,Denmark,Five33Switchback,2021/02/06
+DEP Open Series 3 Race 2,Football Stadium,199,115.974,Kaiser,Denmark,Five33Switchback,2021/02/11
+DEP Open Series 3 Race 3,Karting Track,41,80.298,Kaiser,Denmark,Five33Switchback,2021/02/24
+DEP Open Series 3 Race 4,Football Stadium,100,66.180,Kaiser,Denmark,TBSSpec,2021/03/06
+DEP Open Series 3 Race 5,Football Stadium,100,84.194,Kaiser,Denmark,TBSSpec,2021/03/04
+DEP Open Series 3 Race 6,Football Stadium,46,91.301,Kaiser,Denmark,Five33Switchback,2021/03/12
+DEP Open Series 3 Race 7,Football Stadium,100,95.439,Kaiser,Denmark,Five33Switchback,2021/03/18
+DEP Open Series 4 Race 1,Football Stadium,44,79.267,Kaiser,Denmark,Mode2Ghost,2021/04/03
+DEP Open Series 4 Race 2,Football Stadium,129,116.890,Kaiser,Denmark,Mode2Ghost,2021/04/08
 DEP Open Series 4 Race 3,Football Stadium,999,999.999,Kaiser,NO_DATA
 DEP Open Series 4 Race 4,Football Stadium,999,999.999,Kaiser,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999,999.999,Kaiser,NO_DATA
@@ -24,29 +24,29 @@ DEP Open Series 5 Race 6,Football Stadium,999,999.999,Kaiser,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,Kaiser,NO_DATA
 DEP Open Series 6 Race 1,Football Stadium,999,999.999,Kaiser,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,999,999.999,Kaiser,NO_DATA
-DEP Spec Series 1 Race 5,Football Stadium,120,105.436,Kaiser,Denmark,Five33Switchback,2020/10/12
-TBS EU Spec Series 6 Final,Empty Scene Day,170,98.758,Kaiser,Denmark,Five33Switchback,2020/12/05
-TBS EU Spec Series 6 Losers Final,Football Stadium,134,83.397,Kaiser,Denmark,Five33Switchback,2020/12/05
+DEP Spec Series 1 Race 5,Football Stadium,125,105.436,Kaiser,Denmark,Five33Switchback,2020/10/12
+TBS EU Spec Series 6 Final,Empty Scene Day,184,98.758,Kaiser,Denmark,Five33Switchback,2020/12/05
+TBS EU Spec Series 6 Losers Final,Football Stadium,146,83.397,Kaiser,Denmark,Five33Switchback,2020/12/05
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,Kaiser,NO_DATA
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,Kaiser,NO_DATA
-TBS EU Spec Series 6 Race 4,NEC Birmingham,112,87.239,Kaiser,Denmark,Five33Switchback,2020/11/06
-TBS EU Spec Series 6 Race 5,Dynamic Weather,50,84.041,Kaiser,Denmark,Five33Switchback,2020/11/06
-TBS EU Spec Series 6 Race 6,Empty Scene Day,95,81.283,Kaiser,Denmark,Five33Switchback,2020/11/15
+TBS EU Spec Series 6 Race 4,NEC Birmingham,129,87.239,Kaiser,Denmark,Five33Switchback,2020/11/06
+TBS EU Spec Series 6 Race 5,Dynamic Weather,51,84.041,Kaiser,Denmark,Five33Switchback,2020/11/06
+TBS EU Spec Series 6 Race 6,Empty Scene Day,100,81.283,Kaiser,Denmark,Five33Switchback,2020/11/15
 TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,Kaiser,NO_DATA
 TBS EU Spec Series 7 Final,Empty Scene Day,78,75.841,Kaiser,Denmark,TBSSpec,2021/03/05
-TBS EU Spec Series 7 Race 1,Football Stadium,83,73.108,Kaiser,Denmark,Five33Switchback,2021/01/13
+TBS EU Spec Series 7 Race 1,Football Stadium,84,73.108,Kaiser,Denmark,Five33Switchback,2021/01/13
 TBS EU Spec Series 7 Race 2,Empty Scene Day,55,69.948,Kaiser,Denmark,Five33Switchback,2021/06/30
-TBS EU Spec Series 7 Race 3,Empty Scene Day,84,75.653,Kaiser,Denmark,Five33Switchback,2021/01/27
-TBS EU Spec Series 7 Race 4,Empty Scene Day,81,72.036,Kaiser,Denmark,TBSSpec,2021/01/30
-TBS EU Spec Series 7 Race 5,IndoorGoKart,191,92.899,Kaiser,Denmark,TBSSpec,2021/02/05
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,56,71.049,Kaiser,Denmark,TBSSpec,2021/02/12
-TBS EU Spec Series 7 Race 7,Empty Scene Day,92,83.936,Kaiser,Denmark,TBSSpec,2021/02/22
+TBS EU Spec Series 7 Race 3,Empty Scene Day,89,75.653,Kaiser,Denmark,Five33Switchback,2021/01/27
+TBS EU Spec Series 7 Race 4,Empty Scene Day,82,72.036,Kaiser,Denmark,TBSSpec,2021/01/30
+TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,Kaiser,NO_DATA
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,58,71.049,Kaiser,Denmark,TBSSpec,2021/02/12
+TBS EU Spec Series 7 Race 7,Empty Scene Day,98,83.936,Kaiser,Denmark,TBSSpec,2021/02/22
 TBS EU Spec Series 8 Final,Dynamic Weather,45,76.427,Kaiser,Denmark,TBSSpec,2021/07/04
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,53,60.762,Kaiser,Denmark,TBSSpec,2021/06/27
-TBS EU Spec Series 8 Race 1,Dynamic Weather,106,83.992,Kaiser,Denmark,TBSSpec,2021/03/28
-TBS EU Spec Series 8 Race 2,Empty Scene Night,29,73.225,Kaiser,Denmark,TBSSpec,2021/03/28
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,60,60.762,Kaiser,Denmark,TBSSpec,2021/06/27
+TBS EU Spec Series 8 Race 1,Dynamic Weather,113,83.992,Kaiser,Denmark,TBSSpec,2021/03/28
+TBS EU Spec Series 8 Race 2,Empty Scene Night,30,73.225,Kaiser,Denmark,TBSSpec,2021/03/28
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,Kaiser,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,Kaiser,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,Kaiser,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,51,65.306,Kaiser,Denmark,TBSSpec,2021/06/18
-TBS EU Spec Series 8 Race 7,Empty Scene Day,76,77.431,Kaiser,Denmark,TBSSpec,2021/06/18
+TBS EU Spec Series 8 Race 7,Empty Scene Day,85,77.431,Kaiser,Denmark,TBSSpec,2021/06/18

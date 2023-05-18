@@ -6,7 +6,7 @@ Formula Flow IV,Empty Scene Day,22,110.349,RaceRat,UnitedKingdom,Five33Switchbac
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,RaceRat,NO_DATA
-RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,128,93.456,RaceRat,UnitedKingdom,TBSSpec,2021/03/30
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,143,93.456,RaceRat,UnitedKingdom,TBSSpec,2021/03/30
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,RaceRat,NO_DATA
@@ -16,76 +16,87 @@ RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,119,64.482,RaceRat,UnitedKingdom,TBSSpec,2022/06/07
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,100,86.810,RaceRat,UnitedKingdom,TBSSpec,2022/09/27
-TBS EU Spec Series 10 Losers Final,Football Stadium,56,56.928,RaceRat,UnitedKingdom,TBSSpec,2022/05/11
-TBS EU Spec Series 10 Race 1,Football Stadium,104,71.347,RaceRat,UnitedKingdom,TBSSpec,2021/12/06
-TBS EU Spec Series 10 Race 2,Empty Scene Day,146,84.124,RaceRat,UnitedKingdom,TBSSpec,2022/06/15
-TBS EU Spec Series 10 Race 3,Night Factory 2,86,78.937,RaceRat,UnitedKingdom,TBSSpec,2022/06/15
-TBS EU Spec Series 10 Race 4,Dynamic Weather,106,76.093,RaceRat,UnitedKingdom,TBSSpec,2022/01/14
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,85,68.111,RaceRat,UnitedKingdom,TBSSpec,2022/07/24
+TBS EU Spec Season 5 Race 1,Football Stadium,136,64.482,RaceRat,UnitedKingdom,TBSSpec,2022/06/07
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,118,86.810,RaceRat,UnitedKingdom,TBSSpec,2022/09/27
+TBS EU Spec Series 10 Losers Final,Football Stadium,64,56.928,RaceRat,UnitedKingdom,TBSSpec,2022/05/11
+TBS EU Spec Series 10 Race 1,Football Stadium,123,71.347,RaceRat,UnitedKingdom,TBSSpec,2021/12/06
+TBS EU Spec Series 10 Race 2,Empty Scene Day,161,84.124,RaceRat,UnitedKingdom,TBSSpec,2022/06/15
+TBS EU Spec Series 10 Race 3,Night Factory 2,93,78.937,RaceRat,UnitedKingdom,TBSSpec,2022/06/15
+TBS EU Spec Series 10 Race 4,Dynamic Weather,118,76.093,RaceRat,UnitedKingdom,TBSSpec,2022/01/14
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,102,68.111,RaceRat,UnitedKingdom,TBSSpec,2022/07/24
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,98,79.228,RaceRat,UnitedKingdom,TBSSpec,2022/02/06
-TBS EU Spec Series 11 Final,Dynamic Weather,119,108.337,RaceRat,UnitedKingdom,TBSSpec,2022/09/30
-TBS EU Spec Series 11 Race 1,Dynamic Weather,117,88.398,RaceRat,UnitedKingdom,TBSSpec,2022/05/31
-TBS EU Spec Series 11 Race 2,Countryside,54,68.787,RaceRat,UnitedKingdom,TBSSpec,2022/06/14
+TBS EU Spec Series 10 Race 7,Football Stadium,106,79.228,RaceRat,UnitedKingdom,TBSSpec,2022/02/06
+TBS EU Spec Series 11 Final,Dynamic Weather,135,108.337,RaceRat,UnitedKingdom,TBSSpec,2022/09/30
+TBS EU Spec Series 11 Race 1,Dynamic Weather,166,88.398,RaceRat,UnitedKingdom,TBSSpec,2022/05/31
+TBS EU Spec Series 11 Race 2,Countryside,59,68.787,RaceRat,UnitedKingdom,TBSSpec,2022/06/14
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 11 Race 5,Dynamic Weather,69,81.506,RaceRat,UnitedKingdom,TBSSpec,2022/07/06
+TBS EU Spec Series 11 Race 5,Dynamic Weather,74,81.506,RaceRat,UnitedKingdom,TBSSpec,2022/07/06
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,180,109.535,RaceRat,UnitedKingdom,TBSSpec,2021/04/07
+TBS EU Spec Series 12 Final,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,50,83.604,RaceRat,UnitedKingdom,TBSSpec,2023/01/05
+TBS EU Spec Series 12 Race 5,Dynamic Weather,127,108.879,RaceRat,UnitedKingdom,TBSSpec,2023/01/20
+TBS EU Spec Series 12 Race 6,Dynamic Weather,110,80.466,RaceRat,UnitedKingdom,TBSSpec,2023/02/01
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999,999.999,RaceRat,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,190,109.535,RaceRat,UnitedKingdom,TBSSpec,2021/04/07
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 4 Race 3,IndoorGoKart,130,131.960,RaceRat,UnitedKingdom,TBSSpec,2021/04/06
-TBS EU Spec Series 4 Race 4,Empty Scene Day,131,94.693,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
-TBS EU Spec Series 4 Race 5,Dynamic Weather,125,100.993,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
-TBS EU Spec Series 4 Race 7,Football Stadium,166,84.940,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
+TBS EU Spec Series 4 Race 3,IndoorGoKart,147,131.960,RaceRat,UnitedKingdom,TBSSpec,2021/04/06
+TBS EU Spec Series 4 Race 4,Empty Scene Day,137,94.693,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
+TBS EU Spec Series 4 Race 5,Dynamic Weather,128,100.993,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
+TBS EU Spec Series 4 Race 7,Football Stadium,172,84.940,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,181,107.091,RaceRat,UnitedKingdom,TBSSpec,2020/12/22
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,196,107.091,RaceRat,UnitedKingdom,TBSSpec,2020/12/22
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,154,100.025,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
+TBS EU Spec Series 5 Race 4,Football Stadium,160,100.025,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 5 Race 6,Dynamic Weather,157,86.756,RaceRat,UnitedKingdom,TBSSpec,2021/02/23
-TBS EU Spec Series 5 Race 7,IndoorGoKart,140,95.349,RaceRat,UnitedKingdom,TBSSpec,2021/01/20
+TBS EU Spec Series 5 Race 6,Dynamic Weather,162,86.756,RaceRat,UnitedKingdom,TBSSpec,2021/02/23
+TBS EU Spec Series 5 Race 7,IndoorGoKart,147,95.349,RaceRat,UnitedKingdom,TBSSpec,2021/01/20
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 6 Losers Final,Football Stadium,149,86.517,RaceRat,UnitedKingdom,TBSSpec,2021/02/23
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,184,87.122,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
+TBS EU Spec Series 6 Losers Final,Football Stadium,162,86.517,RaceRat,UnitedKingdom,TBSSpec,2021/02/23
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,189,87.122,RaceRat,UnitedKingdom,TBSSpec,2021/10/06
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 6 Race 5,Dynamic Weather,188,115.182,RaceRat,UnitedKingdom,TBSSpec,2020/11/05
+TBS EU Spec Series 6 Race 5,Dynamic Weather,200,115.182,RaceRat,UnitedKingdom,TBSSpec,2020/11/05
 TBS EU Spec Series 6 Race 6,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 7 Race 2,Empty Scene Day,171,84.838,RaceRat,UnitedKingdom,TBSSpec,2021/01/14
-TBS EU Spec Series 7 Race 3,Empty Scene Day,189,89.097,RaceRat,UnitedKingdom,TBSSpec,2021/01/21
+TBS EU Spec Series 7 Race 2,Empty Scene Day,178,84.838,RaceRat,UnitedKingdom,TBSSpec,2021/01/14
+TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,RaceRat,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 7 Race 5,IndoorGoKart,175,88.686,RaceRat,UnitedKingdom,TBSSpec,2021/02/04
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,152,87.553,RaceRat,UnitedKingdom,TBSSpec,2021/02/11
-TBS EU Spec Series 7 Race 7,Empty Scene Day,179,101.700,RaceRat,UnitedKingdom,TBSSpec,2021/02/18
+TBS EU Spec Series 7 Race 5,IndoorGoKart,196,88.686,RaceRat,UnitedKingdom,TBSSpec,2021/02/04
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,157,87.553,RaceRat,UnitedKingdom,TBSSpec,2021/02/11
+TBS EU Spec Series 7 Race 7,Empty Scene Day,189,101.700,RaceRat,UnitedKingdom,TBSSpec,2021/02/18
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,112,71.042,RaceRat,UnitedKingdom,TBSSpec,2021/06/24
-TBS EU Spec Series 8 Race 1,Dynamic Weather,124,87.446,RaceRat,UnitedKingdom,TBSSpec,2022/03/28
-TBS EU Spec Series 8 Race 2,Empty Scene Night,100,90.464,RaceRat,UnitedKingdom,TBSSpec,2021/04/01
-TBS EU Spec Series 8 Race 3,Football Stadium,99,67.163,RaceRat,UnitedKingdom,TBSSpec,2021/04/23
-TBS EU Spec Series 8 Race 4,Empty Scene Day,62,77.621,RaceRat,UnitedKingdom,TBSSpec,2022/09/29
-TBS EU Spec Series 8 Race 5,Future Hangar Empty,100,68.652,RaceRat,UnitedKingdom,TBSSpec,2021/05/20
-TBS EU Spec Series 8 Race 6,Football Stadium,142,78.413,RaceRat,UnitedKingdom,TBSSpec,2021/06/03
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,128,71.042,RaceRat,UnitedKingdom,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Race 1,Dynamic Weather,135,87.446,RaceRat,UnitedKingdom,TBSSpec,2022/03/28
+TBS EU Spec Series 8 Race 2,Empty Scene Night,110,90.464,RaceRat,UnitedKingdom,TBSSpec,2021/04/01
+TBS EU Spec Series 8 Race 3,Football Stadium,103,67.163,RaceRat,UnitedKingdom,TBSSpec,2021/04/23
+TBS EU Spec Series 8 Race 4,Empty Scene Day,68,77.621,RaceRat,UnitedKingdom,TBSSpec,2022/09/29
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,104,68.652,RaceRat,UnitedKingdom,TBSSpec,2021/05/20
+TBS EU Spec Series 8 Race 6,Football Stadium,152,78.413,RaceRat,UnitedKingdom,TBSSpec,2021/06/03
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,RaceRat,NO_DATA
-TBS EU Spec Series 9 Final,Dynamic Weather,122,74.938,RaceRat,UnitedKingdom,TBSSpec,2021/11/16
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,88,70.412,RaceRat,UnitedKingdom,TBSSpec,2022/06/18
-TBS EU Spec Series 9 Race 1,Football Stadium,121,67.366,RaceRat,UnitedKingdom,TBSSpec,2021/09/16
-TBS EU Spec Series 9 Race 2,Dynamic Weather,124,66.775,RaceRat,UnitedKingdom,TBSSpec,2021/09/16
-TBS EU Spec Series 9 Race 3,Empty Scene Day,120,71.917,RaceRat,UnitedKingdom,TBSSpec,2021/09/27
-TBS EU Spec Series 9 Race 4,Football Stadium,84,74.387,RaceRat,UnitedKingdom,TBSSpec,2021/10/05
-TBS EU Spec Series 9 Race 5,Empty Scene Day,136,77.811,RaceRat,UnitedKingdom,TBSSpec,2021/10/07
-TBS EU Spec Series 9 Race 6,Empty Scene Day,126,85.771,RaceRat,UnitedKingdom,TBSSpec,2021/10/26
-TBS EU Spec Series 9 Race 7,NEC Birmingham,184,102.621,RaceRat,UnitedKingdom,TBSSpec,2021/11/01
+TBS EU Spec Series 9 Final,Dynamic Weather,129,74.938,RaceRat,UnitedKingdom,TBSSpec,2021/11/16
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,96,70.412,RaceRat,UnitedKingdom,TBSSpec,2022/06/18
+TBS EU Spec Series 9 Race 1,Football Stadium,127,67.366,RaceRat,UnitedKingdom,TBSSpec,2021/09/16
+TBS EU Spec Series 9 Race 2,Dynamic Weather,132,66.775,RaceRat,UnitedKingdom,TBSSpec,2021/09/16
+TBS EU Spec Series 9 Race 3,Empty Scene Day,133,71.917,RaceRat,UnitedKingdom,TBSSpec,2021/09/27
+TBS EU Spec Series 9 Race 4,Football Stadium,90,74.387,RaceRat,UnitedKingdom,TBSSpec,2021/10/05
+TBS EU Spec Series 9 Race 5,Empty Scene Day,162,77.811,RaceRat,UnitedKingdom,TBSSpec,2021/10/07
+TBS EU Spec Series 9 Race 6,Empty Scene Day,145,85.771,RaceRat,UnitedKingdom,TBSSpec,2021/10/26
+TBS EU Spec Series 9 Race 7,NEC Birmingham,194,102.621,RaceRat,UnitedKingdom,TBSSpec,2021/11/01
 VRL 7 Race 4,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-VRL 7 Track 1,Future Hangar,42,95.341,RaceRat,UnitedKingdom,Five33Switchback,2022/04/29
-VRL 7 Track 2,Future Hangar Empty,153,153.406,RaceRat,UnitedKingdom,Ossa,2020/11/01
+VRL 7 Track 1,Future Hangar,43,95.341,RaceRat,UnitedKingdom,Five33Switchback,2022/04/29
+VRL 7 Track 2,Future Hangar Empty,161,153.406,RaceRat,UnitedKingdom,Ossa,2020/11/01
 VRL 7 Track 3,Dynamic Weather,999,999.999,RaceRat,NO_DATA
-VRL 7 Track 5,Dynamic Weather,90,87.756,RaceRat,UnitedKingdom,Five33Switchback,2021/12/21
-VRL 7 Track 6,Dynamic Weather,152,91.854,RaceRat,UnitedKingdom,Ossa,2021/01/11
-VRL7 Tryouts,Future Hangar Empty,57,93.416,RaceRat,UnitedKingdom,SniperX,2021/12/27
-VRL Season 7 Championships,Dynamic Weather,150,126.913,RaceRat,UnitedKingdom,Ossa,2020/12/30
+VRL 7 Track 5,Dynamic Weather,94,87.756,RaceRat,UnitedKingdom,Five33Switchback,2021/12/21
+VRL 7 Track 6,Dynamic Weather,158,91.854,RaceRat,UnitedKingdom,Ossa,2021/01/11
+VRL7 Tryouts,Future Hangar Empty,58,93.416,RaceRat,UnitedKingdom,SniperX,2021/12/27
+VRL Season 7 Championships,Dynamic Weather,157,126.913,RaceRat,UnitedKingdom,Ossa,2020/12/30

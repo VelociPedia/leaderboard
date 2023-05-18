@@ -1,58 +1,68 @@
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999,999.999,geek_fpv,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,4,45.668,geek_fpv,Italy,Ossa,2021/10/06
+DEP Open Series 3 Race 1,Football Stadium,5,45.668,geek_fpv,Italy,Ossa,2021/10/06
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,999,999.999,geek_fpv,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,999,999.999,geek_fpv,NO_DATA
-DEP Open Series 3 Race 7,Football Stadium,16,73.682,geek_fpv,Italy,Five33Switchback,2021/03/30
-DEP Open Series 4 Race 1,Football Stadium,15,71.587,geek_fpv,Italy,Five33Switchback,2021/04/06
+DEP Open Series 3 Race 7,Football Stadium,17,73.682,geek_fpv,Italy,Five33Switchback,2021/03/30
+DEP Open Series 4 Race 1,Football Stadium,16,71.587,geek_fpv,Italy,Five33Switchback,2021/04/06
 DEP Open Series 4 Race 2,Football Stadium,3,76.372,geek_fpv,Italy,Five33Switchback,2021/09/26
 DEP Open Series 4 Race 3,Football Stadium,18,58.849,geek_fpv,Italy,Five33Switchback,2021/04/17
-DEP Open Series 4 Race 4,Football Stadium,12,71.816,geek_fpv,Italy,Five33Switchback,2021/04/25
-DEP Open Series 4 Race 5,Football Stadium,19,57.315,geek_fpv,Italy,Five33Switchback,2021/05/01
+DEP Open Series 4 Race 4,Football Stadium,13,71.816,geek_fpv,Italy,Five33Switchback,2021/04/25
+DEP Open Series 4 Race 5,Football Stadium,21,57.315,geek_fpv,Italy,Five33Switchback,2021/05/01
 DEP Open Series 4 Race 6,Football Stadium,13,58.765,geek_fpv,Italy,Five33Switchback,2021/05/26
 DEP Open Series 4 Race 7,Football Stadium,3,53.046,geek_fpv,Italy,Five33Switchback,2022/01/27
 DEP Open Series 5 Race 1,Football Stadium,5,49.123,geek_fpv,Italy,Chief,2021/10/26
-DEP Open Series 5 Race 2,Football Stadium,5,60.562,geek_fpv,Italy,Chief,2021/10/30
-DEP Open Series 5 Race 3,Football Stadium,3,63.353,geek_fpv,Italy,Five33Switchback,2021/11/21
+DEP Open Series 5 Race 2,Football Stadium,6,60.562,geek_fpv,Italy,Chief,2021/10/30
+DEP Open Series 5 Race 3,Football Stadium,4,63.353,geek_fpv,Italy,Five33Switchback,2021/11/21
 DEP Open Series 5 Race 4,Football Stadium,7,65.675,geek_fpv,Italy,Chief,2021/11/25
 DEP Open Series 5 Race 5,Football Stadium,4,66.549,geek_fpv,Italy,Ossa,2021/12/15
 DEP Open Series 5 Race 6,Football Stadium,4,58.606,geek_fpv,Italy,CarbiXZero,2022/01/04
-DEP Open Series 5 Race 7,Football Stadium,5,80.713,geek_fpv,Italy,Chief,2022/01/22
+DEP Open Series 5 Race 7,Football Stadium,6,80.713,geek_fpv,Italy,Chief,2022/01/22
 DEP Open Series 6 Race 1,Football Stadium,6,57.400,geek_fpv,Italy,CarbiXZero,2022/03/15
-DEP Open Series 6 Race 2,Football Stadium,5,72.926,geek_fpv,Italy,CarbiXZero,2022/03/18
+DEP Open Series 6 Race 2,Football Stadium,7,72.926,geek_fpv,Italy,CarbiXZero,2022/03/18
 DEP Spec Series 1 Race 5,Football Stadium,23,84.173,geek_fpv,Italy,Five33Switchback,2020/10/27
-RCTech_de EU Spec Series 3 Final,Empty Scene Day,71,77.884,geek_fpv,Italy,TBSSpec,2020/04/21
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,72,77.884,geek_fpv,Italy,TBSSpec,2020/04/21
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,16,53.630,geek_fpv,Italy,Five33Switchback,2020/11/29
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,geek_fpv,NO_DATA
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,49,81.094,geek_fpv,Italy,TBSSpec,2020/04/23
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,54,81.094,geek_fpv,Italy,TBSSpec,2020/04/23
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,59,101.065,geek_fpv,Italy,TBSSpec,2020/04/06
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,41,73.755,geek_fpv,Italy,TBSSpec,2020/04/29
-TBS EU Spec Season 5 Race 1,Football Stadium,78,61.633,geek_fpv,Italy,Five33Switchback,2020/07/10
-TBS EU Spec Series 5 FINAL,Dynamic Weather,86,91.993,geek_fpv,Italy,Five33Switchback,2020/09/15
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,29,74.328,geek_fpv,Italy,Five33Switchback,2020/09/06
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,42,73.755,geek_fpv,Italy,TBSSpec,2020/04/29
+TBS EU Spec Season 5 Race 1,Football Stadium,91,61.633,geek_fpv,Italy,Five33Switchback,2020/07/10
+TBS EU Spec Series 5 FINAL,Dynamic Weather,87,91.993,geek_fpv,Italy,Five33Switchback,2020/09/15
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,30,74.328,geek_fpv,Italy,Five33Switchback,2020/09/06
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,geek_fpv,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,geek_fpv,NO_DATA
-TBS EU Spec Series 5 Race 5,NEC Birmingham,22,67.279,geek_fpv,Italy,Five33Switchback,2020/08/13
-TBS EU Spec Series 5 Race 6,Dynamic Weather,35,65.485,geek_fpv,Italy,Five33Switchback,2020/08/31
-TBS EU Spec Series 5 Race 7,IndoorGoKart,28,71.864,geek_fpv,Italy,Five33Switchback,2020/08/31
+TBS EU Spec Series 5 Race 5,NEC Birmingham,25,67.279,geek_fpv,Italy,Five33Switchback,2020/08/13
+TBS EU Spec Series 5 Race 6,Dynamic Weather,36,65.485,geek_fpv,Italy,Five33Switchback,2020/08/31
+TBS EU Spec Series 5 Race 7,IndoorGoKart,29,71.864,geek_fpv,Italy,Five33Switchback,2020/08/31
 TBS EU Spec Series 7 Final,Empty Scene Day,50,71.786,geek_fpv,Italy,Five33Switchback,2021/03/08
 TBS EU Spec Series 7 Race 1,Football Stadium,21,64.935,geek_fpv,Italy,Five33Switchback,2021/01/17
-TBS EU Spec Series 7 Race 2,Empty Scene Day,9,61.822,geek_fpv,Italy,Five33Switchback,2021/03/30
-TBS EU Spec Series 7 Race 3,Empty Scene Day,16,65.359,geek_fpv,Italy,Five33Switchback,2021/04/02
+TBS EU Spec Series 7 Race 2,Empty Scene Day,10,61.822,geek_fpv,Italy,Five33Switchback,2021/03/30
+TBS EU Spec Series 7 Race 3,Empty Scene Day,17,65.359,geek_fpv,Italy,Five33Switchback,2021/04/02
 TBS EU Spec Series 7 Race 4,Empty Scene Day,23,62.858,geek_fpv,Italy,Five33Switchback,2021/02/06
-TBS EU Spec Series 7 Race 5,IndoorGoKart,13,64.536,geek_fpv,Italy,Five33Switchback,2021/02/06
+TBS EU Spec Series 7 Race 5,IndoorGoKart,17,64.536,geek_fpv,Italy,Five33Switchback,2021/02/06
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,geek_fpv,NO_DATA
-TBS EU Spec Series 7 Race 7,Empty Scene Day,13,67.052,geek_fpv,Italy,Five33Switchback,2021/03/30
+TBS EU Spec Series 7 Race 7,Empty Scene Day,16,67.052,geek_fpv,Italy,Five33Switchback,2021/03/30
+VRL S9 FINALS,Dynamic Weather,11,81.944,geek_fpv,Italy,SouthEastFPV,2023/03/28
+VRL S9 T1,Dynamic Weather,18,78.656,geek_fpv,Italy,Five33Switchback,2023/01/21
+VRL S9 T2,Dynamic Weather,16,65.648,geek_fpv,Italy,Five33Switchback,2023/01/28
+VRL S9 T3,Dynamic Weather,15,63.412,geek_fpv,Italy,Five33Switchback,2023/02/02
+VRL S9 T4,Dynamic Weather,4,76.941,geek_fpv,Italy,Five33Switchback,2023/02/10
+VRL S9 T5,Dynamic Weather,12,80.210,geek_fpv,Italy,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,13,79.152,geek_fpv,Italy,Chief,2023/03/03
+VRL S9 T7,Dynamic Weather,12,79.489,geek_fpv,Italy,Five33Switchback,2023/03/09
+VRL S9 T8,Dynamic Weather,12,83.823,geek_fpv,Italy,Chief,2023/03/16
 VRL Season 8 Championships,Dynamic Weather,21,71.707,geek_fpv,Italy,Five33Switchback,2022/02/05
 VRL Season 8 Track 1,Office Complex,999,999.999,geek_fpv,NO_DATA
 VRL Season 8 Track 2,Drift Track,999,999.999,geek_fpv,NO_DATA
-VRL Season 8 Track 3,Night Factory 2,20,98.609,geek_fpv,Italy,Chief,2021/12/04
+VRL Season 8 Track 3,Night Factory 2,21,98.609,geek_fpv,Italy,Chief,2021/12/04
 VRL Season 8 Track 4,DynamicPoly,17,106.654,geek_fpv,Italy,Chief,2021/12/11
 VRL Season 8 Track 5,Dynamic Weather,22,95.065,geek_fpv,Italy,CarbiXZero,2021/12/18
 VRL Season 8 Track 6,Night Factory 2,18,98.825,geek_fpv,Italy,Chief,2022/01/15
 VRL SEASON 8 TRACK 7,Dynamic Weather,16,72.797,geek_fpv,Italy,Chief,2022/01/26
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,geek_fpv,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,16,91.246,geek_fpv,Italy,Five33Switchback,2022/12/24

@@ -13,33 +13,33 @@ DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,190,125.327,kasapo
 DDR Race Series - Track 4 by Boner fpv march,Empty Scene Day,130,115.072,kasapon,Japan,SkyXKiller,2022/03/08
 DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day,999,999.999,kasapon,NO_DATA
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,kasapon,NO_DATA
-DEP Open Series 2 Race 1,Dynamic Weather,166,68.295,kasapon,Japan,Five33Switchback,2021/04/23
-DEP Open Series 2 Race 7,Football Stadium,177,126.657,kasapon,Japan,Five33Switchback,2021/04/27
+DEP Open Series 2 Race 1,Dynamic Weather,179,68.295,kasapon,Japan,Five33Switchback,2021/04/23
+DEP Open Series 2 Race 7,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
-DEP Open Series 3 Race 2,Football Stadium,150,104.410,kasapon,Japan,Five33Switchback,2021/03/23
-DEP Open Series 3 Race 3,Karting Track,143,113.868,kasapon,Japan,Five33Switchback,2021/02/27
-DEP Open Series 3 Race 4,Football Stadium,133,71.464,kasapon,Japan,Five33Switchback,2021/03/03
-DEP Open Series 3 Race 5,Football Stadium,158,97.552,kasapon,Japan,Five33Switchback,2021/03/16
-DEP Open Series 3 Race 6,Football Stadium,111,112.736,kasapon,Japan,Five33Switchback,2021/03/20
-DEP Open Series 3 Race 7,Football Stadium,171,117.984,kasapon,Japan,Five33Switchback,2021/03/19
-DEP Open Series 4 Race 1,Football Stadium,177,112.328,kasapon,Japan,Five33Switchback,2021/04/01
+DEP Open Series 3 Race 2,Football Stadium,161,104.410,kasapon,Japan,Five33Switchback,2021/03/23
+DEP Open Series 3 Race 3,Karting Track,164,113.868,kasapon,Japan,Five33Switchback,2021/02/27
+DEP Open Series 3 Race 4,Football Stadium,143,71.464,kasapon,Japan,Five33Switchback,2021/03/03
+DEP Open Series 3 Race 5,Football Stadium,169,97.552,kasapon,Japan,Five33Switchback,2021/03/16
+DEP Open Series 3 Race 6,Football Stadium,120,112.736,kasapon,Japan,Five33Switchback,2021/03/20
+DEP Open Series 3 Race 7,Football Stadium,189,117.984,kasapon,Japan,Five33Switchback,2021/03/19
+DEP Open Series 4 Race 1,Football Stadium,190,112.328,kasapon,Japan,Five33Switchback,2021/04/01
 DEP Open Series 4 Race 2,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,999,999.999,kasapon,NO_DATA
-DEP Open Series 4 Race 4,Football Stadium,129,109.870,kasapon,Japan,Five33Switchback,2021/04/27
+DEP Open Series 4 Race 4,Football Stadium,149,109.870,kasapon,Japan,Five33Switchback,2021/04/27
 DEP Open Series 4 Race 5,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 5 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
 DEP Open Series 5 Race 2,Football Stadium,999,999.999,kasapon,NO_DATA
-DEP Open Series 5 Race 3,Football Stadium,113,99.058,kasapon,Japan,SkyXKiller,2021/11/29
-DEP Open Series 5 Race 4,Football Stadium,73,92.033,kasapon,Japan,SkyXKiller,2021/12/08
+DEP Open Series 5 Race 3,Football Stadium,130,99.058,kasapon,Japan,SkyXKiller,2021/11/29
+DEP Open Series 5 Race 4,Football Stadium,93,92.033,kasapon,Japan,SkyXKiller,2021/12/08
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,kasapon,NO_DATA
-DEP Open Series 5 Race 6,Football Stadium,86,78.859,kasapon,Japan,SkyXKiller,2021/12/21
-DEP Open Series 5 Race 7,Football Stadium,90,111.428,kasapon,Japan,SkyXKiller,2021/12/25
-DEP Open Series 6 Race 1,Football Stadium,127,92.912,kasapon,Japan,SkyXKiller,2022/03/08
-DEP Open Series 6 Race 2,Football Stadium,179,268.222,kasapon,Japan,SkyXKiller,2022/03/11
-DEP Spec Series 1 Race 5,Football Stadium,183,119.341,kasapon,Japan,Five33Switchback,2021/01/09
-EU Spec Season 4 Race 1,Football Stadium,200,105.525,kasapon,Japan,Five33Switchback,2021/03/24
+DEP Open Series 5 Race 6,Football Stadium,94,78.859,kasapon,Japan,SkyXKiller,2021/12/21
+DEP Open Series 5 Race 7,Football Stadium,95,111.428,kasapon,Japan,SkyXKiller,2021/12/25
+DEP Open Series 6 Race 1,Football Stadium,150,92.912,kasapon,Japan,SkyXKiller,2022/03/08
+DEP Open Series 6 Race 2,Football Stadium,999,999.999,kasapon,NO_DATA
+DEP Spec Series 1 Race 5,Football Stadium,193,119.341,kasapon,Japan,Five33Switchback,2021/01/09
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
 Formula FLow I,Empty Scene Day,190,101.572,kasapon,Japan,SkyXKiller,2022/03/10
 Formula Flow II,Empty Scene Day,114,146.726,kasapon,Japan,SkyXKiller,2022/03/10
 Formula Flow III,Empty Scene Day,39,131.240,kasapon,Japan,SkyXKiller,2022/03/11
@@ -74,88 +74,156 @@ MultiGP Tsunami,Football Stadium,999,999.999,kasapon,NO_DATA
 MultiGP UTT 1,Football Stadium,999,999.999,kasapon,NO_DATA
 MultiGP UTT 5,Football Stadium,999,999.999,kasapon,NO_DATA
 MultiGP UTT 6,Football Stadium,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,143,79.700,kasapon,Japan,Yakuza,2020/09/19
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,kasapon,NO_DATA
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,159,95.992,kasapon,Japan,Yakuza,2020/09/18
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,143,99.398,kasapon,Japan,TBSSpec,2022/09/01
-TBS EU Spec Series 10 Losers Final,Football Stadium,108,64.074,kasapon,Japan,TBSSpec,2022/09/01
-TBS EU Spec Series 10 Race 1,Football Stadium,121,74.342,kasapon,Japan,SkyXKiller,2021/12/13
-TBS EU Spec Series 10 Race 2,Empty Scene Day,182,92.315,kasapon,Japan,SkyXKiller,2021/12/13
-TBS EU Spec Series 10 Race 3,Night Factory 2,121,86.741,kasapon,Japan,TBSSpec,2022/09/28
-TBS EU Spec Series 10 Race 4,Dynamic Weather,163,85.886,kasapon,Japan,SkyXKiller,2022/01/18
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,74,65.957,kasapon,Japan,SkyXKiller,2022/02/03
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,173,99.398,kasapon,Japan,TBSSpec,2022/09/01
+TBS EU Spec Series 10 Losers Final,Football Stadium,129,64.074,kasapon,Japan,TBSSpec,2022/09/01
+TBS EU Spec Series 10 Race 1,Football Stadium,140,74.342,kasapon,Japan,SkyXKiller,2021/12/13
+TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 10 Race 3,Night Factory 2,136,86.741,kasapon,Japan,TBSSpec,2022/09/28
+TBS EU Spec Series 10 Race 4,Dynamic Weather,187,85.886,kasapon,Japan,SkyXKiller,2022/01/18
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,89,65.957,kasapon,Japan,SkyXKiller,2022/02/03
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,61,73.331,kasapon,Japan,SkyXKiller,2022/02/16
-TBS EU Spec Series 11 Final,Dynamic Weather,95,97.719,kasapon,Japan,TBSSpec,2022/09/28
-TBS EU Spec Series 11 Race 1,Dynamic Weather,116,88.357,kasapon,Japan,TBSSpec,2022/08/31
-TBS EU Spec Series 11 Race 2,Countryside,98,92.628,kasapon,Japan,TBSSpec,2022/09/26
-TBS EU Spec Series 11 Race 3,Dynamic Weather,86,103.169,kasapon,Japan,TBSSpec,2022/09/26
-TBS EU Spec Series 11 Race 5,Dynamic Weather,96,90.679,kasapon,Japan,TBSSpec,2022/07/07
-TBS EU Spec Series 11 Race 5,NEC Birmingham,80,77.274,kasapon,Japan,SkyXKiller,2022/07/20
-TBS EU Spec Series 11 Race 6,Dynamic Weather,141,127.016,kasapon,Japan,SkyXKiller,2022/07/20
-TBS EU Spec Series 11 Race 7,Dynamic Weather,80,83.252,kasapon,Japan,TBSSpec,2022/08/03
-TBS EU Spec Series 4 FINAL,Dynamic Weather,130,101.099,kasapon,Japan,Five33Switchback,2020/12/17
+TBS EU Spec Series 10 Race 7,Football Stadium,64,73.331,kasapon,Japan,SkyXKiller,2022/02/16
+TBS EU Spec Series 11 Final,Dynamic Weather,107,97.719,kasapon,Japan,TBSSpec,2022/09/28
+TBS EU Spec Series 11 Race 1,Dynamic Weather,134,80.251,kasapon,Japan,TBSSpec,2022/10/31
+TBS EU Spec Series 11 Race 2,Countryside,127,92.628,kasapon,Japan,TBSSpec,2022/09/26
+TBS EU Spec Series 11 Race 3,Dynamic Weather,72,85.946,kasapon,Japan,TBSSpec,2022/10/31
+TBS EU Spec Series 11 Race 5,Dynamic Weather,111,89.912,kasapon,Japan,TBSSpec,2022/11/14
+TBS EU Spec Series 11 Race 5,NEC Birmingham,91,77.274,kasapon,Japan,SkyXKiller,2022/07/20
+TBS EU Spec Series 11 Race 6,Dynamic Weather,182,127.016,kasapon,Japan,SkyXKiller,2022/07/20
+TBS EU Spec Series 11 Race 7,Dynamic Weather,91,83.252,kasapon,Japan,TBSSpec,2022/08/03
+TBS EU Spec Series 12 Final,Dynamic Weather,61,108.692,kasapon,Japan,TBSOblivion,2023/02/25
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,84,99.103,kasapon,Japan,TBSOblivion,2023/02/25
+TBS EU Spec Series 12 Race 1,Dynamic Weather,106,95.660,kasapon,Japan,TBSSpec,2022/12/13
+TBS EU Spec Series 12 Race 2,NEC Birmingham,186,149.556,kasapon,Japan,TBSOblivion,2023/02/25
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,120,96.711,kasapon,Japan,TBSSpec,2022/10/28
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 4 Race 3,IndoorGoKart,154,140.673,kasapon,Japan,Yakuza,2020/09/23
+TBS EU Spec Series 4 Race 3,IndoorGoKart,104,117.288,kasapon,Japan,TBSSpec,2022/11/01
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,kasapon,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 4 Race 7,Football Stadium,190,87.434,kasapon,Japan,Five33Switchback,2020/12/18
+TBS EU Spec Series 4 Race 7,Football Stadium,161,83.513,kasapon,Japan,TBSSpec,2022/11/10
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,118,93.095,kasapon,Japan,Yakuza,2020/09/16
-TBS EU Spec Series 5 Race 3,Dynamic Weather,169,96.927,kasapon,Japan,Five33Switchback,2020/12/20
-TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,kasapon,NO_DATA
-TBS EU Spec Series 5 Race 5,NEC Birmingham,176,97.850,kasapon,Japan,Five33Switchback,2020/08/25
-TBS EU Spec Series 5 Race 6,Dynamic Weather,165,87.644,kasapon,Japan,Five33Switchback,2020/08/30
-TBS EU Spec Series 5 Race 7,IndoorGoKart,139,95.219,kasapon,Japan,Five33Switchback,2020/12/22
-VRL6 Championships,Dynamic Weather,154,135.846,kasapon,Japan,Five33Switchback,2021/01/28
-VRL6 Crash Site,Dynamic Weather,42,187.354,kasapon,Japan,Five33Switchback,2021/01/28
-VRL6 Downtown Loop,Dynamic Weather,26,214.823,kasapon,Japan,Five33Switchback,2021/01/29
-VRL6 Extermination,Dynamic Weather,95,165.836,kasapon,Japan,Five33Switchback,2021/01/29
-VRL6 Kenerator,Dynamic Weather,118,190.993,kasapon,Japan,Five33Switchback,2021/01/30
-VRL6 Meltdown,Dynamic Weather,32,135.235,kasapon,Japan,Five33Switchback,2021/01/30
-VRL6 Reinforcement,Dynamic Weather,52,153.372,kasapon,Japan,Five33Switchback,2021/02/01
-VRL6 Tunnel Vision,Dynamic Weather,79,169.036,kasapon,Japan,Five33Switchback,2021/02/02
-VRL 7 Race 4,Dynamic Weather,999,999.999,kasapon,NO_DATA
-VRL 7 Track 1,Future Hangar,186,125.194,kasapon,Japan,Five33Switchback,2021/01/18
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,114,90.340,kasapon,Japan,TBSSpec,2022/11/12
+TBS EU Spec Series 5 Race 3,Dynamic Weather,196,96.927,kasapon,Japan,Five33Switchback,2020/12/20
+TBS EU Spec Series 5 Race 4,Football Stadium,139,95.717,kasapon,Japan,TBSSpec,2022/11/12
+TBS EU Spec Series 5 Race 5,NEC Birmingham,194,96.546,kasapon,Japan,TBSSpec,2022/11/15
+TBS EU Spec Series 5 Race 6,Dynamic Weather,171,87.644,kasapon,Japan,Five33Switchback,2020/08/30
+TBS EU Spec Series 5 Race 7,IndoorGoKart,146,95.219,kasapon,Japan,Five33Switchback,2020/12/22
+TBS EU Spec Series 6 Final,Empty Scene Day,194,99.524,kasapon,Japan,Five33Switchback,2020/12/17
+TBS EU Spec Series 6 Losers Final,Football Stadium,190,91.103,kasapon,Japan,TBSSpec,2022/11/17
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 6 Race 4,NEC Birmingham,119,85.806,kasapon,Japan,TBSSpec,2022/11/21
+TBS EU Spec Series 6 Race 5,Dynamic Weather,147,103.298,kasapon,Japan,TBSSpec,2022/11/21
+TBS EU Spec Series 6 Race 6,Empty Scene Day,158,87.223,kasapon,Japan,TBSSpec,2022/11/24
+TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,196,94.730,kasapon,Japan,TBSSpec,2022/12/07
+TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 8 Final,Dynamic Weather,91,88.212,kasapon,Japan,TBSSpec,2022/12/09
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,148,74.091,kasapon,Japan,TBSSpec,2022/12/16
+TBS EU Spec Series 8 Race 1,Dynamic Weather,156,92.661,kasapon,Japan,TBSSpec,2022/12/17
+TBS EU Spec Series 8 Race 2,Empty Scene Night,155,101.863,kasapon,Japan,TBSSpec,2022/12/20
+TBS EU Spec Series 8 Race 3,Football Stadium,169,75.257,kasapon,Japan,TBSSpec,2022/12/24
+TBS EU Spec Series 8 Race 4,Empty Scene Day,129,87.941,kasapon,Japan,TBSSpec,2022/12/24
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,kasapon,NO_DATA
+TBS EU Spec Series 9 Final,Dynamic Weather,142,76.859,kasapon,Japan,SkyXKiller,2021/11/19
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,126,73.830,kasapon,Japan,SkyXKiller,2021/11/12
+TBS EU Spec Series 9 Race 1,Football Stadium,158,71.484,kasapon,Japan,SkyXKiller,2021/09/16
+TBS EU Spec Series 9 Race 2,Dynamic Weather,145,69.077,kasapon,Japan,SkyXKiller,2021/09/17
+TBS EU Spec Series 9 Race 3,Empty Scene Day,190,79.521,kasapon,Japan,TBSSpec,2022/12/26
+TBS EU Spec Series 9 Race 4,Football Stadium,141,85.159,kasapon,Japan,TBSSpec,2023/01/11
+TBS EU Spec Series 9 Race 5,Empty Scene Day,182,81.644,kasapon,Japan,TBSSpec,2023/01/12
+TBS EU Spec Series 9 Race 6,Empty Scene Day,168,89.958,kasapon,Japan,TBSSpec,2023/01/18
+TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,kasapon,NO_DATA
+VRL6 Championships,Dynamic Weather,163,135.846,kasapon,Japan,Five33Switchback,2021/01/28
+VRL6 Crash Site,Dynamic Weather,60,187.354,kasapon,Japan,Five33Switchback,2021/01/28
+VRL6 Downtown Loop,Dynamic Weather,36,214.823,kasapon,Japan,Five33Switchback,2021/01/29
+VRL6 Extermination,Dynamic Weather,98,165.836,kasapon,Japan,Five33Switchback,2021/01/29
+VRL6 Kenerator,Dynamic Weather,125,190.993,kasapon,Japan,Five33Switchback,2021/01/30
+VRL6 Meltdown,Dynamic Weather,41,135.235,kasapon,Japan,Five33Switchback,2021/01/30
+VRL6 Reinforcement,Dynamic Weather,57,153.372,kasapon,Japan,Five33Switchback,2021/02/01
+VRL6 Tunnel Vision,Dynamic Weather,81,169.036,kasapon,Japan,Five33Switchback,2021/02/02
+VRL 7 Race 4,Dynamic Weather,192,109.534,kasapon,Japan,TBSOblivion,2023/02/10
+VRL 7 Track 1,Future Hangar,199,125.194,kasapon,Japan,Five33Switchback,2021/01/18
 VRL 7 Track 2,Future Hangar Empty,999,999.999,kasapon,NO_DATA
-VRL 7 Track 3,Dynamic Weather,185,108.418,kasapon,Japan,Five33Switchback,2021/01/15
-VRL 7 Track 5,Dynamic Weather,170,103.329,kasapon,Japan,Five33Switchback,2020/12/15
+VRL 7 Track 3,Dynamic Weather,180,100.595,kasapon,Japan,TBSOblivion,2023/02/15
+VRL 7 Track 5,Dynamic Weather,167,101.477,kasapon,Japan,TBSOblivion,2023/02/17
 VRL 7 Track 6,Dynamic Weather,999,999.999,kasapon,NO_DATA
-VRL7 Tryouts,Future Hangar Empty,199,108.167,kasapon,Japan,Yakuza,2020/09/19
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,85,127.479,kasapon,Japan,Five33Switchback,2021/01/20
-VRL S5 Track 1,Dynamic Weather,66,135.194,kasapon,Japan,Five33Switchback,2021/01/21
-VRL S5 TRACK 2,Dynamic Weather,37,137.929,kasapon,Japan,Five33Switchback,2021/01/21
-VRL S5 TRACK 3,Bando,68,152.664,kasapon,Japan,Five33Switchback,2021/01/21
-VRL S5 TRACK 4,Empty Scene Day,64,149.574,kasapon,Japan,Five33Switchback,2021/01/21
-VRL S5 TRACK 5,Dynamic Weather,54,170.550,kasapon,Japan,Five33Switchback,2021/01/21
+VRL7 Tryouts,Future Hangar Empty,999,999.999,kasapon,NO_DATA
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,74,117.085,kasapon,Japan,TBSOblivion,2023/02/17
+VRL S5 Track 1,Dynamic Weather,84,135.194,kasapon,Japan,Five33Switchback,2021/01/21
+VRL S5 TRACK 2,Dynamic Weather,49,137.929,kasapon,Japan,Five33Switchback,2021/01/21
+VRL S5 TRACK 3,Bando,87,152.664,kasapon,Japan,Five33Switchback,2021/01/21
+VRL S5 TRACK 4,Empty Scene Day,84,149.574,kasapon,Japan,Five33Switchback,2021/01/21
+VRL S5 TRACK 5,Dynamic Weather,65,170.550,kasapon,Japan,Five33Switchback,2021/01/21
+VRL S9 FINALS,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T1,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T2,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T3,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T4,Dynamic Weather,153,131.127,kasapon,Japan,TBSOblivion,2023/02/09
+VRL S9 T5,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T6,Dynamic Weather,999,999.999,kasapon,NO_DATA
+VRL S9 T7,Dynamic Weather,102,126.744,kasapon,Japan,TBSOblivion,2023/03/18
+VRL S9 T8,Dynamic Weather,999,999.999,kasapon,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,999,999.999,kasapon,NO_DATA
-VRL Season 3 Track 2,Empty Scene Day,182,125.375,kasapon,Japan,Five33Switchback,2021/01/22
-VRL Season 3 Track 3,Empty Scene Day,45,117.601,kasapon,Japan,Yakuza,2020/10/08
-VRL Season 3 Track 4,Empty Scene Day,118,208.915,kasapon,Japan,Five33Switchback,2021/01/22
-VRL Season 3 Track 5,Empty Scene Day,111,152.719,kasapon,Japan,Five33Switchback,2021/01/22
-VRL Season 3 Track 6,Empty Scene Day,42,188.468,kasapon,Japan,Yakuza,2020/10/10
-VRL Season 4 Championship,Football Stadium,44,168.835,kasapon,Japan,Five33Switchback,2021/01/22
-VRL Season 4 Track 1,Dynamic Weather,36,155.955,kasapon,Japan,Five33Switchback,2021/01/22
-VRL Season 4 Track 2,Bando,128,186.549,kasapon,Japan,Five33Switchback,2021/01/23
-VRL Season 4 Track 3,Basketball Stadium,101,96.371,kasapon,Japan,Five33Switchback,2021/01/23
-VRL-Season-4-Track-4,Dynamic Weather,34,108.835,kasapon,Japan,Five33Switchback,2021/01/26
-VRL_Season_4_Track_5,Coastal,43,142.471,kasapon,Japan,Five33Switchback,2021/02/05
-VRL_Season_4_Track_6,Dynamic Weather,20,130.097,kasapon,Japan,Five33Switchback,2021/02/05
-VRL Season 4 Track 7,Dynamic Weather,41,129.333,kasapon,Japan,Five33Switchback,2021/01/23
-VRL-Season-4-Tryouts,Dynamic Weather,24,506.194,kasapon,Japan,Five33Switchback,2021/01/26
-VRL SEASON 5 TRACK 6,Dynamic Weather,36,122.667,kasapon,Japan,Five33Switchback,2021/01/21
-VRL SEASON 5 TRACK 7,IndoorGoKart,48,257.749,kasapon,Japan,Five33Switchback,2021/01/22
-VRL SEASON 5 TRACK 8,Industrial Wasteland,110,203.408,kasapon,Japan,Five33Switchback,2021/01/22
-VRL SEASON 5 TRYOUTS,Dynamic Weather,51,162.031,kasapon,Japan,Five33Switchback,2021/01/22
-VRL SEASON 6 TRYOUTS,Dynamic Weather,101,160.413,kasapon,Japan,Five33Switchback,2021/01/22
+VRL Season 3 Track 2,Empty Scene Day,999,999.999,kasapon,NO_DATA
+VRL Season 3 Track 3,Empty Scene Day,78,117.601,kasapon,Japan,Yakuza,2020/10/08
+VRL Season 3 Track 4,Empty Scene Day,137,208.915,kasapon,Japan,Five33Switchback,2021/01/22
+VRL Season 3 Track 5,Empty Scene Day,142,152.719,kasapon,Japan,Five33Switchback,2021/01/22
+VRL Season 3 Track 6,Empty Scene Day,51,188.468,kasapon,Japan,Yakuza,2020/10/10
+VRL Season 4 Championship,Football Stadium,51,168.835,kasapon,Japan,Five33Switchback,2021/01/22
+VRL Season 4 Track 1,Dynamic Weather,40,155.955,kasapon,Japan,Five33Switchback,2021/01/22
+VRL Season 4 Track 2,Bando,174,186.549,kasapon,Japan,Five33Switchback,2021/01/23
+VRL Season 4 Track 3,Basketball Stadium,134,96.371,kasapon,Japan,Five33Switchback,2021/01/23
+VRL-Season-4-Track-4,Dynamic Weather,58,108.835,kasapon,Japan,Five33Switchback,2021/01/26
+VRL_Season_4_Track_5,Coastal,57,142.471,kasapon,Japan,Five33Switchback,2021/02/05
+VRL_Season_4_Track_6,Dynamic Weather,37,130.097,kasapon,Japan,Five33Switchback,2021/02/05
+VRL Season 4 Track 7,Dynamic Weather,64,129.333,kasapon,Japan,Five33Switchback,2021/01/23
+VRL-Season-4-Tryouts,Dynamic Weather,32,506.194,kasapon,Japan,Five33Switchback,2021/01/26
+VRL SEASON 5 TRACK 6,Dynamic Weather,39,122.667,kasapon,Japan,Five33Switchback,2021/01/21
+VRL SEASON 5 TRACK 7,IndoorGoKart,57,257.749,kasapon,Japan,Five33Switchback,2021/01/22
+VRL SEASON 5 TRACK 8,Industrial Wasteland,156,203.408,kasapon,Japan,Five33Switchback,2021/01/22
+VRL SEASON 5 TRYOUTS,Dynamic Weather,59,162.031,kasapon,Japan,Five33Switchback,2021/01/22
+VRL SEASON 6 TRYOUTS,Dynamic Weather,120,160.413,kasapon,Japan,Five33Switchback,2021/01/22
 VRL Season 7 Championships,Dynamic Weather,999,999.999,kasapon,NO_DATA
-VRL Season 8 Championships,Dynamic Weather,114,136.213,kasapon,Japan,SkyXKiller,2022/02/09
+VRL Season 8 Championships,Dynamic Weather,131,136.213,kasapon,Japan,SkyXKiller,2022/02/09
 VRL Season 8 Track 1,Office Complex,999,999.999,kasapon,NO_DATA
 VRL Season 8 Track 2,Drift Track,999,999.999,kasapon,NO_DATA
-VRL Season 8 Track 3,Night Factory 2,162,203.055,kasapon,Japan,SkyXKiller,2021/11/30
+VRL Season 8 Track 3,Night Factory 2,180,203.055,kasapon,Japan,SkyXKiller,2021/11/30
 VRL Season 8 Track 4,DynamicPoly,999,999.999,kasapon,NO_DATA
 VRL Season 8 Track 5,Dynamic Weather,999,999.999,kasapon,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999,999.999,kasapon,NO_DATA
-VRL SEASON 8 TRACK 7,Dynamic Weather,87,103.064,kasapon,Japan,SkyXKiller,2022/01/29
+VRL SEASON 8 TRACK 7,Dynamic Weather,90,103.064,kasapon,Japan,SkyXKiller,2022/01/29
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,kasapon,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999,999.999,kasapon,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,78,63.035,kasapon,Japan,SkyXKiller,2022/01/14
 Week 12 TT - GQ22 by Chris M,Football Stadium,148,44.434,kasapon,Japan,SkyXKiller,2022/02/05
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,45,158.562,kasapon,Japan,SkyXKiller,2022/02/19

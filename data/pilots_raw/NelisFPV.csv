@@ -37,6 +37,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,NelisFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,66.671,NelisFPV,Netherlands,TBSSpec,2022/07/07
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,NelisFPV,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,NelisFPV,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,NelisFPV,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,79.657,NelisFPV,Netherlands,Five33Switchback,2020/07/04
 TBS EU Spec Series 4 Race 2,Empty Scene Day,67.245,NelisFPV,Netherlands,TBSSpec,2020/05/14
 TBS EU Spec Series 4 Race 3,IndoorGoKart,95.976,NelisFPV,Netherlands,TBSSpec,2020/05/21
@@ -44,7 +55,7 @@ TBS EU Spec Series 4 Race 4,Empty Scene Day,999.999,NelisFPV,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,90.896,NelisFPV,Netherlands,TBSSpec,2020/07/08
 TBS EU Spec Series 4 Race 7,Football Stadium,73.961,NelisFPV,Netherlands,TBSSpec,2020/07/08
 TBS EU Spec Series 5 FINAL,Dynamic Weather,99.288,NelisFPV,Netherlands,Ossa,2020/09/20
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,111.531,NelisFPV,Netherlands,TBSSpec,2020/09/23
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,999.999,NelisFPV,NO_DATA
 TBS EU Spec Series 5 Race 3,Dynamic Weather,85.678,NelisFPV,Netherlands,TBSSpec,2020/07/30
 TBS EU Spec Series 5 Race 4,Football Stadium,96.878,NelisFPV,Netherlands,TBSSpec,2020/08/06
 TBS EU Spec Series 5 Race 5,NEC Birmingham,68.879,NelisFPV,Netherlands,TBSSpec,2020/08/06
@@ -91,8 +102,8 @@ VRL 7 Track 3,Dynamic Weather,90.017,NelisFPV,Netherlands,Five33Switchback,2020/
 VRL 7 Track 5,Dynamic Weather,92.306,NelisFPV,Netherlands,Five33Switchback,2020/12/08
 VRL 7 Track 6,Dynamic Weather,999.999,NelisFPV,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,97.096,NelisFPV,Netherlands,Ossa,2020/09/20
-VRL Season 3 Track 1,Empty Scene Day,65.120,NelisFPV,Netherlands,SniperX,2022/02/24
-VRL Season 3 Track 2,Empty Scene Day,70.366,NelisFPV,Netherlands,TBSSpec,2020/09/23
+VRL Season 3 Track 1,Empty Scene Day,62.451,NelisFPV,Netherlands,SniperX,2022/07/28
+VRL Season 3 Track 2,Empty Scene Day,57.905,NelisFPV,Netherlands,SniperX,2022/09/26
 VRL Season 3 Track 3,Empty Scene Day,999.999,NelisFPV,NO_DATA
 VRL Season 3 Track 4,Empty Scene Day,94.740,NelisFPV,Netherlands,TBSSpec,2020/09/23
 VRL Season 3 Track 5,Empty Scene Day,66.117,NelisFPV,Netherlands,Five33Switchback,2021/06/30

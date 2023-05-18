@@ -16,11 +16,11 @@ DEP Open Series 4 Race 4,Football Stadium,999,999.999,LukeS,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,92,68.346,LukeS,Germany,Five33Switchback,2021/07/30
 DEP Open Series 4 Race 6,Football Stadium,181,95.914,LukeS,Germany,Five33Switchback,2021/05/18
 DEP Open Series 4 Race 7,Football Stadium,118,78.906,LukeS,Germany,Five33Switchback,2021/07/30
-DEP Open Series 5 Race 1,Football Stadium,178,81.374,LukeS,Germany,Five33Switchback,2021/11/01
-DEP Open Series 5 Race 2,Football Stadium,68,79.327,LukeS,Germany,Five33Switchback,2021/11/03
-DEP Open Series 5 Race 3,Football Stadium,66,85.794,LukeS,Germany,Five33Switchback,2021/11/20
-DEP Open Series 5 Race 4,Football Stadium,66,88.571,LukeS,Germany,Five33Switchback,2021/11/29
-DEP Open Series 5 Race 5,Football Stadium,55,89.220,LukeS,Germany,Five33Switchback,2021/12/02
+DEP Open Series 5 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
+DEP Open Series 5 Race 2,Football Stadium,78,79.327,LukeS,Germany,Five33Switchback,2021/11/03
+DEP Open Series 5 Race 3,Football Stadium,74,85.794,LukeS,Germany,Five33Switchback,2021/11/20
+DEP Open Series 5 Race 4,Football Stadium,83,88.571,LukeS,Germany,Five33Switchback,2021/11/29
+DEP Open Series 5 Race 5,Football Stadium,63,89.220,LukeS,Germany,Five33Switchback,2021/12/02
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,LukeS,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,LukeS,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
@@ -79,14 +79,14 @@ RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,LukeS,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,LukeS,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 10 Losers Final,Football Stadium,81,59.885,LukeS,Germany,TBSSpec,2022/02/15
-TBS EU Spec Series 10 Race 1,Football Stadium,102,69.837,LukeS,Germany,TBSSpec,2021/12/15
-TBS EU Spec Series 10 Race 2,Empty Scene Day,194,95.818,LukeS,Germany,TBSSpec,2021/12/22
-TBS EU Spec Series 10 Race 3,Night Factory 2,84,78.347,LukeS,Germany,TBSSpec,2021/12/22
-TBS EU Spec Series 10 Race 4,Dynamic Weather,113,77.315,LukeS,Germany,TBSSpec,2022/01/09
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,146,84.035,LukeS,Germany,TBSSpec,2022/01/25
-TBS EU Spec Series 10 Race 6,Large Carpark,61,50.275,LukeS,Germany,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,97,78.886,LukeS,Germany,TBSSpec,2022/02/09
+TBS EU Spec Series 10 Losers Final,Football Stadium,95,59.885,LukeS,Germany,TBSSpec,2022/02/15
+TBS EU Spec Series 10 Race 1,Football Stadium,116,69.837,LukeS,Germany,TBSSpec,2021/12/15
+TBS EU Spec Series 10 Race 2,Empty Scene Day,999,999.999,LukeS,NO_DATA
+TBS EU Spec Series 10 Race 3,Night Factory 2,91,78.347,LukeS,Germany,TBSSpec,2021/12/22
+TBS EU Spec Series 10 Race 4,Dynamic Weather,128,77.315,LukeS,Germany,TBSSpec,2022/01/09
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,181,84.035,LukeS,Germany,TBSSpec,2022/01/25
+TBS EU Spec Series 10 Race 6,Large Carpark,64,50.275,LukeS,Germany,TBSSpec,2022/01/27
+TBS EU Spec Series 10 Race 7,Football Stadium,104,78.886,LukeS,Germany,TBSSpec,2022/02/09
 TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,999,999.999,LukeS,NO_DATA
@@ -101,13 +101,13 @@ TBS EU Spec Series 4 Race 3,IndoorGoKart,90,116.723,LukeS,Germany,Five33Switchba
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 4 Race 7,Football Stadium,94,76.314,LukeS,Germany,TBSSpec,2022/02/02
-TBS EU Spec Series 5 FINAL,Dynamic Weather,157,105.427,LukeS,Germany,Five33Switchback,2020/12/03
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,158,100.647,LukeS,Germany,Five33Switchback,2020/09/14
-TBS EU Spec Series 5 Race 3,Dynamic Weather,121,86.681,LukeS,Germany,TBSSpec,2022/01/27
-TBS EU Spec Series 5 Race 4,Football Stadium,102,89.356,LukeS,Germany,TBSSpec,2022/01/31
+TBS EU Spec Series 5 FINAL,Dynamic Weather,165,105.427,LukeS,Germany,Five33Switchback,2020/12/03
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,170,100.647,LukeS,Germany,Five33Switchback,2020/09/14
+TBS EU Spec Series 5 Race 3,Dynamic Weather,139,86.681,LukeS,Germany,TBSSpec,2022/01/27
+TBS EU Spec Series 5 Race 4,Football Stadium,105,89.356,LukeS,Germany,TBSSpec,2022/01/31
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 5 Race 6,Dynamic Weather,191,93.490,LukeS,Germany,Five33Switchback,2020/08/27
-TBS EU Spec Series 5 Race 7,IndoorGoKart,71,80.315,LukeS,Germany,TBSSpec,2022/02/01
+TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,LukeS,NO_DATA
+TBS EU Spec Series 5 Race 7,IndoorGoKart,76,80.315,LukeS,Germany,TBSSpec,2022/02/01
 TBS EU Spec Series 6 Final,Empty Scene Day,101,89.047,LukeS,Germany,TBSSpec,2022/02/01
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,LukeS,NO_DATA
@@ -124,21 +124,21 @@ TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,151,84.116,LukeS,Germany,Five33Switchback,2021/03/09
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 7 Race 7,Empty Scene Day,182,102.330,LukeS,Germany,Five33Switchback,2021/03/28
-TBS EU Spec Series 8 Final,Dynamic Weather,164,110.597,LukeS,Germany,Five33Switchback,2021/07/08
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,142,76.440,LukeS,Germany,Five33Switchback,2021/06/26
+TBS EU Spec Series 8 Final,Dynamic Weather,173,110.597,LukeS,Germany,Five33Switchback,2021/07/08
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,159,76.440,LukeS,Germany,Five33Switchback,2021/06/26
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 8 Race 2,Empty Scene Night,117,96.697,LukeS,Germany,Five33Switchback,2021/04/04
-TBS EU Spec Series 8 Race 3,Football Stadium,113,68.739,LukeS,Germany,TBSSpec,2022/01/09
-TBS EU Spec Series 8 Race 4,Empty Scene Day,129,89.772,LukeS,Germany,Five33Switchback,2021/05/18
+TBS EU Spec Series 8 Race 2,Empty Scene Night,128,96.697,LukeS,Germany,Five33Switchback,2021/04/04
+TBS EU Spec Series 8 Race 3,Football Stadium,120,68.739,LukeS,Germany,TBSSpec,2022/01/09
+TBS EU Spec Series 8 Race 4,Empty Scene Day,139,89.772,LukeS,Germany,Five33Switchback,2021/05/18
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 8 Race 6,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 9 Final,Dynamic Weather,102,70.557,LukeS,Germany,Five33Switchback,2021/11/21
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,47,65.956,LukeS,Germany,Five33Switchback,2021/11/06
+TBS EU Spec Series 9 Final,Dynamic Weather,106,70.557,LukeS,Germany,Five33Switchback,2021/11/21
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,48,65.956,LukeS,Germany,Five33Switchback,2021/11/06
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,LukeS,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,LukeS,NO_DATA
-TBS EU Spec Series 9 Race 4,Football Stadium,131,86.038,LukeS,Germany,Five33Switchback,2021/10/11
-TBS EU Spec Series 9 Race 5,Empty Scene Day,113,74.490,LukeS,Germany,Five33Switchback,2021/10/12
-TBS EU Spec Series 9 Race 6,Empty Scene Day,76,73.706,LukeS,Germany,Five33Switchback,2021/10/29
-TBS EU Spec Series 9 Race 7,NEC Birmingham,90,78.293,LukeS,Germany,Five33Switchback,2021/11/01
+TBS EU Spec Series 9 Race 4,Football Stadium,147,86.038,LukeS,Germany,Five33Switchback,2021/10/11
+TBS EU Spec Series 9 Race 5,Empty Scene Day,132,74.490,LukeS,Germany,Five33Switchback,2021/10/12
+TBS EU Spec Series 9 Race 6,Empty Scene Day,87,73.706,LukeS,Germany,Five33Switchback,2021/10/29
+TBS EU Spec Series 9 Race 7,NEC Birmingham,93,78.293,LukeS,Germany,Five33Switchback,2021/11/01

@@ -57,6 +57,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,80.967,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/01/25
 TBS EU Spec Series 4 Race 2,Empty Scene Day,74.098,AlexeyStn_Overpass,RussianFederation,TBSSpec,2020/05/14
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,AlexeyStn_Overpass,NO_DATA
@@ -65,7 +76,7 @@ TBS EU Spec Series 4 Race 5,Dynamic Weather,87.668,AlexeyStn_Overpass,RussianFed
 TBS EU Spec Series 4 Race 7,Football Stadium,66.899,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/07/04
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
-TBS EU Spec Series 5 Race 3,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
+TBS EU Spec Series 5 Race 3,Dynamic Weather,67.962,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2023/02/19
 TBS EU Spec Series 5 Race 4,Football Stadium,84.291,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/11/30
 TBS EU Spec Series 5 Race 5,NEC Birmingham,75.659,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2020/08/23
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
@@ -87,7 +98,7 @@ TBS EU Spec Series 7 Race 5,IndoorGoKart,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 7 Race 7,Empty Scene Day,84.088,AlexeyStn_Overpass,RussianFederation,TBSSpec,2021/02/18
 TBS EU Spec Series 8 Final,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,57.869,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/09/25
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,56.299,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2023/03/16
 TBS EU Spec Series 8 Race 1,Dynamic Weather,79.470,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/08/10
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,999.999,AlexeyStn_Overpass,NO_DATA
@@ -101,7 +112,7 @@ TBS EU Spec Series 9 Race 1,Football Stadium,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999.999,AlexeyStn_Overpass,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,76.381,AlexeyStn_Overpass,RussianFederation,CarbiXZero,2021/10/21
-TBS EU Spec Series 9 Race 5,Empty Scene Day,62.801,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2021/10/31
+TBS EU Spec Series 9 Race 5,Empty Scene Day,58.927,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2023/03/11
 TBS EU Spec Series 9 Race 6,Empty Scene Day,65.579,AlexeyStn_Overpass,RussianFederation,Five33Switchback,2021/11/20
 TBS EU Spec Series 9 Race 7,NEC Birmingham,999.999,AlexeyStn_Overpass,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,999.999,AlexeyStn_Overpass,NO_DATA

@@ -27,8 +27,8 @@ DEP Open Series 5 Race 4,Football Stadium,127.637,MaxMarvelous,UnitedStates,Five
 DEP Open Series 5 Race 5,Football Stadium,126.200,MaxMarvelous,UnitedStates,Five33Switchback,2022/01/09
 DEP Open Series 5 Race 6,Football Stadium,106.238,MaxMarvelous,UnitedStates,Five33Switchback,2022/01/03
 DEP Open Series 5 Race 7,Football Stadium,150.348,MaxMarvelous,UnitedStates,Five33Switchback,2022/01/09
-DEP Open Series 6 Race 1,Football Stadium,999.999,MaxMarvelous,NO_DATA
-DEP Open Series 6 Race 2,Football Stadium,999.999,MaxMarvelous,NO_DATA
+DEP Open Series 6 Race 1,Football Stadium,100.731,MaxMarvelous,UnitedStates,Five33Switchback,2023/01/07
+DEP Open Series 6 Race 2,Football Stadium,134.297,MaxMarvelous,UnitedStates,Five33Switchback,2023/01/07
 DEP Spec Series 1 Race 5,Football Stadium,999.999,MaxMarvelous,NO_DATA
 Formula FLow I,Empty Scene Day,80.808,MaxMarvelous,UnitedStates,Five33Switchback,2022/03/11
 Formula Flow II,Empty Scene Day,110.749,MaxMarvelous,UnitedStates,Five33Switchback,2022/03/11
@@ -60,6 +60,23 @@ Quad Rivals Team Race,Empty Scene Day,84.746,MaxMarvelous,UnitedStates,RotorEvol
 Quad Rivals Weave,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
 Quad Rivals Welborn,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
 Quad Rivals Who Works DW,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,120.937,MaxMarvelous,UnitedStates,Five33Switchback,2022/12/26
+TBS EU Spec Series 11 Race 1,Dynamic Weather,94.841,MaxMarvelous,UnitedStates,Five33Switchback,2022/11/27
+TBS EU Spec Series 11 Race 2,Countryside,95.414,MaxMarvelous,UnitedStates,Five33Switchback,2022/08/20
+TBS EU Spec Series 11 Race 3,Dynamic Weather,106.200,MaxMarvelous,UnitedStates,Five33Switchback,2022/11/19
+TBS EU Spec Series 11 Race 5,Dynamic Weather,96.504,MaxMarvelous,UnitedStates,Five33Switchback,2022/11/27
+TBS EU Spec Series 11 Race 5,NEC Birmingham,87.462,MaxMarvelous,UnitedStates,Five33Switchback,2022/08/28
+TBS EU Spec Series 11 Race 6,Dynamic Weather,96.326,MaxMarvelous,UnitedStates,Five33Switchback,2022/12/02
+TBS EU Spec Series 11 Race 7,Dynamic Weather,100.150,MaxMarvelous,UnitedStates,Five33Switchback,2022/12/16
+TBS EU Spec Series 12 Final,Dynamic Weather,130.216,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/26
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,122.744,MaxMarvelous,UnitedStates,Five33Switchback,2022/12/20
+TBS EU Spec Series 12 Race 2,NEC Birmingham,116.558,MaxMarvelous,UnitedStates,Five33Switchback,2023/03/09
+TBS EU Spec Series 12 Race 3,Dynamic Weather,101.137,MaxMarvelous,UnitedStates,Five33Switchback,2023/01/01
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,MaxMarvelous,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,100.519,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/12
+TBS EU Spec Series 12 Race 6,Dynamic Weather,87.454,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/12
+TBS EU Spec Series 12 Race 7,Dynamic Weather,104.037,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/12
 TBS EU Spec Series 9 Final,Dynamic Weather,89.178,MaxMarvelous,UnitedStates,Five33Switchback,2022/04/03
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,91.554,MaxMarvelous,UnitedStates,Five33Switchback,2021/12/24
 TBS EU Spec Series 9 Race 1,Football Stadium,999.999,MaxMarvelous,NO_DATA
@@ -101,6 +118,34 @@ VRL6 Kenerator,Dynamic Weather,271.715,MaxMarvelous,UnitedStates,RotorEvolutionX
 VRL6 Meltdown,Dynamic Weather,218.812,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/05/09
 VRL6 Reinforcement,Dynamic Weather,237.353,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/09/24
 VRL6 Tunnel Vision,Dynamic Weather,260.569,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/04/21
+VRL 7 Race 4,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL 7 Track 1,Future Hangar,999.999,MaxMarvelous,NO_DATA
+VRL 7 Track 2,Future Hangar Empty,999.999,MaxMarvelous,NO_DATA
+VRL 7 Track 3,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL 7 Track 5,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL 7 Track 6,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL7 Tryouts,Future Hangar Empty,999.999,MaxMarvelous,NO_DATA
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL S5 Track 1,Dynamic Weather,158.062,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/09/26
+VRL S5 TRACK 2,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL S5 TRACK 3,Bando,999.999,MaxMarvelous,NO_DATA
+VRL S5 TRACK 4,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL S5 TRACK 5,Dynamic Weather,202.886,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/04/08
+VRL S9 FINALS,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL S9 T1,Dynamic Weather,137.240,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/19
+VRL S9 T2,Dynamic Weather,113.224,MaxMarvelous,UnitedStates,Five33Switchback,2023/02/19
+VRL S9 T3,Dynamic Weather,105.083,MaxMarvelous,UnitedStates,Five33Switchback,2023/04/23
+VRL S9 T4,Dynamic Weather,130.634,MaxMarvelous,UnitedStates,Five33Switchback,2023/04/23
+VRL S9 T5,Dynamic Weather,138.112,MaxMarvelous,UnitedStates,Five33Switchback,2023/04/24
+VRL S9 T6,Dynamic Weather,132.397,MaxMarvelous,UnitedStates,Five33Switchback,2023/04/29
+VRL S9 T7,Dynamic Weather,131.569,MaxMarvelous,UnitedStates,Five33Switchback,2023/04/30
+VRL S9 T8,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL Season 3 Track 1,Empty Scene Day,99.990,MaxMarvelous,UnitedStates,Five33Switchback,2022/03/02
+VRL Season 3 Track 2,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL Season 3 Track 3,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL Season 3 Track 4,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL Season 3 Track 5,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
+VRL Season 3 Track 6,Empty Scene Day,999.999,MaxMarvelous,NO_DATA
 VRL Season 4 Championship,Football Stadium,167.524,MaxMarvelous,UnitedStates,Five33Switchback,2021/11/07
 VRL Season 4 Track 1,Dynamic Weather,189.433,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/11/28
 VRL Season 4 Track 2,Bando,999.999,MaxMarvelous,NO_DATA
@@ -110,4 +155,19 @@ VRL_Season_4_Track_5,Coastal,186.088,MaxMarvelous,UnitedStates,RotorEvolutionX1,
 VRL_Season_4_Track_6,Dynamic Weather,174.427,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/08/11
 VRL Season 4 Track 7,Dynamic Weather,180.858,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/05/14
 VRL-Season-4-Tryouts,Dynamic Weather,463.884,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/05/16
+VRL SEASON 5 TRACK 6,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL SEASON 5 TRACK 7,IndoorGoKart,247.050,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/05/18
+VRL SEASON 5 TRACK 8,Industrial Wasteland,151.406,MaxMarvelous,UnitedStates,RotorEvolutionX1,2021/03/20
+VRL SEASON 5 TRYOUTS,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,220.617,MaxMarvelous,UnitedStates,RotorEvolutionX1,2020/05/09
+VRL Season 7 Championships,Dynamic Weather,999.999,MaxMarvelous,NO_DATA
+VRL Season 8 Championships,Dynamic Weather,130.024,MaxMarvelous,UnitedStates,Five33Switchback,2022/05/08
+VRL Season 8 Track 1,Office Complex,999.999,MaxMarvelous,NO_DATA
+VRL Season 8 Track 2,Drift Track,999.999,MaxMarvelous,NO_DATA
+VRL Season 8 Track 3,Night Factory 2,999.999,MaxMarvelous,NO_DATA
+VRL Season 8 Track 4,DynamicPoly,999.999,MaxMarvelous,NO_DATA
+VRL Season 8 Track 5,Dynamic Weather,166.041,MaxMarvelous,UnitedStates,Five33Switchback,2022/05/01
+VRL Season 8 Track 6,Night Factory 2,999.999,MaxMarvelous,NO_DATA
+VRL SEASON 8 TRACK 7,Dynamic Weather,126.750,MaxMarvelous,UnitedStates,Five33Switchback,2022/04/10
+VRL SEASON 8 TRYOUTS,RedValley,999.999,MaxMarvelous,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,MaxMarvelous,NO_DATA

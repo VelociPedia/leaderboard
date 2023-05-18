@@ -4,7 +4,7 @@ DEP Open Series 2 Race 7,Football Stadium,96.753,IonFPV,India,TBSSpec,2021/07/16
 DEP Open Series 3 Race 1,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,84.057,IonFPV,India,TBSSpec,2021/10/31
-DEP Open Series 3 Race 4,Football Stadium,79.667,IonFPV,India,Five33Switchback,2021/05/08
+DEP Open Series 3 Race 4,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,122.332,IonFPV,India,Five33Switchback,2021/06/12
 DEP Open Series 3 Race 7,Football Stadium,110.253,IonFPV,India,Five33Switchback,2021/06/09
@@ -26,12 +26,12 @@ DEP Open Series 6 Race 1,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,999.999,IonFPV,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999.999,IonFPV,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,IonFPV,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,IonFPV,NO_DATA
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,70.975,IonFPV,India,TBSSpec,2022/11/30
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,IonFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,IonFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999.999,IonFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,IonFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999.999,IonFPV,NO_DATA
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,65.729,IonFPV,India,TBSSpec,2022/11/30
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999.999,IonFPV,NO_DATA
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999.999,IonFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999.999,IonFPV,NO_DATA
@@ -49,7 +49,7 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,60.505,IonFPV,India,TBSSpec,2022/02
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,54.249,IonFPV,India,TBSSpec,2022/01/22
 TBS EU Spec Series 10 Race 6,Large Carpark,30.940,IonFPV,India,TBSSpec,2022/01/28
 TBS EU Spec Series 10 Race 7,Football Stadium,68.235,IonFPV,India,TBSSpec,2022/02/03
-TBS EU Spec Series 11 Final,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,87.070,IonFPV,India,TBSSpec,2022/11/30
 TBS EU Spec Series 11 Race 1,Dynamic Weather,61.621,IonFPV,India,TBSSpec,2022/06/21
 TBS EU Spec Series 11 Race 2,Countryside,61.915,IonFPV,India,TBSSpec,2022/06/22
 TBS EU Spec Series 11 Race 3,Dynamic Weather,66.751,IonFPV,India,TBSSpec,2022/06/22
@@ -57,12 +57,23 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,69.556,IonFPV,India,TBSSpec,2022/06
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,66.068,IonFPV,India,TBSSpec,2022/12/29
+TBS EU Spec Series 12 Race 4,Night Factory 2,66.775,IonFPV,India,TBSSpec,2023/01/05
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,IonFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,67.126,IonFPV,India,TBSSpec,2023/01/26
+TBS EU Spec Series 13 Race 1,Dynamic Weather,75.559,IonFPV,India,SwitchbackZero,2023/04/27
+TBS EU Spec Series 13 - Race 2,Factory,74.962,IonFPV,India,Five33Spec7,2023/05/04
 TBS EU Spec Series 4 FINAL,Dynamic Weather,75.526,IonFPV,India,TBSSpec,2022/02/08
 TBS EU Spec Series 4 Race 2,Empty Scene Day,65.135,IonFPV,India,TBSSpec,2021/11/03
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 4 Race 4,Empty Scene Day,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 4 Race 5,Dynamic Weather,999.999,IonFPV,NO_DATA
-TBS EU Spec Series 4 Race 7,Football Stadium,88.554,IonFPV,India,TBSSpec,2021/08/17
+TBS EU Spec Series 4 Race 7,Football Stadium,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,74.540,IonFPV,India,TBSSpec,2022/02/10
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,999.999,IonFPV,NO_DATA
 TBS EU Spec Series 5 Race 3,Dynamic Weather,73.290,IonFPV,India,TBSSpec,2021/11/11

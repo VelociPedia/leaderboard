@@ -1,32 +1,32 @@
-DEP Open Series 3 Race 1,Football Stadium,66,56.311,Guile,Singapore,TBSOblivion,2021/02/03
+DEP Open Series 3 Race 1,Football Stadium,75,56.311,Guile,Singapore,TBSOblivion,2021/02/03
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,Guile,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,999,999.999,Guile,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,98,66.993,Guile,Singapore,TBSOblivion,2021/02/24
-DEP Open Series 3 Race 5,Football Stadium,128,90.216,Guile,Singapore,TBSSpec,2021/03/03
-DEP Open Series 3 Race 6,Football Stadium,178,137.591,Guile,Singapore,TBSOblivion,2021/03/10
+DEP Open Series 3 Race 4,Football Stadium,107,66.993,Guile,Singapore,TBSOblivion,2021/02/24
+DEP Open Series 3 Race 5,Football Stadium,135,90.216,Guile,Singapore,TBSSpec,2021/03/03
+DEP Open Series 3 Race 6,Football Stadium,193,137.591,Guile,Singapore,TBSOblivion,2021/03/10
 DEP Open Series 3 Race 7,Football Stadium,999,999.999,Guile,NO_DATA
-DEP Open Series 4 Race 1,Football Stadium,61,83.977,Guile,Singapore,TBSSpec,2021/04/01
-DEP Open Series 4 Race 2,Football Stadium,96,107.446,Guile,Singapore,TBSSpec,2021/04/13
+DEP Open Series 4 Race 1,Football Stadium,64,83.977,Guile,Singapore,TBSSpec,2021/04/01
+DEP Open Series 4 Race 2,Football Stadium,102,107.446,Guile,Singapore,TBSSpec,2021/04/13
 DEP Open Series 4 Race 3,Football Stadium,999,999.999,Guile,NO_DATA
-DEP Open Series 4 Race 4,Football Stadium,59,87.134,Guile,Singapore,TBSSpec,2021/04/21
-DEP Open Series 4 Race 5,Football Stadium,105,69.581,Guile,Singapore,TBSSpec,2021/04/28
+DEP Open Series 4 Race 4,Football Stadium,69,87.134,Guile,Singapore,TBSSpec,2021/04/21
+DEP Open Series 4 Race 5,Football Stadium,121,69.581,Guile,Singapore,TBSSpec,2021/04/28
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,Guile,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,Guile,NO_DATA
-EU Spec Season 4 Race 1,Football Stadium,107,92.638,Guile,Singapore,TBSSpec,2020/04/30
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,107,75.976,Guile,Singapore,TBSSpec,2020/07/05
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,76,73.773,Guile,Singapore,TBSSpec,2020/07/05
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,135,66.843,Guile,Singapore,TBSSpec,2020/06/07
-RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,36,67.327,Guile,Singapore,TBSSpec,2020/07/05
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,72,72.081,Guile,Singapore,TBSSpec,2020/07/05
+EU Spec Season 4 Race 1,Football Stadium,112,92.638,Guile,Singapore,TBSSpec,2020/04/30
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,118,75.976,Guile,Singapore,TBSSpec,2020/07/05
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,80,73.773,Guile,Singapore,TBSSpec,2020/07/05
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,139,66.843,Guile,Singapore,TBSSpec,2020/06/07
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,37,67.327,Guile,Singapore,TBSSpec,2020/07/05
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,75,72.081,Guile,Singapore,TBSSpec,2020/07/05
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,Guile,NO_DATA
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,29,69.850,Guile,Singapore,TBSSpec,2020/07/06
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,31,69.850,Guile,Singapore,TBSSpec,2020/07/06
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,Guile,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999,999.999,Guile,NO_DATA
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,63,70.737,Guile,Singapore,TBSSpec,2020/07/06
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,50,81.104,Guile,Singapore,TBSSpec,2020/07/06
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,67,70.737,Guile,Singapore,TBSSpec,2020/07/06
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,55,81.104,Guile,Singapore,TBSSpec,2020/07/06
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,67,104.076,Guile,Singapore,TBSSpec,2020/07/06
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,Guile,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,179,68.797,Guile,Singapore,TBSSpec,2020/07/09
+TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,Guile,NO_DATA
@@ -44,58 +44,69 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999,999.999,Guile,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,64,87.196,Guile,Singapore,TBSSpec,2020/06/25
-TBS EU Spec Series 4 Race 2,Empty Scene Day,140,75.193,Guile,Singapore,TBSSpec,2020/05/14
-TBS EU Spec Series 4 Race 3,IndoorGoKart,72,111.552,Guile,Singapore,TBSSpec,2020/05/21
-TBS EU Spec Series 4 Race 4,Empty Scene Day,142,97.314,Guile,Singapore,TBSSpec,2020/05/28
-TBS EU Spec Series 4 Race 5,Dynamic Weather,91,95.322,Guile,Singapore,TBSSpec,2020/06/04
-TBS EU Spec Series 4 Race 7,Football Stadium,115,79.270,Guile,Singapore,TBSSpec,2020/06/18
-TBS EU Spec Series 5 FINAL,Dynamic Weather,63,86.591,Guile,Singapore,TBSSpec,2020/09/10
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,47,77.538,Guile,Singapore,TBSSpec,2020/09/03
-TBS EU Spec Series 5 Race 3,Dynamic Weather,75,77.627,Guile,Singapore,TBSSpec,2020/07/23
-TBS EU Spec Series 5 Race 4,Football Stadium,69,83.873,Guile,Singapore,TBSSpec,2020/07/30
-TBS EU Spec Series 5 Race 5,NEC Birmingham,61,73.051,Guile,Singapore,TBSSpec,2020/08/06
-TBS EU Spec Series 5 Race 6,Dynamic Weather,57,69.504,Guile,Singapore,TBSSpec,2020/08/20
-TBS EU Spec Series 5 Race 7,IndoorGoKart,60,77.923,Guile,Singapore,TBSSpec,2020/08/27
-TBS EU Spec Series 6 Final,Empty Scene Day,75,85.673,Guile,Singapore,TBSSpec,2020/12/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,153,86.867,Guile,Singapore,TBSSpec,2021/02/25
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,79,73.801,Guile,Singapore,TBSSpec,2020/09/24
-TBS EU Spec Series 6 Race 2,Empty Scene Day,139,77.647,Guile,Singapore,TBSSpec,2020/10/02
+TBS EU Spec Series 12 Final,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,90,90.669,Guile,Singapore,TBSSpec,2023/01/26
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999,999.999,Guile,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,65,87.196,Guile,Singapore,TBSSpec,2020/06/25
+TBS EU Spec Series 4 Race 2,Empty Scene Day,149,75.193,Guile,Singapore,TBSSpec,2020/05/14
+TBS EU Spec Series 4 Race 3,IndoorGoKart,80,111.552,Guile,Singapore,TBSSpec,2020/05/21
+TBS EU Spec Series 4 Race 4,Empty Scene Day,148,97.314,Guile,Singapore,TBSSpec,2020/05/28
+TBS EU Spec Series 4 Race 5,Dynamic Weather,95,95.322,Guile,Singapore,TBSSpec,2020/06/04
+TBS EU Spec Series 4 Race 7,Football Stadium,118,79.270,Guile,Singapore,TBSSpec,2020/06/18
+TBS EU Spec Series 5 FINAL,Dynamic Weather,64,86.591,Guile,Singapore,TBSSpec,2020/09/10
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,49,77.538,Guile,Singapore,TBSSpec,2020/09/03
+TBS EU Spec Series 5 Race 3,Dynamic Weather,84,77.627,Guile,Singapore,TBSSpec,2020/07/23
+TBS EU Spec Series 5 Race 4,Football Stadium,70,83.873,Guile,Singapore,TBSSpec,2020/07/30
+TBS EU Spec Series 5 Race 5,NEC Birmingham,67,73.051,Guile,Singapore,TBSSpec,2020/08/06
+TBS EU Spec Series 5 Race 6,Dynamic Weather,59,69.504,Guile,Singapore,TBSSpec,2020/08/20
+TBS EU Spec Series 5 Race 7,IndoorGoKart,62,77.923,Guile,Singapore,TBSSpec,2020/08/27
+TBS EU Spec Series 6 Final,Empty Scene Day,81,85.673,Guile,Singapore,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Losers Final,Football Stadium,166,86.867,Guile,Singapore,TBSSpec,2021/02/25
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,80,73.801,Guile,Singapore,TBSSpec,2020/09/24
+TBS EU Spec Series 6 Race 2,Empty Scene Day,145,77.647,Guile,Singapore,TBSSpec,2020/10/02
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,Guile,NO_DATA
-TBS EU Spec Series 6 Race 5,Dynamic Weather,37,81.110,Guile,Singapore,TBSSpec,2020/11/05
-TBS EU Spec Series 6 Race 6,Empty Scene Day,63,77.691,Guile,Singapore,TBSSpec,2020/11/12
-TBS EU Spec Series 6 Race 7,Empty Scene Day,102,60.805,Guile,Singapore,TBSSpec,2020/11/19
+TBS EU Spec Series 6 Race 5,Dynamic Weather,38,81.110,Guile,Singapore,TBSSpec,2020/11/05
+TBS EU Spec Series 6 Race 6,Empty Scene Day,64,77.691,Guile,Singapore,TBSSpec,2020/11/12
+TBS EU Spec Series 6 Race 7,Empty Scene Day,110,60.805,Guile,Singapore,TBSSpec,2020/11/19
 TBS EU Spec Series 7 Final,Empty Scene Day,87,76.964,Guile,Singapore,TBSSpec,2021/03/04
-TBS EU Spec Series 7 Race 1,Football Stadium,99,74.923,Guile,Singapore,TBSSpec,2021/01/07
-TBS EU Spec Series 7 Race 2,Empty Scene Day,93,73.917,Guile,Singapore,TBSSpec,2021/01/14
-TBS EU Spec Series 7 Race 3,Empty Scene Day,93,76.136,Guile,Singapore,TBSSpec,2021/01/21
-TBS EU Spec Series 7 Race 4,Empty Scene Day,101,73.432,Guile,Singapore,TBSSpec,2021/01/28
-TBS EU Spec Series 7 Race 5,IndoorGoKart,81,74.899,Guile,Singapore,TBSSpec,2021/02/04
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,71,72.824,Guile,Singapore,TBSSpec,2021/02/11
-TBS EU Spec Series 7 Race 7,Empty Scene Day,105,85.574,Guile,Singapore,TBSSpec,2021/02/18
-TBS EU Spec Series 8 Final,Dynamic Weather,75,85.380,Guile,Singapore,TBSSpec,2021/07/01
+TBS EU Spec Series 7 Race 1,Football Stadium,103,74.923,Guile,Singapore,TBSSpec,2021/01/07
+TBS EU Spec Series 7 Race 2,Empty Scene Day,94,73.917,Guile,Singapore,TBSSpec,2021/01/14
+TBS EU Spec Series 7 Race 3,Empty Scene Day,99,76.136,Guile,Singapore,TBSSpec,2021/01/21
+TBS EU Spec Series 7 Race 4,Empty Scene Day,102,73.432,Guile,Singapore,TBSSpec,2021/01/28
+TBS EU Spec Series 7 Race 5,IndoorGoKart,90,74.899,Guile,Singapore,TBSSpec,2021/02/04
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,73,72.824,Guile,Singapore,TBSSpec,2021/02/11
+TBS EU Spec Series 7 Race 7,Empty Scene Day,112,85.574,Guile,Singapore,TBSSpec,2021/02/18
+TBS EU Spec Series 8 Final,Dynamic Weather,76,85.380,Guile,Singapore,TBSSpec,2021/07/01
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,Guile,NO_DATA
-TBS EU Spec Series 8 Race 1,Dynamic Weather,80,80.898,Guile,Singapore,TBSSpec,2021/03/18
-TBS EU Spec Series 8 Race 2,Empty Scene Night,58,78.304,Guile,Singapore,TBSSpec,2021/03/25
-TBS EU Spec Series 8 Race 3,Football Stadium,58,62.231,Guile,Singapore,TBSSpec,2021/04/22
-TBS EU Spec Series 8 Race 4,Empty Scene Day,90,81.982,Guile,Singapore,TBSSpec,2021/05/06
-TBS EU Spec Series 8 Race 5,Future Hangar Empty,67,61.563,Guile,Singapore,TBSSpec,2021/05/20
-TBS EU Spec Series 8 Race 6,Football Stadium,83,70.317,Guile,Singapore,TBSSpec,2021/06/03
-TBS EU Spec Series 8 Race 7,Empty Scene Day,106,81.264,Guile,Singapore,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Race 1,Dynamic Weather,85,80.898,Guile,Singapore,TBSSpec,2021/03/18
+TBS EU Spec Series 8 Race 2,Empty Scene Night,59,78.304,Guile,Singapore,TBSSpec,2021/03/25
+TBS EU Spec Series 8 Race 3,Football Stadium,61,62.231,Guile,Singapore,TBSSpec,2021/04/22
+TBS EU Spec Series 8 Race 4,Empty Scene Day,97,81.982,Guile,Singapore,TBSSpec,2021/05/06
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,68,61.563,Guile,Singapore,TBSSpec,2021/05/20
+TBS EU Spec Series 8 Race 6,Football Stadium,85,70.317,Guile,Singapore,TBSSpec,2021/06/03
+TBS EU Spec Series 8 Race 7,Empty Scene Day,115,81.264,Guile,Singapore,TBSSpec,2021/06/24
 TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,Guile,NO_DATA
-TBS EU Spec Series 9 Race 3,Empty Scene Day,115,71.487,Guile,Singapore,TBSSpec,2021/09/23
-TBS EU Spec Series 9 Race 4,Football Stadium,137,87.313,Guile,Singapore,TBSSpec,2021/09/30
+TBS EU Spec Series 9 Race 3,Empty Scene Day,128,71.487,Guile,Singapore,TBSSpec,2021/09/23
+TBS EU Spec Series 9 Race 4,Football Stadium,154,87.313,Guile,Singapore,TBSSpec,2021/09/30
 TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,Guile,NO_DATA
 TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,Guile,NO_DATA
-TBS EU Spec Series 9 Race 7,NEC Birmingham,117,86.872,Guile,Singapore,TBSSpec,2021/10/28
-VRL 7 Race 4,Dynamic Weather,113,97.609,Guile,Singapore,Ossa,2021/01/03
-VRL 7 Track 1,Future Hangar,91,102.078,Guile,Singapore,Yakuza,2020/10/27
+TBS EU Spec Series 9 Race 7,NEC Birmingham,122,86.872,Guile,Singapore,TBSSpec,2021/10/28
+VRL 7 Race 4,Dynamic Weather,123,97.609,Guile,Singapore,Ossa,2021/01/03
+VRL 7 Track 1,Future Hangar,93,102.078,Guile,Singapore,Yakuza,2020/10/27
 VRL 7 Track 2,Future Hangar Empty,999,999.999,Guile,NO_DATA
-VRL 7 Track 3,Dynamic Weather,155,98.006,Guile,Singapore,TBSSpec,2020/11/15
-VRL 7 Track 5,Dynamic Weather,151,99.730,Guile,Singapore,Ossa,2020/12/15
-VRL 7 Track 6,Dynamic Weather,127,88.955,Guile,Singapore,Ossa,2020/12/15
-VRL7 Tryouts,Future Hangar Empty,144,99.315,Guile,Singapore,Ossa,2020/09/13
-VRL Season 7 Championships,Dynamic Weather,171,133.434,Guile,Singapore,Five33Switchback,2021/01/01
+VRL 7 Track 3,Dynamic Weather,168,98.006,Guile,Singapore,TBSSpec,2020/11/15
+VRL 7 Track 5,Dynamic Weather,158,99.730,Guile,Singapore,Ossa,2020/12/15
+VRL 7 Track 6,Dynamic Weather,131,88.955,Guile,Singapore,Ossa,2020/12/15
+VRL7 Tryouts,Future Hangar Empty,147,99.315,Guile,Singapore,Ossa,2020/09/13
+VRL Season 7 Championships,Dynamic Weather,181,133.434,Guile,Singapore,Five33Switchback,2021/01/01

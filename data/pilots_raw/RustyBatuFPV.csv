@@ -4,11 +4,11 @@ DEP Open Series 3 Race 3,Karting Track,107.722,RustyBatuFPV,Germany,Five33Switch
 DEP Open Series 3 Race 4,Football Stadium,76.887,RustyBatuFPV,Germany,Five33Switchback,2021/02/24
 DEP Open Series 3 Race 5,Football Stadium,999.999,RustyBatuFPV,NO_DATA
 DEP Open Series 3 Race 6,Football Stadium,999.999,RustyBatuFPV,NO_DATA
-DEP Open Series 3 Race 7,Football Stadium,124.377,RustyBatuFPV,Germany,TBSSpec,2021/03/18
+DEP Open Series 3 Race 7,Football Stadium,999.999,RustyBatuFPV,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,RustyBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,RustyBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999.999,RustyBatuFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,73.481,RustyBatuFPV,Germany,Five33Switchback,2020/12/23
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,RustyBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999.999,RustyBatuFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,67.373,RustyBatuFPV,Germany,TBSSpec,2020/05/21
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999.999,RustyBatuFPV,NO_DATA
@@ -37,6 +37,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,63.889,RustyBatuFPV,Germany,TBSSpec,2022/07/14
 TBS EU Spec Series 11 Race 6,Dynamic Weather,53.872,RustyBatuFPV,Germany,TBSSpec,2022/07/14
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,89.945,RustyBatuFPV,Germany,TBSSpec,2023/02/05
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,RustyBatuFPV,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,77.543,RustyBatuFPV,Germany,Mode2Ghost,2020/05/15
 TBS EU Spec Series 4 Race 3,IndoorGoKart,108.585,RustyBatuFPV,Germany,TBSSpec,2020/05/21
@@ -84,3 +95,30 @@ TBS EU Spec Series 9 Race 4,Football Stadium,68.684,RustyBatuFPV,Germany,TBSSpec
 TBS EU Spec Series 9 Race 5,Empty Scene Day,69.087,RustyBatuFPV,Germany,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 6,Empty Scene Day,67.644,RustyBatuFPV,Germany,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,68.565,RustyBatuFPV,Germany,TBSSpec,2021/11/04
+VRL 7 Race 4,Dynamic Weather,92.388,RustyBatuFPV,Germany,Five33Switchback,2021/10/17
+VRL 7 Track 1,Future Hangar,107.993,RustyBatuFPV,Germany,Mode2Ghost,2020/10/29
+VRL 7 Track 2,Future Hangar Empty,999.999,RustyBatuFPV,NO_DATA
+VRL 7 Track 3,Dynamic Weather,97.509,RustyBatuFPV,Germany,TBSSpec,2020/11/19
+VRL 7 Track 5,Dynamic Weather,86.722,RustyBatuFPV,Germany,SingularitumV5,2020/12/08
+VRL 7 Track 6,Dynamic Weather,77.345,RustyBatuFPV,Germany,Five33Switchback,2021/10/19
+VRL7 Tryouts,Future Hangar Empty,89.223,RustyBatuFPV,Germany,Five33Switchback,2021/10/19
+VRL S9 FINALS,Dynamic Weather,80.548,RustyBatuFPV,Germany,CarbiXZero,2023/03/25
+VRL S9 T1,Dynamic Weather,999.999,RustyBatuFPV,NO_DATA
+VRL S9 T2,Dynamic Weather,66.393,RustyBatuFPV,Germany,CarbiXZero,2023/01/27
+VRL S9 T3,Dynamic Weather,61.230,RustyBatuFPV,Germany,CarbiXZero,2023/02/03
+VRL S9 T4,Dynamic Weather,78.018,RustyBatuFPV,Germany,CarbiXZero,2023/02/18
+VRL S9 T5,Dynamic Weather,77.114,RustyBatuFPV,Germany,CarbiXZero,2023/02/25
+VRL S9 T6,Dynamic Weather,76.215,RustyBatuFPV,Germany,CarbiXZero,2023/03/04
+VRL S9 T7,Dynamic Weather,82.411,RustyBatuFPV,Germany,CarbiXZero,2023/03/11
+VRL S9 T8,Dynamic Weather,81.944,RustyBatuFPV,Germany,CarbiXZero,2023/03/18
+VRL Season 7 Championships,Dynamic Weather,103.464,RustyBatuFPV,Germany,Five33Switchback,2021/09/04
+VRL Season 8 Championships,Dynamic Weather,70.413,RustyBatuFPV,Germany,CarbiXZero,2022/02/05
+VRL Season 8 Track 1,Office Complex,110.144,RustyBatuFPV,Germany,Five33Switchback,2021/11/14
+VRL Season 8 Track 2,Drift Track,82.663,RustyBatuFPV,Germany,Five33Switchback,2021/11/20
+VRL Season 8 Track 3,Night Factory 2,102.815,RustyBatuFPV,Germany,Five33Switchback,2021/12/03
+VRL Season 8 Track 4,DynamicPoly,106.395,RustyBatuFPV,Germany,Five33Switchback,2021/12/11
+VRL Season 8 Track 5,Dynamic Weather,95.848,RustyBatuFPV,Germany,Five33Switchback,2021/12/18
+VRL Season 8 Track 6,Night Factory 2,103.864,RustyBatuFPV,Germany,Five33Switchback,2022/01/15
+VRL SEASON 8 TRACK 7,Dynamic Weather,74.521,RustyBatuFPV,Germany,Five33Switchback,2022/01/22
+VRL SEASON 8 TRYOUTS,RedValley,999.999,RustyBatuFPV,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,98.888,RustyBatuFPV,Germany,CarbiXZero,2023/01/03

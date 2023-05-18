@@ -1,4 +1,4 @@
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,85.956,Robot,UnitedStates,CarbiXZero,2020/10/24
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,Robot,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,84.476,Robot,UnitedStates,CarbiXZero,2020/10/24
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,Robot,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,84.863,Robot,UnitedStates,CarbiXZero,2020/10/24
@@ -32,6 +32,15 @@ VRL S5 TRACK 2,Dynamic Weather,124.637,Robot,UnitedStates,CarbiXZero,2020/09/16
 VRL S5 TRACK 3,Bando,112.044,Robot,UnitedStates,CarbiXZero,2020/06/07
 VRL S5 TRACK 4,Empty Scene Day,93.308,Robot,UnitedStates,CarbiXZero,2020/11/04
 VRL S5 TRACK 5,Dynamic Weather,125.787,Robot,UnitedStates,CarbiXZero,2020/09/18
+VRL S9 FINALS,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T7,Dynamic Weather,999.999,Robot,NO_DATA
+VRL S9 T8,Dynamic Weather,999.999,Robot,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,89.794,Robot,UnitedStates,CarbiXZero,2020/11/04
 VRL Season 3 Track 2,Empty Scene Day,78.781,Robot,UnitedStates,CarbiXZero,2020/11/04
 VRL Season 3 Track 3,Empty Scene Day,90.639,Robot,UnitedStates,CarbiXZero,2020/11/04
@@ -62,3 +71,4 @@ VRL Season 8 Track 5,Dynamic Weather,999.999,Robot,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999.999,Robot,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,Robot,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999.999,Robot,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,Robot,NO_DATA

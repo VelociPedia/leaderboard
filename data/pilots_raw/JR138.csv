@@ -1,8 +1,8 @@
 2020 Canadian MultiGP Series,Football Stadium,51.352,JR138,UnitedStates,PandaCavity,2022/09/20
 2020 MultiGP Champs presented by RDQ,Football Stadium,64.737,JR138,UnitedStates,Five33Switchback,2022/01/12
-2021 MultiGP Champs Track 1,Empty Scene Day,98.619,JR138,UnitedStates,Five33Switchback,2022/07/22
+2021 MultiGP Champs Track 1,Empty Scene Day,98.226,JR138,UnitedStates,PandaCavity,2022/10/16
 2021 MultiGP Champs Track 2,Empty Scene Day,56.167,JR138,UnitedStates,Five33Switchback,2022/03/30
-2022 Freedom Spec Champioship,Dynamic Weather,999.999,JR138,NO_DATA
+2022 Freedom Spec Champioship,Dynamic Weather,71.167,JR138,UnitedStates,Five33Switchback,2022/08/15
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999.999,JR138,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,JR138,NO_DATA
 2022 MultiGP IO Intermediate,Dynamic Weather,57.215,JR138,UnitedStates,Five33Switchback,2022/07/04
@@ -10,7 +10,16 @@
 2022 MultiGP IO Micro,Countryside,999.999,JR138,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,62.077,JR138,UnitedStates,Five33Switchback,2022/09/13
 2022 MultiGP IO World Cup,Dynamic Weather,66.808,JR138,UnitedStates,Five33Switchback,2022/06/04
-BDRA Championships 2022,Countryside,91.656,JR138,UnitedStates,PandaCavity,2022/10/11
+2023 MultiGP GQ-AyyyKayyy,Dynamic Weather,999.999,JR138,NO_DATA
+2023 MultiGP GQ-BonerFPV,Dynamic Weather,999.999,JR138,NO_DATA
+2023 MultiGP GQ-Fastodon,Dynamic Weather,46.450,JR138,UnitedStates,PandaCavity,2023/03/03
+2023 MultiGP GQ-Hakko,Dynamic Weather,45.678,JR138,UnitedStates,PandaCavity,2023/03/02
+2023 MultiGP GQ-Hyper,Dynamic Weather,47.686,JR138,UnitedStates,PandaCavity,2023/03/02
+2023 MultiGp GQ-Leviathann,Dynamic Weather,35.454,JR138,UnitedStates,PandaCavity,2023/03/03
+2023 MultiGP GQ-NMGrower,Dynamic Weather,999.999,JR138,NO_DATA
+2023 MultiGP GQ-ROFL,Dynamic Weather,999.999,JR138,NO_DATA
+BDRA Championships 2022,Countryside,55.967,JR138,UnitedStates,PandaCavity,2022/10/16
+CDRA 2023  Champs Hyper,Empty Scene Day,999.999,JR138,NO_DATA
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,70.077,JR138,UnitedStates,Five33Switchback,2022/01/19
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,56.749,JR138,UnitedStates,TBSSpec,2022/01/02
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,65.698,JR138,UnitedStates,Five33Switchback,2022/02/05
@@ -44,6 +53,7 @@ DEP Open Series 6 Race 1,Football Stadium,84.243,JR138,UnitedStates,Five33Switch
 DEP Open Series 6 Race 2,Football Stadium,999.999,JR138,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,120.779,JR138,UnitedStates,Five33Switchback,2021/01/25
 EU Spec Season 4 Race 1,Football Stadium,92.035,JR138,UnitedStates,TBSSpec,2021/12/28
+IO 2023 Main Stage FAI Yawesome,Empty Scene Day,999.999,JR138,NO_DATA
 Mayhem 2021 By YAWESOME,Empty Scene Day,999.999,JR138,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,65.065,JR138,UnitedStates,Five33Switchback,2022/04/04
 Mayhem Dawn till Dusk,Empty Scene Day,49.455,JR138,UnitedStates,Five33Switchback,2022/01/31
@@ -51,7 +61,11 @@ MGP2018IOIntermediate,Empty Scene Day,36.847,JR138,UnitedStates,Five33Switchback
 MGP2018IORookie,Empty Scene Day,21.339,JR138,UnitedStates,Five33Switchback,2021/03/28
 MGP2018IOTeam,Empty Scene Day,54.805,JR138,UnitedStates,Five33Switchback,2021/03/28
 MGP2018IOWorldCup,Empty Scene Day,78.249,JR138,UnitedStates,Five33Switchback,2022/07/06
-MGP Ice Rink Race 2022,Empty Scene Day,75.250,JR138,UnitedStates,Five33Switchback,2022/07/06
+MGP Champs 2022,Dynamic Weather,82.794,JR138,UnitedStates,PandaCavity,2023/01/04
+MGP Champs 2022 sports track,Empty Scene Day,999.999,JR138,NO_DATA
+MGP GQ 2023 remix,Dynamic Weather,232.928,JR138,UnitedStates,PandaCavity,2023/05/09
+MGP Ice Rink Race 2022,Empty Scene Day,69.985,JR138,UnitedStates,PandaCavity,2022/10/15
+MGP Ice Storm 2023 by BonerFPV,Empty Scene Day,97.908,JR138,UnitedStates,PandaCavity,2023/05/13
 MGP UTT Remix,Empty Scene Day,999.999,JR138,NO_DATA
 MultiGP 2016 RF,Football Stadium,53.314,JR138,UnitedStates,Five33Switchback,2021/05/22
 MultiGP 2017 RF,Football Stadium,58.495,JR138,UnitedStates,Five33Switchback,2021/07/13
@@ -63,6 +77,7 @@ MultiGP 2019 Sport Championships,Football Stadium,53.605,JR138,UnitedStates,Five
 MultiGP 2020 Global Qualifier,Empty Scene Day,35.063,JR138,UnitedStates,Five33Switchback,2022/05/15
 MultiGP 2021 Global Qualifier,Football Stadium,35.133,JR138,UnitedStates,Five33Switchback,2022/07/04
 MultiGP 2022 Global Qualifier,Dynamic Weather,32.827,JR138,UnitedStates,Five33Switchback,2022/07/01
+MultiGP 2023 Mayhem-NMGrower,Empty Scene Day,83.956,JR138,UnitedStates,PandaCavity,2023/05/13
 MultiGP Bessel Run,Football Stadium,28.120,JR138,UnitedStates,TBSOblivion,2020/10/31
 MultiGP-Championships-2019,Empty Scene Day,60.716,JR138,UnitedStates,Five33Switchback,2022/08/30
 MultiGP High Voltage,Football Stadium,33.576,JR138,UnitedStates,ArchAngelOrange,2020/09/05
@@ -119,7 +134,7 @@ TBS EU Spec Series 10 Losers Final,Football Stadium,61.407,JR138,UnitedStates,Fi
 TBS EU Spec Series 10 Race 1,Football Stadium,72.515,JR138,UnitedStates,TBSSpec,2022/01/03
 TBS EU Spec Series 10 Race 2,Empty Scene Day,82.556,JR138,UnitedStates,TBSSpec,2021/12/20
 TBS EU Spec Series 10 Race 3,Night Factory 2,999.999,JR138,NO_DATA
-TBS EU Spec Series 10 Race 4,Dynamic Weather,94.349,JR138,UnitedStates,TBSSpec,2022/01/07
+TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,JR138,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999.999,JR138,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,49.314,JR138,UnitedStates,Five33Switchback,2022/02/01
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,JR138,NO_DATA
@@ -129,9 +144,9 @@ TBS EU Spec Series 4 Race 3,IndoorGoKart,127.418,JR138,UnitedStates,Five33Switch
 TBS EU Spec Series 4 Race 4,Empty Scene Day,107.460,JR138,UnitedStates,TBSSpec,2020/06/01
 TBS EU Spec Series 4 Race 5,Dynamic Weather,109.759,JR138,UnitedStates,Five33Switchback,2021/03/19
 TBS EU Spec Series 4 Race 7,Football Stadium,999.999,JR138,NO_DATA
-TBS EU Spec Series 5 FINAL,Dynamic Weather,999.999,JR138,NO_DATA
+TBS EU Spec Series 5 FINAL,Dynamic Weather,99.758,JR138,UnitedStates,PandaCavity,2023/01/14
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,102.387,JR138,UnitedStates,ArchAngelOrange,2020/09/05
-TBS EU Spec Series 5 Race 3,Dynamic Weather,100.648,JR138,UnitedStates,AcrobotTruX-R197,2020/12/22
+TBS EU Spec Series 5 Race 3,Dynamic Weather,999.999,JR138,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,84.014,JR138,UnitedStates,PandaCavity,2022/09/22
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999.999,JR138,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,83.917,JR138,UnitedStates,Five33Switchback,2021/02/13

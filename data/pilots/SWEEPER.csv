@@ -1,13 +1,13 @@
 2022 Freedom Spec Champioship,Dynamic Weather,999,999.999,SWEEPER,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999,999.999,SWEEPER,NO_DATA
-2022 MultiGP IO Freedom Spec,Dynamic Weather,105,107.493,SWEEPER,CzechRepublic,Five33Switchback,2022/06/18
+2022 MultiGP IO Freedom Spec,Dynamic Weather,134,107.493,SWEEPER,CzechRepublic,Five33Switchback,2022/06/18
 2022 MultiGP IO Intermediate,Dynamic Weather,2,39.300,SWEEPER,CzechRepublic,Five33Switchback,2022/08/29
 2022 MultiGP IO Team,Dynamic Weather,1,44.298,SWEEPER,CzechRepublic,Five33Switchback,2022/06/30
 2022 MultiGP IO World Cup,Dynamic Weather,2,48.746,SWEEPER,CzechRepublic,Five33Switchback,2022/06/13
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,SWEEPER,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,SWEEPER,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,999,999.999,SWEEPER,NO_DATA
-DEP Open Series 3 Race 1,Football Stadium,2,45.518,SWEEPER,CzechRepublic,Five33Switchback,2021/03/31
+DEP Open Series 3 Race 1,Football Stadium,3,45.518,SWEEPER,CzechRepublic,Five33Switchback,2021/03/31
 DEP Open Series 3 Race 2,Football Stadium,2,58.847,SWEEPER,CzechRepublic,Five33Switchback,2021/02/25
 DEP Open Series 3 Race 3,Karting Track,999,999.999,SWEEPER,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,3,48.915,SWEEPER,CzechRepublic,Five33Switchback,2021/03/26
@@ -30,21 +30,23 @@ DEP Open Series 5 Race 6,Football Stadium,106,87.582,SWEEPER,CzechRepublic,Five3
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,SWEEPER,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,SWEEPER,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,2,50.087,SWEEPER,CzechRepublic,Five33Switchback,2022/04/08
+MGP Champs 2022,Dynamic Weather,3,56.753,SWEEPER,CzechRepublic,Five33Switchback,2022/10/30
+MGP Champs 2022 sports track,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
 MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,999,999.999,SWEEPER,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,4,58.499,SWEEPER,CzechRepublic,Five33Switchback,2020/10/08
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,40,65.521,SWEEPER,CzechRepublic,TBSSpec,2020/09/22
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,72,60.429,SWEEPER,CzechRepublic,TBSSpec,2020/09/24
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,5,58.499,SWEEPER,CzechRepublic,Five33Switchback,2020/10/08
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,42,65.521,SWEEPER,CzechRepublic,TBSSpec,2020/09/22
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,75,60.429,SWEEPER,CzechRepublic,TBSSpec,2020/09/24
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,41,64.231,SWEEPER,CzechRepublic,TBSSpec,2020/05/11
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,SWEEPER,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
-RCTech_de EU Spec Series 3 Final,Empty Scene Day,32,70.085,SWEEPER,CzechRepublic,TBSSpec,2020/04/21
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,33,70.085,SWEEPER,CzechRepublic,TBSSpec,2020/04/21
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,3,48.696,SWEEPER,CzechRepublic,Five33Switchback,2021/02/19
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,1,52.320,SWEEPER,CzechRepublic,Five33Switchback,2021/11/01
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,36,95.167,SWEEPER,CzechRepublic,TBSSpec,2020/04/06
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,40,72.862,SWEEPER,CzechRepublic,TBSSpec,2020/04/22
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,41,72.862,SWEEPER,CzechRepublic,TBSSpec,2020/04/22
 TBS EU Spec Series 7 Final,Empty Scene Day,8,59.189,SWEEPER,CzechRepublic,Five33Switchback,2021/03/16
 TBS EU Spec Series 7 Race 1,Football Stadium,1,56.774,SWEEPER,CzechRepublic,Five33Switchback,2021/01/28
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,SWEEPER,NO_DATA
@@ -66,7 +68,7 @@ VRL 7 Race 4,Dynamic Weather,2,78.414,SWEEPER,CzechRepublic,Five33Switchback,202
 VRL 7 Track 1,Future Hangar,7,91.802,SWEEPER,CzechRepublic,Five33Switchback,2020/10/30
 VRL 7 Track 2,Future Hangar Empty,4,88.410,SWEEPER,CzechRepublic,Five33Switchback,2020/11/14
 VRL 7 Track 3,Dynamic Weather,4,68.170,SWEEPER,CzechRepublic,Five33Switchback,2020/11/20
-VRL 7 Track 5,Dynamic Weather,18,80.855,SWEEPER,CzechRepublic,Five33Switchback,2020/12/13
-VRL 7 Track 6,Dynamic Weather,20,79.430,SWEEPER,CzechRepublic,Five33Switchback,2020/12/16
-VRL7 Tryouts,Future Hangar Empty,11,90.563,SWEEPER,CzechRepublic,Five33Switchback,2020/10/10
-VRL Season 7 Championships,Dynamic Weather,11,95.403,SWEEPER,CzechRepublic,Five33Switchback,2021/01/02
+VRL 7 Track 5,Dynamic Weather,20,80.855,SWEEPER,CzechRepublic,Five33Switchback,2020/12/13
+VRL 7 Track 6,Dynamic Weather,21,79.430,SWEEPER,CzechRepublic,Five33Switchback,2020/12/16
+VRL7 Tryouts,Future Hangar Empty,13,90.563,SWEEPER,CzechRepublic,Five33Switchback,2020/10/10
+VRL Season 7 Championships,Dynamic Weather,12,95.403,SWEEPER,CzechRepublic,Five33Switchback,2021/01/02

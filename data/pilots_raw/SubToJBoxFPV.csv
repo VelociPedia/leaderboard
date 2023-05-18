@@ -4,6 +4,15 @@
 2022 MultiGP IO Intermediate,Dynamic Weather,49.930,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/06/17
 2022 MultiGP IO Team,Dynamic Weather,49.179,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/06/01
 2022 MultiGP IO World Cup,Dynamic Weather,50.979,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/06/04
+2023 MultiGP GQ-AyyyKayyy,Dynamic Weather,27.617,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/02
+2023 MultiGP GQ-BonerFPV,Dynamic Weather,20.175,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/02
+2023 MultiGP GQ-Fastodon,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
+2023 MultiGP GQ-Hakko,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
+2023 MultiGP GQ-Hyper,Dynamic Weather,42.354,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/02
+2023 MultiGp GQ-Leviathann,Dynamic Weather,21.857,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/03
+2023 MultiGP GQ-NMGrower,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
+2023 MultiGP GQ-ROFL,Dynamic Weather,38.545,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/03
+CDRA 2023  Champs Hyper,Empty Scene Day,35.522,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/04/07
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,58.930,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/12/15
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,89.076,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/05
@@ -17,9 +26,15 @@ DEP Open Series 4 Race 5,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,81.105,SubToJBoxFPV,UnitedStates,Ossa,2021/10/08
 DEP Open Series 4 Race 7,Football Stadium,72.129,SubToJBoxFPV,UnitedStates,Ossa,2021/07/19
 DF5,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
+IO 2023 Main Stage FAI Yawesome,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,52.887,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/03/28
+MGP Champs 2022,Dynamic Weather,66.342,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/10/18
+MGP Champs 2022 sports track,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
+MGP GQ 2023 remix,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
 MGP Ice Rink Race 2022,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
+MGP Ice Storm 2023 by BonerFPV,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,SubToJBoxFPV,NO_DATA
+MultiGP 2023 Mayhem-NMGrower,Empty Scene Day,53.856,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/04/13
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,SubToJBoxFPV,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,111.613,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/07/13
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,SubToJBoxFPV,NO_DATA
@@ -66,6 +81,15 @@ VRL 7 Track 3,Dynamic Weather,70.578,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/1
 VRL 7 Track 5,Dynamic Weather,82.812,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/13
 VRL 7 Track 6,Dynamic Weather,81.971,SubToJBoxFPV,UnitedStates,CarbiXZero,2020/12/17
 VRL7 Tryouts,Future Hangar Empty,91.692,SubToJBoxFPV,UnitedStates,Ossa,2020/09/16
+VRL S9 FINALS,Dynamic Weather,77.088,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/25
+VRL S9 T1,Dynamic Weather,74.684,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/01/21
+VRL S9 T2,Dynamic Weather,61.899,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/01/28
+VRL S9 T3,Dynamic Weather,59.557,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/02/02
+VRL S9 T4,Dynamic Weather,75.125,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/02/07
+VRL S9 T5,Dynamic Weather,79.048,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,74.364,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/03
+VRL S9 T7,Dynamic Weather,73.410,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/09
+VRL S9 T8,Dynamic Weather,78.430,SubToJBoxFPV,UnitedStates,Five33Switchback,2023/03/16
 VRL Season 7 Championships,Dynamic Weather,97.434,SubToJBoxFPV,UnitedStates,CarbiXZero,2021/01/03
 VRL Season 8 Championships,Dynamic Weather,67.835,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/05
 VRL Season 8 Track 1,Office Complex,105.758,SubToJBoxFPV,UnitedStates,Mode2Ghost,2021/11/13
@@ -76,6 +100,7 @@ VRL Season 8 Track 5,Dynamic Weather,127.356,SubToJBoxFPV,UnitedStates,Mode2Ghos
 VRL Season 8 Track 6,Night Factory 2,96.191,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/15
 VRL SEASON 8 TRACK 7,Dynamic Weather,139.660,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/28
 VRL SEASON 8 TRYOUTS,RedValley,999.999,SubToJBoxFPV,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,86.149,SubToJBoxFPV,UnitedStates,Five33Switchback,2022/12/28
 Week 10 TT - MCKPractice2,Football Stadium,41.046,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/01/07
 Week 12 TT - GQ22 by Chris M,Football Stadium,28.800,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/26
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,130.152,SubToJBoxFPV,UnitedStates,Mode2Ghost,2022/02/24

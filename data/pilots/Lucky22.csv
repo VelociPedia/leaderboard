@@ -28,8 +28,8 @@ DEP Open Series 5 Race 4,Football Stadium,145,115.103,Lucky22,UnitedStates,Five3
 DEP Open Series 5 Race 5,Football Stadium,133,114.869,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 DEP Open Series 5 Race 6,Football Stadium,190,105.522,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 DEP Open Series 5 Race 7,Football Stadium,173,143.918,Lucky22,UnitedStates,Five33Switchback,2021/12/31
-DEP Open Series 6 Race 1,Football Stadium,164,104.002,Lucky22,UnitedStates,Five33Switchback,2022/03/12
-DEP Open Series 6 Race 2,Football Stadium,164,213.914,Lucky22,UnitedStates,Five33Switchback,2022/03/12
+DEP Open Series 6 Race 1,Football Stadium,197,104.002,Lucky22,UnitedStates,Five33Switchback,2022/03/12
+DEP Open Series 6 Race 2,Football Stadium,200,213.914,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 Formula FLow I,Empty Scene Day,159,81.088,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 Formula Flow II,Empty Scene Day,129,147.599,Lucky22,UnitedStates,Five33Switchback,2022/03/12
 Formula Flow III,Empty Scene Day,78,167.820,Lucky22,UnitedStates,Five33Switchback,2022/03/12
@@ -97,27 +97,40 @@ RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,148,100.409,Lucky22,UnitedStat
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,196,106.742,Lucky22,UnitedStates,Five33Switchback,2022/01/22
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,121,95.994,Lucky22,UnitedStates,Five33Switchback,2022/01/22
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,184,171.760,Lucky22,UnitedStates,Five33Switchback,2022/01/22
-TBS EU Spec Series 11 Race 1,Dynamic Weather,101,89.029,Lucky22,UnitedStates,Five33Switchback,2022/06/18
-TBS EU Spec Series 11 Race 2,Countryside,89,95.412,Lucky22,UnitedStates,Five33Switchback,2022/06/17
-TBS EU Spec Series 11 Race 3,Dynamic Weather,69,98.736,Lucky22,UnitedStates,Five33Switchback,2022/06/17
-TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,Lucky22,NO_DATA
-TBS EU Spec Series 9 Final,Dynamic Weather,999,999.999,Lucky22,NO_DATA
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,Lucky22,NO_DATA
+TBS EU Spec Series 11 Final,Dynamic Weather,157,118.710,Lucky22,UnitedStates,OpenRacer,2022/08/31
+TBS EU Spec Series 11 Race 1,Dynamic Weather,167,89.029,Lucky22,UnitedStates,Five33Switchback,2022/06/18
+TBS EU Spec Series 11 Race 2,Countryside,119,89.536,Lucky22,UnitedStates,OpenRacer,2022/08/31
+TBS EU Spec Series 11 Race 3,Dynamic Weather,98,98.736,Lucky22,UnitedStates,Five33Switchback,2022/06/17
+TBS EU Spec Series 11 Race 5,Dynamic Weather,132,94.242,Lucky22,UnitedStates,OpenRacer,2022/09/01
+TBS EU Spec Series 11 Race 5,NEC Birmingham,122,87.078,Lucky22,UnitedStates,Five33Switchback,2022/07/24
+TBS EU Spec Series 11 Race 6,Dynamic Weather,171,116.425,Lucky22,UnitedStates,Five33Switchback,2022/07/24
+TBS EU Spec Series 11 Race 7,Dynamic Weather,111,89.221,Lucky22,UnitedStates,OpenRacer,2022/09/02
+TBS EU Spec Series 12 Final,Dynamic Weather,999,999.999,Lucky22,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999,999.999,Lucky22,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,184,130.240,Lucky22,UnitedStates,OpenRacer,2022/12/09
+TBS EU Spec Series 12 Race 2,NEC Birmingham,96,105.810,Lucky22,UnitedStates,OpenRacer,2022/12/29
+TBS EU Spec Series 12 Race 3,Dynamic Weather,65,81.191,Lucky22,UnitedStates,OpenRacer,2022/12/30
+TBS EU Spec Series 12 Race 4,Night Factory 2,68,90.849,Lucky22,UnitedStates,OpenRacer,2023/01/06
+TBS EU Spec Series 12 Race 5,Dynamic Weather,152,118.395,Lucky22,UnitedStates,OpenRacer,2023/01/14
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,Lucky22,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,110,103.681,Lucky22,UnitedStates,OpenRacer,2023/02/05
+TBS EU Spec Series 9 Final,Dynamic Weather,198,87.227,Lucky22,UnitedStates,OpenRacer,2022/09/06
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,200,88.477,Lucky22,UnitedStates,OpenRacer,2022/09/06
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,Lucky22,NO_DATA
-TBS EU Spec Series 9 Race 2,Dynamic Weather,195,82.909,Lucky22,UnitedStates,Five33Switchback,2022/01/13
-TBS EU Spec Series 9 Race 3,Empty Scene Day,173,83.921,Lucky22,UnitedStates,Five33Switchback,2022/01/13
-TBS EU Spec Series 9 Race 4,Football Stadium,188,102.349,Lucky22,UnitedStates,Five33Switchback,2022/01/13
+TBS EU Spec Series 9 Race 2,Dynamic Weather,191,76.862,Lucky22,UnitedStates,OpenRacer,2022/09/06
+TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,Lucky22,NO_DATA
+TBS EU Spec Series 9 Race 4,Football Stadium,999,999.999,Lucky22,NO_DATA
 TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,Lucky22,NO_DATA
-TBS EU Spec Series 9 Race 6,Empty Scene Day,136,91.663,Lucky22,UnitedStates,Five33Switchback,2022/01/13
-TBS EU Spec Series 9 Race 7,NEC Birmingham,171,102.818,Lucky22,UnitedStates,Five33Switchback,2022/01/13
-VRL6 Championships,Dynamic Weather,179,146.778,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Crash Site,Dynamic Weather,39,183.554,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Downtown Loop,Dynamic Weather,22,196.673,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Extermination,Dynamic Weather,139,239.702,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Kenerator,Dynamic Weather,120,193.225,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Meltdown,Dynamic Weather,79,341.894,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Reinforcement,Dynamic Weather,66,197.144,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL6 Tunnel Vision,Dynamic Weather,133,298.883,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+TBS EU Spec Series 9 Race 6,Empty Scene Day,164,89.514,Lucky22,UnitedStates,OpenRacer,2022/09/06
+TBS EU Spec Series 9 Race 7,NEC Birmingham,195,102.818,Lucky22,UnitedStates,Five33Switchback,2022/01/13
+VRL6 Championships,Dynamic Weather,191,146.778,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Crash Site,Dynamic Weather,57,183.554,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Downtown Loop,Dynamic Weather,31,196.673,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Extermination,Dynamic Weather,150,239.702,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Kenerator,Dynamic Weather,127,193.225,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Meltdown,Dynamic Weather,101,341.894,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Reinforcement,Dynamic Weather,75,197.144,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL6 Tunnel Vision,Dynamic Weather,148,298.883,Lucky22,UnitedStates,Five33Switchback,2022/01/25
 VRL 7 Race 4,Dynamic Weather,999,999.999,Lucky22,NO_DATA
 VRL 7 Track 1,Future Hangar,999,999.999,Lucky22,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,999,999.999,Lucky22,NO_DATA
@@ -125,39 +138,49 @@ VRL 7 Track 3,Dynamic Weather,999,999.999,Lucky22,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999,999.999,Lucky22,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,Lucky22,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,Lucky22,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,88,128.692,Lucky22,UnitedStates,Five33Switchback,2022/01/21
-VRL S5 Track 1,Dynamic Weather,80,145.869,Lucky22,UnitedStates,Five33Switchback,2022/01/11
-VRL S5 TRACK 2,Dynamic Weather,40,143.950,Lucky22,UnitedStates,Five33Switchback,2022/01/11
-VRL S5 TRACK 3,Bando,110,174.193,Lucky22,UnitedStates,Five33Switchback,2022/01/11
-VRL S5 TRACK 4,Empty Scene Day,69,160.837,Lucky22,UnitedStates,Five33Switchback,2022/01/11
-VRL S5 TRACK 5,Dynamic Weather,45,158.190,Lucky22,UnitedStates,Five33Switchback,2022/01/22
-VRL Season 3 Track 1,Empty Scene Day,96,89.358,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 2,Empty Scene Day,107,90.434,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 3,Empty Scene Day,50,123.210,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 4,Empty Scene Day,94,163.182,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 5,Empty Scene Day,64,104.422,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 3 Track 6,Empty Scene Day,37,182.653,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 4 Championship,Football Stadium,75,214.339,Lucky22,UnitedStates,Five33Switchback,2022/01/15
-VRL Season 4 Track 1,Dynamic Weather,37,158.705,Lucky22,UnitedStates,Five33Switchback,2022/01/24
-VRL Season 4 Track 2,Bando,59,151.228,Lucky22,UnitedStates,Five33Switchback,2022/01/24
-VRL Season 4 Track 3,Basketball Stadium,113,98.968,Lucky22,UnitedStates,Five33Switchback,2022/01/24
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,105,128.692,Lucky22,UnitedStates,Five33Switchback,2022/01/21
+VRL S5 Track 1,Dynamic Weather,100,145.869,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL S5 TRACK 2,Dynamic Weather,55,143.950,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL S5 TRACK 3,Bando,141,174.193,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL S5 TRACK 4,Empty Scene Day,91,160.837,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL S5 TRACK 5,Dynamic Weather,54,158.190,Lucky22,UnitedStates,Five33Switchback,2022/01/22
+VRL S9 FINALS,Dynamic Weather,57,97.495,Lucky22,UnitedStates,OpenRacer,2023/03/24
+VRL S9 T1,Dynamic Weather,85,96.500,Lucky22,UnitedStates,OpenRacer,2023/01/21
+VRL S9 T2,Dynamic Weather,65,74.138,Lucky22,UnitedStates,OpenRacer,2023/01/28
+VRL S9 T3,Dynamic Weather,73,73.077,Lucky22,UnitedStates,OpenRacer,2023/02/03
+VRL S9 T4,Dynamic Weather,75,91.271,Lucky22,UnitedStates,OpenRacer,2023/02/07
+VRL S9 T5,Dynamic Weather,70,103.047,Lucky22,UnitedStates,OpenRacer,2023/02/24
+VRL S9 T6,Dynamic Weather,78,107.994,Lucky22,UnitedStates,OpenRacer,2023/02/28
+VRL S9 T7,Dynamic Weather,48,95.969,Lucky22,UnitedStates,OpenRacer,2023/03/10
+VRL S9 T8,Dynamic Weather,73,107.700,Lucky22,UnitedStates,OpenRacer,2023/03/15
+VRL Season 3 Track 1,Empty Scene Day,125,89.358,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 2,Empty Scene Day,122,90.434,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 3,Empty Scene Day,88,123.210,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 4,Empty Scene Day,112,163.182,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 5,Empty Scene Day,79,104.422,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 3 Track 6,Empty Scene Day,45,182.653,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 4 Championship,Football Stadium,93,214.339,Lucky22,UnitedStates,Five33Switchback,2022/01/15
+VRL Season 4 Track 1,Dynamic Weather,42,158.705,Lucky22,UnitedStates,Five33Switchback,2022/01/24
+VRL Season 4 Track 2,Bando,91,151.228,Lucky22,UnitedStates,Five33Switchback,2022/01/24
+VRL Season 4 Track 3,Basketball Stadium,152,98.968,Lucky22,UnitedStates,Five33Switchback,2022/01/24
 VRL-Season-4-Track-4,Dynamic Weather,999,999.999,Lucky22,NO_DATA
-VRL_Season_4_Track_5,Coastal,190,246.321,Lucky22,UnitedStates,Five33Switchback,2022/01/28
-VRL_Season_4_Track_6,Dynamic Weather,55,203.724,Lucky22,UnitedStates,Five33Switchback,2022/01/28
-VRL Season 4 Track 7,Dynamic Weather,35,122.097,Lucky22,UnitedStates,Five33Switchback,2022/01/24
+VRL_Season_4_Track_5,Coastal,999,999.999,Lucky22,NO_DATA
+VRL_Season_4_Track_6,Dynamic Weather,89,203.724,Lucky22,UnitedStates,Five33Switchback,2022/01/28
+VRL Season 4 Track 7,Dynamic Weather,48,122.097,Lucky22,UnitedStates,Five33Switchback,2022/01/24
 VRL-Season-4-Tryouts,Dynamic Weather,999,999.999,Lucky22,NO_DATA
-VRL SEASON 5 TRACK 6,Dynamic Weather,74,164.570,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL SEASON 5 TRACK 6,Dynamic Weather,88,164.570,Lucky22,UnitedStates,Five33Switchback,2022/01/11
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,Lucky22,NO_DATA
-VRL SEASON 5 TRACK 8,Industrial Wasteland,139,236.462,Lucky22,UnitedStates,Five33Switchback,2022/01/11
-VRL SEASON 5 TRYOUTS,Dynamic Weather,50,161.977,Lucky22,UnitedStates,Five33Switchback,2022/01/12
-VRL SEASON 6 TRYOUTS,Dynamic Weather,136,193.090,Lucky22,UnitedStates,Five33Switchback,2022/01/12
+VRL SEASON 5 TRACK 8,Industrial Wasteland,192,236.462,Lucky22,UnitedStates,Five33Switchback,2022/01/11
+VRL SEASON 5 TRYOUTS,Dynamic Weather,58,161.977,Lucky22,UnitedStates,Five33Switchback,2022/01/12
+VRL SEASON 6 TRYOUTS,Dynamic Weather,159,193.090,Lucky22,UnitedStates,Five33Switchback,2022/01/12
 VRL Season 7 Championships,Dynamic Weather,999,999.999,Lucky22,NO_DATA
-VRL Season 8 Championships,Dynamic Weather,145,179.817,Lucky22,UnitedStates,Five33Switchback,2022/02/16
+VRL Season 8 Championships,Dynamic Weather,173,179.817,Lucky22,UnitedStates,Five33Switchback,2022/02/16
 VRL Season 8 Track 1,Office Complex,999,999.999,Lucky22,NO_DATA
 VRL Season 8 Track 2,Drift Track,999,999.999,Lucky22,NO_DATA
-VRL Season 8 Track 3,Night Factory 2,135,171.572,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL Season 8 Track 4,DynamicPoly,107,271.100,Lucky22,UnitedStates,Five33Switchback,2022/01/25
-VRL Season 8 Track 5,Dynamic Weather,130,192.824,Lucky22,UnitedStates,Five33Switchback,2021/12/29
+VRL Season 8 Track 3,Night Factory 2,147,171.572,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL Season 8 Track 4,DynamicPoly,119,271.100,Lucky22,UnitedStates,Five33Switchback,2022/01/25
+VRL Season 8 Track 5,Dynamic Weather,142,192.824,Lucky22,UnitedStates,Five33Switchback,2021/12/29
 VRL Season 8 Track 6,Night Factory 2,999,999.999,Lucky22,NO_DATA
-VRL SEASON 8 TRACK 7,Dynamic Weather,145,137.710,Lucky22,UnitedStates,Five33Switchback,2022/01/23
+VRL SEASON 8 TRACK 7,Dynamic Weather,156,137.710,Lucky22,UnitedStates,Five33Switchback,2022/01/23
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,Lucky22,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,96,122.003,Lucky22,UnitedStates,OpenRacer,2022/12/28

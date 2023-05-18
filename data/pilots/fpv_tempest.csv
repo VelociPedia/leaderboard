@@ -17,41 +17,93 @@ DEP Open Series 5 Race 4,Football Stadium,999,999.999,fpv_tempest,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,187,152.300,fpv_tempest,Finland,TBSSpec,2021/12/08
 DEP Open Series 5 Race 6,Football Stadium,159,99.762,fpv_tempest,Finland,TBSSpec,2022/02/09
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+EU Spec Season 4 Race 1,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,142,85.167,fpv_tempest,Finland,TBSSpec,2022/02/13
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,188,71.955,fpv_tempest,Finland,TBSSpec,2022/03/17
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,fpv_tempest,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,114,90.315,fpv_tempest,Finland,TBSSpec,2022/02/17
-TBS EU Spec Series 10 Losers Final,Football Stadium,111,64.245,fpv_tempest,Finland,TBSSpec,2022/02/10
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,136,90.315,fpv_tempest,Finland,TBSSpec,2022/02/17
+TBS EU Spec Series 10 Losers Final,Football Stadium,132,64.245,fpv_tempest,Finland,TBSSpec,2022/02/10
 TBS EU Spec Series 10 Race 1,Football Stadium,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 10 Race 2,Empty Scene Day,163,87.200,fpv_tempest,Finland,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 3,Night Factory 2,158,97.285,fpv_tempest,Finland,TBSSpec,2022/01/23
-TBS EU Spec Series 10 Race 4,Dynamic Weather,134,80.187,fpv_tempest,Finland,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,114,75.448,fpv_tempest,Finland,TBSSpec,2022/01/20
-TBS EU Spec Series 10 Race 6,Large Carpark,66,51.380,fpv_tempest,Finland,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,113,83.196,fpv_tempest,Finland,TBSSpec,2022/02/03
-TBS EU Spec Series 11 Race 1,Dynamic Weather,105,91.399,fpv_tempest,Finland,TBSSpec,2022/06/09
-TBS EU Spec Series 11 Race 2,Countryside,78,84.888,fpv_tempest,Finland,TBSSpec,2022/06/09
-TBS EU Spec Series 11 Race 3,Dynamic Weather,56,84.653,fpv_tempest,Finland,TBSSpec,2022/06/16
-TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 5 FINAL,Dynamic Weather,182,110.812,fpv_tempest,Finland,TBSSpec,2022/03/24
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,180,107.054,fpv_tempest,Finland,TBSSpec,2022/03/08
-TBS EU Spec Series 5 Race 3,Dynamic Weather,138,88.881,fpv_tempest,Finland,TBSSpec,2022/03/08
-TBS EU Spec Series 5 Race 4,Football Stadium,193,107.582,fpv_tempest,Finland,TBSSpec,2022/02/16
-TBS EU Spec Series 5 Race 5,NEC Birmingham,158,92.946,fpv_tempest,Finland,TBSSpec,2022/03/08
-TBS EU Spec Series 5 Race 6,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 5 Race 7,IndoorGoKart,198,110.162,fpv_tempest,Finland,TBSSpec,2021/12/16
+TBS EU Spec Series 10 Race 2,Empty Scene Day,105,74.888,fpv_tempest,Finland,TBSSpec,2022/11/17
+TBS EU Spec Series 10 Race 3,Night Factory 2,180,97.285,fpv_tempest,Finland,TBSSpec,2022/01/23
+TBS EU Spec Series 10 Race 4,Dynamic Weather,158,80.187,fpv_tempest,Finland,TBSSpec,2022/01/27
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,137,75.448,fpv_tempest,Finland,TBSSpec,2022/01/20
+TBS EU Spec Series 10 Race 6,Large Carpark,71,51.380,fpv_tempest,Finland,TBSSpec,2022/01/27
+TBS EU Spec Series 10 Race 7,Football Stadium,124,83.196,fpv_tempest,Finland,TBSSpec,2022/02/03
+TBS EU Spec Series 11 Final,Dynamic Weather,113,99.947,fpv_tempest,Finland,TBSSpec,2023/02/04
+TBS EU Spec Series 11 Race 1,Dynamic Weather,153,85.209,fpv_tempest,Finland,TBSSpec,2022/12/21
+TBS EU Spec Series 11 Race 2,Countryside,105,84.888,fpv_tempest,Finland,TBSSpec,2022/06/09
+TBS EU Spec Series 11 Race 3,Dynamic Weather,65,84.653,fpv_tempest,Finland,TBSSpec,2022/06/16
+TBS EU Spec Series 11 Race 5,Dynamic Weather,108,88.593,fpv_tempest,Finland,TBSSpec,2022/11/15
+TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 11 Race 6,Dynamic Weather,90,82.471,fpv_tempest,Finland,TBSSpec,2022/11/15
+TBS EU Spec Series 11 Race 7,Dynamic Weather,83,81.757,fpv_tempest,Finland,TBSSpec,2022/11/15
+TBS EU Spec Series 12 Final,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,106,111.321,fpv_tempest,Finland,TBSSpec,2023/02/13
+TBS EU Spec Series 12 Race 1,Dynamic Weather,144,110.300,fpv_tempest,Finland,TBSSpec,2023/01/12
+TBS EU Spec Series 12 Race 2,NEC Birmingham,75,98.506,fpv_tempest,Finland,TBSSpec,2023/01/12
+TBS EU Spec Series 12 Race 3,Dynamic Weather,88,87.485,fpv_tempest,Finland,TBSSpec,2023/01/05
+TBS EU Spec Series 12 Race 4,Night Factory 2,49,83.481,fpv_tempest,Finland,TBSSpec,2023/01/05
+TBS EU Spec Series 12 Race 5,Dynamic Weather,68,84.197,fpv_tempest,Finland,TBSSpec,2023/01/12
+TBS EU Spec Series 12 Race 6,Dynamic Weather,96,76.083,fpv_tempest,Finland,TBSSpec,2023/01/31
+TBS EU Spec Series 12 Race 7,Dynamic Weather,71,88.261,fpv_tempest,Finland,TBSSpec,2023/01/31
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 4 Race 2,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 4 Race 3,IndoorGoKart,68,108.342,fpv_tempest,Finland,TBSSpec,2022/11/28
+TBS EU Spec Series 4 Race 4,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 4 Race 5,Dynamic Weather,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 4 Race 7,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 5 FINAL,Dynamic Weather,192,110.812,fpv_tempest,Finland,TBSSpec,2022/03/24
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,195,107.054,fpv_tempest,Finland,TBSSpec,2022/03/08
+TBS EU Spec Series 5 Race 3,Dynamic Weather,158,88.881,fpv_tempest,Finland,TBSSpec,2022/03/08
+TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 5 Race 5,NEC Birmingham,177,92.946,fpv_tempest,Finland,TBSSpec,2022/03/08
+TBS EU Spec Series 5 Race 6,Dynamic Weather,175,88.206,fpv_tempest,Finland,TBSSpec,2022/11/29
+TBS EU Spec Series 5 Race 7,IndoorGoKart,128,90.048,fpv_tempest,Finland,TBSSpec,2022/11/29
 TBS EU Spec Series 6 Final,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 6 Losers Final,Football Stadium,145,85.796,fpv_tempest,Finland,TBSSpec,2022/03/30
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,180,86.630,fpv_tempest,Finland,TBSSpec,2022/03/02
+TBS EU Spec Series 6 Losers Final,Football Stadium,158,85.796,fpv_tempest,Finland,TBSSpec,2022/03/30
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,186,86.630,fpv_tempest,Finland,TBSSpec,2022/03/02
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 6 Race 4,NEC Birmingham,84,80.960,fpv_tempest,Finland,TBSSpec,2022/03/10
-TBS EU Spec Series 6 Race 5,Dynamic Weather,158,107.801,fpv_tempest,Finland,TBSSpec,2022/03/01
-TBS EU Spec Series 6 Race 6,Empty Scene Day,166,90.300,fpv_tempest,Finland,TBSSpec,2022/03/08
+TBS EU Spec Series 6 Race 4,NEC Birmingham,94,80.960,fpv_tempest,Finland,TBSSpec,2022/03/10
+TBS EU Spec Series 6 Race 5,Dynamic Weather,167,107.801,fpv_tempest,Finland,TBSSpec,2022/03/01
+TBS EU Spec Series 6 Race 6,Empty Scene Day,181,90.300,fpv_tempest,Finland,TBSSpec,2022/03/08
 TBS EU Spec Series 6 Race 7,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 8 Final,Dynamic Weather,129,100.573,fpv_tempest,Finland,TBSSpec,2022/04/25
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,141,76.429,fpv_tempest,Finland,TBSSpec,2022/04/28
-TBS EU Spec Series 8 Race 1,Dynamic Weather,141,92.075,fpv_tempest,Finland,TBSSpec,2022/03/29
-TBS EU Spec Series 8 Race 2,Empty Scene Night,95,88.894,fpv_tempest,Finland,TBSSpec,2022/03/29
+TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 4,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 8 Final,Dynamic Weather,139,100.573,fpv_tempest,Finland,TBSSpec,2022/04/25
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,158,76.429,fpv_tempest,Finland,TBSSpec,2022/04/28
+TBS EU Spec Series 8 Race 1,Dynamic Weather,153,92.075,fpv_tempest,Finland,TBSSpec,2022/03/29
+TBS EU Spec Series 8 Race 2,Empty Scene Night,104,88.894,fpv_tempest,Finland,TBSSpec,2022/03/29
 TBS EU Spec Series 8 Race 3,Football Stadium,999,999.999,fpv_tempest,NO_DATA
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,fpv_tempest,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,170,82.958,fpv_tempest,Finland,TBSSpec,2022/02/15
+TBS EU Spec Series 8 Race 6,Football Stadium,183,82.958,fpv_tempest,Finland,TBSSpec,2022/02/15
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 9 Final,Dynamic Weather,165,80.698,fpv_tempest,Finland,TBSSpec,2022/04/12
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,156,78.566,fpv_tempest,Finland,TBSSpec,2022/11/29
+TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 9 Race 2,Dynamic Weather,193,76.962,fpv_tempest,Finland,TBSSpec,2022/03/09
+TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 9 Race 4,Football Stadium,151,87.077,fpv_tempest,Finland,TBSSpec,2022/11/27
+TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 9 Race 6,Empty Scene Day,999,999.999,fpv_tempest,NO_DATA
+TBS EU Spec Series 9 Race 7,NEC Birmingham,999,999.999,fpv_tempest,NO_DATA

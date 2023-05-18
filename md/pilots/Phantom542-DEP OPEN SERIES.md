@@ -1,28 +1,29 @@
 ### Best 2 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|57|DEP Open Series 4 Race 4|Football Stadium|CarbiXZero|2021/04/22|
-|58|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/04/20|
+|59|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/04/20|
+|65|DEP Open Series 4 Race 4|Football Stadium|CarbiXZero|2021/04/22|
 ---
-### Worse 3 DEP OPEN SERIES TRACKS ranks
+### Worse 4 DEP OPEN SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|149|DEP Open Series 4 Race 1|Football Stadium|CarbiXZero|2021/04/12|
-|135|DEP Spec Series 1 Race 5|Football Stadium|CarbiXZero|2021/05/06|
-|126|DEP Open Series 3 Race 7|Football Stadium|CarbiXZero|2021/05/06|
+|161|DEP Open Series 4 Race 1|Football Stadium|CarbiXZero|2021/04/12|
+|141|DEP Spec Series 1 Race 5|Football Stadium|CarbiXZero|2021/05/06|
+|138|DEP Open Series 3 Race 7|Football Stadium|CarbiXZero|2021/05/06|
+|125|DEP Open Series 3 Race 1|Football Stadium|CarbiXZero|2021/05/01|
 ---
 ### Oldest 2 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|149|DEP Open Series 4 Race 1|Football Stadium|CarbiXZero|2021/04/12|
-|58|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/04/20|
+|161|DEP Open Series 4 Race 1|Football Stadium|CarbiXZero|2021/04/12|
+|59|DEP Open Series 3 Race 2|Football Stadium|CarbiXZero|2021/04/20|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
 ||||||
 ---
-### 13 tracks without data (200+ or not in leaderboard)
+### 11 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
 |DEP Open Pop-Up 2|Dynamic Weather|
@@ -32,9 +33,7 @@
 |DEP Open Series 3 Race 6|Football Stadium|
 |DEP Open Series 4 Race 7|Football Stadium|
 |DEP Open Series 5 Race 3|Football Stadium|
-|DEP Open Series 5 Race 4|Football Stadium|
 |DEP Open Series 5 Race 5|Football Stadium|
 |DEP Open Series 5 Race 6|Football Stadium|
 |DEP Open Series 5 Race 7|Football Stadium|
 |DEP Open Series 6 Race 1|Football Stadium|
-|DEP Open Series 6 Race 2|Football Stadium|

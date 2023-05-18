@@ -1,42 +1,49 @@
-### Best 8 VRL SERIES TRACKS ranks
+### Best 10 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|1|VRL-Season-4-Track-4|Dynamic Weather|CarbiXZero|2022/05/17|
-|1|VRL6 Crash Site|Dynamic Weather|CarbiXZero|2022/05/21|
-|2|VRL Season 3 Track 5|Empty Scene Day|CarbiXZero|2022/04/23|
-|2|VRL S5 TRACK 4|Empty Scene Day|CarbiXZero|2022/04/06|
+|1|VRL_Season_4_Track_6|Dynamic Weather|Five33Switchback|2022/09/28|
+|1|VRL_Season_4_Track_5|Coastal|Five33Switchback|2023/04/03|
+|1|VRL SEASON 5 TRYOUTS|Dynamic Weather|Five33Switchback|2022/09/09|
+|1|VRL6 Downtown Loop|Dynamic Weather|Five33Switchback|2023/05/02|
 |2|VRL S5 Track 1|Dynamic Weather|CarbiXZero|2022/04/09|
-|2|VRL SEASON 5 TRACK 6|Dynamic Weather|CarbiXZero|2022/04/09|
+|2|VRL SEASON 5 TRACK 6|Dynamic Weather|Five33Switchback|2022/09/02|
+|2|VRL SEASON 5 TRACK 8|Industrial Wasteland|Five33Switchback|2022/09/08|
+|2|VRL S5 TRACK 2|Dynamic Weather|Five33Switchback|2022/11/27|
 |2|VRL S5 TRACK 5|Dynamic Weather|CarbiXZero|2022/04/07|
-|2|VRL SEASON 5 TRYOUTS|Dynamic Weather|CarbiXZero|2022/04/12|
+|2|VRL6 Crash Site|Dynamic Weather|CarbiXZero|2022/05/21|
 ---
-### Worse 12 VRL SERIES TRACKS ranks
+### Worse 15 VRL SERIES TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|71|VRL 7 Track 1|Future Hangar|Five33Switchback|2022/03/23|
-|64|VRL 7 Track 3|Dynamic Weather|Ossa|2020/11/21|
-|62|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/26|
-|61|VRL SEASON 8 TRACK 7|Dynamic Weather|CarbiXZero|2022/04/15|
-|53|VRL Season 8 Championships|Dynamic Weather|CarbiXZero|2022/05/07|
-|51|VRL 7 Track 2|Future Hangar Empty|Five33Switchback|2022/03/27|
+|54|VRL Season 8 Championships|Dynamic Weather|CarbiXZero|2022/05/07|
+|51|VRL SEASON 8 TRACK 7|Dynamic Weather|Five33Switchback|2022/09/14|
 |48|VRL Season 8 Track 2|Drift Track|CarbiXZero|2021/12/21|
-|46|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2022/03/22|
-|44|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2020/04/23|
+|46|VRL 7 Track 2|Future Hangar Empty|CarbiXZero|2022/08/11|
 |42|VRL Season 8 Track 5|Dynamic Weather|CarbiXZero|2021/12/18|
 |41|VRL6 Championships|Dynamic Weather|CarbiXZero|2022/05/22|
-|39|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/11|
+|40|VRL Season 8 Track 3|Night Factory 2|CarbiXZero|2021/12/25|
+|40|VRL 7 Race 4|Dynamic Weather|Five33Switchback|2023/03/22|
+|38|VRL Season 8 Track 1|Office Complex|Mode2Ghost|2021/11/06|
+|38|VRL Season 8 Track 4|DynamicPoly|CarbiXZero|2021/12/09|
+|35|VRL Season 8 Track 6|Night Factory 2|CarbiXZero|2022/01/14|
+|33|VRL S9 T2|Dynamic Weather|Five33Switchback|2023/01/27|
+|32|VRL SEASON 8 TRYOUTS|RedValley|Mode2Ghost|2021/09/14|
+|32|VRL S9 T8|Dynamic Weather|Five33Switchback|2023/03/18|
+|32|VRL S9 FINALS|Dynamic Weather|Five33Switchback|2023/03/25|
 ---
-### Oldest 8 personal best
+### Oldest 10 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|39|VRL6 Extermination|Dynamic Weather|SingularitumV5|2020/04/11|
-|31|VRL6 Tunnel Vision|Dynamic Weather|CarbiXZero|2020/04/18|
-|44|VRL6 Kenerator|Dynamic Weather|Five33Switchback|2020/04/23|
-|6|VRL_Season_4_Track_5|Coastal|Five33Switchback|2020/05/10|
-|62|VRL7 Tryouts|Future Hangar Empty|Ossa|2020/09/26|
-|64|VRL 7 Track 3|Dynamic Weather|Ossa|2020/11/21|
-|14|VRL6 Meltdown|Dynamic Weather|Ossa|2021/01/25|
-|10|VRL Season 3 Track 4|Empty Scene Day|Ossa|2021/02/19|
+|8|VRL Season 3 Track 3|Empty Scene Day|Ossa|2021/04/07|
+|4|VRL SEASON 5 TRACK 7|IndoorGoKart|Ossa|2021/04/11|
+|10|VRL Season 4 Track 7|Dynamic Weather|Ossa|2021/04/13|
+|10|VRL Season 4 Track 3|Basketball Stadium|Ossa|2021/07/02|
+|32|VRL SEASON 8 TRYOUTS|RedValley|Mode2Ghost|2021/09/14|
+|38|VRL Season 8 Track 1|Office Complex|Mode2Ghost|2021/11/06|
+|38|VRL Season 8 Track 4|DynamicPoly|CarbiXZero|2021/12/09|
+|42|VRL Season 8 Track 5|Dynamic Weather|CarbiXZero|2021/12/18|
+|48|VRL Season 8 Track 2|Drift Track|CarbiXZero|2021/12/21|
+|40|VRL Season 8 Track 3|Night Factory 2|CarbiXZero|2021/12/25|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|
@@ -46,4 +53,4 @@
 ### 1 tracks without data (200+ or not in leaderboard)
 |TRACK|SCENE|
 |:---|:---|
-|VRL6 Reinforcement|Dynamic Weather|
+|||

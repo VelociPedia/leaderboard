@@ -1,7 +1,7 @@
 2022 Freedom Spec Champioship,Dynamic Weather,999.999,RipDaLip,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,46.558,RipDaLip,Germany,Five33Switchback,2022/06/11
 2022 MultiGP IO Freedom Spec,Dynamic Weather,102.354,RipDaLip,Germany,TBSSpec,2022/07/01
-2022 MultiGP IO Intermediate,Dynamic Weather,68.273,RipDaLip,Germany,Five33Switchback,2022/05/27
+2022 MultiGP IO Intermediate,Dynamic Weather,999.999,RipDaLip,NO_DATA
 2022 MultiGP IO Team,Dynamic Weather,60.649,RipDaLip,Germany,Five33Switchback,2022/06/18
 2022 MultiGP IO World Cup,Dynamic Weather,64.757,RipDaLip,Germany,Five33Switchback,2022/06/07
 DEP Open Pop-Up 2,Dynamic Weather,97.280,RipDaLip,Germany,Five33Switchback,2021/07/29
@@ -10,7 +10,7 @@ DEP Open Series 2 Race 7,Football Stadium,125.360,RipDaLip,Germany,Five33Switchb
 DEP Open Series 3 Race 1,Football Stadium,57.877,RipDaLip,Germany,Five33Switchback,2022/06/04
 DEP Open Series 3 Race 2,Football Stadium,79.428,RipDaLip,Germany,Five33Switchback,2022/06/04
 DEP Open Series 3 Race 3,Karting Track,94.724,RipDaLip,Germany,Five33Switchback,2021/08/22
-DEP Open Series 3 Race 4,Football Stadium,79.442,RipDaLip,Germany,TBSSpec,2021/10/01
+DEP Open Series 3 Race 4,Football Stadium,999.999,RipDaLip,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,75.499,RipDaLip,Germany,Five33Switchback,2021/11/14
 DEP Open Series 3 Race 6,Football Stadium,101.530,RipDaLip,Germany,TBSSpec,2021/09/21
 DEP Open Series 3 Race 7,Football Stadium,95.267,RipDaLip,Germany,TBSSpec,2022/07/15
@@ -34,6 +34,8 @@ DEP Spec Series 1 Race 5,Football Stadium,115.022,RipDaLip,Germany,Five33Switchb
 DF5,Football Stadium,999.999,RipDaLip,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999.999,RipDaLip,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,999.999,RipDaLip,NO_DATA
+MGP Champs 2022,Dynamic Weather,999.999,RipDaLip,NO_DATA
+MGP Champs 2022 sports track,Empty Scene Day,999.999,RipDaLip,NO_DATA
 MGP Ice Rink Race 2022,Empty Scene Day,73.723,RipDaLip,Germany,TBSSpec,2022/05/15
 MultiGP 2022 Global Qualifier,Dynamic Weather,32.363,RipDaLip,Germany,Five33Switchback,2022/04/22
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,62.416,RipDaLip,Germany,Five33Switchback,2022/06/30
@@ -97,7 +99,7 @@ TBS EU Spec Series 7 Race 4,Empty Scene Day,999.999,RipDaLip,NO_DATA
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999.999,RipDaLip,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,70.844,RipDaLip,Germany,TBSSpec,2021/11/26
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999.999,RipDaLip,NO_DATA
-TBS EU Spec Series 8 Final,Dynamic Weather,125.021,RipDaLip,Germany,Five33Switchback,2021/07/18
+TBS EU Spec Series 8 Final,Dynamic Weather,999.999,RipDaLip,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999.999,RipDaLip,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,75.924,RipDaLip,Germany,Five33Switchback,2021/09/07
 TBS EU Spec Series 8 Race 2,Empty Scene Night,83.744,RipDaLip,Germany,TBSSpec,2021/11/10

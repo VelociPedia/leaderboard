@@ -1,16 +1,26 @@
-DEP Open Series 5 Race 1,Football Stadium,67,62.121,Arras,Spain,Five33Switchback,2021/11/24
-DEP Open Series 5 Race 2,Football Stadium,60,76.211,Arras,Spain,Five33Switchback,2021/12/16
+DEP Open Series 5 Race 1,Football Stadium,79,62.121,Arras,Spain,Five33Switchback,2021/11/24
+DEP Open Series 5 Race 2,Football Stadium,67,76.211,Arras,Spain,Five33Switchback,2021/12/16
 DEP Open Series 5 Race 3,Football Stadium,999,999.999,Arras,NO_DATA
-DEP Open Series 5 Race 4,Football Stadium,64,87.773,Arras,Spain,Five33Switchback,2021/11/24
+DEP Open Series 5 Race 4,Football Stadium,80,87.773,Arras,Spain,Five33Switchback,2021/11/24
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,Arras,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,Arras,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,74,106.747,Arras,Spain,Five33Switchback,2021/12/22
+DEP Open Series 5 Race 7,Football Stadium,78,106.747,Arras,Spain,Five33Switchback,2021/12/22
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,Arras,NO_DATA
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,120,72.491,Arras,Spain,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,136,72.491,Arras,Spain,TBSSpec,2021/06/24
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,Arras,NO_DATA
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999,999.999,Arras,NO_DATA
-TBS EU Spec Series 8 Race 3,Football Stadium,122,69.840,Arras,Spain,SingularitumV5,2021/04/29
-TBS EU Spec Series 8 Race 4,Empty Scene Day,77,80.322,Arras,Spain,SingularitumV5,2021/05/20
-TBS EU Spec Series 8 Race 5,Future Hangar Empty,72,62.338,Arras,Spain,Five33Switchback,2021/06/16
-TBS EU Spec Series 8 Race 6,Football Stadium,147,79.145,Arras,Spain,Five33Switchback,2021/07/02
-TBS EU Spec Series 8 Race 7,Empty Scene Day,156,90.043,Arras,Spain,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Race 3,Football Stadium,129,69.840,Arras,Spain,SingularitumV5,2021/04/29
+TBS EU Spec Series 8 Race 4,Empty Scene Day,82,80.322,Arras,Spain,SingularitumV5,2021/05/20
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,74,62.338,Arras,Spain,Five33Switchback,2021/06/16
+TBS EU Spec Series 8 Race 6,Football Stadium,158,79.145,Arras,Spain,Five33Switchback,2021/07/02
+TBS EU Spec Series 8 Race 7,Empty Scene Day,177,90.043,Arras,Spain,TBSSpec,2021/06/24
+VRL S9 FINALS,Dynamic Weather,999,999.999,Arras,NO_DATA
+VRL S9 T1,Dynamic Weather,63,90.130,Arras,Spain,SingularitumV5,2023/01/19
+VRL S9 T2,Dynamic Weather,63,73.910,Arras,Spain,SingularitumV5,2023/01/25
+VRL S9 T3,Dynamic Weather,34,66.264,Arras,Spain,SingularitumV5,2023/02/04
+VRL S9 T4,Dynamic Weather,62,87.809,Arras,Spain,Five33Switchback,2023/02/07
+VRL S9 T5,Dynamic Weather,44,91.211,Arras,Spain,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,51,90.988,Arras,Spain,Five33Switchback,2023/03/04
+VRL S9 T7,Dynamic Weather,41,91.827,Arras,Spain,Five33Switchback,2023/03/10
+VRL S9 T8,Dynamic Weather,49,96.409,Arras,Spain,Five33Switchback,2023/03/17
+VRL Season 9 Tryouts,Dynamic Weather,70,111.998,Arras,Spain,SingularitumV5,2022/12/29

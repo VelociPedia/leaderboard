@@ -20,13 +20,13 @@ DEP Open Series 4 Race 4,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 5 Race 1,Football Stadium,154,78.869,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/28
-DEP Open Series 5 Race 2,Football Stadium,193,114.894,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/10
-DEP Open Series 5 Race 3,Football Stadium,179,120.050,NoahLikeTheArk,UnitedStates,TBSSpec,2021/11/19
-DEP Open Series 5 Race 4,Football Stadium,158,119.284,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
-DEP Open Series 5 Race 5,Football Stadium,159,127.547,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/03
+DEP Open Series 5 Race 1,Football Stadium,186,78.869,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/28
+DEP Open Series 5 Race 2,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
+DEP Open Series 5 Race 3,Football Stadium,200,120.050,NoahLikeTheArk,UnitedStates,TBSSpec,2021/11/19
+DEP Open Series 5 Race 4,Football Stadium,200,119.284,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
+DEP Open Series 5 Race 5,Football Stadium,186,127.547,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/03
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,166,139.519,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/10
+DEP Open Series 5 Race 7,Football Stadium,189,139.519,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/10
 DEP Open Series 6 Race 1,Football Stadium,170,122.397,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/14
 DEP Open Series 6 Race 2,Football Stadium,89,125.621,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/10
 DEP Spec Series 1 Race 5,Football Stadium,198,125.262,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/25
@@ -76,14 +76,23 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,NoahLikeTheArk,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,178,88.256,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/05
 TBS EU Spec Series 10 Race 7,Football Stadium,178,111.344,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/08
-TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
-TBS EU Spec Series 11 Race 1,Dynamic Weather,147,102.412,NoahLikeTheArk,UnitedStates,TBSSpec,2022/06/01
-TBS EU Spec Series 11 Race 2,Countryside,184,156.359,NoahLikeTheArk,UnitedStates,Beebrain,2022/06/19
-TBS EU Spec Series 11 Race 3,Dynamic Weather,146,160.474,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/07/09
-TBS EU Spec Series 11 Race 5,Dynamic Weather,144,110.653,NoahLikeTheArk,UnitedStates,TBSSpec,2022/07/04
-TBS EU Spec Series 11 Race 5,NEC Birmingham,111,89.450,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/07/09
-TBS EU Spec Series 11 Race 6,Dynamic Weather,97,93.624,NoahLikeTheArk,UnitedStates,TBSSpec,2022/07/20
-TBS EU Spec Series 11 Race 7,Dynamic Weather,126,107.948,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/07/31
+TBS EU Spec Series 11 Final,Dynamic Weather,195,139.124,NoahLikeTheArk,UnitedStates,TBSSpec,2022/12/15
+TBS EU Spec Series 11 Race 1,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
+TBS EU Spec Series 11 Race 2,Countryside,198,123.620,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/28
+TBS EU Spec Series 11 Race 3,Dynamic Weather,134,119.445,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/03
+TBS EU Spec Series 11 Race 5,Dynamic Weather,176,110.653,NoahLikeTheArk,UnitedStates,TBSSpec,2022/07/04
+TBS EU Spec Series 11 Race 5,NEC Birmingham,127,89.450,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/07/09
+TBS EU Spec Series 11 Race 6,Dynamic Weather,120,93.624,NoahLikeTheArk,UnitedStates,TBSSpec,2022/07/20
+TBS EU Spec Series 11 Race 7,Dynamic Weather,149,107.948,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/07/31
+TBS EU Spec Series 12 Final,Dynamic Weather,107,146.756,NoahLikeTheArk,UnitedStates,TBSSpec,2023/03/02
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,130,125.443,NoahLikeTheArk,UnitedStates,TBSSpec,2023/03/14
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,154,133.899,NoahLikeTheArk,UnitedStates,TBSSpec,2022/12/25
+TBS EU Spec Series 12 Race 3,Dynamic Weather,176,122.721,NoahLikeTheArk,UnitedStates,TBSSpec,2022/12/29
+TBS EU Spec Series 12 Race 4,Night Factory 2,164,140.851,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/07
+TBS EU Spec Series 12 Race 5,Dynamic Weather,194,143.967,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/15
+TBS EU Spec Series 12 Race 6,Dynamic Weather,171,97.000,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/21
+TBS EU Spec Series 12 Race 7,Dynamic Weather,150,123.349,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/28
 TBS EU Spec Series 8 Final,Dynamic Weather,145,106.673,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/02
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,170,85.962,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/01
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
@@ -107,57 +116,67 @@ TDRF Dutch nationals indoor race 1,Empty Scene Day,108,106.029,NoahLikeTheArk,Un
 TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,NoahLikeTheArk,NO_DATA
 TDRF Dutch nationals indoor race 3,Empty Scene Day,50,94.129,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/07
 TDRF Dutch nationals indoor race 4,Empty Scene Day,76,99.175,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/30
-VRL6 Championships,Dynamic Weather,152,135.179,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/09
-VRL6 Crash Site,Dynamic Weather,57,236.148,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/02/23
-VRL6 Downtown Loop,Dynamic Weather,28,224.350,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/10
-VRL6 Extermination,Dynamic Weather,121,205.703,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/01
-VRL6 Kenerator,Dynamic Weather,149,239.668,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/13
-VRL6 Meltdown,Dynamic Weather,53,192.801,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/01
-VRL6 Reinforcement,Dynamic Weather,64,178.320,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/13
-VRL6 Tunnel Vision,Dynamic Weather,97,202.792,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/02/18
+VRL6 Championships,Dynamic Weather,161,135.179,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/09
+VRL6 Crash Site,Dynamic Weather,77,220.211,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/21
+VRL6 Downtown Loop,Dynamic Weather,40,224.350,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/10
+VRL6 Extermination,Dynamic Weather,128,205.703,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/01
+VRL6 Kenerator,Dynamic Weather,162,239.668,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/13
+VRL6 Meltdown,Dynamic Weather,63,192.801,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/01
+VRL6 Reinforcement,Dynamic Weather,69,178.320,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/13
+VRL6 Tunnel Vision,Dynamic Weather,102,202.792,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/02/18
 VRL 7 Race 4,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 VRL 7 Track 1,Future Hangar,999,999.999,NoahLikeTheArk,NO_DATA
-VRL 7 Track 2,Future Hangar Empty,191,180.749,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/13
+VRL 7 Track 2,Future Hangar Empty,999,999.999,NoahLikeTheArk,NO_DATA
 VRL 7 Track 3,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,NoahLikeTheArk,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,111,154.716,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/14
-VRL S5 Track 1,Dynamic Weather,102,168.898,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/04/21
-VRL S5 TRACK 2,Dynamic Weather,45,151.812,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/10/06
-VRL S5 TRACK 3,Bando,71,153.832,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
-VRL S5 TRACK 4,Empty Scene Day,51,132.782,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
-VRL S5 TRACK 5,Dynamic Weather,53,169.791,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/08
-VRL Season 3 Track 1,Empty Scene Day,144,100.329,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/14
-VRL Season 3 Track 2,Empty Scene Day,154,111.818,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/30
-VRL Season 3 Track 3,Empty Scene Day,63,140.868,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/12
-VRL Season 3 Track 4,Empty Scene Day,70,145.677,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/29
-VRL Season 3 Track 5,Empty Scene Day,76,114.445,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/06
-VRL Season 3 Track 6,Empty Scene Day,40,188.105,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/06
-VRL Season 4 Championship,Football Stadium,76,214.681,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/30
-VRL Season 4 Track 1,Dynamic Weather,51,189.665,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/04
-VRL Season 4 Track 2,Bando,94,171.053,NoahLikeTheArk,UnitedStates,TBSSpec,2021/10/09
-VRL Season 4 Track 3,Basketball Stadium,132,103.725,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/18
-VRL-Season-4-Track-4,Dynamic Weather,32,106.782,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/02/24
-VRL_Season_4_Track_5,Coastal,44,143.460,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/07
-VRL_Season_4_Track_6,Dynamic Weather,28,149.681,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/07
-VRL Season 4 Track 7,Dynamic Weather,59,162.331,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/04
-VRL-Season-4-Tryouts,Dynamic Weather,17,385.954,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/09
-VRL SEASON 5 TRACK 6,Dynamic Weather,79,171.039,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/10
-VRL SEASON 5 TRACK 7,IndoorGoKart,33,227.600,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/29
-VRL SEASON 5 TRACK 8,Industrial Wasteland,62,158.345,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/14
-VRL SEASON 5 TRYOUTS,Dynamic Weather,62,177.880,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
-VRL SEASON 6 TRYOUTS,Dynamic Weather,118,176.515,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,130,154.716,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/14
+VRL S5 Track 1,Dynamic Weather,125,168.898,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/04/21
+VRL S5 TRACK 2,Dynamic Weather,60,151.812,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/10/06
+VRL S5 TRACK 3,Bando,90,153.832,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
+VRL S5 TRACK 4,Empty Scene Day,67,132.782,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
+VRL S5 TRACK 5,Dynamic Weather,64,169.791,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/08
+VRL S9 FINALS,Dynamic Weather,130,203.547,NoahLikeTheArk,UnitedStates,Project399PRIG,2023/04/04
+VRL S9 T1,Dynamic Weather,184,153.737,NoahLikeTheArk,UnitedStates,TBSSpec,2023/01/27
+VRL S9 T2,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
+VRL S9 T3,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
+VRL S9 T4,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
+VRL S9 T5,Dynamic Weather,149,154.870,NoahLikeTheArk,UnitedStates,TBSSpec,2023/02/28
+VRL S9 T6,Dynamic Weather,119,157.267,NoahLikeTheArk,UnitedStates,TBSSpec,2023/03/02
+VRL S9 T7,Dynamic Weather,116,132.800,NoahLikeTheArk,UnitedStates,TBSSpec,2023/03/14
+VRL S9 T8,Dynamic Weather,100,133.051,NoahLikeTheArk,UnitedStates,TBSSpec,2023/03/14
+VRL Season 3 Track 1,Empty Scene Day,181,100.329,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/14
+VRL Season 3 Track 2,Empty Scene Day,183,111.818,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/30
+VRL Season 3 Track 3,Empty Scene Day,107,140.868,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/12
+VRL Season 3 Track 4,Empty Scene Day,86,145.677,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/29
+VRL Season 3 Track 5,Empty Scene Day,93,114.445,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/06
+VRL Season 3 Track 6,Empty Scene Day,48,188.105,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/06
+VRL Season 4 Championship,Football Stadium,94,214.681,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/06/30
+VRL Season 4 Track 1,Dynamic Weather,60,189.665,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/04
+VRL Season 4 Track 2,Bando,132,171.053,NoahLikeTheArk,UnitedStates,TBSSpec,2021/10/09
+VRL Season 4 Track 3,Basketball Stadium,177,103.725,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/08/18
+VRL-Season-4-Track-4,Dynamic Weather,56,106.782,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/02/24
+VRL_Season_4_Track_5,Coastal,58,143.460,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/07
+VRL_Season_4_Track_6,Dynamic Weather,52,149.681,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/07
+VRL Season 4 Track 7,Dynamic Weather,89,162.331,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/04
+VRL-Season-4-Tryouts,Dynamic Weather,21,385.954,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/09
+VRL SEASON 5 TRACK 6,Dynamic Weather,92,171.039,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/07/10
+VRL SEASON 5 TRACK 7,IndoorGoKart,40,227.600,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/29
+VRL SEASON 5 TRACK 8,Industrial Wasteland,92,158.345,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/09/14
+VRL SEASON 5 TRYOUTS,Dynamic Weather,76,177.880,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
+VRL SEASON 6 TRYOUTS,Dynamic Weather,138,176.515,NoahLikeTheArk,UnitedStates,Five33Switchback,2021/05/05
 VRL Season 7 Championships,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
-VRL Season 8 Championships,Dynamic Weather,107,129.383,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/10
-VRL Season 8 Track 1,Office Complex,100,214.123,NoahLikeTheArk,UnitedStates,TBSSpec,2021/10/24
-VRL Season 8 Track 2,Drift Track,126,165.333,NoahLikeTheArk,UnitedStates,TBSSpec,2021/11/19
+VRL Season 8 Championships,Dynamic Weather,120,129.383,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/10
+VRL Season 8 Track 1,Office Complex,103,214.123,NoahLikeTheArk,UnitedStates,TBSSpec,2021/10/24
+VRL Season 8 Track 2,Drift Track,135,165.333,NoahLikeTheArk,UnitedStates,TBSSpec,2021/11/19
 VRL Season 8 Track 3,Night Factory 2,999,999.999,NoahLikeTheArk,NO_DATA
-VRL Season 8 Track 4,DynamicPoly,91,224.380,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
-VRL Season 8 Track 5,Dynamic Weather,117,177.458,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
-VRL Season 8 Track 6,Night Factory 2,114,168.331,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/14
-VRL SEASON 8 TRACK 7,Dynamic Weather,165,150.336,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/01
+VRL Season 8 Track 4,DynamicPoly,99,224.380,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
+VRL Season 8 Track 5,Dynamic Weather,123,177.458,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/02
+VRL Season 8 Track 6,Night Factory 2,120,168.331,NoahLikeTheArk,UnitedStates,Five33Switchback,2022/03/14
+VRL SEASON 8 TRACK 7,Dynamic Weather,179,150.336,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/01
 VRL SEASON 8 TRYOUTS,RedValley,999,999.999,NoahLikeTheArk,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999,999.999,NoahLikeTheArk,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,189,90.142,NoahLikeTheArk,UnitedStates,TBSSpec,2022/02/16
 Week 12 TT - GQ22 by Chris M,Football Stadium,999,999.999,NoahLikeTheArk,NO_DATA
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,85,197.192,NoahLikeTheArk,UnitedStates,TBSSpec,2022/03/01

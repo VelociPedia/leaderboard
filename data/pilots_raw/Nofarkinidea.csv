@@ -80,6 +80,15 @@ VRL S5 TRACK 2,Dynamic Weather,133.774,Nofarkinidea,Australia,Five33Switchback,2
 VRL S5 TRACK 3,Bando,153.217,Nofarkinidea,Australia,KareareaTalon,2020/06/12
 VRL S5 TRACK 4,Empty Scene Day,100.317,Nofarkinidea,Australia,Five33Switchback,2020/09/14
 VRL S5 TRACK 5,Dynamic Weather,136.888,Nofarkinidea,Australia,Five33Switchback,2020/11/12
+VRL S9 FINALS,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T7,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
+VRL S9 T8,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,88.306,Nofarkinidea,Australia,Five33Switchback,2020/09/10
 VRL Season 3 Track 2,Empty Scene Day,85.785,Nofarkinidea,Australia,Five33Switchback,2020/09/11
 VRL Season 3 Track 3,Empty Scene Day,101.933,Nofarkinidea,Australia,Five33Switchback,2020/09/12
@@ -110,3 +119,4 @@ VRL Season 8 Track 5,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999.999,Nofarkinidea,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,Nofarkinidea,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999.999,Nofarkinidea,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,Nofarkinidea,NO_DATA

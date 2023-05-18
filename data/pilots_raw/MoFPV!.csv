@@ -90,14 +90,14 @@ Quad Rivals Welborn,Empty Scene Day,76.355,MoFPV!,UnitedStates,Five33Switchback,
 Quad Rivals Who Works DW,Dynamic Weather,125.688,MoFPV!,UnitedStates,Five33Switchback,2021/11/21
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,MoFPV!,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,93.871,MoFPV!,UnitedStates,CarbiXZero,2022/03/08
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,73.839,MoFPV!,UnitedStates,CarbiXZero,2022/03/08
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,MoFPV!,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,86.675,MoFPV!,UnitedStates,CarbiXZero,2022/03/08
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,88.704,MoFPV!,UnitedStates,CarbiXZero,2022/03/08
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,90.857,MoFPV!,UnitedStates,CarbiXZero,2022/02/19
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,132.676,MoFPV!,UnitedStates,Five33Switchback,2021/11/22
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,MoFPV!,NO_DATA
-TBS EU Spec Series 10 Losers Final,Football Stadium,75.695,MoFPV!,UnitedStates,Five33Switchback,2022/02/17
-TBS EU Spec Series 10 Race 1,Football Stadium,91.746,MoFPV!,UnitedStates,CarbiXZero,2022/03/22
+TBS EU Spec Series 10 Losers Final,Football Stadium,999.999,MoFPV!,NO_DATA
+TBS EU Spec Series 10 Race 1,Football Stadium,999.999,MoFPV!,NO_DATA
 TBS EU Spec Series 10 Race 2,Empty Scene Day,82.277,MoFPV!,UnitedStates,CarbiXZero,2022/03/22
 TBS EU Spec Series 10 Race 3,Night Factory 2,93.557,MoFPV!,UnitedStates,CarbiXZero,2022/03/22
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,MoFPV!,NO_DATA
@@ -153,7 +153,7 @@ VRL 7 Race 4,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL 7 Track 1,Future Hangar,999.999,MoFPV!,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,999.999,MoFPV!,NO_DATA
 VRL 7 Track 3,Dynamic Weather,104.549,MoFPV!,UnitedStates,CarbiXZero,2022/04/12
-VRL 7 Track 5,Dynamic Weather,108.874,MoFPV!,UnitedStates,CarbiXZero,2022/04/12
+VRL 7 Track 5,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999.999,MoFPV!,NO_DATA
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,152.196,MoFPV!,UnitedStates,Five33Switchback,2022/02/09
@@ -162,6 +162,15 @@ VRL S5 TRACK 2,Dynamic Weather,173.538,MoFPV!,UnitedStates,Five33Switchback,2021
 VRL S5 TRACK 3,Bando,152.887,MoFPV!,UnitedStates,Five33Switchback,2022/02/09
 VRL S5 TRACK 4,Empty Scene Day,132.399,MoFPV!,UnitedStates,Five33Switchback,2021/12/18
 VRL S5 TRACK 5,Dynamic Weather,214.260,MoFPV!,UnitedStates,Five33Switchback,2021/12/18
+VRL S9 FINALS,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T7,Dynamic Weather,999.999,MoFPV!,NO_DATA
+VRL S9 T8,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,93.938,MoFPV!,UnitedStates,CarbiXZero,2022/04/12
 VRL Season 3 Track 2,Empty Scene Day,93.695,MoFPV!,UnitedStates,Five33Switchback,2022/02/08
 VRL Season 3 Track 3,Empty Scene Day,199.838,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
@@ -170,7 +179,7 @@ VRL Season 3 Track 5,Empty Scene Day,142.567,MoFPV!,UnitedStates,Five33Switchbac
 VRL Season 3 Track 6,Empty Scene Day,299.137,MoFPV!,UnitedStates,Five33Switchback,2021/10/26
 VRL Season 4 Championship,Football Stadium,239.553,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
 VRL Season 4 Track 1,Dynamic Weather,319.844,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
-VRL Season 4 Track 2,Bando,213.789,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
+VRL Season 4 Track 2,Bando,999.999,MoFPV!,NO_DATA
 VRL Season 4 Track 3,Basketball Stadium,101.246,MoFPV!,UnitedStates,Five33Switchback,2022/02/05
 VRL-Season-4-Track-4,Dynamic Weather,144.838,MoFPV!,UnitedStates,Five33Switchback,2021/12/15
 VRL_Season_4_Track_5,Coastal,191.671,MoFPV!,UnitedStates,Five33Switchback,2021/12/15
@@ -182,7 +191,7 @@ VRL SEASON 5 TRACK 7,IndoorGoKart,229.922,MoFPV!,UnitedStates,Five33Switchback,2
 VRL SEASON 5 TRACK 8,Industrial Wasteland,199.504,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
 VRL SEASON 5 TRYOUTS,Dynamic Weather,230.535,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
 VRL SEASON 6 TRYOUTS,Dynamic Weather,215.667,MoFPV!,UnitedStates,Five33Switchback,2022/02/05
-VRL Season 7 Championships,Dynamic Weather,138.277,MoFPV!,UnitedStates,CarbiXZero,2022/04/13
+VRL Season 7 Championships,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,999.999,MoFPV!,NO_DATA
 VRL Season 8 Track 1,Office Complex,297.087,MoFPV!,UnitedStates,Five33Switchback,2021/12/17
 VRL Season 8 Track 2,Drift Track,182.928,MoFPV!,UnitedStates,Five33Switchback,2021/12/16
@@ -192,6 +201,7 @@ VRL Season 8 Track 5,Dynamic Weather,190.397,MoFPV!,UnitedStates,Five33Switchbac
 VRL Season 8 Track 6,Night Factory 2,186.465,MoFPV!,UnitedStates,Five33Switchback,2022/02/08
 VRL SEASON 8 TRACK 7,Dynamic Weather,156.592,MoFPV!,UnitedStates,Five33Switchback,2022/02/05
 VRL SEASON 8 TRYOUTS,RedValley,546.816,MoFPV!,UnitedStates,Shocker,2021/10/10
+VRL Season 9 Tryouts,Dynamic Weather,999.999,MoFPV!,NO_DATA
 Week 10 TT - MCKPractice2,Football Stadium,999.999,MoFPV!,NO_DATA
 Week 12 TT - GQ22 by Chris M,Football Stadium,999.999,MoFPV!,NO_DATA
 Week 1 TT - Levice by TheFPVdoctor,Empty Scene Day,79.477,MoFPV!,UnitedStates,Five33Switchback,2022/02/03

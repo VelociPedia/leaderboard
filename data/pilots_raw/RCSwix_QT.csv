@@ -1,4 +1,4 @@
-2022 Freedom Spec Champioship,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+2022 Freedom Spec Champioship,Dynamic Weather,59.236,RCSwix_QT,RussianFederation,Mode2Ghost,2022/08/23
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999.999,RCSwix_QT,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
 2022 MultiGP IO Intermediate,Dynamic Weather,51.951,RCSwix_QT,RussianFederation,Mode2Ghost,2022/06/04
@@ -25,6 +25,8 @@ Formula Flow II,Empty Scene Day,72.909,RCSwix_QT,RussianFederation,Mode2Ghost,20
 Formula Flow III,Empty Scene Day,93.477,RCSwix_QT,RussianFederation,Mode2Ghost,2022/03/18
 Formula Flow IV,Empty Scene Day,99.070,RCSwix_QT,RussianFederation,Mode2Ghost,2022/03/23
 Mayhem 22 by SFPV,Empty Scene Day,63.511,RCSwix_QT,RussianFederation,Mode2Ghost,2022/04/08
+MGP Champs 2022,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+MGP Champs 2022 sports track,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 MGP Ice Rink Race 2022,Empty Scene Day,56.039,RCSwix_QT,RussianFederation,Mode2Ghost,2022/05/05
 MultiGP 2022 Global Qualifier,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
@@ -41,7 +43,7 @@ RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,RCSwix_QT,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,83.177,RCSwix_QT,RussianFederation,TBSSpec,2020/04/09
 ReddingFPVs DroneD,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,69.188,RCSwix_QT,RussianFederation,TBSSpec,2020/07/09
+TBS EU Spec Season 5 Race 1,Football Stadium,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,46.125,RCSwix_QT,RussianFederation,Mode2Ghost,2022/02/25
 TBS EU Spec Series 10 Race 1,Football Stadium,55.374,RCSwix_QT,RussianFederation,Mode2Ghost,2021/12/16
@@ -59,6 +61,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,61.449,RCSwix_QT,RussianFederation,
 TBS EU Spec Series 11 Race 5,NEC Birmingham,54.998,RCSwix_QT,RussianFederation,Mode2Ghost,2022/07/20
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,63.580,RCSwix_QT,RussianFederation,Mode2Ghost,2022/08/09
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,RCSwix_QT,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,RCSwix_QT,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,90.188,RCSwix_QT,RussianFederation,TBSSpec,2020/06/25
 TBS EU Spec Series 4 Race 2,Empty Scene Day,75.883,RCSwix_QT,RussianFederation,TBSSpec,2020/05/14
 TBS EU Spec Series 4 Race 3,IndoorGoKart,102.893,RCSwix_QT,RussianFederation,TBSSpec,2020/05/21

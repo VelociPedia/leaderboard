@@ -24,7 +24,7 @@ DEP Open Series 5 Race 6,Football Stadium,999.999,MattiZ,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999.999,MattiZ,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999.999,MattiZ,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,89.964,MattiZ,Germany,Five33Switchback,2022/02/13
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,88.089,MattiZ,Germany,SingularitumV5,2020/08/20
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999.999,MattiZ,NO_DATA
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,83.211,MattiZ,Germany,Five33Switchback,2022/07/06
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999.999,MattiZ,NO_DATA
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,80.595,MattiZ,Germany,SingularitumV5,2020/08/19
@@ -35,7 +35,7 @@ RCTech_de EU Spec Series 3 Final,Empty Scene Day,999.999,MattiZ,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,73.721,MattiZ,Germany,CarbiXZero,2020/12/31
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,78.134,MattiZ,Germany,SingularitumV5,2020/08/26
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,94.992,MattiZ,Germany,Five33Switchback,2021/05/23
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,130.883,MattiZ,Germany,SingularitumV5,2020/07/15
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,MattiZ,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999.999,MattiZ,NO_DATA
 TBS EU Spec Season 5 Race 1,Football Stadium,66.961,MattiZ,Germany,Five33Switchback,2021/09/16
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,MattiZ,NO_DATA
@@ -55,6 +55,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,74.762,MattiZ,Germany,Five33Switchb
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,MattiZ,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,MattiZ,NO_DATA
@@ -63,13 +74,13 @@ TBS EU Spec Series 4 Race 5,Dynamic Weather,95.084,MattiZ,Germany,Five33Switchba
 TBS EU Spec Series 4 Race 7,Football Stadium,76.686,MattiZ,Germany,Five33Switchback,2022/04/05
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,98.307,MattiZ,Germany,SingularitumV5,2020/09/05
-TBS EU Spec Series 5 Race 3,Dynamic Weather,98.318,MattiZ,Germany,Five33Switchback,2021/08/16
+TBS EU Spec Series 5 Race 3,Dynamic Weather,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 5 Race 4,Football Stadium,101.851,MattiZ,Germany,Five33Switchback,2021/08/18
 TBS EU Spec Series 5 Race 5,NEC Birmingham,84.834,MattiZ,Germany,Five33Switchback,2022/02/14
 TBS EU Spec Series 5 Race 6,Dynamic Weather,83.823,MattiZ,Germany,SingularitumV5,2020/08/31
 TBS EU Spec Series 5 Race 7,IndoorGoKart,91.360,MattiZ,Germany,SingularitumV5,2020/09/01
 TBS EU Spec Series 6 Final,Empty Scene Day,89.796,MattiZ,Germany,Five33Switchback,2022/04/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,94.753,MattiZ,Germany,CarbiXZero,2020/12/02
+TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,80.943,MattiZ,Germany,Five33Switchback,2022/07/11
 TBS EU Spec Series 6 Race 2,Empty Scene Day,999.999,MattiZ,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,90.842,MattiZ,Germany,Five33Switchback,2021/08/05

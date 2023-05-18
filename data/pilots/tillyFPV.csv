@@ -1,9 +1,9 @@
-2022 Freedom Spec Champioship,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
+2022 Freedom Spec Champioship,Dynamic Weather,23,61.744,tillyFPV,UnitedStates,Five33Switchback,2022/08/18
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999,999.999,tillyFPV,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
-2022 MultiGP IO Intermediate,Dynamic Weather,49,53.226,tillyFPV,UnitedStates,Five33Switchback,2022/06/29
-2022 MultiGP IO Team,Dynamic Weather,91,65.221,tillyFPV,UnitedStates,Five33Switchback,2022/06/30
-2022 MultiGP IO World Cup,Dynamic Weather,91,65.466,tillyFPV,UnitedStates,Five33Switchback,2022/06/29
+2022 MultiGP IO Intermediate,Dynamic Weather,69,53.226,tillyFPV,UnitedStates,Five33Switchback,2022/06/29
+2022 MultiGP IO Team,Dynamic Weather,109,65.221,tillyFPV,UnitedStates,Five33Switchback,2022/06/30
+2022 MultiGP IO World Cup,Dynamic Weather,116,65.466,tillyFPV,UnitedStates,Five33Switchback,2022/06/29
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,121,75.631,tillyFPV,UnitedStates,SniperX,2021/12/02
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,56,63.594,tillyFPV,UnitedStates,Yakuza,2022/01/06
 DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,52,72.017,tillyFPV,UnitedStates,Yakuza,2022/02/04
@@ -16,11 +16,13 @@ DEP Open Series 5 Race 4,Football Stadium,131,108.834,tillyFPV,UnitedStates,Carb
 DEP Open Series 5 Race 5,Football Stadium,174,135.286,tillyFPV,UnitedStates,SniperX,2021/12/06
 DEP Open Series 5 Race 6,Football Stadium,89,80.126,tillyFPV,UnitedStates,Yakuza,2021/12/16
 DEP Open Series 5 Race 7,Football Stadium,134,124.763,tillyFPV,UnitedStates,Yakuza,2021/12/22
-DEP Open Series 6 Race 1,Football Stadium,83,79.958,tillyFPV,UnitedStates,TBSSpec,2022/03/15
-DEP Open Series 6 Race 2,Football Stadium,84,116.265,tillyFPV,UnitedStates,TBSSpec,2022/03/15
-Mayhem 22 by SFPV,Empty Scene Day,47,64.153,tillyFPV,UnitedStates,Five33Switchback,2022/07/03
+DEP Open Series 6 Race 1,Football Stadium,96,79.958,tillyFPV,UnitedStates,TBSSpec,2022/03/15
+DEP Open Series 6 Race 2,Football Stadium,99,116.265,tillyFPV,UnitedStates,TBSSpec,2022/03/15
+Mayhem 22 by SFPV,Empty Scene Day,49,64.153,tillyFPV,UnitedStates,Five33Switchback,2022/07/03
+MGP Champs 2022,Dynamic Weather,65,78.450,tillyFPV,UnitedStates,SniperX,2022/10/27
+MGP Champs 2022 sports track,Empty Scene Day,83,57.464,tillyFPV,UnitedStates,DJI,2022/12/24
 MGP Ice Rink Race 2022,Empty Scene Day,999,999.999,tillyFPV,NO_DATA
-MultiGP 2022 Global Qualifier,Dynamic Weather,92,32.323,tillyFPV,UnitedStates,BMSJS-1,2022/04/21
+MultiGP 2022 Global Qualifier,Dynamic Weather,105,32.323,tillyFPV,UnitedStates,BMSJS-1,2022/04/21
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,38,94.686,tillyFPV,UnitedStates,SniperX,2022/01/12
 Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,999,999.999,tillyFPV,NO_DATA
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,999,999.999,tillyFPV,NO_DATA
@@ -35,29 +37,38 @@ Quad Rivals 2022 Race 1 - Season Opener,Empty Scene Day,22,63.747,tillyFPV,Unite
 Quad Rivals 2022 Race 2 - Speeding Into Spring,Empty Scene Day,29,50.400,tillyFPV,UnitedStates,CarbiXZero,2022/04/26
 Quad Rivals 2022 Race 3 - Getting Hot,Empty Scene Day,999,999.999,tillyFPV,NO_DATA
 Quad Rivals 2022 Race 4 - Summer is Here,Countryside,16,57.951,tillyFPV,UnitedStates,Five33Switchback,2022/07/04
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,64,79.444,tillyFPV,UnitedStates,TBSSpec,2022/07/17
-TBS EU Spec Series 10 Losers Final,Football Stadium,86,60.472,tillyFPV,UnitedStates,TBSSpec,2022/07/16
-TBS EU Spec Series 10 Race 1,Football Stadium,61,63.089,tillyFPV,UnitedStates,TBSSpec,2022/07/15
-TBS EU Spec Series 10 Race 2,Empty Scene Day,61,67.377,tillyFPV,UnitedStates,TBSSpec,2022/07/15
-TBS EU Spec Series 10 Race 3,Night Factory 2,102,82.823,tillyFPV,UnitedStates,TBSSpec,2021/12/17
-TBS EU Spec Series 10 Race 4,Dynamic Weather,46,65.577,tillyFPV,UnitedStates,TBSSpec,2022/07/16
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,56,61.273,tillyFPV,UnitedStates,TBSSpec,2022/07/16
-TBS EU Spec Series 10 Race 6,Large Carpark,51,48.001,tillyFPV,UnitedStates,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,65,73.590,tillyFPV,UnitedStates,TBSSpec,2022/07/16
-TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
-TBS EU Spec Series 11 Race 1,Dynamic Weather,44,65.742,tillyFPV,UnitedStates,TBSSpec,2022/07/18
-TBS EU Spec Series 11 Race 2,Countryside,50,68.005,tillyFPV,UnitedStates,TBSSpec,2022/07/01
-TBS EU Spec Series 11 Race 3,Dynamic Weather,39,70.221,tillyFPV,UnitedStates,TBSSpec,2022/07/01
-TBS EU Spec Series 11 Race 5,Dynamic Weather,56,78.304,tillyFPV,UnitedStates,TBSSpec,2022/07/01
-TBS EU Spec Series 11 Race 5,NEC Birmingham,41,61.807,tillyFPV,UnitedStates,TBSSpec,2022/07/15
-TBS EU Spec Series 11 Race 6,Dynamic Weather,39,66.376,tillyFPV,UnitedStates,TBSSpec,2022/07/21
-TBS EU Spec Series 11 Race 7,Dynamic Weather,58,75.295,tillyFPV,UnitedStates,TBSSpec,2022/08/01
-TBS EU Spec Series 9 Final,Dynamic Weather,156,80.866,tillyFPV,UnitedStates,TBSSpec,2021/11/25
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,105,72.604,tillyFPV,UnitedStates,TBSSpec,2021/11/07
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,76,79.444,tillyFPV,UnitedStates,TBSSpec,2022/07/17
+TBS EU Spec Series 10 Losers Final,Football Stadium,103,60.472,tillyFPV,UnitedStates,TBSSpec,2022/07/16
+TBS EU Spec Series 10 Race 1,Football Stadium,70,63.089,tillyFPV,UnitedStates,TBSSpec,2022/07/15
+TBS EU Spec Series 10 Race 2,Empty Scene Day,68,67.377,tillyFPV,UnitedStates,TBSSpec,2022/07/15
+TBS EU Spec Series 10 Race 3,Night Factory 2,114,82.823,tillyFPV,UnitedStates,TBSSpec,2021/12/17
+TBS EU Spec Series 10 Race 4,Dynamic Weather,50,65.577,tillyFPV,UnitedStates,TBSSpec,2022/07/16
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,67,61.273,tillyFPV,UnitedStates,TBSSpec,2022/07/16
+TBS EU Spec Series 10 Race 6,Large Carpark,54,48.001,tillyFPV,UnitedStates,TBSSpec,2022/01/27
+TBS EU Spec Series 10 Race 7,Football Stadium,69,73.590,tillyFPV,UnitedStates,TBSSpec,2022/07/16
+TBS EU Spec Series 11 Final,Dynamic Weather,70,86.161,tillyFPV,UnitedStates,TBSSpec,2022/11/02
+TBS EU Spec Series 11 Race 1,Dynamic Weather,64,65.742,tillyFPV,UnitedStates,TBSSpec,2022/07/18
+TBS EU Spec Series 11 Race 2,Countryside,55,68.005,tillyFPV,UnitedStates,TBSSpec,2022/07/01
+TBS EU Spec Series 11 Race 3,Dynamic Weather,43,70.221,tillyFPV,UnitedStates,TBSSpec,2022/07/01
+TBS EU Spec Series 11 Race 5,Dynamic Weather,61,78.304,tillyFPV,UnitedStates,TBSSpec,2022/07/01
+TBS EU Spec Series 11 Race 5,NEC Birmingham,42,61.807,tillyFPV,UnitedStates,TBSSpec,2022/07/15
+TBS EU Spec Series 11 Race 6,Dynamic Weather,44,66.376,tillyFPV,UnitedStates,TBSSpec,2022/07/21
+TBS EU Spec Series 11 Race 7,Dynamic Weather,62,75.295,tillyFPV,UnitedStates,TBSSpec,2022/08/01
+TBS EU Spec Series 12 Final,Dynamic Weather,49,103.247,tillyFPV,UnitedStates,TBSSpec,2023/02/21
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,68,95.682,tillyFPV,UnitedStates,TBSSpec,2023/02/16
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,57,92.398,tillyFPV,UnitedStates,DJI,2022/12/22
+TBS EU Spec Series 12 Race 3,Dynamic Weather,76,84.605,tillyFPV,UnitedStates,TBSSpec,2023/02/16
+TBS EU Spec Series 12 Race 4,Night Factory 2,64,89.710,tillyFPV,UnitedStates,TBSSpec,2023/02/16
+TBS EU Spec Series 12 Race 5,Dynamic Weather,72,85.618,tillyFPV,UnitedStates,TBSSpec,2023/02/17
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999,999.999,tillyFPV,NO_DATA
+TBS EU Spec Series 9 Final,Dynamic Weather,167,80.866,tillyFPV,UnitedStates,TBSSpec,2021/11/25
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,115,72.604,tillyFPV,UnitedStates,TBSSpec,2021/11/07
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,tillyFPV,NO_DATA
-TBS EU Spec Series 9 Race 2,Dynamic Weather,129,67.838,tillyFPV,UnitedStates,Yakuza,2021/09/19
+TBS EU Spec Series 9 Race 2,Dynamic Weather,138,67.838,tillyFPV,UnitedStates,Yakuza,2021/09/19
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999,999.999,tillyFPV,NO_DATA
-TBS EU Spec Series 9 Race 4,Football Stadium,141,88.418,tillyFPV,UnitedStates,TBSSpec,2021/10/08
-TBS EU Spec Series 9 Race 5,Empty Scene Day,170,84.333,tillyFPV,UnitedStates,TBSSpec,2021/10/09
-TBS EU Spec Series 9 Race 6,Empty Scene Day,91,77.661,tillyFPV,UnitedStates,TBSSpec,2021/10/22
-TBS EU Spec Series 9 Race 7,NEC Birmingham,98,80.974,tillyFPV,UnitedStates,TBSSpec,2021/11/06
+TBS EU Spec Series 9 Race 4,Football Stadium,158,88.418,tillyFPV,UnitedStates,TBSSpec,2021/10/08
+TBS EU Spec Series 9 Race 5,Empty Scene Day,999,999.999,tillyFPV,NO_DATA
+TBS EU Spec Series 9 Race 6,Empty Scene Day,105,77.661,tillyFPV,UnitedStates,TBSSpec,2021/10/22
+TBS EU Spec Series 9 Race 7,NEC Birmingham,102,80.974,tillyFPV,UnitedStates,TBSSpec,2021/11/06

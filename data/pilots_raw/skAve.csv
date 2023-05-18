@@ -20,7 +20,7 @@ DEP Open Series 4 Race 4,Football Stadium,999.999,skAve,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999.999,skAve,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,999.999,skAve,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,57.167,skAve,Germany,Five33Switchback,2021/06/05
-DEP Open Series 5 Race 1,Football Stadium,49.091,skAve,Germany,Five33Switchback,2022/10/13
+DEP Open Series 5 Race 1,Football Stadium,48.409,skAve,Germany,Five33Switchback,2022/10/15
 DEP Open Series 5 Race 2,Football Stadium,60.399,skAve,Germany,Five33Switchback,2021/11/21
 DEP Open Series 5 Race 3,Football Stadium,999.999,skAve,NO_DATA
 DEP Open Series 5 Race 4,Football Stadium,999.999,skAve,NO_DATA
@@ -70,6 +70,40 @@ VRL 7 Track 3,Dynamic Weather,72.144,skAve,Germany,Five33Switchback,2020/11/20
 VRL 7 Track 5,Dynamic Weather,83.323,skAve,Germany,Five33Switchback,2020/12/11
 VRL 7 Track 6,Dynamic Weather,82.096,skAve,Germany,Five33Switchback,2020/12/19
 VRL7 Tryouts,Future Hangar Empty,92.349,skAve,Germany,Five33Switchback,2020/10/17
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,999.999,skAve,NO_DATA
+VRL S5 Track 1,Dynamic Weather,999.999,skAve,NO_DATA
+VRL S5 TRACK 2,Dynamic Weather,999.999,skAve,NO_DATA
+VRL S5 TRACK 3,Bando,999.999,skAve,NO_DATA
+VRL S5 TRACK 4,Empty Scene Day,999.999,skAve,NO_DATA
+VRL S5 TRACK 5,Dynamic Weather,999.999,skAve,NO_DATA
+VRL S9 FINALS,Dynamic Weather,87.867,skAve,Germany,Five33Switchback,2023/03/25
+VRL S9 T1,Dynamic Weather,80.782,skAve,Germany,Five33Switchback,2023/01/21
+VRL S9 T2,Dynamic Weather,76.095,skAve,Germany,Five33Switchback,2023/01/25
+VRL S9 T3,Dynamic Weather,65.437,skAve,Germany,Five33Switchback,2023/02/07
+VRL S9 T4,Dynamic Weather,78.020,skAve,Germany,Five33Switchback,2023/02/22
+VRL S9 T5,Dynamic Weather,82.202,skAve,Germany,Five33Switchback,2023/02/25
+VRL S9 T6,Dynamic Weather,84.575,skAve,Germany,Five33Switchback,2023/03/03
+VRL S9 T7,Dynamic Weather,97.782,skAve,Germany,Five33Switchback,2023/03/08
+VRL S9 T8,Dynamic Weather,100.741,skAve,Germany,Five33Switchback,2023/03/15
+VRL Season 3 Track 1,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 3 Track 2,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 3 Track 3,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 3 Track 4,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 3 Track 5,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 3 Track 6,Empty Scene Day,999.999,skAve,NO_DATA
+VRL Season 4 Championship,Football Stadium,999.999,skAve,NO_DATA
+VRL Season 4 Track 1,Dynamic Weather,999.999,skAve,NO_DATA
+VRL Season 4 Track 2,Bando,999.999,skAve,NO_DATA
+VRL Season 4 Track 3,Basketball Stadium,999.999,skAve,NO_DATA
+VRL-Season-4-Track-4,Dynamic Weather,999.999,skAve,NO_DATA
+VRL_Season_4_Track_5,Coastal,999.999,skAve,NO_DATA
+VRL_Season_4_Track_6,Dynamic Weather,999.999,skAve,NO_DATA
+VRL Season 4 Track 7,Dynamic Weather,999.999,skAve,NO_DATA
+VRL-Season-4-Tryouts,Dynamic Weather,999.999,skAve,NO_DATA
+VRL SEASON 5 TRACK 6,Dynamic Weather,999.999,skAve,NO_DATA
+VRL SEASON 5 TRACK 7,IndoorGoKart,999.999,skAve,NO_DATA
+VRL SEASON 5 TRACK 8,Industrial Wasteland,999.999,skAve,NO_DATA
+VRL SEASON 5 TRYOUTS,Dynamic Weather,999.999,skAve,NO_DATA
 VRL SEASON 6 TRYOUTS,Dynamic Weather,999.999,skAve,NO_DATA
 VRL Season 7 Championships,Dynamic Weather,99.422,skAve,Germany,Five33Switchback,2021/01/02
 VRL Season 8 Championships,Dynamic Weather,74.034,skAve,Germany,Five33Switchback,2022/02/05
@@ -81,3 +115,4 @@ VRL Season 8 Track 5,Dynamic Weather,97.427,skAve,Germany,Five33Switchback,2021/
 VRL Season 8 Track 6,Night Factory 2,99.868,skAve,Germany,Five33Switchback,2022/01/15
 VRL SEASON 8 TRACK 7,Dynamic Weather,75.489,skAve,Germany,Five33Switchback,2022/01/22
 VRL SEASON 8 TRYOUTS,RedValley,589.815,skAve,Germany,Five33Switchback,2021/09/10
+VRL Season 9 Tryouts,Dynamic Weather,95.889,skAve,Germany,Five33Switchback,2023/01/03

@@ -34,6 +34,13 @@ Quad Rivals Team Race,Empty Scene Day,96,74.226,=AJ=,Germany,SniperX,2022/04/16
 Quad Rivals Weave,Empty Scene Day,102,111.846,=AJ=,Germany,SingularitumV5,2020/05/24
 Quad Rivals Welborn,Empty Scene Day,111,79.480,=AJ=,Germany,SingularitumV5,2020/07/29
 Quad Rivals Who Works DW,Dynamic Weather,60,90.407,=AJ=,Germany,SingularitumV5,2020/06/25
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,=AJ=,NO_DATA
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,200,96.444,=AJ=,Germany,Solleva,2022/10/21
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,=AJ=,NO_DATA
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,162,97.593,=AJ=,Germany,SkyXKiller,2022/03/18
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,=AJ=,NO_DATA
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,123,91.783,=AJ=,Germany,Solleva,2022/10/19
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,85,88.820,=AJ=,Germany,SkyXKiller,2022/03/19
 ReddingFPVs DroneD,Dynamic Weather,79,225.513,=AJ=,Germany,SniperX,2022/05/22
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,175,109.035,=AJ=,Germany,Five33Switchback,2022/02/20
 TBS EU Spec Series 10 Losers Final,Football Stadium,171,75.120,=AJ=,Germany,SniperX,2022/07/23
@@ -44,14 +51,23 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,=AJ=,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,=AJ=,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,173,83.257,=AJ=,Germany,Five33Switchback,2022/03/13
 TBS EU Spec Series 10 Race 7,Football Stadium,193,108.270,=AJ=,Germany,SniperX,2022/09/09
-TBS EU Spec Series 11 Final,Dynamic Weather,165,145.777,=AJ=,Germany,SniperX,2022/08/22
-TBS EU Spec Series 11 Race 1,Dynamic Weather,130,93.982,=AJ=,Germany,SniperX,2022/09/04
-TBS EU Spec Series 11 Race 2,Countryside,128,107.117,=AJ=,Germany,SniperX,2022/07/07
-TBS EU Spec Series 11 Race 3,Dynamic Weather,112,119.661,=AJ=,Germany,SniperX,2022/06/29
-TBS EU Spec Series 11 Race 5,Dynamic Weather,130,105.793,=AJ=,Germany,SniperX,2022/06/27
-TBS EU Spec Series 11 Race 5,NEC Birmingham,162,120.109,=AJ=,Germany,SniperX,2022/07/14
-TBS EU Spec Series 11 Race 6,Dynamic Weather,114,103.503,=AJ=,Germany,SniperX,2022/07/23
-TBS EU Spec Series 11 Race 7,Dynamic Weather,129,110.594,=AJ=,Germany,SniperX,2022/08/11
+TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,=AJ=,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,184,93.982,=AJ=,Germany,SniperX,2022/09/04
+TBS EU Spec Series 11 Race 2,Countryside,169,107.117,=AJ=,Germany,SniperX,2022/07/07
+TBS EU Spec Series 11 Race 3,Dynamic Weather,137,119.661,=AJ=,Germany,SniperX,2022/06/29
+TBS EU Spec Series 11 Race 5,Dynamic Weather,159,105.793,=AJ=,Germany,SniperX,2022/06/27
+TBS EU Spec Series 11 Race 5,NEC Birmingham,145,95.785,=AJ=,Germany,Yakuza,2022/12/14
+TBS EU Spec Series 11 Race 6,Dynamic Weather,141,103.503,=AJ=,Germany,SniperX,2022/07/23
+TBS EU Spec Series 11 Race 7,Dynamic Weather,155,110.594,=AJ=,Germany,SniperX,2022/08/11
+TBS EU Spec Series 12 Final,Dynamic Weather,136,188.873,=AJ=,Germany,Yakuza,2023/03/02
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,139,133.670,=AJ=,Germany,Yakuza,2023/02/18
+TBS EU Spec Series 12 Race 1,Dynamic Weather,172,124.180,=AJ=,Germany,Yakuza,2022/12/19
+TBS EU Spec Series 12 Race 2,NEC Birmingham,166,138.369,=AJ=,Germany,Yakuza,2022/12/19
+TBS EU Spec Series 12 Race 3,Dynamic Weather,198,134.094,=AJ=,Germany,Yakuza,2023/01/10
+TBS EU Spec Series 12 Race 4,Night Factory 2,133,122.272,=AJ=,Germany,Yakuza,2023/01/17
+TBS EU Spec Series 12 Race 5,Dynamic Weather,132,110.453,=AJ=,Germany,Yakuza,2023/01/19
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,=AJ=,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,188,145.970,=AJ=,Germany,Yakuza,2023/02/06
 TBS EU Spec Series 8 Final,Dynamic Weather,190,120.823,=AJ=,Germany,Five33Switchback,2021/07/13
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,174,85.442,=AJ=,Germany,Five33Switchback,2021/07/05
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,=AJ=,NO_DATA
@@ -81,31 +97,31 @@ VRL 7 Track 3,Dynamic Weather,999,999.999,=AJ=,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999,999.999,=AJ=,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999,999.999,=AJ=,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999,999.999,=AJ=,NO_DATA
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,112,155.581,=AJ=,Germany,Five33Switchback,2021/03/09
-VRL S5 Track 1,Dynamic Weather,118,204.645,=AJ=,Germany,Five33Switchback,2021/04/14
-VRL S5 TRACK 2,Dynamic Weather,69,175.221,=AJ=,Germany,SingularitumV5,2020/06/16
-VRL S5 TRACK 3,Bando,163,217.139,=AJ=,Germany,Five33Switchback,2021/04/12
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,131,155.581,=AJ=,Germany,Five33Switchback,2021/03/09
+VRL S5 Track 1,Dynamic Weather,147,204.645,=AJ=,Germany,Five33Switchback,2021/04/14
+VRL S5 TRACK 2,Dynamic Weather,90,175.221,=AJ=,Germany,SingularitumV5,2020/06/16
+VRL S5 TRACK 3,Bando,999,999.999,=AJ=,NO_DATA
 VRL S5 TRACK 4,Empty Scene Day,999,999.999,=AJ=,NO_DATA
-VRL S5 TRACK 5,Dynamic Weather,94,250.089,=AJ=,Germany,Five33Switchback,2021/01/29
+VRL S5 TRACK 5,Dynamic Weather,114,250.089,=AJ=,Germany,Five33Switchback,2021/01/29
 VRL Season 3 Track 1,Empty Scene Day,999,999.999,=AJ=,NO_DATA
-VRL Season 3 Track 2,Empty Scene Day,153,111.516,=AJ=,Germany,Five33Switchback,2021/04/03
+VRL Season 3 Track 2,Empty Scene Day,182,111.516,=AJ=,Germany,Five33Switchback,2021/04/03
 VRL Season 3 Track 3,Empty Scene Day,999,999.999,=AJ=,NO_DATA
-VRL Season 3 Track 4,Empty Scene Day,99,169.753,=AJ=,Germany,SkyXKiller,2022/01/25
-VRL Season 3 Track 5,Empty Scene Day,85,125.047,=AJ=,Germany,Ossa,2021/09/13
-VRL Season 3 Track 6,Empty Scene Day,60,229.156,=AJ=,Germany,SkyXKiller,2022/01/25
-VRL Season 4 Championship,Football Stadium,68,205.497,=AJ=,Germany,SkyXKiller,2022/01/25
-VRL Season 4 Track 1,Dynamic Weather,66,258.120,=AJ=,Germany,Five33Switchback,2021/04/05
+VRL Season 3 Track 4,Empty Scene Day,117,169.753,=AJ=,Germany,SkyXKiller,2022/01/25
+VRL Season 3 Track 5,Empty Scene Day,108,125.047,=AJ=,Germany,Ossa,2021/09/13
+VRL Season 3 Track 6,Empty Scene Day,71,229.156,=AJ=,Germany,SkyXKiller,2022/01/25
+VRL Season 4 Championship,Football Stadium,81,205.497,=AJ=,Germany,SkyXKiller,2022/01/25
+VRL Season 4 Track 1,Dynamic Weather,83,258.120,=AJ=,Germany,Five33Switchback,2021/04/05
 VRL Season 4 Track 2,Bando,999,999.999,=AJ=,NO_DATA
-VRL Season 4 Track 3,Basketball Stadium,165,113.018,=AJ=,Germany,SingularitumV5,2020/04/19
-VRL-Season-4-Track-4,Dynamic Weather,48,139.075,=AJ=,Germany,SingularitumV5,2020/06/12
-VRL_Season_4_Track_5,Coastal,141,206.519,=AJ=,Germany,SingularitumV5,2020/07/02
-VRL_Season_4_Track_6,Dynamic Weather,51,197.707,=AJ=,Germany,Five33Switchback,2021/04/05
-VRL Season 4 Track 7,Dynamic Weather,68,189.932,=AJ=,Germany,Five33Switchback,2021/04/05
-VRL-Season-4-Tryouts,Dynamic Weather,30,601.760,=AJ=,Germany,Five33Switchback,2021/04/05
+VRL Season 4 Track 3,Basketball Stadium,156,100.056,=AJ=,Germany,Yakuza,2022/11/21
+VRL-Season-4-Track-4,Dynamic Weather,83,139.075,=AJ=,Germany,SingularitumV5,2020/06/12
+VRL_Season_4_Track_5,Coastal,182,206.519,=AJ=,Germany,SingularitumV5,2020/07/02
+VRL_Season_4_Track_6,Dynamic Weather,86,197.707,=AJ=,Germany,Five33Switchback,2021/04/05
+VRL Season 4 Track 7,Dynamic Weather,105,189.932,=AJ=,Germany,Five33Switchback,2021/04/05
+VRL-Season-4-Tryouts,Dynamic Weather,43,601.760,=AJ=,Germany,Five33Switchback,2021/04/05
 VRL SEASON 5 TRACK 6,Dynamic Weather,999,999.999,=AJ=,NO_DATA
-VRL SEASON 5 TRACK 7,IndoorGoKart,23,207.971,=AJ=,Germany,Five33Switchback,2021/04/11
+VRL SEASON 5 TRACK 7,IndoorGoKart,29,207.971,=AJ=,Germany,Five33Switchback,2021/04/11
 VRL SEASON 5 TRACK 8,Industrial Wasteland,999,999.999,=AJ=,NO_DATA
-VRL SEASON 5 TRYOUTS,Dynamic Weather,86,255.955,=AJ=,Germany,SingularitumV5,2020/08/09
+VRL SEASON 5 TRYOUTS,Dynamic Weather,109,255.955,=AJ=,Germany,SingularitumV5,2020/08/09
 VRL SEASON 6 TRYOUTS,Dynamic Weather,200,333.101,=AJ=,Germany,SingularitumV5,2020/08/09
 VRL Season 7 Championships,Dynamic Weather,999,999.999,=AJ=,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,136,161.940,=AJ=,Germany,Five33Switchback,2022/02/13

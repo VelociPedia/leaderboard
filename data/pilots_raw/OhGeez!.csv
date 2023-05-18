@@ -9,8 +9,8 @@ VRL6 Tunnel Vision,Dynamic Weather,146.392,OhGeez!,UnitedStates,NeatoFastback,20
 VRL 7 Race 4,Dynamic Weather,999.999,OhGeez!,NO_DATA
 VRL 7 Track 1,Future Hangar,124.016,OhGeez!,UnitedStates,NeatoFastback,2021/04/11
 VRL 7 Track 2,Future Hangar Empty,126.971,OhGeez!,UnitedStates,NeatoFastback,2021/02/24
-VRL 7 Track 3,Dynamic Weather,107.061,OhGeez!,UnitedStates,NeatoFastback,2021/03/12
-VRL 7 Track 5,Dynamic Weather,110.439,OhGeez!,UnitedStates,NeatoFastback,2021/03/12
+VRL 7 Track 3,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL 7 Track 5,Dynamic Weather,999.999,OhGeez!,NO_DATA
 VRL 7 Track 6,Dynamic Weather,93.243,OhGeez!,UnitedStates,Five33Switchback,2021/03/12
 VRL7 Tryouts,Future Hangar Empty,105.545,OhGeez!,UnitedStates,NeatoFastback,2020/09/12
 VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,102.043,OhGeez!,UnitedStates,NeatoFastback,2021/03/08
@@ -19,6 +19,15 @@ VRL S5 TRACK 2,Dynamic Weather,109.527,OhGeez!,UnitedStates,NeatoFastback,2021/0
 VRL S5 TRACK 3,Bando,128.986,OhGeez!,UnitedStates,NeatoFastback,2021/03/11
 VRL S5 TRACK 4,Empty Scene Day,87.275,OhGeez!,UnitedStates,NeatoFastback,2021/03/08
 VRL S5 TRACK 5,Dynamic Weather,115.283,OhGeez!,UnitedStates,NeatoFastback,2021/03/13
+VRL S9 FINALS,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T7,Dynamic Weather,999.999,OhGeez!,NO_DATA
+VRL S9 T8,Dynamic Weather,999.999,OhGeez!,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,74.913,OhGeez!,UnitedStates,NeatoFastback,2021/03/08
 VRL Season 3 Track 2,Empty Scene Day,78.199,OhGeez!,UnitedStates,NeatoFastback,2021/03/08
 VRL Season 3 Track 3,Empty Scene Day,93.592,OhGeez!,UnitedStates,NeatoFastback,2021/03/08
@@ -49,3 +58,4 @@ VRL Season 8 Track 5,Dynamic Weather,999.999,OhGeez!,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999.999,OhGeez!,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,OhGeez!,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999.999,OhGeez!,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,OhGeez!,NO_DATA

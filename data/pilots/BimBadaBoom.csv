@@ -1,16 +1,16 @@
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 2 Race 1,Dynamic Weather,999,999.999,BimBadaBoom,NO_DATA
-DEP Open Series 2 Race 7,Football Stadium,1,70.399,BimBadaBoom,France,Yakuza,2022/06/09
-DEP Open Series 3 Race 1,Football Stadium,3,45.544,BimBadaBoom,France,Yakuza,2022/06/10
+DEP Open Series 2 Race 7,Football Stadium,3,70.399,BimBadaBoom,France,Yakuza,2022/06/09
+DEP Open Series 3 Race 1,Football Stadium,4,45.544,BimBadaBoom,France,Yakuza,2022/06/10
 DEP Open Series 3 Race 2,Football Stadium,6,60.625,BimBadaBoom,France,Yakuza,2022/06/13
 DEP Open Series 3 Race 3,Karting Track,3,65.253,BimBadaBoom,France,Yakuza,2022/06/16
 DEP Open Series 3 Race 4,Football Stadium,28,55.034,BimBadaBoom,France,Five33Switchback,2021/08/03
 DEP Open Series 3 Race 5,Football Stadium,25,69.526,BimBadaBoom,France,Five33Switchback,2021/08/06
-DEP Open Series 3 Race 6,Football Stadium,26,83.488,BimBadaBoom,France,Five33Switchback,2021/03/15
-DEP Open Series 3 Race 7,Football Stadium,19,74.701,BimBadaBoom,France,Five33Switchback,2021/04/18
-DEP Open Series 4 Race 1,Football Stadium,22,73.347,BimBadaBoom,France,Five33Switchback,2021/04/08
+DEP Open Series 3 Race 6,Football Stadium,28,83.488,BimBadaBoom,France,Five33Switchback,2021/03/15
+DEP Open Series 3 Race 7,Football Stadium,20,74.701,BimBadaBoom,France,Five33Switchback,2021/04/18
+DEP Open Series 4 Race 1,Football Stadium,24,73.347,BimBadaBoom,France,Five33Switchback,2021/04/08
 DEP Open Series 4 Race 2,Football Stadium,12,83.504,BimBadaBoom,France,Five33Switchback,2021/04/14
-DEP Open Series 4 Race 3,Football Stadium,95,75.296,BimBadaBoom,France,Five33Switchback,2021/08/13
+DEP Open Series 4 Race 3,Football Stadium,101,75.296,BimBadaBoom,France,Five33Switchback,2021/08/13
 DEP Open Series 4 Race 4,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
@@ -21,15 +21,15 @@ DEP Open Series 5 Race 3,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 5 Race 4,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,9,83.217,BimBadaBoom,France,Yakuza,2022/06/22
+DEP Open Series 5 Race 7,Football Stadium,11,83.217,BimBadaBoom,France,Yakuza,2022/06/22
 DEP Open Series 6 Race 1,Football Stadium,10,58.262,BimBadaBoom,France,Yakuza,2022/03/10
-DEP Open Series 6 Race 2,Football Stadium,4,72.106,BimBadaBoom,France,Yakuza,2022/03/14
+DEP Open Series 6 Race 2,Football Stadium,6,72.106,BimBadaBoom,France,Yakuza,2022/03/14
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,BimBadaBoom,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,136,79.084,BimBadaBoom,France,Five33Switchback,2020/09/24
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,22,62.399,BimBadaBoom,France,Five33Switchback,2020/08/14
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,146,79.084,BimBadaBoom,France,Five33Switchback,2020/09/24
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,24,62.399,BimBadaBoom,France,Five33Switchback,2020/08/14
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,1,46.814,BimBadaBoom,France,Five33Switchback,2022/09/15
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,14,56.566,BimBadaBoom,France,Five33Switchback,2020/08/18
-RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,27,61.418,BimBadaBoom,France,Five33Switchback,2020/08/21
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,28,61.418,BimBadaBoom,France,Five33Switchback,2020/08/21
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,999,999.999,BimBadaBoom,NO_DATA
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,999,999.999,BimBadaBoom,NO_DATA
 TBS EU Spec Series 7 Final,Empty Scene Day,999,999.999,BimBadaBoom,NO_DATA
@@ -37,6 +37,6 @@ TBS EU Spec Series 7 Race 1,Football Stadium,18,63.483,BimBadaBoom,France,Five33
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,BimBadaBoom,NO_DATA
 TBS EU Spec Series 7 Race 3,Empty Scene Day,999,999.999,BimBadaBoom,NO_DATA
 TBS EU Spec Series 7 Race 4,Empty Scene Day,24,63.131,BimBadaBoom,France,Five33Switchback,2021/02/09
-TBS EU Spec Series 7 Race 5,IndoorGoKart,12,64.422,BimBadaBoom,France,Five33Switchback,2021/02/11
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,11,62.283,BimBadaBoom,France,Five33Switchback,2021/02/16
-TBS EU Spec Series 7 Race 7,Empty Scene Day,77,81.649,BimBadaBoom,France,Five33Switchback,2021/02/18
+TBS EU Spec Series 7 Race 5,IndoorGoKart,16,64.422,BimBadaBoom,France,Five33Switchback,2021/02/11
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,13,62.283,BimBadaBoom,France,Five33Switchback,2021/02/16
+TBS EU Spec Series 7 Race 7,Empty Scene Day,82,81.649,BimBadaBoom,France,Five33Switchback,2021/02/18

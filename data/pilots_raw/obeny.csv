@@ -1,5 +1,5 @@
 2022 Freedom Spec Champioship,Dynamic Weather,999.999,obeny,NO_DATA
-2022 MultiGP Canadian Series by DCH FPV,Countryside,999.999,obeny,NO_DATA
+2022 MultiGP Canadian Series by DCH FPV,Countryside,64.621,obeny,Poland,Five33Switchback,2022/07/08
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999.999,obeny,NO_DATA
 2022 MultiGP IO Intermediate,Dynamic Weather,55.394,obeny,Poland,Five33Switchback,2022/06/06
 2022 MultiGP IO Team,Dynamic Weather,63.795,obeny,Poland,Five33Switchback,2022/06/15
@@ -27,6 +27,8 @@ DEP Open Series 6 Race 1,Football Stadium,76.548,obeny,Poland,Five33Switchback,2
 DEP Open Series 6 Race 2,Football Stadium,106.200,obeny,Poland,Five33Switchback,2022/03/24
 EU Spec Season 4 Race 1,Football Stadium,999.999,obeny,NO_DATA
 Mayhem 22 by SFPV,Empty Scene Day,999.999,obeny,NO_DATA
+MGP Champs 2022,Dynamic Weather,999.999,obeny,NO_DATA
+MGP Champs 2022 sports track,Empty Scene Day,55.517,obeny,Poland,Five33Switchback,2023/01/14
 MGP Ice Rink Race 2022,Empty Scene Day,66.559,obeny,Poland,Five33Switchback,2022/07/20
 MultiGP 2022 Global Qualifier,Dynamic Weather,34.370,obeny,Poland,Five33Switchback,2022/04/19
 RCTech.de EU Spec Series 2 Final,Empty Scene Day,68.119,obeny,Poland,Five33Switchback,2022/06/29
@@ -37,7 +39,7 @@ RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999.999,obeny,NO_DATA
 RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,67.753,obeny,Poland,Five33Switchback,2022/07/22
 RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,115.833,obeny,Poland,Five33Switchback,2022/07/22
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,86.034,obeny,Poland,Five33Switchback,2022/06/04
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,58.927,obeny,Poland,Five33Switchback,2022/07/22
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,58.118,obeny,Poland,Five33Switchback,2023/01/30
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999.999,obeny,NO_DATA
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,74.520,obeny,Poland,Five33Switchback,2022/07/22
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,obeny,NO_DATA
@@ -53,13 +55,24 @@ TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,64.123,obeny,Poland,Five33Switchbac
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,obeny,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,999.999,obeny,NO_DATA
 TBS EU Spec Series 11 Final,Dynamic Weather,999.999,obeny,NO_DATA
-TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,79.227,obeny,Poland,Five33Switchback,2022/12/17
 TBS EU Spec Series 11 Race 2,Countryside,70.437,obeny,Poland,Five33Switchback,2022/06/20
 TBS EU Spec Series 11 Race 3,Dynamic Weather,70.062,obeny,Poland,Five33Switchback,2022/06/27
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,obeny,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,67.385,obeny,Poland,Five33Switchback,2022/07/19
 TBS EU Spec Series 11 Race 6,Dynamic Weather,64.325,obeny,Poland,Five33Switchback,2022/07/23
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,103.451,obeny,Poland,Five33Switchback,2022/12/09
+TBS EU Spec Series 12 Race 2,NEC Birmingham,96.927,obeny,Poland,Five33Switchback,2023/01/13
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,obeny,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,obeny,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,94.748,obeny,Poland,Five33Switchback,2022/07/08
 TBS EU Spec Series 4 Race 2,Empty Scene Day,70.374,obeny,Poland,Five33Switchback,2022/04/13
 TBS EU Spec Series 4 Race 3,IndoorGoKart,105.763,obeny,Poland,Five33Switchback,2022/02/16
@@ -70,9 +83,9 @@ TBS EU Spec Series 5 FINAL,Dynamic Weather,95.486,obeny,Poland,Five33Switchback,
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,93.573,obeny,Poland,Five33Switchback,2021/07/17
 TBS EU Spec Series 5 Race 3,Dynamic Weather,77.677,obeny,Poland,Five33Switchback,2022/02/13
 TBS EU Spec Series 5 Race 4,Football Stadium,83.891,obeny,Poland,Five33Switchback,2022/02/14
-TBS EU Spec Series 5 Race 5,NEC Birmingham,73.440,obeny,Poland,Five33Switchback,2022/02/14
+TBS EU Spec Series 5 Race 5,NEC Birmingham,71.168,obeny,Poland,Five33Switchback,2023/05/11
 TBS EU Spec Series 5 Race 6,Dynamic Weather,74.651,obeny,Poland,Five33Switchback,2022/06/13
-TBS EU Spec Series 5 Race 7,IndoorGoKart,999.999,obeny,NO_DATA
+TBS EU Spec Series 5 Race 7,IndoorGoKart,78.430,obeny,Poland,Five33Switchback,2022/12/12
 TBS EU Spec Series 6 Final,Empty Scene Day,80.427,obeny,Poland,Five33Switchback,2022/02/10
 TBS EU Spec Series 6 Losers Final,Football Stadium,999.999,obeny,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,80.473,obeny,Poland,Five33Switchback,2021/08/05
@@ -94,16 +107,26 @@ TBS EU Spec Series 8 Losers Final,Dynamic Weather,64.592,obeny,Poland,Five33Swit
 TBS EU Spec Series 8 Race 1,Dynamic Weather,83.230,obeny,Poland,Five33Switchback,2022/02/11
 TBS EU Spec Series 8 Race 2,Empty Scene Night,999.999,obeny,NO_DATA
 TBS EU Spec Series 8 Race 3,Football Stadium,64.528,obeny,Poland,Five33Switchback,2022/07/05
-TBS EU Spec Series 8 Race 4,Empty Scene Day,103.408,obeny,Poland,Five33Switchback,2021/06/24
+TBS EU Spec Series 8 Race 4,Empty Scene Day,999.999,obeny,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,65.785,obeny,Poland,Five33Switchback,2022/09/13
-TBS EU Spec Series 8 Race 6,Football Stadium,80.245,obeny,Poland,Five33Switchback,2021/08/09
+TBS EU Spec Series 8 Race 6,Football Stadium,68.631,obeny,Poland,Five33Switchback,2023/01/08
 TBS EU Spec Series 8 Race 7,Empty Scene Day,77.184,obeny,Poland,Five33Switchback,2021/08/15
 TBS EU Spec Series 9 Final,Dynamic Weather,70.649,obeny,Poland,Five33Switchback,2022/06/13
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,66.615,obeny,Poland,Five33Switchback,2021/11/16
-TBS EU Spec Series 9 Race 1,Football Stadium,70.289,obeny,Poland,Five33Switchback,2021/09/12
+TBS EU Spec Series 9 Race 1,Football Stadium,64.706,obeny,Poland,Five33Switchback,2023/05/14
 TBS EU Spec Series 9 Race 2,Dynamic Weather,61.165,obeny,Poland,Five33Switchback,2022/01/09
 TBS EU Spec Series 9 Race 3,Empty Scene Day,67.163,obeny,Poland,Five33Switchback,2021/11/16
 TBS EU Spec Series 9 Race 4,Football Stadium,84.116,obeny,Poland,Five33Switchback,2021/10/12
 TBS EU Spec Series 9 Race 5,Empty Scene Day,72.211,obeny,Poland,Five33Switchback,2021/10/14
 TBS EU Spec Series 9 Race 6,Empty Scene Day,72.891,obeny,Poland,Five33Switchback,2021/11/16
 TBS EU Spec Series 9 Race 7,NEC Birmingham,66.178,obeny,Poland,Five33Switchback,2022/07/04
+VRL S9 FINALS,Dynamic Weather,999.999,obeny,NO_DATA
+VRL S9 T1,Dynamic Weather,112.502,obeny,Poland,Five33Switchback,2023/01/16
+VRL S9 T2,Dynamic Weather,80.117,obeny,Poland,Five33Switchback,2023/01/24
+VRL S9 T3,Dynamic Weather,78.116,obeny,Poland,Five33Switchback,2023/01/30
+VRL S9 T4,Dynamic Weather,109.850,obeny,Poland,Five33Switchback,2023/02/06
+VRL S9 T5,Dynamic Weather,999.999,obeny,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,obeny,NO_DATA
+VRL S9 T7,Dynamic Weather,131.891,obeny,Poland,Five33Switchback,2023/03/09
+VRL S9 T8,Dynamic Weather,270.553,obeny,Poland,Five33Switchback,2023/03/16
+VRL Season 9 Tryouts,Dynamic Weather,135.966,obeny,Poland,Five33Switchback,2022/12/27

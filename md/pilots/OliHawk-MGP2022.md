@@ -1,17 +1,18 @@
 ### Best 1 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|6|MGP Ice Rink Race 2022|Empty Scene Day|CarbiXZero|2022/05/11|
+|5|MGP Champs 2022 sports track|Empty Scene Day|CarbiXZero|2022/11/07|
 ---
-### Worse 1 MGP2022 TRACKS ranks
+### Worse 2 MGP2022 TRACKS ranks
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|20|2022 MultiGP IO World Cup|Dynamic Weather|CarbiXZero|2022/06/11|
+|24|2022 MultiGP IO Team|Dynamic Weather|CarbiXZero|2022/06/11|
+|23|2022 MultiGP IO World Cup|Dynamic Weather|CarbiXZero|2022/06/11|
 ---
 ### Oldest 1 personal best
 |RANK|TRACK|SCENE|QUAD|DATE|
 |:---:|:---|:---|:---:|:---:|
-|15|Mayhem 22 by SFPV|Empty Scene Day|Yakuza|2022/03/30|
+|8|MGP Ice Rink Race 2022|Empty Scene Day|CarbiXZero|2022/05/11|
 ---
 ### 1 tracks where TBS SPEC quad was used
 |RANK|TRACK|SCENE|QUAD|DATE|

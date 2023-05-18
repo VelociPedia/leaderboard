@@ -23,8 +23,8 @@ DEP Open Series 4 Race 4,Football Stadium,139,118.202,SpencerDfpv,UnitedStates,T
 DEP Open Series 4 Race 5,Football Stadium,143,81.373,SpencerDfpv,UnitedStates,TBSSpec,2021/05/05
 DEP Open Series 4 Race 6,Football Stadium,999,999.999,SpencerDfpv,NO_DATA
 DEP Open Series 4 Race 7,Football Stadium,196,100.551,SpencerDfpv,UnitedStates,Mode2Ghost,2021/05/26
-DEP Open Series 6 Race 1,Football Stadium,130,93.810,SpencerDfpv,UnitedStates,TBSSpec,2022/03/06
-DEP Open Series 6 Race 2,Football Stadium,146,173.987,SpencerDfpv,UnitedStates,TBSSpec,2022/03/12
+DEP Open Series 6 Race 1,Football Stadium,153,93.810,SpencerDfpv,UnitedStates,TBSSpec,2022/03/06
+DEP Open Series 6 Race 2,Football Stadium,178,173.987,SpencerDfpv,UnitedStates,TBSSpec,2022/03/12
 Formula FLow I,Empty Scene Day,110,70.205,SpencerDfpv,UnitedStates,TBSSpec,2022/03/18
 Formula Flow II,Empty Scene Day,90,118.175,SpencerDfpv,UnitedStates,TBSSpec,2022/03/13
 Formula Flow III,Empty Scene Day,109,204.631,SpencerDfpv,UnitedStates,TBSSpec,2022/04/17
@@ -60,14 +60,23 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,SpencerDfpv,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,90,76.580,SpencerDfpv,UnitedStates,TBSSpec,2022/01/22
 TBS EU Spec Series 10 Race 6,Large Carpark,198,139.997,SpencerDfpv,UnitedStates,TBSSpec,2022/01/28
 TBS EU Spec Series 10 Race 7,Football Stadium,73,83.151,SpencerDfpv,UnitedStates,TBSSpec,2022/02/05
-TBS EU Spec Series 11 Final,Dynamic Weather,74,89.472,SpencerDfpv,UnitedStates,TBSSpec,2022/09/02
-TBS EU Spec Series 11 Race 1,Dynamic Weather,102,82.876,SpencerDfpv,UnitedStates,TBSSpec,2022/05/29
-TBS EU Spec Series 11 Race 2,Countryside,74,77.357,SpencerDfpv,UnitedStates,TBSSpec,2022/06/10
-TBS EU Spec Series 11 Race 3,Dynamic Weather,69,89.456,SpencerDfpv,UnitedStates,TBSSpec,2022/06/24
-TBS EU Spec Series 11 Race 5,Dynamic Weather,129,105.180,SpencerDfpv,UnitedStates,TBSSpec,2022/06/27
-TBS EU Spec Series 11 Race 5,NEC Birmingham,186,159.895,SpencerDfpv,UnitedStates,TBSSpec,2022/07/07
-TBS EU Spec Series 11 Race 6,Dynamic Weather,168,161.017,SpencerDfpv,UnitedStates,TBSSpec,2022/10/01
-TBS EU Spec Series 11 Race 7,Dynamic Weather,111,99.041,SpencerDfpv,UnitedStates,TBSSpec,2022/08/03
+TBS EU Spec Series 11 Final,Dynamic Weather,84,89.472,SpencerDfpv,UnitedStates,TBSSpec,2022/09/02
+TBS EU Spec Series 11 Race 1,Dynamic Weather,143,82.876,SpencerDfpv,UnitedStates,TBSSpec,2022/05/29
+TBS EU Spec Series 11 Race 2,Countryside,85,77.357,SpencerDfpv,UnitedStates,TBSSpec,2022/06/10
+TBS EU Spec Series 11 Race 3,Dynamic Weather,78,89.456,SpencerDfpv,UnitedStates,TBSSpec,2022/06/24
+TBS EU Spec Series 11 Race 5,Dynamic Weather,157,105.180,SpencerDfpv,UnitedStates,TBSSpec,2022/06/27
+TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,SpencerDfpv,NO_DATA
+TBS EU Spec Series 11 Race 6,Dynamic Weather,999,999.999,SpencerDfpv,NO_DATA
+TBS EU Spec Series 11 Race 7,Dynamic Weather,130,99.041,SpencerDfpv,UnitedStates,TBSSpec,2022/08/03
+TBS EU Spec Series 12 Final,Dynamic Weather,55,104.554,SpencerDfpv,UnitedStates,TBSSpec,2023/02/20
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,83,99.072,SpencerDfpv,UnitedStates,TBSSpec,2023/02/18
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,SpencerDfpv,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,198,155.453,SpencerDfpv,UnitedStates,TBSSpec,2023/01/15
+TBS EU Spec Series 12 Race 3,Dynamic Weather,152,114.088,SpencerDfpv,UnitedStates,TBSSpec,2023/01/08
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,SpencerDfpv,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,92,91.518,SpencerDfpv,UnitedStates,TBSSpec,2023/01/15
+TBS EU Spec Series 12 Race 6,Dynamic Weather,56,69.007,SpencerDfpv,UnitedStates,TBSSpec,2023/01/22
+TBS EU Spec Series 12 Race 7,Dynamic Weather,177,137.009,SpencerDfpv,UnitedStates,TBSSpec,2023/01/30
 TBS EU Spec Series 8 Final,Dynamic Weather,999,999.999,SpencerDfpv,NO_DATA
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,167,87.980,SpencerDfpv,UnitedStates,TBSSpec,2021/06/26
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,SpencerDfpv,NO_DATA

@@ -1,24 +1,24 @@
-DEP Open Pop-Up 2,Dynamic Weather,71,72.477,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/30
-DEP Open Series 2 Race 1,Dynamic Weather,89,56.482,BearmanFPV,UnitedKingdom,Ossa,2020/12/04
-DEP Open Series 2 Race 7,Football Stadium,91,102.031,BearmanFPV,UnitedKingdom,Ossa,2021/06/06
+DEP Open Pop-Up 2,Dynamic Weather,86,72.477,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/30
+DEP Open Series 2 Race 1,Dynamic Weather,95,56.482,BearmanFPV,UnitedKingdom,Ossa,2020/12/04
+DEP Open Series 2 Race 7,Football Stadium,109,102.031,BearmanFPV,UnitedKingdom,Ossa,2021/06/06
 DEP Open Series 3 Race 1,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-DEP Open Series 3 Race 3,Karting Track,142,113.839,BearmanFPV,UnitedKingdom,Ossa,2021/03/03
-DEP Open Series 3 Race 4,Football Stadium,108,67.926,BearmanFPV,UnitedKingdom,Ossa,2021/02/24
-DEP Open Series 3 Race 5,Football Stadium,106,85.989,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/03
-DEP Open Series 3 Race 6,Football Stadium,83,102.842,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/10
+DEP Open Series 3 Race 3,Karting Track,163,113.839,BearmanFPV,UnitedKingdom,Ossa,2021/03/03
+DEP Open Series 3 Race 4,Football Stadium,119,67.926,BearmanFPV,UnitedKingdom,Ossa,2021/02/24
+DEP Open Series 3 Race 5,Football Stadium,111,85.989,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/03
+DEP Open Series 3 Race 6,Football Stadium,90,102.842,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/10
 DEP Open Series 3 Race 7,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-DEP Open Series 4 Race 1,Football Stadium,105,94.813,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/31
-DEP Open Series 4 Race 2,Football Stadium,125,118.599,BearmanFPV,UnitedKingdom,TBSSpec,2021/04/21
-DEP Open Series 4 Race 3,Football Stadium,56,66.950,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/29
-DEP Open Series 4 Race 4,Football Stadium,79,91.096,BearmanFPV,UnitedKingdom,Ossa,2021/04/21
-DEP Open Series 4 Race 5,Football Stadium,100,68.947,BearmanFPV,UnitedKingdom,Ossa,2021/04/28
-DEP Open Series 4 Race 6,Football Stadium,62,69.327,BearmanFPV,UnitedKingdom,Ossa,2021/05/12
-DEP Open Series 4 Race 7,Football Stadium,71,69.341,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/13
-DEP Open Series 5 Race 1,Football Stadium,70,62.669,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/03
-DEP Open Series 5 Race 2,Football Stadium,59,76.156,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/07
+DEP Open Series 4 Race 1,Football Stadium,110,94.813,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/31
+DEP Open Series 4 Race 2,Football Stadium,134,118.599,BearmanFPV,UnitedKingdom,TBSSpec,2021/04/21
+DEP Open Series 4 Race 3,Football Stadium,62,66.950,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/29
+DEP Open Series 4 Race 4,Football Stadium,90,91.096,BearmanFPV,UnitedKingdom,Ossa,2021/04/21
+DEP Open Series 4 Race 5,Football Stadium,114,68.947,BearmanFPV,UnitedKingdom,Ossa,2021/04/28
+DEP Open Series 4 Race 6,Football Stadium,70,69.327,BearmanFPV,UnitedKingdom,Ossa,2021/05/12
+DEP Open Series 4 Race 7,Football Stadium,75,69.341,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/13
+DEP Open Series 5 Race 1,Football Stadium,83,62.669,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/03
+DEP Open Series 5 Race 2,Football Stadium,66,76.156,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/07
 DEP Open Series 5 Race 3,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-DEP Open Series 5 Race 4,Football Stadium,34,77.288,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/29
+DEP Open Series 5 Race 4,Football Stadium,40,77.288,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/29
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,BearmanFPV,NO_DATA
@@ -26,97 +26,108 @@ DEP Open Series 6 Race 1,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 DEP Open Series 6 Race 2,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 DEP Spec Series 1 Race 5,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 EU Spec Season 4 Race 1,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,90,73.694,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/02
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,98,73.694,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/02
 RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,999,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,37,67.507,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/11
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,38,67.507,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/11
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,999,999.999,BearmanFPV,NO_DATA
-RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,46,72.405,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/01
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,70,84.689,BearmanFPV,UnitedKingdom,TBSSpec,2020/07/15
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,51,72.405,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/01
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,75,84.689,BearmanFPV,UnitedKingdom,TBSSpec,2020/07/15
 RCTech_de EU Spec Series 3 Final,Empty Scene Day,999,999.999,BearmanFPV,NO_DATA
-RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,135,79.716,BearmanFPV,UnitedKingdom,TBSSpec,2020/05/11
-RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,23,61.502,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/21
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,124,102.742,BearmanFPV,UnitedKingdom,TBSSpec,2020/05/11
+RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,144,79.716,BearmanFPV,UnitedKingdom,TBSSpec,2020/05/11
+RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,25,61.502,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/21
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,140,102.742,BearmanFPV,UnitedKingdom,TBSSpec,2020/05/11
 RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,BearmanFPV,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,82,62.122,BearmanFPV,UnitedKingdom,Ossa,2022/09/12
+TBS EU Spec Season 5 Race 1,Football Stadium,98,62.122,BearmanFPV,UnitedKingdom,Ossa,2022/09/12
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 10 Losers Final,Football Stadium,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 10 Race 1,Football Stadium,53,62.055,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/02
-TBS EU Spec Series 10 Race 2,Empty Scene Day,60,67.112,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/12
-TBS EU Spec Series 10 Race 3,Night Factory 2,49,70.534,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/23
-TBS EU Spec Series 10 Race 4,Dynamic Weather,38,64.560,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/06
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,39,57.304,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/20
+TBS EU Spec Series 10 Race 1,Football Stadium,61,62.055,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/02
+TBS EU Spec Series 10 Race 2,Empty Scene Day,67,67.112,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/12
+TBS EU Spec Series 10 Race 3,Night Factory 2,53,70.534,BearmanFPV,UnitedKingdom,TBSSpec,2021/12/23
+TBS EU Spec Series 10 Race 4,Dynamic Weather,42,64.560,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/06
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,42,57.304,BearmanFPV,UnitedKingdom,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,81,76.234,BearmanFPV,UnitedKingdom,TBSSpec,2022/04/11
+TBS EU Spec Series 10 Race 7,Football Stadium,87,76.234,BearmanFPV,UnitedKingdom,TBSSpec,2022/04/11
 TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 11 Race 1,Dynamic Weather,35,63.684,BearmanFPV,UnitedKingdom,TBSSpec,2022/05/26
+TBS EU Spec Series 11 Race 1,Dynamic Weather,52,63.684,BearmanFPV,UnitedKingdom,TBSSpec,2022/05/26
 TBS EU Spec Series 11 Race 2,Countryside,999,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 11 Race 3,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 11 Race 5,NEC Birmingham,51,64.886,BearmanFPV,UnitedKingdom,TBSSpec,2022/07/07
-TBS EU Spec Series 11 Race 6,Dynamic Weather,75,80.891,BearmanFPV,UnitedKingdom,TBSSpec,2022/09/12
+TBS EU Spec Series 11 Race 5,NEC Birmingham,54,64.886,BearmanFPV,UnitedKingdom,TBSSpec,2022/07/07
+TBS EU Spec Series 11 Race 6,Dynamic Weather,88,80.891,BearmanFPV,UnitedKingdom,TBSSpec,2022/09/12
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,73,88.236,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/28
-TBS EU Spec Series 4 Race 2,Empty Scene Day,141,75.461,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/06
-TBS EU Spec Series 4 Race 3,IndoorGoKart,67,109.805,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
-TBS EU Spec Series 4 Race 4,Empty Scene Day,80,85.998,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/11
-TBS EU Spec Series 4 Race 5,Dynamic Weather,122,100.562,BearmanFPV,UnitedKingdom,Five33Switchback,2020/06/07
-TBS EU Spec Series 4 Race 7,Football Stadium,193,87.945,BearmanFPV,UnitedKingdom,TBSSpec,2020/06/18
+TBS EU Spec Series 12 Final,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999,999.999,BearmanFPV,NO_DATA
+TBS EU Spec Series 4 FINAL,Dynamic Weather,74,88.236,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/28
+TBS EU Spec Series 4 Race 2,Empty Scene Day,150,75.461,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/06
+TBS EU Spec Series 4 Race 3,IndoorGoKart,75,109.805,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
+TBS EU Spec Series 4 Race 4,Empty Scene Day,82,85.998,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/11
+TBS EU Spec Series 4 Race 5,Dynamic Weather,125,100.562,BearmanFPV,UnitedKingdom,Five33Switchback,2020/06/07
+TBS EU Spec Series 4 Race 7,Football Stadium,200,87.945,BearmanFPV,UnitedKingdom,TBSSpec,2020/06/18
 TBS EU Spec Series 5 FINAL,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,70,84.449,BearmanFPV,UnitedKingdom,TBSSpec,2020/09/03
-TBS EU Spec Series 5 Race 3,Dynamic Weather,156,92.851,BearmanFPV,UnitedKingdom,TBSSpec,2020/07/23
-TBS EU Spec Series 5 Race 4,Football Stadium,67,83.784,BearmanFPV,UnitedKingdom,TBSSpec,2021/04/29
-TBS EU Spec Series 5 Race 5,NEC Birmingham,105,82.904,BearmanFPV,UnitedKingdom,TBSSpec,2020/08/06
-TBS EU Spec Series 5 Race 6,Dynamic Weather,118,79.976,BearmanFPV,UnitedKingdom,TBSSpec,2020/08/20
-TBS EU Spec Series 5 Race 7,IndoorGoKart,84,82.846,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
-TBS EU Spec Series 6 Final,Empty Scene Day,138,93.834,BearmanFPV,UnitedKingdom,TBSSpec,2020/12/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,101,79.576,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/26
-TBS EU Spec Series 6 Race 1,Future Hangar Empty,136,80.538,BearmanFPV,UnitedKingdom,TBSSpec,2020/09/24
-TBS EU Spec Series 6 Race 2,Empty Scene Day,195,81.967,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/11
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,76,84.449,BearmanFPV,UnitedKingdom,TBSSpec,2020/09/03
+TBS EU Spec Series 5 Race 3,Dynamic Weather,178,92.851,BearmanFPV,UnitedKingdom,TBSSpec,2020/07/23
+TBS EU Spec Series 5 Race 4,Football Stadium,68,83.784,BearmanFPV,UnitedKingdom,TBSSpec,2021/04/29
+TBS EU Spec Series 5 Race 5,NEC Birmingham,119,82.904,BearmanFPV,UnitedKingdom,TBSSpec,2020/08/06
+TBS EU Spec Series 5 Race 6,Dynamic Weather,122,79.976,BearmanFPV,UnitedKingdom,TBSSpec,2020/08/20
+TBS EU Spec Series 5 Race 7,IndoorGoKart,89,82.846,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
+TBS EU Spec Series 6 Final,Empty Scene Day,149,93.834,BearmanFPV,UnitedKingdom,TBSSpec,2020/12/03
+TBS EU Spec Series 6 Losers Final,Football Stadium,109,79.576,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/26
+TBS EU Spec Series 6 Race 1,Future Hangar Empty,141,80.538,BearmanFPV,UnitedKingdom,TBSSpec,2020/09/24
+TBS EU Spec Series 6 Race 2,Empty Scene Day,999,999.999,BearmanFPV,NO_DATA
 TBS EU Spec Series 6 Race 4,NEC Birmingham,999,999.999,BearmanFPV,NO_DATA
-TBS EU Spec Series 6 Race 5,Dynamic Weather,140,102.907,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/09
-TBS EU Spec Series 6 Race 6,Empty Scene Day,117,84.014,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/12
-TBS EU Spec Series 6 Race 7,Empty Scene Day,178,66.253,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/19
-TBS EU Spec Series 7 Final,Empty Scene Day,106,79.258,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/04
-TBS EU Spec Series 7 Race 1,Football Stadium,107,75.719,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/07
-TBS EU Spec Series 7 Race 2,Empty Scene Day,102,74.703,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/15
-TBS EU Spec Series 7 Race 3,Empty Scene Day,133,80.360,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
-TBS EU Spec Series 7 Race 4,Empty Scene Day,128,76.019,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/28
-TBS EU Spec Series 7 Race 5,IndoorGoKart,87,75.545,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,112,79.106,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/24
-TBS EU Spec Series 7 Race 7,Empty Scene Day,139,93.233,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/24
+TBS EU Spec Series 6 Race 5,Dynamic Weather,146,102.907,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/09
+TBS EU Spec Series 6 Race 6,Empty Scene Day,123,84.014,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/12
+TBS EU Spec Series 6 Race 7,Empty Scene Day,186,66.253,BearmanFPV,UnitedKingdom,TBSSpec,2020/11/19
+TBS EU Spec Series 7 Final,Empty Scene Day,107,79.258,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/04
+TBS EU Spec Series 7 Race 1,Football Stadium,111,75.719,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/07
+TBS EU Spec Series 7 Race 2,Empty Scene Day,105,74.703,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/15
+TBS EU Spec Series 7 Race 3,Empty Scene Day,142,80.360,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
+TBS EU Spec Series 7 Race 4,Empty Scene Day,132,76.019,BearmanFPV,UnitedKingdom,TBSSpec,2021/01/28
+TBS EU Spec Series 7 Race 5,IndoorGoKart,96,75.545,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/04
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,115,79.106,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/24
+TBS EU Spec Series 7 Race 7,Empty Scene Day,146,93.233,BearmanFPV,UnitedKingdom,TBSSpec,2021/02/24
 TBS EU Spec Series 8 Final,Dynamic Weather,52,79.407,BearmanFPV,UnitedKingdom,TBSSpec,2021/07/01
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,76,64.602,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/24
-TBS EU Spec Series 8 Race 1,Dynamic Weather,74,79.950,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/07
-TBS EU Spec Series 8 Race 2,Empty Scene Night,59,78.736,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/25
-TBS EU Spec Series 8 Race 3,Football Stadium,54,61.955,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/28
-TBS EU Spec Series 8 Race 4,Empty Scene Day,59,77.106,BearmanFPV,UnitedKingdom,TBSSpec,2021/08/24
-TBS EU Spec Series 8 Race 5,Future Hangar Empty,73,62.564,BearmanFPV,UnitedKingdom,TBSSpec,2021/05/20
-TBS EU Spec Series 8 Race 6,Football Stadium,76,69.457,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/03
-TBS EU Spec Series 8 Race 7,Empty Scene Day,103,80.824,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/10
-TBS EU Spec Series 9 Final,Dynamic Weather,89,69.023,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/11
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,56,66.929,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/04
-TBS EU Spec Series 9 Race 1,Football Stadium,82,60.509,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/09
-TBS EU Spec Series 9 Race 2,Dynamic Weather,84,60.828,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/08
-TBS EU Spec Series 9 Race 3,Empty Scene Day,70,63.538,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/23
-TBS EU Spec Series 9 Race 4,Football Stadium,69,71.344,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/30
-TBS EU Spec Series 9 Race 5,Empty Scene Day,74,68.745,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/07
-TBS EU Spec Series 9 Race 6,Empty Scene Day,62,71.774,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/21
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,87,64.602,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/24
+TBS EU Spec Series 8 Race 1,Dynamic Weather,80,79.950,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/07
+TBS EU Spec Series 8 Race 2,Empty Scene Night,60,78.736,BearmanFPV,UnitedKingdom,TBSSpec,2021/03/25
+TBS EU Spec Series 8 Race 3,Football Stadium,57,61.955,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/28
+TBS EU Spec Series 8 Race 4,Empty Scene Day,65,77.106,BearmanFPV,UnitedKingdom,TBSSpec,2021/08/24
+TBS EU Spec Series 8 Race 5,Future Hangar Empty,75,62.564,BearmanFPV,UnitedKingdom,TBSSpec,2021/05/20
+TBS EU Spec Series 8 Race 6,Football Stadium,77,69.457,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/03
+TBS EU Spec Series 8 Race 7,Empty Scene Day,112,80.824,BearmanFPV,UnitedKingdom,TBSSpec,2021/06/10
+TBS EU Spec Series 9 Final,Dynamic Weather,91,69.023,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/11
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,57,66.929,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/04
+TBS EU Spec Series 9 Race 1,Football Stadium,83,60.509,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/09
+TBS EU Spec Series 9 Race 2,Dynamic Weather,85,60.828,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/08
+TBS EU Spec Series 9 Race 3,Empty Scene Day,75,63.538,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/23
+TBS EU Spec Series 9 Race 4,Football Stadium,72,71.344,BearmanFPV,UnitedKingdom,TBSSpec,2021/09/30
+TBS EU Spec Series 9 Race 5,Empty Scene Day,87,68.745,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/07
+TBS EU Spec Series 9 Race 6,Empty Scene Day,69,71.774,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,40,65.029,BearmanFPV,UnitedKingdom,TBSSpec,2021/10/28
-VRL 7 Race 4,Dynamic Weather,153,105.143,BearmanFPV,UnitedKingdom,Ossa,2020/12/20
-VRL 7 Track 1,Future Hangar,84,101.221,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/22
-VRL 7 Track 2,Future Hangar Empty,181,175.023,BearmanFPV,UnitedKingdom,Ossa,2020/12/18
-VRL 7 Track 3,Dynamic Weather,129,90.919,BearmanFPV,UnitedKingdom,Ossa,2020/12/20
-VRL 7 Track 5,Dynamic Weather,50,83.572,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/21
-VRL 7 Track 6,Dynamic Weather,102,86.549,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/23
+VRL 7 Race 4,Dynamic Weather,167,105.143,BearmanFPV,UnitedKingdom,Ossa,2020/12/20
+VRL 7 Track 1,Future Hangar,85,101.221,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/22
+VRL 7 Track 2,Future Hangar Empty,190,175.023,BearmanFPV,UnitedKingdom,Ossa,2020/12/18
+VRL 7 Track 3,Dynamic Weather,139,90.919,BearmanFPV,UnitedKingdom,Ossa,2020/12/20
+VRL 7 Track 5,Dynamic Weather,53,83.572,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/21
+VRL 7 Track 6,Dynamic Weather,105,86.549,BearmanFPV,UnitedKingdom,Five33Switchback,2021/08/23
 VRL7 Tryouts,Future Hangar Empty,999,999.999,BearmanFPV,NO_DATA
-VRL Season 7 Championships,Dynamic Weather,81,106.527,BearmanFPV,UnitedKingdom,Ossa,2020/12/28
-VRL Season 8 Championships,Dynamic Weather,60,90.489,BearmanFPV,UnitedKingdom,TBSSpec,2022/02/06
-VRL Season 8 Track 1,Office Complex,70,155.603,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/04
+VRL Season 7 Championships,Dynamic Weather,82,106.527,BearmanFPV,UnitedKingdom,Ossa,2020/12/28
+VRL Season 8 Championships,Dynamic Weather,62,90.489,BearmanFPV,UnitedKingdom,TBSSpec,2022/02/06
+VRL Season 8 Track 1,Office Complex,71,155.603,BearmanFPV,UnitedKingdom,TBSSpec,2021/11/04
 VRL Season 8 Track 2,Drift Track,999,999.999,BearmanFPV,NO_DATA
-VRL Season 8 Track 3,Night Factory 2,86,126.947,BearmanFPV,UnitedKingdom,Five33Switchback,2021/11/28
-VRL Season 8 Track 4,DynamicPoly,58,136.464,BearmanFPV,UnitedKingdom,Five33Switchback,2021/12/07
+VRL Season 8 Track 3,Night Factory 2,87,126.947,BearmanFPV,UnitedKingdom,Five33Switchback,2021/11/28
+VRL Season 8 Track 4,DynamicPoly,60,136.464,BearmanFPV,UnitedKingdom,Five33Switchback,2021/12/07
 VRL Season 8 Track 5,Dynamic Weather,65,116.832,BearmanFPV,UnitedKingdom,Five33Switchback,2021/12/21
 VRL Season 8 Track 6,Night Factory 2,999,999.999,BearmanFPV,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,999,999.999,BearmanFPV,NO_DATA

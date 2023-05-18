@@ -1,8 +1,8 @@
 2022 Freedom Spec Champioship,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
 2022 MultiGP Canadian Series by DCH FPV,Countryside,999,999.999,Smurf47akaUlrik,NO_DATA
 2022 MultiGP IO Freedom Spec,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
-2022 MultiGP IO Intermediate,Dynamic Weather,44,52.433,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/30
-2022 MultiGP IO Team,Dynamic Weather,57,59.808,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/26
+2022 MultiGP IO Intermediate,Dynamic Weather,62,52.433,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/30
+2022 MultiGP IO Team,Dynamic Weather,72,59.808,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/26
 2022 MultiGP IO World Cup,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
 DDR Race Series - Track 1 by Sniper X dec,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
 DDR Race Series - Track 2 by Toxic fpv jan,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
@@ -10,41 +10,43 @@ DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,54,72.433,Smurf47a
 DDR Race Series - Track 4 by Boner fpv march,Empty Scene Day,26,63.641,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/03
 DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day,34,52.405,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/02
 DEP Open Pop-Up 2,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
-DEP Open Series 2 Race 1,Dynamic Weather,35,46.258,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/05
-DEP Open Series 2 Race 7,Football Stadium,76,99.149,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/22
-DEP Open Series 3 Race 1,Football Stadium,62,56.093,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/07
-DEP Open Series 3 Race 2,Football Stadium,51,78.571,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/10
+DEP Open Series 2 Race 1,Dynamic Weather,36,46.258,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/05
+DEP Open Series 2 Race 7,Football Stadium,92,99.149,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/22
+DEP Open Series 3 Race 1,Football Stadium,71,56.093,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/07
+DEP Open Series 3 Race 2,Football Stadium,52,78.571,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/10
 DEP Open Series 3 Race 3,Karting Track,999,999.999,Smurf47akaUlrik,NO_DATA
-DEP Open Series 3 Race 4,Football Stadium,61,61.183,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/22
-DEP Open Series 3 Race 5,Football Stadium,40,72.857,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/24
-DEP Open Series 3 Race 6,Football Stadium,50,91.926,Smurf47akaUlrik,Denmark,Five33Switchback,2021/03/10
-DEP Open Series 3 Race 7,Football Stadium,43,81.389,Smurf47akaUlrik,Denmark,Five33Switchback,2021/03/17
-DEP Open Series 4 Race 1,Football Stadium,80,88.334,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/01
-DEP Open Series 4 Race 2,Football Stadium,53,97.352,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/07
-DEP Open Series 4 Race 3,Football Stadium,76,71.350,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/16
-DEP Open Series 4 Race 4,Football Stadium,111,102.088,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/27
-DEP Open Series 4 Race 5,Football Stadium,87,67.628,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/13
-DEP Open Series 4 Race 6,Football Stadium,89,74.802,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/12
-DEP Open Series 4 Race 7,Football Stadium,42,64.530,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/09
-DEP Open Series 5 Race 1,Football Stadium,61,60.967,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/25
-DEP Open Series 5 Race 2,Football Stadium,137,98.164,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/06
-DEP Open Series 5 Race 3,Football Stadium,47,78.364,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/17
-DEP Open Series 5 Race 4,Football Stadium,31,76.551,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/29
+DEP Open Series 3 Race 4,Football Stadium,66,61.183,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/22
+DEP Open Series 3 Race 5,Football Stadium,42,72.857,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/24
+DEP Open Series 3 Race 6,Football Stadium,53,91.926,Smurf47akaUlrik,Denmark,Five33Switchback,2021/03/10
+DEP Open Series 3 Race 7,Football Stadium,48,81.389,Smurf47akaUlrik,Denmark,Five33Switchback,2021/03/17
+DEP Open Series 4 Race 1,Football Stadium,82,88.334,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/01
+DEP Open Series 4 Race 2,Football Stadium,58,97.352,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/07
+DEP Open Series 4 Race 3,Football Stadium,82,71.350,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/16
+DEP Open Series 4 Race 4,Football Stadium,126,102.088,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/27
+DEP Open Series 4 Race 5,Football Stadium,100,67.628,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/13
+DEP Open Series 4 Race 6,Football Stadium,99,74.802,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/12
+DEP Open Series 4 Race 7,Football Stadium,44,64.530,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/09
+DEP Open Series 5 Race 1,Football Stadium,71,60.967,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/25
+DEP Open Series 5 Race 2,Football Stadium,153,98.164,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/06
+DEP Open Series 5 Race 3,Football Stadium,50,78.364,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/17
+DEP Open Series 5 Race 4,Football Stadium,36,76.551,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/29
 DEP Open Series 5 Race 5,Football Stadium,999,999.999,Smurf47akaUlrik,NO_DATA
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,Smurf47akaUlrik,NO_DATA
-DEP Open Series 5 Race 7,Football Stadium,130,122.971,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/30
-DEP Open Series 6 Race 1,Football Stadium,50,71.427,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/03
-DEP Open Series 6 Race 2,Football Stadium,32,89.817,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/17
+DEP Open Series 5 Race 7,Football Stadium,141,122.971,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/30
+DEP Open Series 6 Race 1,Football Stadium,56,71.427,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/03
+DEP Open Series 6 Race 2,Football Stadium,38,89.817,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/17
 DEP Spec Series 1 Race 5,Football Stadium,39,89.545,Smurf47akaUlrik,Denmark,Five33Switchback,2020/10/19
 DF5,Football Stadium,6,92.740,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/27
-EU Spec Season 4 Race 1,Football Stadium,111,93.107,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/17
+EU Spec Season 4 Race 1,Football Stadium,116,93.107,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/17
 Formula FLow I,Empty Scene Day,123,73.066,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/09
 Formula Flow II,Empty Scene Day,85,113.062,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/30
 Formula Flow III,Empty Scene Day,41,131.507,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/30
 Formula Flow IV,Empty Scene Day,13,102.081,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/18
-Mayhem 22 by SFPV,Empty Scene Day,50,65.052,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/29
-MGP Ice Rink Race 2022,Empty Scene Day,62,67.115,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/05
-MultiGP 2022 Global Qualifier,Dynamic Weather,76,31.404,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/21
+Mayhem 22 by SFPV,Empty Scene Day,52,65.052,Smurf47akaUlrik,Denmark,TBSSpec,2022/03/29
+MGP Champs 2022,Dynamic Weather,90,83.288,Smurf47akaUlrik,Denmark,TBSSpec,2022/10/31
+MGP Champs 2022 sports track,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
+MGP Ice Rink Race 2022,Empty Scene Day,79,67.115,Smurf47akaUlrik,Denmark,TBSSpec,2022/05/05
+MultiGP 2022 Global Qualifier,Dynamic Weather,86,31.404,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/21
 Quad Rivals 2021 Race 10 - 2021 is Dead,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
 Quad Rivals 2021 Race 1 - Season Warmup,Football Stadium,50,51.376,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/23
 Quad Rivals 2021 Race 2 - Season Opener,Empty Scene Day,72,76.182,Smurf47akaUlrik,Denmark,TBSSpec,2021/04/01
@@ -55,97 +57,108 @@ Quad Rivals 2021 Race 6 - Temperature Warning,Empty Scene Day,999,999.999,Smurf4
 Quad Rivals 2021 Race 7 - Around the Trees in 20 Seconds,Empty Scene Day,171,145.762,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/11
 Quad Rivals 2021 Race 8 - Rivalicious,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
 Quad Rivals 2021 Race 9 - Holiday Hootenanny,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
-RCTech.de EU Spec Series 2 Final,Empty Scene Day,51,69.309,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/22
-RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,30,63.524,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/22
-RCTech.de EU Spec Series 2 Race 1,Football Stadium,49,57.239,Smurf47akaUlrik,Denmark,Five33Switchback,2021/02/08
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,56,69.309,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/22
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,31,63.524,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/22
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,51,57.239,Smurf47akaUlrik,Denmark,Five33Switchback,2021/02/08
 RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
 RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,54,68.112,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/23
-RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,19,63.765,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/28
-RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,61,81.440,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/26
-RCTech_de EU Spec Series 3 Final,Empty Scene Day,149,90.918,Smurf47akaUlrik,Denmark,Five33Switchback,2020/04/28
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,20,63.765,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/28
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,65,81.440,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/26
+RCTech_de EU Spec Series 3 Final,Empty Scene Day,154,90.918,Smurf47akaUlrik,Denmark,Five33Switchback,2020/04/28
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,7,51.370,Smurf47akaUlrik,Denmark,Mode2Ghost,2022/01/23
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
-RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,94,93.135,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/01
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,162,121.823,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/01
-RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,23,70.107,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/24
+RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,109,93.135,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/01
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,172,121.823,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/01
+RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,24,70.107,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/24
 ReddingFPVs DroneD,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
-TBS EU Spec Season 5 Race 1,Football Stadium,68,60.682,Smurf47akaUlrik,Denmark,Five33Switchback,2020/07/15
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,32,73.892,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/18
-TBS EU Spec Series 10 Losers Final,Football Stadium,38,54.453,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/10
-TBS EU Spec Series 10 Race 1,Football Stadium,54,62.141,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/06
-TBS EU Spec Series 10 Race 2,Empty Scene Day,43,64.551,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/28
-TBS EU Spec Series 10 Race 3,Night Factory 2,52,71.338,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/20
-TBS EU Spec Series 10 Race 4,Dynamic Weather,47,65.690,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/06
-TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,37,56.981,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/20
+TBS EU Spec Season 5 Race 1,Football Stadium,81,60.682,Smurf47akaUlrik,Denmark,Five33Switchback,2020/07/15
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,35,73.892,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/18
+TBS EU Spec Series 10 Losers Final,Football Stadium,41,54.453,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/10
+TBS EU Spec Series 10 Race 1,Football Stadium,63,62.141,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/06
+TBS EU Spec Series 10 Race 2,Empty Scene Day,46,64.551,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/28
+TBS EU Spec Series 10 Race 3,Night Factory 2,56,71.338,Smurf47akaUlrik,Denmark,TBSSpec,2021/12/20
+TBS EU Spec Series 10 Race 4,Dynamic Weather,51,65.690,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/06
+TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,40,56.981,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/20
 TBS EU Spec Series 10 Race 6,Large Carpark,23,36.612,Smurf47akaUlrik,Denmark,TBSSpec,2022/01/27
-TBS EU Spec Series 10 Race 7,Football Stadium,46,70.780,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/04
-TBS EU Spec Series 11 Final,Dynamic Weather,32,78.475,Smurf47akaUlrik,Denmark,TBSSpec,2022/08/19
-TBS EU Spec Series 11 Race 1,Dynamic Weather,29,62.058,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/03
-TBS EU Spec Series 11 Race 2,Countryside,44,66.475,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/15
-TBS EU Spec Series 11 Race 3,Dynamic Weather,29,66.822,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/25
-TBS EU Spec Series 11 Race 5,Dynamic Weather,40,72.940,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/27
-TBS EU Spec Series 11 Race 5,NEC Birmingham,36,60.898,Smurf47akaUlrik,Denmark,TBSSpec,2022/07/14
-TBS EU Spec Series 11 Race 6,Dynamic Weather,33,64.982,Smurf47akaUlrik,Denmark,TBSSpec,2022/07/14
-TBS EU Spec Series 11 Race 7,Dynamic Weather,147,121.728,Smurf47akaUlrik,Denmark,TBSSpec,2022/08/05
-TBS EU Spec Series 4 FINAL,Dynamic Weather,65,87.384,Smurf47akaUlrik,Denmark,Five33Switchback,2020/07/02
-TBS EU Spec Series 4 Race 2,Empty Scene Day,75,68.014,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/10
-TBS EU Spec Series 4 Race 3,IndoorGoKart,92,117.323,Smurf47akaUlrik,Denmark,CarbiXZero,2020/05/29
-TBS EU Spec Series 4 Race 4,Empty Scene Day,109,90.682,Smurf47akaUlrik,Denmark,CarbiXZero,2020/05/28
-TBS EU Spec Series 4 Race 5,Dynamic Weather,162,109.434,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/12
-TBS EU Spec Series 4 Race 7,Football Stadium,70,73.583,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/21
-TBS EU Spec Series 5 FINAL,Dynamic Weather,98,94.310,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/11
-TBS EU Spec Series 5 Losers Final,Dynamic Weather,22,73.104,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/07
-TBS EU Spec Series 5 Race 3,Dynamic Weather,52,74.592,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/03
-TBS EU Spec Series 5 Race 4,Football Stadium,83,86.113,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/09
-TBS EU Spec Series 5 Race 5,NEC Birmingham,69,75.332,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/12
-TBS EU Spec Series 5 Race 6,Dynamic Weather,37,65.515,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/23
-TBS EU Spec Series 5 Race 7,IndoorGoKart,12,67.473,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/03
-TBS EU Spec Series 6 Final,Empty Scene Day,29,78.239,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/03
-TBS EU Spec Series 6 Losers Final,Football Stadium,16,66.569,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/30
+TBS EU Spec Series 10 Race 7,Football Stadium,50,70.780,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/04
+TBS EU Spec Series 11 Final,Dynamic Weather,36,78.475,Smurf47akaUlrik,Denmark,TBSSpec,2022/08/19
+TBS EU Spec Series 11 Race 1,Dynamic Weather,44,62.058,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/03
+TBS EU Spec Series 11 Race 2,Countryside,50,66.475,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/15
+TBS EU Spec Series 11 Race 3,Dynamic Weather,31,66.822,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/25
+TBS EU Spec Series 11 Race 5,Dynamic Weather,43,72.940,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/27
+TBS EU Spec Series 11 Race 5,NEC Birmingham,37,60.898,Smurf47akaUlrik,Denmark,TBSSpec,2022/07/14
+TBS EU Spec Series 11 Race 6,Dynamic Weather,38,64.982,Smurf47akaUlrik,Denmark,TBSSpec,2022/07/14
+TBS EU Spec Series 11 Race 7,Dynamic Weather,172,121.728,Smurf47akaUlrik,Denmark,TBSSpec,2022/08/05
+TBS EU Spec Series 12 Final,Dynamic Weather,138,190.715,Smurf47akaUlrik,Denmark,TBSSpec,2023/02/24
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,64,94.476,Smurf47akaUlrik,Denmark,TBSSpec,2023/02/18
+TBS EU Spec Series 12 Race 1,Dynamic Weather,999,999.999,Smurf47akaUlrik,NO_DATA
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999,999.999,Smurf47akaUlrik,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,121,99.200,Smurf47akaUlrik,Denmark,Chief,2023/01/07
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,Smurf47akaUlrik,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,45,77.491,Smurf47akaUlrik,Denmark,Chief,2023/01/25
+TBS EU Spec Series 12 Race 6,Dynamic Weather,65,70.002,Smurf47akaUlrik,Denmark,TBSSpec,2023/01/24
+TBS EU Spec Series 12 Race 7,Dynamic Weather,24,73.196,Smurf47akaUlrik,Denmark,TBSSpec,2023/01/28
+TBS EU Spec Series 13 Race 1,Dynamic Weather,74,82.591,Smurf47akaUlrik,Denmark,TBSSpec,2023/05/02
+TBS EU Spec Series 13 - Race 2,Factory,30,54.733,Smurf47akaUlrik,Denmark,TBSSpec,2023/05/05
+TBS EU Spec Series 4 FINAL,Dynamic Weather,66,87.384,Smurf47akaUlrik,Denmark,Five33Switchback,2020/07/02
+TBS EU Spec Series 4 Race 2,Empty Scene Day,81,68.014,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/10
+TBS EU Spec Series 4 Race 3,IndoorGoKart,105,117.323,Smurf47akaUlrik,Denmark,CarbiXZero,2020/05/29
+TBS EU Spec Series 4 Race 4,Empty Scene Day,115,90.682,Smurf47akaUlrik,Denmark,CarbiXZero,2020/05/28
+TBS EU Spec Series 4 Race 5,Dynamic Weather,166,109.434,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/12
+TBS EU Spec Series 4 Race 7,Football Stadium,74,73.583,Smurf47akaUlrik,Denmark,Five33Switchback,2020/06/21
+TBS EU Spec Series 5 FINAL,Dynamic Weather,101,94.310,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/11
+TBS EU Spec Series 5 Losers Final,Dynamic Weather,23,73.104,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/07
+TBS EU Spec Series 5 Race 3,Dynamic Weather,59,74.592,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/03
+TBS EU Spec Series 5 Race 4,Football Stadium,85,86.113,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/09
+TBS EU Spec Series 5 Race 5,NEC Birmingham,74,75.332,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/12
+TBS EU Spec Series 5 Race 6,Dynamic Weather,38,65.515,Smurf47akaUlrik,Denmark,Five33Switchback,2020/08/23
+TBS EU Spec Series 5 Race 7,IndoorGoKart,13,67.473,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/03
+TBS EU Spec Series 6 Final,Empty Scene Day,31,78.239,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/03
+TBS EU Spec Series 6 Losers Final,Football Stadium,19,66.569,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/30
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,20,65.299,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/25
-TBS EU Spec Series 6 Race 2,Empty Scene Day,42,69.808,Smurf47akaUlrik,Denmark,Five33Switchback,2020/10/03
-TBS EU Spec Series 6 Race 4,NEC Birmingham,43,67.975,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/02
-TBS EU Spec Series 6 Race 5,Dynamic Weather,62,85.953,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/05
-TBS EU Spec Series 6 Race 6,Empty Scene Day,101,81.905,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/07
-TBS EU Spec Series 6 Race 7,Empty Scene Day,45,56.891,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/12
+TBS EU Spec Series 6 Race 2,Empty Scene Day,47,69.808,Smurf47akaUlrik,Denmark,Five33Switchback,2020/10/03
+TBS EU Spec Series 6 Race 4,NEC Birmingham,46,67.975,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/02
+TBS EU Spec Series 6 Race 5,Dynamic Weather,65,85.953,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/05
+TBS EU Spec Series 6 Race 6,Empty Scene Day,106,81.905,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/07
+TBS EU Spec Series 6 Race 7,Empty Scene Day,50,56.891,Smurf47akaUlrik,Denmark,TBSSpec,2022/04/12
 TBS EU Spec Series 7 Final,Empty Scene Day,62,74.384,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/07
 TBS EU Spec Series 7 Race 1,Football Stadium,33,66.911,Smurf47akaUlrik,Denmark,Five33Switchback,2021/01/12
 TBS EU Spec Series 7 Race 2,Empty Scene Day,32,67.328,Smurf47akaUlrik,Denmark,Five33Switchback,2021/01/16
-TBS EU Spec Series 7 Race 3,Empty Scene Day,30,69.237,Smurf47akaUlrik,Denmark,Five33Switchback,2021/01/23
+TBS EU Spec Series 7 Race 3,Empty Scene Day,32,69.237,Smurf47akaUlrik,Denmark,Five33Switchback,2021/01/23
 TBS EU Spec Series 7 Race 4,Empty Scene Day,68,70.640,Smurf47akaUlrik,Denmark,Five33Switchback,2021/02/02
-TBS EU Spec Series 7 Race 5,IndoorGoKart,67,73.802,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/04
-TBS EU Spec Series 7 Race 6,Future Hangar Empty,64,71.904,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/11
-TBS EU Spec Series 7 Race 7,Empty Scene Day,60,77.606,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/19
+TBS EU Spec Series 7 Race 5,IndoorGoKart,76,73.802,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/04
+TBS EU Spec Series 7 Race 6,Future Hangar Empty,66,71.904,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/11
+TBS EU Spec Series 7 Race 7,Empty Scene Day,64,77.606,Smurf47akaUlrik,Denmark,TBSSpec,2021/02/19
 TBS EU Spec Series 8 Final,Dynamic Weather,49,78.573,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/05
-TBS EU Spec Series 8 Losers Final,Dynamic Weather,54,61.155,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/01
-TBS EU Spec Series 8 Race 1,Dynamic Weather,64,79.022,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/18
+TBS EU Spec Series 8 Losers Final,Dynamic Weather,61,61.155,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/01
+TBS EU Spec Series 8 Race 1,Dynamic Weather,70,79.022,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/18
 TBS EU Spec Series 8 Race 2,Empty Scene Night,50,76.716,Smurf47akaUlrik,Denmark,TBSSpec,2021/03/25
-TBS EU Spec Series 8 Race 3,Football Stadium,59,62.241,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/05
-TBS EU Spec Series 8 Race 4,Empty Scene Day,65,77.943,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/07
+TBS EU Spec Series 8 Race 3,Football Stadium,62,62.241,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/05
+TBS EU Spec Series 8 Race 4,Empty Scene Day,71,77.943,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/07
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,47,58.891,Smurf47akaUlrik,Denmark,TBSSpec,2021/05/28
 TBS EU Spec Series 8 Race 6,Football Stadium,59,65.801,Smurf47akaUlrik,Denmark,TBSSpec,2021/06/14
-TBS EU Spec Series 8 Race 7,Empty Scene Day,81,78.121,Smurf47akaUlrik,Denmark,TBSSpec,2021/06/15
-TBS EU Spec Series 9 Final,Dynamic Weather,83,67.462,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/15
-TBS EU Spec Series 9 Losers Final,Dynamic Weather,63,67.600,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/11
-TBS EU Spec Series 9 Race 1,Football Stadium,60,58.586,Smurf47akaUlrik,Denmark,TBSSpec,2021/09/15
-TBS EU Spec Series 9 Race 2,Dynamic Weather,105,63.606,Smurf47akaUlrik,Denmark,TBSSpec,2021/09/19
-TBS EU Spec Series 9 Race 3,Empty Scene Day,61,62.120,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/02
-TBS EU Spec Series 9 Race 4,Football Stadium,76,72.759,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/10
-TBS EU Spec Series 9 Race 5,Empty Scene Day,107,73.642,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/10
-TBS EU Spec Series 9 Race 6,Empty Scene Day,49,69.225,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/21
+TBS EU Spec Series 8 Race 7,Empty Scene Day,91,78.121,Smurf47akaUlrik,Denmark,TBSSpec,2021/06/15
+TBS EU Spec Series 9 Final,Dynamic Weather,84,67.462,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/15
+TBS EU Spec Series 9 Losers Final,Dynamic Weather,65,67.600,Smurf47akaUlrik,Denmark,TBSSpec,2021/11/11
+TBS EU Spec Series 9 Race 1,Football Stadium,61,58.586,Smurf47akaUlrik,Denmark,TBSSpec,2021/09/15
+TBS EU Spec Series 9 Race 2,Dynamic Weather,109,63.606,Smurf47akaUlrik,Denmark,TBSSpec,2021/09/19
+TBS EU Spec Series 9 Race 3,Empty Scene Day,67,62.120,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/02
+TBS EU Spec Series 9 Race 4,Football Stadium,45,67.447,Smurf47akaUlrik,Denmark,TBSSpec,2023/02/18
+TBS EU Spec Series 9 Race 5,Empty Scene Day,125,73.642,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/10
+TBS EU Spec Series 9 Race 6,Empty Scene Day,55,69.225,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/21
 TBS EU Spec Series 9 Race 7,NEC Birmingham,45,66.023,Smurf47akaUlrik,Denmark,TBSSpec,2021/10/28
 TDRF 2022 Outdoor NK track 1,Empty Scene Day,99,147.152,Smurf47akaUlrik,Denmark,TBSSpec,2022/06/27
 TDRF Dutch nationals indoor race 1,Empty Scene Day,20,61.120,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/17
 TDRF Dutch nationals indoor race 2,Empty Scene Day,999,999.999,Smurf47akaUlrik,NO_DATA
 TDRF Dutch nationals indoor race 3,Empty Scene Day,9,55.266,Smurf47akaUlrik,Denmark,TwigXL3,2022/03/03
 TDRF Dutch nationals indoor race 4,Empty Scene Day,10,44.175,Smurf47akaUlrik,Denmark,TwigXL3,2022/03/29
-VRL 7 Race 4,Dynamic Weather,124,99.177,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/27
-VRL 7 Track 1,Future Hangar,196,128.123,Smurf47akaUlrik,Denmark,TBSSpec,2021/07/20
+VRL 7 Race 4,Dynamic Weather,133,99.177,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/27
+VRL 7 Track 1,Future Hangar,999,999.999,Smurf47akaUlrik,NO_DATA
 VRL 7 Track 2,Future Hangar Empty,999,999.999,Smurf47akaUlrik,NO_DATA
-VRL 7 Track 3,Dynamic Weather,130,91.016,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/21
-VRL 7 Track 5,Dynamic Weather,93,88.143,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/20
-VRL 7 Track 6,Dynamic Weather,137,89.759,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/20
-VRL7 Tryouts,Future Hangar Empty,140,98.912,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/14
+VRL 7 Track 3,Dynamic Weather,140,91.016,Smurf47akaUlrik,Denmark,Five33Switchback,2020/11/21
+VRL 7 Track 5,Dynamic Weather,97,88.143,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/20
+VRL 7 Track 6,Dynamic Weather,142,89.759,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/20
+VRL7 Tryouts,Future Hangar Empty,143,98.912,Smurf47akaUlrik,Denmark,Five33Switchback,2020/09/14
 VRL Season 7 Championships,Dynamic Weather,68,103.567,Smurf47akaUlrik,Denmark,Five33Switchback,2020/12/28
 Week 10 TT - MCKPractice2,Football Stadium,45,52.668,Smurf47akaUlrik,Denmark,TwigXL3,2022/01/05
 Week 12 TT - GQ22 by Chris M,Football Stadium,70,35.709,Smurf47akaUlrik,Denmark,TBSSpec,2022/02/11

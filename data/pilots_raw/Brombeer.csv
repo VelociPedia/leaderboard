@@ -4,19 +4,19 @@ DDR Race Series - Track 3 by Straydog fpv feb,Empty Scene Day,76.960,Brombeer,Ne
 DDR Race Series - Track 4 by Boner fpv march,Empty Scene Day,76.850,Brombeer,Netherlands,SniperX,2022/03/02
 DDR Race Series - Track 5 by NelisFPV fpv april,Empty Scene Day,66.476,Brombeer,Netherlands,SniperX,2022/04/05
 DEP Open Pop-Up 2,Dynamic Weather,999.999,Brombeer,NO_DATA
-DEP Open Series 2 Race 1,Dynamic Weather,72.972,Brombeer,Netherlands,Five33Switchback,2021/08/08
+DEP Open Series 2 Race 1,Dynamic Weather,999.999,Brombeer,NO_DATA
 DEP Open Series 2 Race 7,Football Stadium,102.492,Brombeer,Netherlands,Five33Switchback,2021/03/28
 DEP Open Series 3 Race 1,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 3 Race 2,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 3 Race 3,Karting Track,999.999,Brombeer,NO_DATA
 DEP Open Series 3 Race 4,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 3 Race 5,Football Stadium,999.999,Brombeer,NO_DATA
-DEP Open Series 3 Race 6,Football Stadium,143.585,Brombeer,Netherlands,Five33Switchback,2021/03/16
+DEP Open Series 3 Race 6,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 3 Race 7,Football Stadium,103.517,Brombeer,Netherlands,Five33Switchback,2021/03/28
 DEP Open Series 4 Race 1,Football Stadium,99.288,Brombeer,Netherlands,Five33Switchback,2021/04/03
-DEP Open Series 4 Race 2,Football Stadium,137.306,Brombeer,Netherlands,Five33Switchback,2021/04/11
+DEP Open Series 4 Race 2,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 4 Race 3,Football Stadium,999.999,Brombeer,NO_DATA
-DEP Open Series 4 Race 4,Football Stadium,137.786,Brombeer,Netherlands,Five33Switchback,2021/04/24
+DEP Open Series 4 Race 4,Football Stadium,999.999,Brombeer,NO_DATA
 DEP Open Series 4 Race 5,Football Stadium,79.032,Brombeer,Netherlands,SniperX,2021/12/20
 DEP Open Series 4 Race 6,Football Stadium,90.792,Brombeer,Netherlands,Five33Switchback,2021/05/17
 DEP Open Series 4 Race 7,Football Stadium,999.999,Brombeer,NO_DATA
@@ -66,7 +66,7 @@ TBS EU Spec Series 10 Race 2,Empty Scene Day,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 10 Race 3,Night Factory 2,94.252,Brombeer,Netherlands,SniperX,2021/12/18
 TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,82.197,Brombeer,Netherlands,SniperX,2022/01/24
-TBS EU Spec Series 10 Race 6,Large Carpark,92.601,Brombeer,Netherlands,SniperX,2022/01/28
+TBS EU Spec Series 10 Race 6,Large Carpark,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,75.416,Brombeer,Netherlands,SniperX,2022/02/07
 TBS EU Spec Series 11 Final,Dynamic Weather,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,Brombeer,NO_DATA
@@ -116,11 +116,11 @@ TBS EU Spec Series 8 Race 6,Football Stadium,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 8 Race 7,Empty Scene Day,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 9 Final,Dynamic Weather,78.007,Brombeer,Netherlands,Five33Switchback,2021/11/13
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,75.273,Brombeer,Netherlands,Five33Switchback,2021/11/14
-TBS EU Spec Series 9 Race 1,Football Stadium,79.287,Brombeer,Netherlands,Five33Switchback,2021/09/18
+TBS EU Spec Series 9 Race 1,Football Stadium,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 9 Race 3,Empty Scene Day,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 9 Race 4,Football Stadium,97.557,Brombeer,Netherlands,Five33Switchback,2021/11/14
-TBS EU Spec Series 9 Race 5,Empty Scene Day,90.920,Brombeer,Netherlands,Five33Switchback,2021/11/14
+TBS EU Spec Series 9 Race 5,Empty Scene Day,999.999,Brombeer,NO_DATA
 TBS EU Spec Series 9 Race 6,Empty Scene Day,95.879,Brombeer,Netherlands,Five33Switchback,2021/10/24
 TBS EU Spec Series 9 Race 7,NEC Birmingham,90.905,Brombeer,Netherlands,Five33Switchback,2021/11/14
 TDRF 2022 Outdoor NK track 1,Empty Scene Day,87.214,Brombeer,Netherlands,SniperX,2022/06/25
@@ -139,7 +139,7 @@ VRL6 Tunnel Vision,Dynamic Weather,226.496,Brombeer,Netherlands,Mode2Ghost,2020/
 VRL 7 Race 4,Dynamic Weather,999.999,Brombeer,NO_DATA
 VRL 7 Track 1,Future Hangar,124.142,Brombeer,Netherlands,Five33Switchback,2021/04/03
 VRL 7 Track 2,Future Hangar Empty,154.621,Brombeer,Netherlands,Five33Switchback,2021/04/03
-VRL 7 Track 3,Dynamic Weather,109.984,Brombeer,Netherlands,Five33Switchback,2020/11/28
+VRL 7 Track 3,Dynamic Weather,999.999,Brombeer,NO_DATA
 VRL 7 Track 5,Dynamic Weather,999.999,Brombeer,NO_DATA
 VRL 7 Track 6,Dynamic Weather,999.999,Brombeer,NO_DATA
 VRL7 Tryouts,Future Hangar Empty,999.999,Brombeer,NO_DATA
@@ -149,6 +149,15 @@ VRL S5 TRACK 2,Dynamic Weather,135.539,Brombeer,Netherlands,TBSSpec,2020/06/10
 VRL S5 TRACK 3,Bando,197.258,Brombeer,Netherlands,TBSSpec,2020/06/10
 VRL S5 TRACK 4,Empty Scene Day,999.999,Brombeer,NO_DATA
 VRL S5 TRACK 5,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 FINALS,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,Brombeer,NO_DATA
+VRL S9 T6,Dynamic Weather,175.599,Brombeer,Netherlands,Five33Switchback,2023/03/09
+VRL S9 T7,Dynamic Weather,139.480,Brombeer,Netherlands,Five33Switchback,2023/03/14
+VRL S9 T8,Dynamic Weather,177.024,Brombeer,Netherlands,Five33Switchback,2023/03/16
 VRL Season 3 Track 1,Empty Scene Day,76.215,Brombeer,Netherlands,Five33Switchback,2020/10/03
 VRL Season 3 Track 2,Empty Scene Day,78.443,Brombeer,Netherlands,TBSSpec,2020/06/10
 VRL Season 3 Track 3,Empty Scene Day,101.591,Brombeer,Netherlands,TBSSpec,2020/06/10
@@ -179,3 +188,4 @@ VRL Season 8 Track 5,Dynamic Weather,199.268,Brombeer,Netherlands,SniperX,2021/1
 VRL Season 8 Track 6,Night Factory 2,170.944,Brombeer,Netherlands,SniperX,2022/01/11
 VRL SEASON 8 TRACK 7,Dynamic Weather,129.261,Brombeer,Netherlands,SniperX,2022/01/28
 VRL SEASON 8 TRYOUTS,RedValley,999.999,Brombeer,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,Brombeer,NO_DATA

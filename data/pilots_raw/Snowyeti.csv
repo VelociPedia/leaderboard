@@ -17,7 +17,7 @@ RCTech_de EU Spec Series 3 Final,Empty Scene Day,999.999,Snowyeti,NO_DATA
 RCTech.de EU Spec Series 3 Race 1,NEC Birmingham,67.791,Snowyeti,Norway,TBSSpec,2022/05/22
 RCTech.de EU Spec Series 3 Race 2,Empty Scene Day,78.247,Snowyeti,Norway,TBSSpec,2022/05/22
 RCTech.de EU Spec Series 3 Race 3,Empty Scene Day,100.431,Snowyeti,Norway,MadLite,2021/08/25
-RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,130.590,Snowyeti,Norway,TBSSpec,2020/04/12
+RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999.999,Snowyeti,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,98.188,Snowyeti,Norway,TBSSpec,2021/08/25
 TBS EU Spec Season 5 Race 1,Football Stadium,66.761,Snowyeti,Norway,TBSSpec,2022/02/11
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,999.999,Snowyeti,NO_DATA
@@ -37,6 +37,17 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Race 1,Dynamic Weather,96.304,Snowyeti,Norway,TBSSpec,2022/12/20
+TBS EU Spec Series 12 Race 2,NEC Birmingham,90.476,Snowyeti,Norway,TBSSpec,2022/12/20
+TBS EU Spec Series 12 Race 3,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Race 4,Night Factory 2,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Race 6,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 12 Race 7,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 13 Race 1,Dynamic Weather,999.999,Snowyeti,NO_DATA
+TBS EU Spec Series 13 - Race 2,Factory,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 4 FINAL,Dynamic Weather,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 4 Race 2,Empty Scene Day,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 4 Race 3,IndoorGoKart,999.999,Snowyeti,NO_DATA
@@ -46,7 +57,7 @@ TBS EU Spec Series 4 Race 7,Football Stadium,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 5 FINAL,Dynamic Weather,101.519,Snowyeti,Norway,TBSSpec,2022/02/11
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,84.973,Snowyeti,Norway,TBSSpec,2021/02/20
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999.999,Snowyeti,NO_DATA
-TBS EU Spec Series 5 Race 4,Football Stadium,108.971,Snowyeti,Norway,TBSSpec,2021/08/26
+TBS EU Spec Series 5 Race 4,Football Stadium,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 5 Race 6,Dynamic Weather,999.999,Snowyeti,NO_DATA
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999.999,Snowyeti,NO_DATA

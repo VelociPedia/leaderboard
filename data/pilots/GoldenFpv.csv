@@ -4,15 +4,15 @@
 2022 MultiGP IO Intermediate,Dynamic Weather,176,67.968,GoldenFpv,Israel,Five33Switchback,2022/05/28
 2022 MultiGP IO Team,Dynamic Weather,93,65.391,GoldenFpv,Israel,Five33Switchback,2022/05/29
 2022 MultiGP IO World Cup,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
-DEP Open Series 5 Race 1,Football Stadium,96,68.051,GoldenFpv,Israel,Five33Switchback,2021/12/19
-DEP Open Series 5 Race 2,Football Stadium,97,87.617,GoldenFpv,Israel,BMSJS-1,2021/10/31
-DEP Open Series 5 Race 3,Football Stadium,62,84.521,GoldenFpv,Israel,BMSJS-1,2021/11/27
-DEP Open Series 5 Race 4,Football Stadium,80,93.060,GoldenFpv,Israel,BMSJS-1,2021/11/27
-DEP Open Series 5 Race 5,Football Stadium,85,97.890,GoldenFpv,Israel,BMSJS-1,2021/12/08
+DEP Open Series 5 Race 1,Football Stadium,117,68.051,GoldenFpv,Israel,Five33Switchback,2021/12/19
+DEP Open Series 5 Race 2,Football Stadium,109,87.617,GoldenFpv,Israel,BMSJS-1,2021/10/31
+DEP Open Series 5 Race 3,Football Stadium,69,84.521,GoldenFpv,Israel,BMSJS-1,2021/11/27
+DEP Open Series 5 Race 4,Football Stadium,103,93.060,GoldenFpv,Israel,BMSJS-1,2021/11/27
+DEP Open Series 5 Race 5,Football Stadium,98,97.890,GoldenFpv,Israel,BMSJS-1,2021/12/08
 DEP Open Series 5 Race 6,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 DEP Open Series 5 Race 7,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 DF5,Football Stadium,999,999.999,GoldenFpv,NO_DATA
-EU Spec Season 4 Race 1,Football Stadium,103,92.372,GoldenFpv,Israel,Five33Switchback,2021/12/16
+EU Spec Season 4 Race 1,Football Stadium,108,92.372,GoldenFpv,Israel,Five33Switchback,2021/12/16
 Mayhem 22 by SFPV,Empty Scene Day,156,91.383,GoldenFpv,Israel,Five33Switchback,2022/04/06
 MGP Ice Rink Race 2022,Empty Scene Day,126,83.250,GoldenFpv,Israel,Five33Switchback,2022/05/07
 MultiGP 2022 Global Qualifier,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
@@ -45,15 +45,15 @@ RCTech.de EU Spec Series 3 Race 5,Empty Scene Day,999,999.999,GoldenFpv,NO_DATA
 RCTech.de EU Spec Series 3 Race 6,NEC Birmingham,999,999.999,GoldenFpv,NO_DATA
 ReddingFPVs DroneD,Dynamic Weather,33,133.007,GoldenFpv,Israel,Five33Switchback,2022/06/02
 TBS EU Spec Season 5 Race 1,Football Stadium,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,76,81.290,GoldenFpv,Israel,Five33Switchback,2022/02/26
-TBS EU Spec Series 10 Losers Final,Football Stadium,115,64.877,GoldenFpv,Israel,Five33Switchback,2022/02/17
-TBS EU Spec Series 10 Race 1,Football Stadium,138,77.201,GoldenFpv,Israel,Five33Switchback,2022/01/20
-TBS EU Spec Series 10 Race 2,Empty Scene Day,97,75.114,GoldenFpv,Israel,Five33Switchback,2022/01/19
-TBS EU Spec Series 10 Race 3,Night Factory 2,45,69.572,GoldenFpv,Israel,Five33Switchback,2022/01/27
-TBS EU Spec Series 10 Race 4,Dynamic Weather,60,67.325,GoldenFpv,Israel,Five33Switchback,2022/01/20
+TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,90,81.290,GoldenFpv,Israel,Five33Switchback,2022/02/26
+TBS EU Spec Series 10 Losers Final,Football Stadium,136,64.877,GoldenFpv,Israel,Five33Switchback,2022/02/17
+TBS EU Spec Series 10 Race 1,Football Stadium,161,77.201,GoldenFpv,Israel,Five33Switchback,2022/01/20
+TBS EU Spec Series 10 Race 2,Empty Scene Day,106,75.114,GoldenFpv,Israel,Five33Switchback,2022/01/19
+TBS EU Spec Series 10 Race 3,Night Factory 2,49,69.572,GoldenFpv,Israel,Five33Switchback,2022/01/27
+TBS EU Spec Series 10 Race 4,Dynamic Weather,65,67.325,GoldenFpv,Israel,Five33Switchback,2022/01/20
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 10 Race 7,Football Stadium,45,69.977,GoldenFpv,Israel,Five33Switchback,2022/04/03
+TBS EU Spec Series 10 Race 7,Football Stadium,48,69.977,GoldenFpv,Israel,Five33Switchback,2022/04/03
 TBS EU Spec Series 11 Final,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 11 Race 1,Dynamic Weather,73,73.382,GoldenFpv,Israel,Five33Switchback,2022/05/30
 TBS EU Spec Series 11 Race 2,Countryside,999,999.999,GoldenFpv,NO_DATA
@@ -62,12 +62,12 @@ TBS EU Spec Series 11 Race 5,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 11 Race 6,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 4 FINAL,Dynamic Weather,72,88.116,GoldenFpv,Israel,Five33Switchback,2022/01/03
-TBS EU Spec Series 4 Race 2,Empty Scene Day,124,73.758,GoldenFpv,Israel,Five33Switchback,2022/01/11
-TBS EU Spec Series 4 Race 3,IndoorGoKart,59,107.735,GoldenFpv,Israel,Five33Switchback,2021/12/26
-TBS EU Spec Series 4 Race 4,Empty Scene Day,122,93.075,GoldenFpv,Israel,Five33Switchback,2021/12/24
-TBS EU Spec Series 4 Race 5,Dynamic Weather,90,95.293,GoldenFpv,Israel,Five33Switchback,2021/12/23
-TBS EU Spec Series 4 Race 7,Football Stadium,179,86.465,GoldenFpv,Israel,BMSJS-1,2021/10/05
+TBS EU Spec Series 4 FINAL,Dynamic Weather,73,88.116,GoldenFpv,Israel,Five33Switchback,2022/01/03
+TBS EU Spec Series 4 Race 2,Empty Scene Day,131,73.758,GoldenFpv,Israel,Five33Switchback,2022/01/11
+TBS EU Spec Series 4 Race 3,IndoorGoKart,65,107.735,GoldenFpv,Israel,Five33Switchback,2021/12/26
+TBS EU Spec Series 4 Race 4,Empty Scene Day,128,93.075,GoldenFpv,Israel,Five33Switchback,2021/12/24
+TBS EU Spec Series 4 Race 5,Dynamic Weather,94,95.293,GoldenFpv,Israel,Five33Switchback,2021/12/23
+TBS EU Spec Series 4 Race 7,Football Stadium,187,86.465,GoldenFpv,Israel,BMSJS-1,2021/10/05
 TBS EU Spec Series 5 FINAL,Dynamic Weather,128,100.283,GoldenFpv,Israel,Five33Switchback,2021/12/26
 TBS EU Spec Series 5 Losers Final,Dynamic Weather,123,94.583,GoldenFpv,Israel,Five33Switchback,2022/02/27
 TBS EU Spec Series 5 Race 3,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
@@ -75,14 +75,14 @@ TBS EU Spec Series 5 Race 4,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 5 Race 5,NEC Birmingham,95,80.877,GoldenFpv,Israel,Five33Switchback,2022/01/05
 TBS EU Spec Series 5 Race 6,Dynamic Weather,166,87.895,GoldenFpv,Israel,Five33Switchback,2021/12/26
 TBS EU Spec Series 5 Race 7,IndoorGoKart,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 6 Final,Empty Scene Day,116,90.630,GoldenFpv,Israel,Five33Switchback,2022/01/05
+TBS EU Spec Series 6 Final,Empty Scene Day,124,90.630,GoldenFpv,Israel,Five33Switchback,2022/01/05
 TBS EU Spec Series 6 Losers Final,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 6 Race 1,Future Hangar Empty,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 6 Race 2,Empty Scene Day,135,77.323,GoldenFpv,Israel,Five33Switchback,2022/01/11
-TBS EU Spec Series 6 Race 4,NEC Birmingham,125,90.367,GoldenFpv,Israel,Five33Switchback,2022/02/11
-TBS EU Spec Series 6 Race 5,Dynamic Weather,76,88.639,GoldenFpv,Israel,Five33Switchback,2022/03/20
-TBS EU Spec Series 6 Race 6,Empty Scene Day,69,78.759,GoldenFpv,Israel,Five33Switchback,2022/01/18
-TBS EU Spec Series 6 Race 7,Empty Scene Day,139,63.237,GoldenFpv,Israel,Five33Switchback,2022/03/21
+TBS EU Spec Series 6 Race 2,Empty Scene Day,141,77.323,GoldenFpv,Israel,Five33Switchback,2022/01/11
+TBS EU Spec Series 6 Race 4,NEC Birmingham,142,90.367,GoldenFpv,Israel,Five33Switchback,2022/02/11
+TBS EU Spec Series 6 Race 5,Dynamic Weather,78,88.639,GoldenFpv,Israel,Five33Switchback,2022/03/20
+TBS EU Spec Series 6 Race 6,Empty Scene Day,72,78.759,GoldenFpv,Israel,Five33Switchback,2022/01/18
+TBS EU Spec Series 6 Race 7,Empty Scene Day,146,63.237,GoldenFpv,Israel,Five33Switchback,2022/03/21
 TBS EU Spec Series 7 Final,Empty Scene Day,146,85.757,GoldenFpv,Israel,Five33Switchback,2022/01/28
 TBS EU Spec Series 7 Race 1,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 7 Race 2,Empty Scene Day,999,999.999,GoldenFpv,NO_DATA
@@ -91,24 +91,24 @@ TBS EU Spec Series 7 Race 4,Empty Scene Day,172,81.054,GoldenFpv,Israel,Five33Sw
 TBS EU Spec Series 7 Race 5,IndoorGoKart,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 7 Race 6,Future Hangar Empty,119,80.702,GoldenFpv,Israel,Five33Switchback,2022/02/12
 TBS EU Spec Series 7 Race 7,Empty Scene Day,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 8 Final,Dynamic Weather,160,108.760,GoldenFpv,Israel,Five33Switchback,2022/02/12
+TBS EU Spec Series 8 Final,Dynamic Weather,169,108.760,GoldenFpv,Israel,Five33Switchback,2022/02/12
 TBS EU Spec Series 8 Losers Final,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 8 Race 1,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 8 Race 2,Empty Scene Night,78,82.424,GoldenFpv,Israel,Five33Switchback,2022/04/08
-TBS EU Spec Series 8 Race 3,Football Stadium,149,74.564,GoldenFpv,Israel,BMSJS-1,2021/09/19
+TBS EU Spec Series 8 Race 2,Empty Scene Night,81,82.424,GoldenFpv,Israel,Five33Switchback,2022/04/08
+TBS EU Spec Series 8 Race 3,Football Stadium,162,74.564,GoldenFpv,Israel,BMSJS-1,2021/09/19
 TBS EU Spec Series 8 Race 4,Empty Scene Day,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 8 Race 5,Future Hangar Empty,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 8 Race 6,Football Stadium,144,78.726,GoldenFpv,Israel,BMSJS-1,2021/09/18
-TBS EU Spec Series 8 Race 7,Empty Scene Day,142,87.469,GoldenFpv,Israel,Five33Switchback,2022/04/08
-TBS EU Spec Series 9 Final,Dynamic Weather,127,75.489,GoldenFpv,Israel,BMSJS-1,2021/11/23
+TBS EU Spec Series 8 Race 6,Football Stadium,155,78.726,GoldenFpv,Israel,BMSJS-1,2021/09/18
+TBS EU Spec Series 8 Race 7,Empty Scene Day,162,87.469,GoldenFpv,Israel,Five33Switchback,2022/04/08
+TBS EU Spec Series 9 Final,Dynamic Weather,134,75.489,GoldenFpv,Israel,BMSJS-1,2021/11/23
 TBS EU Spec Series 9 Losers Final,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 9 Race 1,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 TBS EU Spec Series 9 Race 2,Dynamic Weather,999,999.999,GoldenFpv,NO_DATA
-TBS EU Spec Series 9 Race 3,Empty Scene Day,130,73.180,GoldenFpv,Israel,Five33Switchback,2022/01/14
-TBS EU Spec Series 9 Race 4,Football Stadium,151,91.070,GoldenFpv,Israel,BMSJS-1,2021/10/02
-TBS EU Spec Series 9 Race 5,Empty Scene Day,129,76.631,GoldenFpv,Israel,BMSJS-1,2021/10/10
-TBS EU Spec Series 9 Race 6,Empty Scene Day,81,74.937,GoldenFpv,Israel,BMSJS-1,2021/10/31
-TBS EU Spec Series 9 Race 7,NEC Birmingham,86,76.974,GoldenFpv,Israel,BMSJS-1,2021/10/31
+TBS EU Spec Series 9 Race 3,Empty Scene Day,142,73.180,GoldenFpv,Israel,Five33Switchback,2022/01/14
+TBS EU Spec Series 9 Race 4,Football Stadium,171,91.070,GoldenFpv,Israel,BMSJS-1,2021/10/02
+TBS EU Spec Series 9 Race 5,Empty Scene Day,153,76.631,GoldenFpv,Israel,BMSJS-1,2021/10/10
+TBS EU Spec Series 9 Race 6,Empty Scene Day,93,74.937,GoldenFpv,Israel,BMSJS-1,2021/10/31
+TBS EU Spec Series 9 Race 7,NEC Birmingham,89,76.974,GoldenFpv,Israel,BMSJS-1,2021/10/31
 Week 10 TT - MCKPractice2,Football Stadium,200,85.728,GoldenFpv,Israel,Five33Switchback,2022/01/02
 Week 12 TT - GQ22 by Chris M,Football Stadium,999,999.999,GoldenFpv,NO_DATA
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,29,140.359,GoldenFpv,Israel,Five33Switchback,2022/02/28

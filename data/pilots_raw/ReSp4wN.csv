@@ -157,6 +157,15 @@ VRL S5 TRACK 2,Dynamic Weather,118.012,ReSp4wN,Netherlands,TBSSpec,2020/04/06
 VRL S5 TRACK 3,Bando,112.432,ReSp4wN,Netherlands,TBSSpec,2020/04/28
 VRL S5 TRACK 4,Empty Scene Day,86.567,ReSp4wN,Netherlands,TBSSpec,2020/04/12
 VRL S5 TRACK 5,Dynamic Weather,124.370,ReSp4wN,Netherlands,TBSSpec,2020/04/06
+VRL S9 FINALS,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T1,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T2,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T3,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T4,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T5,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T6,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T7,Dynamic Weather,999.999,ReSp4wN,NO_DATA
+VRL S9 T8,Dynamic Weather,999.999,ReSp4wN,NO_DATA
 VRL Season 3 Track 1,Empty Scene Day,89.173,ReSp4wN,Netherlands,TBSSpec,2020/04/12
 VRL Season 3 Track 2,Empty Scene Day,70.802,ReSp4wN,Netherlands,TBSSpec,2020/07/19
 VRL Season 3 Track 3,Empty Scene Day,107.245,ReSp4wN,Netherlands,TBSSpec,2020/04/12
@@ -187,3 +196,4 @@ VRL Season 8 Track 5,Dynamic Weather,999.999,ReSp4wN,NO_DATA
 VRL Season 8 Track 6,Night Factory 2,999.999,ReSp4wN,NO_DATA
 VRL SEASON 8 TRACK 7,Dynamic Weather,999.999,ReSp4wN,NO_DATA
 VRL SEASON 8 TRYOUTS,RedValley,999.999,ReSp4wN,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,ReSp4wN,NO_DATA

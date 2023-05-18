@@ -14,14 +14,23 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,108.035,FreakoutFPV,Switzerland,Five33Switchback,2022/01/30
 TBS EU Spec Series 10 Race 6,Large Carpark,999.999,FreakoutFPV,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,97.281,FreakoutFPV,Switzerland,Five33Switchback,2022/02/08
-TBS EU Spec Series 11 Final,Dynamic Weather,190.982,FreakoutFPV,Switzerland,Five33Switchback,2022/08/24
-TBS EU Spec Series 11 Race 1,Dynamic Weather,116.172,FreakoutFPV,Switzerland,Five33Switchback,2022/08/24
+TBS EU Spec Series 11 Final,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
+TBS EU Spec Series 11 Race 1,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
 TBS EU Spec Series 11 Race 2,Countryside,121.123,FreakoutFPV,Switzerland,Five33Switchback,2022/06/11
 TBS EU Spec Series 11 Race 3,Dynamic Weather,127.002,FreakoutFPV,Switzerland,Five33Switchback,2022/06/28
 TBS EU Spec Series 11 Race 5,Dynamic Weather,112.885,FreakoutFPV,Switzerland,Five33Switchback,2022/06/28
 TBS EU Spec Series 11 Race 5,NEC Birmingham,111.133,FreakoutFPV,Switzerland,Five33Switchback,2022/07/21
 TBS EU Spec Series 11 Race 6,Dynamic Weather,138.200,FreakoutFPV,Switzerland,Five33Switchback,2022/07/21
 TBS EU Spec Series 11 Race 7,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
+TBS EU Spec Series 12 Final,Dynamic Weather,165.211,FreakoutFPV,Switzerland,Five33Switchback,2023/02/18
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,133.809,FreakoutFPV,Switzerland,Five33Switchback,2023/02/11
+TBS EU Spec Series 12 Race 1,Dynamic Weather,140.151,FreakoutFPV,Switzerland,TBSSpec,2023/01/11
+TBS EU Spec Series 12 Race 2,NEC Birmingham,138.580,FreakoutFPV,Switzerland,TBSSpec,2023/01/11
+TBS EU Spec Series 12 Race 3,Dynamic Weather,118.079,FreakoutFPV,Switzerland,TBSSpec,2023/01/11
+TBS EU Spec Series 12 Race 4,Night Factory 2,102.080,FreakoutFPV,Switzerland,TBSSpec,2023/01/11
+TBS EU Spec Series 12 Race 5,Dynamic Weather,108.950,FreakoutFPV,Switzerland,TBSSpec,2023/01/19
+TBS EU Spec Series 12 Race 6,Dynamic Weather,85.768,FreakoutFPV,Switzerland,TBSSpec,2023/01/20
+TBS EU Spec Series 12 Race 7,Dynamic Weather,132.185,FreakoutFPV,Switzerland,TBSSpec,2023/01/26
 Train insane - aircrasher powerloop - MaiOnHigh,Empty Scene Day,60.197,FreakoutFPV,Switzerland,Five33Switchback,2022/01/02
 Train Insane - APEX Training Routine - MaiOnHigh,Empty Scene Day,999.999,FreakoutFPV,NO_DATA
 Train Insane - Corkscrews - MaiOnHigh,Empty Scene Day,45.335,FreakoutFPV,Switzerland,Five33Switchback,2022/01/01
@@ -41,12 +50,22 @@ Train insane - Split-S - MaiOnHigh,Empty Scene Day,24.837,FreakoutFPV,Switzerlan
 Train Insane- Test1 - MaiOnHigh,Empty Scene Day,999.999,FreakoutFPV,NO_DATA
 Train Insane - Tunnels - MaiOnHigh,Empty Scene Day,59.390,FreakoutFPV,Switzerland,Five33Switchback,2022/01/01
 Train insane - wide slalom - MaiOnHigh,Empty Scene Day,31.152,FreakoutFPV,Switzerland,Five33Switchback,2022/01/02
+VRL S9 FINALS,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
+VRL S9 T1,Dynamic Weather,144.473,FreakoutFPV,Switzerland,TBSSpec,2023/01/20
+VRL S9 T2,Dynamic Weather,123.294,FreakoutFPV,Switzerland,TBSSpec,2023/01/31
+VRL S9 T3,Dynamic Weather,114.284,FreakoutFPV,Switzerland,TBSSpec,2023/02/05
+VRL S9 T4,Dynamic Weather,125.411,FreakoutFPV,Switzerland,Five33Switchback,2023/02/18
+VRL S9 T5,Dynamic Weather,141.580,FreakoutFPV,Switzerland,TBSSpec,2023/02/24
+VRL S9 T6,Dynamic Weather,136.258,FreakoutFPV,Switzerland,TBSSpec,2023/03/01
+VRL S9 T7,Dynamic Weather,190.931,FreakoutFPV,Switzerland,TBSSpec,2023/03/08
+VRL S9 T8,Dynamic Weather,999.999,FreakoutFPV,NO_DATA
 VRL Season 8 Championships,Dynamic Weather,160.016,FreakoutFPV,Switzerland,Five33Switchback,2022/02/11
 VRL Season 8 Track 1,Office Complex,375.574,FreakoutFPV,Switzerland,Five33Switchback,2021/12/27
 VRL Season 8 Track 2,Drift Track,186.704,FreakoutFPV,Switzerland,Five33Switchback,2021/11/21
 VRL Season 8 Track 3,Night Factory 2,186.221,FreakoutFPV,Switzerland,Five33Switchback,2022/05/25
 VRL Season 8 Track 4,DynamicPoly,243.996,FreakoutFPV,Switzerland,Five33Switchback,2021/12/11
 VRL Season 8 Track 5,Dynamic Weather,274.746,FreakoutFPV,Switzerland,Five33Switchback,2021/12/22
-VRL Season 8 Track 6,Night Factory 2,999.999,FreakoutFPV,NO_DATA
+VRL Season 8 Track 6,Night Factory 2,226.569,FreakoutFPV,Switzerland,TBSSpec,2023/02/07
 VRL SEASON 8 TRACK 7,Dynamic Weather,160.511,FreakoutFPV,Switzerland,Five33Switchback,2022/01/30
 VRL SEASON 8 TRYOUTS,RedValley,999.999,FreakoutFPV,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,999.999,FreakoutFPV,NO_DATA

@@ -1,4 +1,11 @@
 DF5,Football Stadium,999,999.999,GreenAir,NO_DATA
+RCTech.de EU Spec Series 2 Final,Empty Scene Day,999,999.999,GreenAir,NO_DATA
+RCTech.de EU Spec Series 2 Losers FInal,Empty Scene Day,189,94.710,GreenAir,Switzerland,Five33Switchback,2023/05/15
+RCTech.de EU Spec Series 2 Race 1,Football Stadium,999,999.999,GreenAir,NO_DATA
+RCTech.de EU Spec Series 2 Race 3,Empty Scene Day,122,87.521,GreenAir,Switzerland,Five33Switchback,2023/05/15
+RCTech.de EU Spec Series 2 Race 4,Empty Scene Day,192,93.844,GreenAir,Switzerland,Five33Switchback,2023/05/15
+RCTech.de EU Spec Series 2 Race 5,IndoorGoKart,150,97.260,GreenAir,Switzerland,Five33Switchback,2023/05/17
+RCTech.de EU Spec Series 2 Race 6,Empty Scene Day,115,98.596,GreenAir,Switzerland,Five33Switchback,2023/05/17
 ReddingFPVs DroneD,Dynamic Weather,999,999.999,GreenAir,NO_DATA
 TBS EU Spec Series 10 FINAL --- ChrisM,Football Stadium,189,114.057,GreenAir,Switzerland,Five33Switchback,2022/09/24
 TBS EU Spec Series 10 Losers Final,Football Stadium,195,79.047,GreenAir,Switzerland,Five33Switchback,2022/09/24
@@ -9,24 +16,84 @@ TBS EU Spec Series 10 Race 4,Dynamic Weather,999,999.999,GreenAir,NO_DATA
 TBS EU Spec Series 10 Race 5 _2,IndoorGoKart,999,999.999,GreenAir,NO_DATA
 TBS EU Spec Series 10 Race 6,Large Carpark,999,999.999,GreenAir,NO_DATA
 TBS EU Spec Series 10 Race 7,Football Stadium,168,99.813,GreenAir,Switzerland,Five33Switchback,2022/09/22
-TBS EU Spec Series 11 Final,Dynamic Weather,169,148.954,GreenAir,Switzerland,Five33Switchback,2022/09/25
-TBS EU Spec Series 11 Race 1,Dynamic Weather,148,102.850,GreenAir,Switzerland,Five33Switchback,2022/09/26
-TBS EU Spec Series 11 Race 2,Countryside,153,127.788,GreenAir,Switzerland,Five33Switchback,2022/09/26
-TBS EU Spec Series 11 Race 3,Dynamic Weather,123,129.238,GreenAir,Switzerland,Five33Switchback,2022/09/27
-TBS EU Spec Series 11 Race 5,Dynamic Weather,118,99.463,GreenAir,Switzerland,Five33Switchback,2022/09/27
+TBS EU Spec Series 11 Final,Dynamic Weather,147,112.575,GreenAir,Switzerland,Velocity,2023/03/09
+TBS EU Spec Series 11 Race 1,Dynamic Weather,180,92.875,GreenAir,Switzerland,Five33Switchback,2023/03/21
+TBS EU Spec Series 11 Race 2,Countryside,156,100.398,GreenAir,Switzerland,Five33Switchback,2023/03/07
+TBS EU Spec Series 11 Race 3,Dynamic Weather,122,110.507,GreenAir,Switzerland,Five33Switchback,2023/03/22
+TBS EU Spec Series 11 Race 5,Dynamic Weather,125,93.257,GreenAir,Switzerland,Five33Switchback,2022/12/22
 TBS EU Spec Series 11 Race 5,NEC Birmingham,999,999.999,GreenAir,NO_DATA
-TBS EU Spec Series 11 Race 6,Dynamic Weather,122,106.969,GreenAir,Switzerland,Five33Switchback,2022/09/27
-TBS EU Spec Series 11 Race 7,Dynamic Weather,138,113.893,GreenAir,Switzerland,Five33Switchback,2022/09/27
-VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,140,184.633,GreenAir,Switzerland,Five33Switchback,2022/05/21
-VRL S5 Track 1,Dynamic Weather,129,228.469,GreenAir,Switzerland,Five33Switchback,2022/05/22
-VRL S5 TRACK 2,Dynamic Weather,85,196.010,GreenAir,Switzerland,Five33Switchback,2022/05/21
-VRL S5 TRACK 3,Bando,155,208.288,GreenAir,Switzerland,Five33Switchback,2022/05/21
-VRL S5 TRACK 4,Empty Scene Day,62,148.686,GreenAir,Switzerland,Five33Switchback,2022/05/22
-VRL S5 TRACK 5,Dynamic Weather,71,198.662,GreenAir,Switzerland,Five33Switchback,2022/05/22
-VRL SEASON 5 TRACK 6,Dynamic Weather,78,170.338,GreenAir,Switzerland,Five33Switchback,2022/05/22
+TBS EU Spec Series 11 Race 6,Dynamic Weather,130,98.377,GreenAir,Switzerland,Five33Switchback,2023/03/07
+TBS EU Spec Series 11 Race 7,Dynamic Weather,159,112.708,GreenAir,Switzerland,Five33Switchback,2023/03/07
+TBS EU Spec Series 12 Final,Dynamic Weather,103,140.847,GreenAir,Switzerland,Five33Switchback,2023/03/24
+TBS EU Spec Series 12 Losers Final,Dynamic Weather,108,112.925,GreenAir,Switzerland,Five33Switchback,2023/03/24
+TBS EU Spec Series 12 Race 1,Dynamic Weather,152,114.926,GreenAir,Switzerland,Five33Switchback,2023/03/07
+TBS EU Spec Series 12 Race 2,NEC Birmingham,999,999.999,GreenAir,NO_DATA
+TBS EU Spec Series 12 Race 3,Dynamic Weather,172,121.465,GreenAir,Switzerland,Five33Switchback,2023/03/24
+TBS EU Spec Series 12 Race 4,Night Factory 2,999,999.999,GreenAir,NO_DATA
+TBS EU Spec Series 12 Race 5,Dynamic Weather,137,112.891,GreenAir,Switzerland,Five33Switchback,2023/03/08
+TBS EU Spec Series 12 Race 6,Dynamic Weather,154,92.474,GreenAir,Switzerland,Five33Switchback,2023/03/24
+TBS EU Spec Series 12 Race 7,Dynamic Weather,170,132.542,GreenAir,Switzerland,Five33Switchback,2023/03/24
+VRL6 Championships,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL6 Crash Site,Dynamic Weather,79,225.800,GreenAir,Switzerland,Five33Switchback,2023/01/30
+VRL6 Downtown Loop,Dynamic Weather,78,323.931,GreenAir,Switzerland,Five33Switchback,2023/01/30
+VRL6 Extermination,Dynamic Weather,171,307.837,GreenAir,Switzerland,Five33Switchback,2023/01/30
+VRL6 Kenerator,Dynamic Weather,174,267.033,GreenAir,Switzerland,Five33Switchback,2023/01/30
+VRL6 Meltdown,Dynamic Weather,91,297.557,GreenAir,Switzerland,Five33Switchback,2023/01/30
+VRL6 Reinforcement,Dynamic Weather,73,187.652,GreenAir,Switzerland,Five33Switchback,2023/01/31
+VRL6 Tunnel Vision,Dynamic Weather,111,217.377,GreenAir,Switzerland,Five33Switchback,2023/01/31
+VRL 7 Race 4,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL 7 Track 1,Future Hangar,999,999.999,GreenAir,NO_DATA
+VRL 7 Track 2,Future Hangar Empty,192,175.058,GreenAir,Switzerland,Five33Switchback,2023/03/04
+VRL 7 Track 3,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL 7 Track 5,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL 7 Track 6,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL7 Tryouts,Future Hangar Empty,999,999.999,GreenAir,NO_DATA
+VRL S5 CHAMPIONSHIPS TRACK,Empty Scene Day,129,154.425,GreenAir,Switzerland,Five33Switchback,2023/01/21
+VRL S5 Track 1,Dynamic Weather,83,134.675,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S5 TRACK 2,Dynamic Weather,67,158.696,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S5 TRACK 3,Bando,74,145.151,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S5 TRACK 4,Empty Scene Day,47,113.576,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S5 TRACK 5,Dynamic Weather,53,157.445,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S9 FINALS,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL S9 T1,Dynamic Weather,183,151.740,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL S9 T2,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL S9 T3,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL S9 T4,Dynamic Weather,184,157.816,GreenAir,Switzerland,Velocity,2023/03/18
+VRL S9 T5,Dynamic Weather,170,198.796,GreenAir,Switzerland,Velocity,2023/03/18
+VRL S9 T6,Dynamic Weather,148,224.517,GreenAir,Switzerland,Velocity,2023/03/12
+VRL S9 T7,Dynamic Weather,141,165.835,GreenAir,Switzerland,Velocity,2023/03/18
+VRL S9 T8,Dynamic Weather,124,164.852,GreenAir,Switzerland,Velocity,2023/03/19
+VRL Season 3 Track 1,Empty Scene Day,999,999.999,GreenAir,NO_DATA
+VRL Season 3 Track 2,Empty Scene Day,140,96.677,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL Season 3 Track 3,Empty Scene Day,93,125.703,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL Season 3 Track 4,Empty Scene Day,83,142.116,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL Season 3 Track 5,Empty Scene Day,83,106.302,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL Season 3 Track 6,Empty Scene Day,100,309.820,GreenAir,Switzerland,Five33Switchback,2022/09/02
+VRL Season 4 Championship,Football Stadium,87,209.238,GreenAir,Switzerland,Five33Switchback,2023/01/23
+VRL Season 4 Track 1,Dynamic Weather,75,234.774,GreenAir,Switzerland,Five33Switchback,2023/01/23
+VRL Season 4 Track 2,Bando,999,999.999,GreenAir,NO_DATA
+VRL Season 4 Track 3,Basketball Stadium,999,999.999,GreenAir,NO_DATA
+VRL-Season-4-Track-4,Dynamic Weather,107,184.349,GreenAir,Switzerland,Five33Switchback,2023/01/24
+VRL_Season_4_Track_5,Coastal,74,151.307,GreenAir,Switzerland,Five33Switchback,2023/03/04
+VRL_Season_4_Track_6,Dynamic Weather,49,145.653,GreenAir,Switzerland,Five33Switchback,2023/03/04
+VRL Season 4 Track 7,Dynamic Weather,75,145.867,GreenAir,Switzerland,Five33Switchback,2023/01/23
+VRL-Season-4-Tryouts,Dynamic Weather,35,520.192,GreenAir,Switzerland,Five33Switchback,2023/01/24
+VRL SEASON 5 TRACK 6,Dynamic Weather,77,157.780,GreenAir,Switzerland,Five33Switchback,2023/01/22
 VRL SEASON 5 TRACK 7,IndoorGoKart,999,999.999,GreenAir,NO_DATA
-VRL SEASON 5 TRACK 8,Industrial Wasteland,93,186.568,GreenAir,Switzerland,Five33Switchback,2022/05/22
-VRL SEASON 5 TRYOUTS,Dynamic Weather,88,258.260,GreenAir,Switzerland,Five33Switchback,2022/05/22
+VRL SEASON 5 TRACK 8,Industrial Wasteland,75,149.003,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL SEASON 5 TRYOUTS,Dynamic Weather,57,161.504,GreenAir,Switzerland,Five33Switchback,2023/03/04
+VRL SEASON 6 TRYOUTS,Dynamic Weather,157,189.287,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL Season 7 Championships,Dynamic Weather,999,999.999,GreenAir,NO_DATA
+VRL Season 8 Championships,Dynamic Weather,161,161.448,GreenAir,Switzerland,Velocity,2023/03/19
+VRL Season 8 Track 1,Office Complex,999,999.999,GreenAir,NO_DATA
+VRL Season 8 Track 2,Drift Track,999,999.999,GreenAir,NO_DATA
+VRL Season 8 Track 3,Night Factory 2,999,999.999,GreenAir,NO_DATA
+VRL Season 8 Track 4,DynamicPoly,110,242.547,GreenAir,Switzerland,Velocity,2023/03/19
+VRL Season 8 Track 5,Dynamic Weather,174,251.736,GreenAir,Switzerland,Five33Switchback,2023/01/23
+VRL Season 8 Track 6,Night Factory 2,999,999.999,GreenAir,NO_DATA
+VRL SEASON 8 TRACK 7,Dynamic Weather,197,160.414,GreenAir,Switzerland,Five33Switchback,2023/01/22
+VRL SEASON 8 TRYOUTS,RedValley,999,999.999,GreenAir,NO_DATA
+VRL Season 9 Tryouts,Dynamic Weather,192,195.658,GreenAir,Switzerland,Five33Switchback,2023/01/23
 Week 10 TT - MCKPractice2,Football Stadium,999,999.999,GreenAir,NO_DATA
 Week 12 TT - GQ22 by Chris M,Football Stadium,999,999.999,GreenAir,NO_DATA
 Week 13 TT - VRL Team Championship Refresh - by lephro,Empty Scene Day,125,241.882,GreenAir,Switzerland,Five33Switchback,2022/06/19
